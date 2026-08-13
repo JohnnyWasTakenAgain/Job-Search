@@ -1,0 +1,8 @@
+{
+  "categories": [
+    {"id": "data", "name": "Data & Governance"},
+    {"id": "tech", "name": "Tech / Product"},
+    {"id": "ops", "name": "Operations / EA"}
+  ],
+  "jobs": []
+}

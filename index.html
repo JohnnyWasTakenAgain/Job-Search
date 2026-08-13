@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Job Radar</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg: #10121a; --bg-alt: #171a24; --card: #1b1f2c; --card-hover: #212536;
+    --border: #2a2f42; --text: #eeeae0; --text-dim: #9498ab; --text-faint: #5e6478;
+    --amber: #e8a33d; --amber-dim: rgba(232,163,61,0.14);
+    --teal: #4fb8a3; --teal-dim: rgba(79,184,163,0.14);
+    --red: #d16b6b; --red-dim: rgba(209,107,107,0.14);
+    --violet: #8b8fd6; --violet-dim: rgba(139,143,214,0.14);
+    --display: 'Space Grotesk', sans-serif; --body: 'Inter', sans-serif; --mono: 'JetBrains Mono', monospace;
+  }
+  *{box-sizing:border-box;}
+  body{margin:0;background:var(--bg);color:var(--text);font-family:var(--body);}
+  .topbar{position:sticky;top:0;z-index:20;background:rgba(16,18,26,0.92);backdrop-filter:blur(10px);border-bottom:1px solid var(--border);padding:18px 24px 14px;}
+  .topbar-row{display:flex;align-items:center;justify-content:space-between;gap:16px;flex-wrap:wrap;}
+  .brand{display:flex;align-items:center;gap:10px;}
+  .radar-dot{width:12px;height:12px;border-radius:50%;background:var(--amber);animation:ping 2.4s infinite;}
+  @keyframes ping{0%{box-shadow:0 0 0 0 rgba(232,163,61,0.55);}70%{box-shadow:0 0 0 10px rgba(232,163,61,0);}100%{box-shadow:0 0 0 0 rgba(232,163,61,0);}}
+  h1{font-family:var(--display);font-size:22px;font-weight:700;margin:0;letter-spacing:-0.02em;}
+  .subtitle{font-family:var(--mono);font-size:11px;color:var(--text-faint);margin-top:2px;}
+  .stats{display:flex;gap:18px;font-family:var(--mono);font-size:12px;color:var(--text-dim);}
+  .stat b{color:var(--text);font-size:15px;display:block;font-family:var(--display);}
+  button{font-family:var(--body);cursor:pointer;border:none;}
+  .btn-ghost{background:transparent;border:1px solid var(--border);color:var(--text-dim);padding:8px 12px;border-radius:8px;font-size:12px;}
+  .btn-ghost:hover{color:var(--text);border-color:#3a3f56;}
+  .search-row{margin-top:14px;}
+  .search-input{width:100%;background:var(--bg-alt);border:1px solid var(--border);border-radius:8px;padding:9px 12px;color:var(--text);font-size:13px;font-family:var(--body);}
+  .search-input:focus{outline:none;border-color:var(--amber);}
+  .tabs{display:flex;gap:6px;margin-top:14px;overflow-x:auto;padding-bottom:4px;}
+  .tab{font-family:var(--mono);font-size:12px;white-space:nowrap;padding:8px 13px;border-radius:20px;background:var(--bg-alt);border:1px solid var(--border);color:var(--text-dim);}
+  .tab.active{background:var(--amber-dim);border-color:var(--amber);color:var(--amber);}
+  .content{max-width:900px;margin:0 auto;padding:22px 20px 80px;}
+  .empty{text-align:center;padding:60px 20px;color:var(--text-faint);font-family:var(--mono);font-size:13px;border:1px dashed var(--border);border-radius:12px;}
+  .empty b{display:block;color:var(--text-dim);font-family:var(--display);font-size:16px;margin-bottom:6px;}
+  .card{background:var(--card);border:1px solid var(--border);border-radius:12px;margin-bottom:12px;padding:16px 18px;border-left:3px solid var(--border);}
+  .card.fit-3{border-left-color:var(--amber);}
+  .card.fit-2{border-left-color:var(--teal);}
+  .card.fit-1{border-left-color:var(--text-faint);}
+  .card-title-row{display:flex;align-items:center;gap:10px;flex-wrap:wrap;}
+  .card-title{font-family:var(--display);font-size:16px;font-weight:600;margin:0;}
+  .card-company{color:var(--text-dim);font-weight:400;}
+  .signal{display:flex;gap:2px;align-items:flex-end;height:11px;}
+  .signal i{width:3px;background:var(--text-faint);border-radius:1px;display:block;}
+  .signal i:nth-child(1){height:4px;} .signal i:nth-child(2){height:7px;} .signal i:nth-child(3){height:11px;}
+  .card.fit-3 .signal i{background:var(--amber);}
+  .card.fit-2 .signal i:nth-child(-n+2){background:var(--teal);}
+  .card.fit-1 .signal i:nth-child(1){background:var(--text-dim);}
+  .meta-line{font-family:var(--mono);font-size:11px;color:var(--text-faint);margin-top:4px;}
+  .desc{font-size:13px;color:var(--text-dim);margin:10px 0 12px;line-height:1.5;}
+  .badges{display:flex;gap:6px;flex-wrap:wrap;margin-top:8px;}
+  .badge{font-family:var(--mono);font-size:10px;padding:3px 8px;border-radius:5px;text-transform:uppercase;}
+  .badge.applied{background:var(--teal-dim);color:var(--teal);}
+  .badge.rejected{background:var(--red-dim);color:var(--red);}
+  .badge.interview{background:var(--violet-dim);color:var(--violet);}
+  .badge.notint{background:rgba(255,255,255,0.05);color:var(--text-faint);}
+  .badge.new{background:var(--amber-dim);color:var(--amber);}
+  .card-actions{display:flex;gap:6px;flex-wrap:wrap;margin-top:12px;}
+  .link-btn{background:transparent;color:var(--text-dim);font-size:12px;padding:6px 10px;border:1px solid var(--border);border-radius:6px;}
+  .link-btn:hover{color:var(--text);border-color:#3a3f56;}
+  .link-btn.on{color:var(--amber);border-color:var(--amber);}
+  .notes-box{margin-top:10px;width:100%;background:var(--bg-alt);border:1px solid var(--border);border-radius:8px;padding:8px 10px;color:var(--text);font-size:12px;font-family:var(--body);resize:vertical;min-height:44px;}
+  .notes-box:focus{outline:none;border-color:var(--amber);}
+  .note-banner{font-family:var(--mono);font-size:11px;color:var(--text-faint);text-align:center;padding:10px;border-bottom:1px solid var(--border);background:var(--bg-alt);}
+  @media(max-width:640px){.stats{display:none;} .topbar{padding:14px 14px 12px;} .content{padding:16px 12px 90px;}}
+</style>
+</head>
+<body>
+
+<div class="note-banner">Statusy i notatki zapisują się lokalnie w tej przeglądarce · nowe oferty dopisuje Twój Claude Code Routine w jobs.json</div>
+
+<div class="topbar">
+  <div class="topbar-row">
+    <div class="brand">
+      <span class="radar-dot"></span>
+      <div><h1>Job Radar</h1><div class="subtitle" id="lastUpdated">ładowanie…</div></div>
+    </div>
+    <div class="stats">
+      <div class="stat"><b id="statTotal">0</b>razem</div>
+      <div class="stat"><b id="statApplied">0</b>aplikacje</div>
+      <div class="stat"><b id="statNew">0</b>nowe</div>
+    </div>
+    <button class="btn-ghost" onclick="location.reload()">↻ Odśwież</button>
+  </div>
+  <div class="search-row"><input class="search-input" id="searchInput" placeholder="Szukaj po firmie, stanowisku, lokalizacji…"></div>
+  <div class="tabs" id="tabs"></div>
+</div>
+
+<div class="content" id="content"></div>
+
+<script>
+const LS_KEY = 'job-radar-local-state-v1';
+let data = {categories:[], jobs:[]};
+let localState = {};
+let activeTab = null;
+let search = '';
+
+function loadLocal(){
+  try{ localState = JSON.parse(localStorage.getItem(LS_KEY) || '{}'); }catch(e){ localState = {}; }
+}
+function saveLocal(){ localStorage.setItem(LS_KEY, JSON.stringify(localState)); }
+function getLocal(id){ return localState[id] || {stage:'new', notInterested:false, notes:''}; }
+function setLocal(id, patch){ localState[id] = {...getLocal(id), ...patch}; saveLocal(); }
+
+function escapeHtml(s){ const d = document.createElement('div'); d.textContent = s||''; return d.innerHTML; }
+function fitLabel(f){ return f===3?'Strong fit':f===2?'Good fit':'Maybe fit'; }
+
+async function init(){
+  loadLocal();
+  try{
+    const res = await fetch('./jobs.json?_=' + Date.now());
+    data = await res.json();
+    document.getElementById('lastUpdated').textContent = data.jobs.length + ' ofert w bazie';
+  }catch(e){
+    document.getElementById('lastUpdated').textContent = 'nie udało się wczytać jobs.json';
+  }
+  activeTab = (data.categories[0] || {}).id || null;
+  render();
+}
+
+function renderTabs(){
+  const tabsEl = document.getElementById('tabs');
+  tabsEl.innerHTML = '';
+  data.categories.forEach(cat=>{
+    const count = data.jobs.filter(j=>j.category===cat.id).length;
+    const btn = document.createElement('button');
+    btn.className = 'tab' + (activeTab===cat.id?' active':'');
+    btn.innerHTML = `${escapeHtml(cat.name)} <span style="opacity:.7">${count}</span>`;
+    btn.onclick = ()=>{ activeTab = cat.id; render(); };
+    tabsEl.appendChild(btn);
+  });
+}
+
+function renderStats(){
+  document.getElementById('statTotal').textContent = data.jobs.length;
+  document.getElementById('statApplied').textContent = data.jobs.filter(j=>getLocal(j.id).stage==='applied'||getLocal(j.id).stage==='interview').length;
+  document.getElementById('statNew').textContent = data.jobs.filter(j=>getLocal(j.id).stage==='new').length;
+}
+
+function renderContent(){
+  const content = document.getElementById('content');
+  content.innerHTML = '';
+  let jobs = data.jobs.filter(j=>j.category===activeTab);
+  const q = search.trim().toLowerCase();
+  if(q) jobs = jobs.filter(j=>(j.title+' '+j.company+' '+(j.location||'')+' '+(j.description||'')).toLowerCase().includes(q));
+  jobs.sort((a,b)=> (b.fit||1)-(a.fit||1));
+
+  if(jobs.length===0){
+    content.innerHTML = `<div class="empty"><b>Pusto tutaj</b>Twój Routine jeszcze nic tu nie dopisał, albo zmień kategorię/wyszukiwanie.</div>`;
+    return;
+  }
+
+  jobs.forEach(job=>{
+    const local = getLocal(job.id);
+    const card = document.createElement('div');
+    card.className = `card fit-${job.fit||1}`;
+
+    let badges = '';
+    if(local.stage==='applied') badges += `<span class="badge applied">Aplikowano</span>`;
+    if(local.stage==='interview') badges += `<span class="badge interview">Rozmowa</span>`;
+    if(local.stage==='rejected') badges += `<span class="badge rejected">Odrzucone</span>`;
+    if(local.notInterested) badges += `<span class="badge notint">Nie interesuje</span>`;
+    if(local.stage==='new') badges += `<span class="badge new">Nowe</span>`;
+
+    card.innerHTML = `
+      <div class="card-title-row">
+        <div class="signal" title="${fitLabel(job.fit)}"><i></i><i></i><i></i></div>
+        <h3 class="card-title">${escapeHtml(job.title)} <span class="card-company">· ${escapeHtml(job.company)}</span></h3>
+      </div>
+      <div class="meta-line">${escapeHtml(job.location||'—')}${job.datePosted?` · dodano ${escapeHtml(job.datePosted)}`:''}</div>
+      ${job.description?`<div class="desc">${escapeHtml(job.description)}</div>`:''}
+      <div class="badges">${badges}</div>
+      <div class="card-actions">
+        ${job.url?`<a class="link-btn" href="${escapeHtml(job.url)}" target="_blank" rel="noopener">Zobacz ofertę ↗</a>`:''}
+        <button class="link-btn ${local.stage==='applied'?'on':''}" data-a="applied">Aplikowano</button>
+        <button class="link-btn ${local.stage==='interview'?'on':''}" data-a="interview">Rozmowa</button>
+        <button class="link-btn ${local.stage==='rejected'?'on':''}" data-a="rejected">Odrzucone</button>
+        <button class="link-btn ${local.notInterested?'on':''}" data-a="notint">Nie interesuje</button>
+        <button class="link-btn" data-a="copyprompt">✎ Skopiuj prompt na list motywacyjny</button>
+      </div>
+      <textarea class="notes-box" placeholder="Notatki…">${escapeHtml(local.notes||'')}</textarea>
+    `;
+
+    card.querySelector('[data-a="applied"]').onclick = ()=>{ setLocal(job.id,{stage: local.stage==='applied'?'new':'applied'}); render(); };
+    card.querySelector('[data-a="interview"]').onclick = ()=>{ setLocal(job.id,{stage: local.stage==='interview'?'applied':'interview'}); render(); };
+    card.querySelector('[data-a="rejected"]').onclick = ()=>{ setLocal(job.id,{stage: local.stage==='rejected'?'applied':'rejected'}); render(); };
+    card.querySelector('[data-a="notint"]').onclick = ()=>{ setLocal(job.id,{notInterested: !local.notInterested}); render(); };
+    card.querySelector('[data-a="copyprompt"]').onclick = ()=>{
+      const prompt = `Napisz krótki list motywacyjny na stanowisko "${job.title}" w firmie "${job.company}" (${job.location||''}). Opis oferty: ${job.description||'brak opisu'}. Oto moje doświadczenie: [WKLEJ SWOJE CV / KRÓTKI OPIS]`;
+      navigator.clipboard.writeText(prompt).then(()=>alert('Skopiowano! Wklej do czatu z Claude.'));
+    };
+    const notesBox = card.querySelector('.notes-box');
+    let t;
+    notesBox.addEventListener('input', ()=>{ clearTimeout(t); t = setTimeout(()=>setLocal(job.id,{notes:notesBox.value}), 400); });
+
+    content.appendChild(card);
+  });
+}
+
+function render(){ renderTabs(); renderStats(); renderContent(); }
+
+let searchTimer;
+document.getElementById('searchInput').addEventListener('input', (e)=>{
+  clearTimeout(searchTimer);
+  searchTimer = setTimeout(()=>{ search = e.target.value; render(); }, 200);
+});
+
+init();
+</script>
+</body>
+</html>
