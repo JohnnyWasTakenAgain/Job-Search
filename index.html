@@ -61,6 +61,9 @@
   .badge.interview{background:var(--violet-dim);color:var(--violet);}
   .badge.notint{background:rgba(255,255,255,0.05);color:var(--text-faint);}
   .badge.new{background:var(--amber-dim);color:var(--amber);}
+  .verify-star{font-size:13px;line-height:1;cursor:default;}
+  .verify-star.yes{color:var(--amber);}
+  .verify-star.no{color:var(--text-faint);opacity:0.55;}
   .card-actions{display:flex;gap:6px;flex-wrap:wrap;margin-top:12px;}
   .link-btn{background:transparent;color:var(--text-dim);font-size:12px;padding:6px 10px;border:1px solid var(--border);border-radius:6px;}
   .link-btn:hover{color:var(--text);border-color:#3a3f56;}
@@ -172,6 +175,7 @@ function renderContent(){
       <div class="card-title-row">
         <div class="signal" title="${fitLabel(job.fit)}"><i></i><i></i><i></i></div>
         <h3 class="card-title">${escapeHtml(job.title)} <span class="card-company">· ${escapeHtml(job.company)}</span></h3>
+        <span class="verify-star ${job.verified===true?'yes':'no'}" title="${job.verified===true?'Zweryfikowane — link otwarty i potwierdzony bezpośrednio':'Niezweryfikowane — tylko wynik wyszukiwania, sprawdź ręcznie'}">${job.verified===true?'★ zweryfikowane':'☆ niezweryfikowane'}</span>
       </div>
       <div class="meta-line">${escapeHtml(job.location||'—')}${job.datePosted?` · dodano ${escapeHtml(job.datePosted)}`:''}</div>
       ${job.description?`<div class="desc">${escapeHtml(job.description)}</div>`:''}
