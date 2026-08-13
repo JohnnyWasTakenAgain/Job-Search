@@ -1,9 +1,18 @@
 {
-  "categories": [
-    {"id": "data", "name": "Data Analyst / Manager"},
-    {"id": "compliance", "name": "AML / KYC"},
-    {"id": "tech", "name": "Software Developer"}
-  ],
+  "tagLabels": {
+    "data": "Data Analyst / Manager",
+    "compliance": "AML / KYC",
+    "tech": "Software Developer",
+    "compliance-leadership": "Compliance Leadership",
+    "qa": "Quality Assurance",
+    "ai-automation": "AI / Automation Leadership",
+    "berlin-based": "Berlin-Based",
+    "remote-europe": "Remote (Europe)",
+    "senior-specialist": "Senior Specialist",
+    "lead-plus": "Lead / Manager / Head",
+    "startup": "Startup / Scale-up",
+    "corporate": "Corporate / Enterprise"
+  },
   "jobs": [
     {
       "id": "n26-senior-data-analyst-finance-2026",
@@ -12,7 +21,7 @@
       "location": "Berlin, Germany",
       "url": "https://builtin.com/job/senior-data-analyst-finance/4601980",
       "description": "N26 is hiring a Senior Data Analyst to empower Finance and Business teams with data-driven insights, monitoring and analyzing financial metrics and performance across the company's product domains.",
-      "category": "data",
+      "tags": ["data", "berlin-based", "senior-specialist", "startup"],
       "fit": 3,
       "datePosted": "2026-08-13"
     },
@@ -23,7 +32,7 @@
       "location": "Berlin, Germany",
       "url": "https://boards.greenhouse.io/solarisbank/jobs/5132907002",
       "description": "Solarisbank is looking for a Senior Data Engineer to join its Data Platform Team, working closely with data engineering, data warehousing, and analytics experts.",
-      "category": "data",
+      "tags": ["data", "berlin-based", "senior-specialist", "startup"],
       "fit": 2,
       "datePosted": "2026-08-13"
     },
@@ -34,7 +43,7 @@
       "location": "Berlin, Germany",
       "url": "https://startup.jobs/senior-anti-financial-crime-manager-trade-republic-2-7568732",
       "description": "Trade Republic is hiring a Senior Anti-Financial Crime Manager to manage projects preventing financial crime, developing control frameworks, and optimizing AML/compliance processes.",
-      "category": "compliance",
+      "tags": ["compliance", "berlin-based", "senior-specialist", "startup"],
       "fit": 2,
       "datePosted": "2026-08-13"
     },
@@ -45,7 +54,7 @@
       "location": "Berlin, Germany",
       "url": "https://startup.jobs/senior-compliance-officer-international-f-d-m-trade-republic-2-3723616",
       "description": "Trade Republic seeks a Senior Compliance Officer - International with relevant AML and MiFID regulatory experience in the financial services sector.",
-      "category": "compliance",
+      "tags": ["compliance", "berlin-based", "senior-specialist", "startup"],
       "fit": 2,
       "datePosted": "2026-08-13"
     },
@@ -56,7 +65,7 @@
       "location": "Berlin, Germany",
       "url": "https://www.climatechangecareers.com/job/gold-standard/berlin-germany/senior-kyc-analyst/",
       "description": "Gold Standard is hiring a Senior KYC Analyst to lead KYC/KYB reviews, including ownership analysis, UBO mapping, and sanctions/PEP/adverse media assessments.",
-      "category": "compliance",
+      "tags": ["compliance", "berlin-based", "senior-specialist"],
       "fit": 3,
       "datePosted": "2026-08-13"
     },
@@ -67,7 +76,7 @@
       "location": "Berlin, Germany",
       "url": "https://n26.com/en-eu/careers/positions/7992499",
       "description": "N26 is hiring a Lead Software Engineer to own and evolve governance platforms that help the bank meet regulatory expectations and strengthen operational resilience.",
-      "category": "tech",
+      "tags": ["tech", "berlin-based", "lead-plus", "startup"],
       "fit": 2,
       "datePosted": "2026-08-13"
     },
@@ -78,7 +87,7 @@
       "location": "Berlin, Germany",
       "url": "https://boards.greenhouse.io/solarisbank/jobs/6042830002",
       "description": "Solarisbank, a tech company with a full German banking license, is hiring a Senior Software Engineer to build and maintain scalable backend systems on its Banking-as-a-Service platform.",
-      "category": "tech",
+      "tags": ["tech", "berlin-based", "senior-specialist", "startup"],
       "fit": 3,
       "datePosted": "2026-08-13"
     },
@@ -89,7 +98,7 @@
       "location": "Berlin, Germany",
       "url": "https://boards.greenhouse.io/solarisbank/jobs/5132894002",
       "description": "Solarisbank is hiring a Senior Software Engineer specializing in Elixir to build and maintain microservice-based backend systems.",
-      "category": "tech",
+      "tags": ["tech", "berlin-based", "senior-specialist", "startup"],
       "fit": 3,
       "datePosted": "2026-08-13"
     },
@@ -100,9 +109,121 @@
       "location": "Berlin, Germany",
       "url": "https://careers.deliveryhero.com/job/senior-software-engineer-java-kotlin-fintech-in-berlin-germany-jid-8234",
       "description": "Delivery Hero is hiring a Senior Software Engineer (Java/Kotlin) for its Payments team to build and scale Wallet, Payment, and Anti-Fraud solutions.",
-      "category": "tech",
+      "tags": ["tech", "berlin-based", "senior-specialist", "corporate"],
       "fit": 3,
       "datePosted": "2026-08-13"
+    },
+    {
+      "id": "n26-teamlead-nfr-internal-controls-2026",
+      "title": "Team Lead Non-Financial Risk and Internal Controls",
+      "company": "N26",
+      "location": "Berlin, Germany",
+      "url": "https://n26.com/en-eu/careers/positions/7845376",
+      "description": "N26 is hiring a Team Lead to manage a team of four specialists within Non-Financial Risk Management, owning risk and control assessments, risk appetite frameworks, and enterprise-wide reporting to leadership.",
+      "tags": ["compliance-leadership", "berlin-based", "lead-plus", "startup"],
+      "fit": 2,
+      "datePosted": "2026-08-13",
+      "verified": true,
+      "coverLetterDraft": "Dear N26 Hiring Team,\n\nI'm writing to apply for the Team Lead, Non-Financial Risk and Internal Controls role. As Compliance Operations Manager at Pliant, I lead end-to-end KYC due diligence for corporate clients while driving AI-driven automation of compliance workflows as part of an internal AI team — experience that translates directly to designing and maintaining internal control systems and risk appetite frameworks at N26.\n\nEarlier, at Moonfare I co-led an ongoing due-diligence review project and helped shape automation improvements with cross-functional stakeholders, and at J.P. Morgan Chase I conducted due diligence across Corporate, Financial Institution, and Publicly Traded Company risk tiers. Across eight years in KYC, AML, and financial operations, I've built the analytical rigor, escalation management, and stakeholder communication this role demands, plus the four-eyes discipline and quality-review mindset needed to manage a specialist team's output.\n\nI hold a Master's in Finance and Accounting and am progressing toward German B2, and I'm based in Berlin and ready to lead N26's Non-Financial Risk function forward.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How would you design a Risk and Control Self-Assessment (RCSA) framework for a new product line at N26?",
+          "Describe a time you managed a team through a high-pressure regulatory audit or examination.",
+          "How do you balance risk appetite frameworks with business growth priorities?",
+          "Walk us through how you would onboard and mentor a team of four specialists with varying experience levels.",
+          "What's your approach to reporting risk metrics to senior leadership in a way that drives action?",
+          "How have you used automation or AI to improve compliance or risk workflows in a previous role?"
+        ],
+        "toAsk": [
+          "How is the Non-Financial Risk team's roadmap currently balanced between regulatory-driven priorities and proactive process improvement?",
+          "What does success look like for this Team Lead role in the first six months?",
+          "How does the team collaborate with N26's AFC and Banking Compliance functions day to day?"
+        ]
+      }
+    },
+    {
+      "id": "wise-head-of-compliance-mlro-germany-2026",
+      "title": "Head of Compliance & MLRO - Germany",
+      "company": "Wise",
+      "location": "Berlin, Germany",
+      "url": "https://wise.jobs/job/head-of-compliance-and-mlro-germany-in-berlin-jid-3398",
+      "description": "Wise is hiring a Head of Compliance & MLRO to oversee compliance with German and EEA AML/CTF regulations, act as primary regulatory contact, and lead compliance policy, risk frameworks, and reporting for the German entity.",
+      "tags": ["compliance-leadership", "berlin-based", "lead-plus", "corporate"],
+      "fit": 2,
+      "datePosted": "2026-08-13",
+      "verified": true,
+      "coverLetterDraft": "Dear Wise Hiring Team,\n\nI'm applying for the Head of Compliance & MLRO - Germany role. With 8+ years in KYC, AML, and financial operations — most recently as Compliance Operations Manager at Pliant, where I lead end-to-end KYC due diligence for corporate clients and drive AI-driven automation of compliance workflows — I bring the regulatory depth and process-improvement mindset this MLRO mandate requires.\n\nAt Moonfare, I co-led the firm's ongoing due-diligence review project and worked with cross-functional stakeholders on automation improvements; at J.P. Morgan Chase, I conducted due diligence across Corporate, Financial Institution, and Publicly Traded Company risk tiers; and at PwC I delivered internal AML/KYC training and built AML risk ratings for individuals and legal entities. This combination of regulatory-relationship experience, policy development, and training delivery maps closely to the responsibilities of a German MLRO.\n\nI hold a Master's in Finance and Accounting, am fluent in English, and am currently at German B1 progressing to B2 — actively building toward full fluency for this Berlin-based role.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How would you structure Wise's AML/CTF risk assessment for the German entity given its cross-border payment flows?",
+          "Describe your experience acting as the primary point of contact with a financial regulator.",
+          "How do you prioritize competing regulatory deadlines across multiple jurisdictions?",
+          "What's your approach to designing and delivering AML/compliance training programs at scale?",
+          "Tell us about a time you identified a compliance gap and drove the policy change to close it.",
+          "How would you approach conducting regulatory liaison work in German while you continue building fluency?"
+        ],
+        "toAsk": [
+          "What is the current regulatory relationship status with BaFin, and what are the near-term priorities?",
+          "How does the Germany compliance function coordinate with Wise's global compliance and legal teams?",
+          "What support or budget is available for building out the compliance team under this role?"
+        ]
+      }
+    },
+    {
+      "id": "traderepublic-head-of-compliance-operations-2026",
+      "title": "Head of Compliance Operations (f/d/m)",
+      "company": "Trade Republic",
+      "location": "Berlin, Germany",
+      "url": "https://startup.jobs/head-of-compliance-operations-f-d-m-trade-republic-2-4537485",
+      "description": "Trade Republic is hiring a Head of Compliance Operations to lead compliance operations, oversee KYC/AML processes at scale, and manage a team ensuring adherence to regulatory requirements across the bank's markets.",
+      "tags": ["compliance-leadership", "berlin-based", "lead-plus", "startup"],
+      "fit": 3,
+      "datePosted": "2026-08-13",
+      "verified": false,
+      "coverLetterDraft": "Dear Trade Republic Hiring Team,\n\nI'm excited to apply for the Head of Compliance Operations role. As Compliance Operations Manager at Pliant, I already own end-to-end KYC due diligence for corporate clients and drive AI-driven automation of compliance workflows as part of an internal AI team — precisely the blend of operational ownership and process transformation this role calls for.\n\nMy background spans KYC Associate at Moonfare, where I co-led the ongoing due-diligence review project and helped shape automation improvements with cross-functional stakeholders; KYC Analyst at J.P. Morgan Chase across Corporate, Financial Institution, and Publicly Traded Company risk tiers; and AML Analyst at PwC, where I built AML risk ratings and delivered internal AML/KYC training. Eight-plus years of enhanced due diligence, sanctions and PEP screening, and four-eyes review discipline have prepared me to lead a compliance operations team at scale.\n\nI'm based in Berlin, hold a Master's in Finance and Accounting, and am progressing toward German B2 — ready to bring hands-on leadership to Trade Republic's compliance function.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How would you scale a compliance operations team to handle Trade Republic's customer growth across 18 countries?",
+          "Describe how you've used data or automation to improve throughput in a KYC/AML operations team.",
+          "How do you calibrate quality standards across a team performing case reviews?",
+          "Tell us about a time you had to balance regulatory risk appetite with operational efficiency targets.",
+          "How do you handle escalations from junior analysts on ambiguous PEP or adverse media findings?",
+          "What metrics would you track to demonstrate the health of a compliance operations function?"
+        ],
+        "toAsk": [
+          "What does the current compliance operations team structure look like, and how many direct reports would this role have?",
+          "What are the biggest operational bottlenecks the compliance team is trying to solve right now?",
+          "How is AI or automation currently being used in Trade Republic's compliance operations, and where do you see the biggest opportunity?"
+        ]
+      }
+    },
+    {
+      "id": "traderepublic-kyc-manager-2026",
+      "title": "KYC Manager (m/f/d)",
+      "company": "Trade Republic",
+      "location": "Berlin, Germany",
+      "url": "https://startup.jobs/kyc-manager-m-f-d-trade-republic-2-2840279",
+      "description": "Trade Republic is hiring a KYC Manager to perform high-level KYC screening and reviews, guide junior team members through escalations, and ensure adherence to regulatory and partnership requirements.",
+      "tags": ["compliance-leadership", "berlin-based", "lead-plus", "startup"],
+      "fit": 3,
+      "datePosted": "2026-08-13",
+      "verified": false,
+      "coverLetterDraft": "Dear Trade Republic Hiring Team,\n\nI'm writing to apply for the KYC Manager role. As Compliance Operations Manager at Pliant, I lead end-to-end KYC due diligence for corporate clients and drive AI-driven automation of compliance workflows — direct preparation for owning high-level KYC screening and reviews at Trade Republic's scale.\n\nPreviously, as KYC Associate at Moonfare I co-led the firm's ongoing due-diligence review project and guided institutional clients through KYC/AML documentation; as KYC Analyst at J.P. Morgan Chase I conducted due diligence across Corporate, Financial Institution, and Publicly Traded Company risk tiers; and as AML Analyst at PwC I built KYC profiles and AML risk ratings while delivering internal AML/KYC training. This gives me both the technical depth and the mentoring instinct to guide junior team members through escalations and calibrate case quality.\n\nI hold a Master's in Finance and Accounting, am fluent in English, and speak German at B1 progressing to B2 — matching the language profile this role requires.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "Walk us through how you'd handle an escalation from a junior analyst on a complex UBO structure.",
+          "How do you ensure consistency in KYC decisioning across a team performing high volumes of reviews?",
+          "Describe your experience with name-list or sanctions screening tools and false-positive management.",
+          "How do you balance regulatory, payment-network, and partnership requirements when they conflict?",
+          "Tell us about a time you improved a KYC process for speed without sacrificing quality.",
+          "How would you support a team of junior KYC analysts through complex escalations, given the role's German B1+ requirement?"
+        ],
+        "toAsk": [
+          "What's the average case volume and risk-tiering mix this KYC Manager role would oversee?",
+          "How does this role interact with Trade Republic's Head of Compliance Operations and AFC functions?",
+          "What tools or automation does Trade Republic use for KYC screening today, and are there plans to expand them?"
+        ]
+      }
     }
   ]
 }
