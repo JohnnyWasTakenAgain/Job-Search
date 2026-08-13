@@ -33,7 +33,7 @@
   .search-row{margin-top:14px;}
   .search-input{width:100%;background:var(--bg-alt);border:1px solid var(--border);border-radius:8px;padding:9px 12px;color:var(--text);font-size:13px;font-family:var(--body);}
   .search-input:focus{outline:none;border-color:var(--amber);}
-  .tabs{display:flex;gap:6px;margin-top:14px;overflow-x:auto;padding-bottom:4px;}
+  .tabs{display:flex;gap:6px;margin-top:14px;overflow-x:auto;padding-bottom:4px;flex-wrap:wrap;}
   .tab{font-family:var(--mono);font-size:12px;white-space:nowrap;padding:8px 13px;border-radius:20px;background:var(--bg-alt);border:1px solid var(--border);color:var(--text-dim);}
   .tab.active{background:var(--amber-dim);border-color:var(--amber);color:var(--amber);}
   .content{max-width:900px;margin:0 auto;padding:22px 20px 80px;}
@@ -52,7 +52,12 @@
   .card.fit-3 .signal i{background:var(--amber);}
   .card.fit-2 .signal i:nth-child(-n+2){background:var(--teal);}
   .card.fit-1 .signal i:nth-child(1){background:var(--text-dim);}
+  .verify-star{font-size:11px;line-height:1;cursor:default;font-family:var(--mono);}
+  .verify-star.yes{color:var(--amber);}
+  .verify-star.no{color:var(--text-faint);opacity:0.6;}
   .meta-line{font-family:var(--mono);font-size:11px;color:var(--text-faint);margin-top:4px;}
+  .tag-chips{display:flex;gap:5px;flex-wrap:wrap;margin-top:8px;}
+  .tag-chip{font-family:var(--mono);font-size:10px;padding:2px 7px;border-radius:4px;background:rgba(255,255,255,0.04);color:var(--text-faint);border:1px solid var(--border);}
   .desc{font-size:13px;color:var(--text-dim);margin:10px 0 12px;line-height:1.5;}
   .badges{display:flex;gap:6px;flex-wrap:wrap;margin-top:8px;}
   .badge{font-family:var(--mono);font-size:10px;padding:3px 8px;border-radius:5px;text-transform:uppercase;}
@@ -61,9 +66,6 @@
   .badge.interview{background:var(--violet-dim);color:var(--violet);}
   .badge.notint{background:rgba(255,255,255,0.05);color:var(--text-faint);}
   .badge.new{background:var(--amber-dim);color:var(--amber);}
-  .verify-star{font-size:13px;line-height:1;cursor:default;}
-  .verify-star.yes{color:var(--amber);}
-  .verify-star.no{color:var(--text-faint);opacity:0.55;}
   .card-actions{display:flex;gap:6px;flex-wrap:wrap;margin-top:12px;}
   .link-btn{background:transparent;color:var(--text-dim);font-size:12px;padding:6px 10px;border:1px solid var(--border);border-radius:6px;}
   .link-btn:hover{color:var(--text);border-color:#3a3f56;}
@@ -71,6 +73,11 @@
   .notes-box{margin-top:10px;width:100%;background:var(--bg-alt);border:1px solid var(--border);border-radius:8px;padding:8px 10px;color:var(--text);font-size:12px;font-family:var(--body);resize:vertical;min-height:44px;}
   .notes-box:focus{outline:none;border-color:var(--amber);}
   .note-banner{font-family:var(--mono);font-size:11px;color:var(--text-faint);text-align:center;padding:10px;border-bottom:1px solid var(--border);background:var(--bg-alt);}
+  .expand-section{margin-top:10px;border-top:1px dashed var(--border);padding-top:10px;}
+  .expand-toggle{font-family:var(--mono);font-size:11px;color:var(--violet);background:transparent;border:none;padding:0;cursor:pointer;}
+  .expand-body{margin-top:8px;background:var(--bg-alt);border:1px solid var(--border);border-radius:8px;padding:10px 12px;font-size:12px;line-height:1.6;color:var(--text);white-space:pre-wrap;display:none;}
+  .expand-body.open{display:block;}
+  .expand-body ul{margin:0;padding-left:16px;}
   @media(max-width:640px){.stats{display:none;} .topbar{padding:14px 14px 12px;} .content{padding:16px 12px 90px;}}
 </style>
 </head>
@@ -87,7 +94,7 @@
     <div class="stats">
       <div class="stat"><b id="statTotal">0</b>razem</div>
       <div class="stat"><b id="statApplied">0</b>aplikacje</div>
-      <div class="stat"><b id="statNew">0</b>nowe</div>
+      <div class="stat"><b id="statVerified">0</b>zweryfikowane</div>
     </div>
     <button class="btn-ghost" onclick="location.reload()">↻ Odśwież</button>
   </div>
@@ -99,7 +106,7 @@
 
 <script>
 const LS_KEY = 'job-radar-local-state-v1';
-let data = {categories:[], jobs:[]};
+let data = {tagLabels:{}, jobs:[]};
 let localState = {};
 let activeTab = null;
 let search = '';
@@ -113,29 +120,38 @@ function setLocal(id, patch){ localState[id] = {...getLocal(id), ...patch}; save
 
 function escapeHtml(s){ const d = document.createElement('div'); d.textContent = s||''; return d.innerHTML; }
 function fitLabel(f){ return f===3?'Strong fit':f===2?'Good fit':'Maybe fit'; }
+function tagLabel(tag){ return (data.tagLabels && data.tagLabels[tag]) || tag.replace(/-/g,' ').replace(/\b\w/g, c=>c.toUpperCase()); }
 
 async function init(){
   loadLocal();
   try{
     const res = await fetch('./jobs.json?_=' + Date.now());
     data = await res.json();
+    if(!data.tagLabels) data.tagLabels = {};
+    // backward compat: old entries might still use "category" instead of "tags"
+    data.jobs.forEach(j=>{ if(!j.tags) j.tags = j.category ? [j.category] : []; });
     document.getElementById('lastUpdated').textContent = data.jobs.length + ' ofert w bazie';
   }catch(e){
     document.getElementById('lastUpdated').textContent = 'nie udało się wczytać jobs.json';
   }
-  activeTab = (data.categories[0] || {}).id || null;
+  const allTags = new Set();
+  data.jobs.forEach(j=>j.tags.forEach(t=>allTags.add(t)));
+  activeTab = allTags.size ? [...allTags][0] : null;
   render();
 }
 
 function renderTabs(){
   const tabsEl = document.getElementById('tabs');
   tabsEl.innerHTML = '';
-  data.categories.forEach(cat=>{
-    const count = data.jobs.filter(j=>j.category===cat.id).length;
+  const counts = {};
+  data.jobs.forEach(j=>j.tags.forEach(t=>counts[t]=(counts[t]||0)+1));
+  const tags = Object.keys(counts).sort((a,b)=>counts[b]-counts[a]);
+  if(!activeTab && tags.length) activeTab = tags[0];
+  tags.forEach(tag=>{
     const btn = document.createElement('button');
-    btn.className = 'tab' + (activeTab===cat.id?' active':'');
-    btn.innerHTML = `${escapeHtml(cat.name)} <span style="opacity:.7">${count}</span>`;
-    btn.onclick = ()=>{ activeTab = cat.id; render(); };
+    btn.className = 'tab' + (activeTab===tag?' active':'');
+    btn.innerHTML = `${escapeHtml(tagLabel(tag))} <span style="opacity:.7">${counts[tag]}</span>`;
+    btn.onclick = ()=>{ activeTab = tag; render(); };
     tabsEl.appendChild(btn);
   });
 }
@@ -143,19 +159,19 @@ function renderTabs(){
 function renderStats(){
   document.getElementById('statTotal').textContent = data.jobs.length;
   document.getElementById('statApplied').textContent = data.jobs.filter(j=>getLocal(j.id).stage==='applied'||getLocal(j.id).stage==='interview').length;
-  document.getElementById('statNew').textContent = data.jobs.filter(j=>getLocal(j.id).stage==='new').length;
+  document.getElementById('statVerified').textContent = data.jobs.filter(j=>j.verified===true).length;
 }
 
 function renderContent(){
   const content = document.getElementById('content');
   content.innerHTML = '';
-  let jobs = data.jobs.filter(j=>j.category===activeTab);
+  let jobs = data.jobs.filter(j=>j.tags.includes(activeTab));
   const q = search.trim().toLowerCase();
   if(q) jobs = jobs.filter(j=>(j.title+' '+j.company+' '+(j.location||'')+' '+(j.description||'')).toLowerCase().includes(q));
   jobs.sort((a,b)=> (b.fit||1)-(a.fit||1));
 
   if(jobs.length===0){
-    content.innerHTML = `<div class="empty"><b>Pusto tutaj</b>Twój Routine jeszcze nic tu nie dopisał, albo zmień kategorię/wyszukiwanie.</div>`;
+    content.innerHTML = `<div class="empty"><b>Pusto tutaj</b>Twój Routine jeszcze nic tu nie dopisał, albo zmień zakładkę/wyszukiwanie.</div>`;
     return;
   }
 
@@ -171,6 +187,14 @@ function renderContent(){
     if(local.notInterested) badges += `<span class="badge notint">Nie interesuje</span>`;
     if(local.stage==='new') badges += `<span class="badge new">Nowe</span>`;
 
+    const otherTags = job.tags.filter(t=>t!==activeTab);
+    const chips = otherTags.map(t=>`<span class="tag-chip">${escapeHtml(tagLabel(t))}</span>`).join('');
+
+    const hasCover = job.coverLetterDraft && job.coverLetterDraft.trim();
+    const hasCvTips = job.cvTips && job.cvTips.length;
+    const prep = job.interviewPrep || {};
+    const hasPrep = (prep.expected && prep.expected.length) || (prep.toAsk && prep.toAsk.length);
+
     card.innerHTML = `
       <div class="card-title-row">
         <div class="signal" title="${fitLabel(job.fit)}"><i></i><i></i><i></i></div>
@@ -180,14 +204,18 @@ function renderContent(){
       <div class="meta-line">${escapeHtml(job.location||'—')}${job.datePosted?` · dodano ${escapeHtml(job.datePosted)}`:''}</div>
       ${job.description?`<div class="desc">${escapeHtml(job.description)}</div>`:''}
       <div class="badges">${badges}</div>
+      ${chips?`<div class="tag-chips">${chips}</div>`:''}
       <div class="card-actions">
         ${job.url?`<a class="link-btn" href="${escapeHtml(job.url)}" target="_blank" rel="noopener">Zobacz ofertę ↗</a>`:''}
         <button class="link-btn ${local.stage==='applied'?'on':''}" data-a="applied">Aplikowano</button>
         <button class="link-btn ${local.stage==='interview'?'on':''}" data-a="interview">Rozmowa</button>
         <button class="link-btn ${local.stage==='rejected'?'on':''}" data-a="rejected">Odrzucone</button>
         <button class="link-btn ${local.notInterested?'on':''}" data-a="notint">Nie interesuje</button>
-        <button class="link-btn" data-a="copyprompt">✎ Skopiuj prompt na list motywacyjny</button>
+        ${!hasCover?`<button class="link-btn" data-a="copyprompt">✎ Skopiuj prompt na list motywacyjny</button>`:''}
       </div>
+      ${hasCover?`<div class="expand-section"><button class="expand-toggle" data-t="cover">▸ Pokaż list motywacyjny (draft)</button><div class="expand-body" data-b="cover">${escapeHtml(job.coverLetterDraft)}</div></div>`:''}
+      ${hasCvTips?`<div class="expand-section"><button class="expand-toggle" data-t="cv">▸ Wskazówki do CV dla tej roli</button><div class="expand-body" data-b="cv"><ul>${job.cvTips.map(t=>`<li>${escapeHtml(t)}</li>`).join('')}</ul></div></div>`:''}
+      ${hasPrep?`<div class="expand-section"><button class="expand-toggle" data-t="prep">▸ Przygotowanie do rozmowy</button><div class="expand-body" data-b="prep">${prep.expected&&prep.expected.length?`<b style="color:var(--text-dim)">Możesz się spodziewać:</b><ul>${prep.expected.map(t=>`<li>${escapeHtml(t)}</li>`).join('')}</ul>`:''}${prep.toAsk&&prep.toAsk.length?`<b style="color:var(--text-dim)">Warto zapytać:</b><ul>${prep.toAsk.map(t=>`<li>${escapeHtml(t)}</li>`).join('')}</ul>`:''}</div></div>`:''}
       <textarea class="notes-box" placeholder="Notatki…">${escapeHtml(local.notes||'')}</textarea>
     `;
 
@@ -195,10 +223,19 @@ function renderContent(){
     card.querySelector('[data-a="interview"]').onclick = ()=>{ setLocal(job.id,{stage: local.stage==='interview'?'applied':'interview'}); render(); };
     card.querySelector('[data-a="rejected"]').onclick = ()=>{ setLocal(job.id,{stage: local.stage==='rejected'?'applied':'rejected'}); render(); };
     card.querySelector('[data-a="notint"]').onclick = ()=>{ setLocal(job.id,{notInterested: !local.notInterested}); render(); };
-    card.querySelector('[data-a="copyprompt"]').onclick = ()=>{
+    const copyBtn = card.querySelector('[data-a="copyprompt"]');
+    if(copyBtn) copyBtn.onclick = ()=>{
       const prompt = `Napisz krótki list motywacyjny na stanowisko "${job.title}" w firmie "${job.company}" (${job.location||''}). Opis oferty: ${job.description||'brak opisu'}. Oto moje doświadczenie: [WKLEJ SWOJE CV / KRÓTKI OPIS]`;
       navigator.clipboard.writeText(prompt).then(()=>alert('Skopiowano! Wklej do czatu z Claude.'));
     };
+    card.querySelectorAll('.expand-toggle').forEach(btn=>{
+      btn.onclick = ()=>{
+        const key = btn.dataset.t;
+        const body = card.querySelector(`[data-b="${key}"]`);
+        body.classList.toggle('open');
+        btn.textContent = (btn.textContent.startsWith('▸')?'▾':'▸') + btn.textContent.slice(1);
+      };
+    });
     const notesBox = card.querySelector('.notes-box');
     let t;
     notesBox.addEventListener('input', ()=>{ clearTimeout(t); t = setTimeout(()=>setLocal(job.id,{notes:notesBox.value}), 400); });
