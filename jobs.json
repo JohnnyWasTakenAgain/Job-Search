@@ -4,5 +4,105 @@
     {"id": "compliance", "name": "AML / KYC"},
     {"id": "tech", "name": "Software Developer"}
   ],
-  "jobs": []
+  "jobs": [
+    {
+      "id": "n26-senior-data-analyst-finance-2026",
+      "title": "Senior Data Analyst - Finance",
+      "company": "N26",
+      "location": "Berlin, Germany",
+      "url": "https://builtin.com/job/senior-data-analyst-finance/4601980",
+      "description": "N26 is hiring a Senior Data Analyst to empower Finance and Business teams with data-driven insights, monitoring and analyzing financial metrics and performance across the company's product domains.",
+      "category": "data",
+      "fit": 3,
+      "datePosted": "2026-08-13"
+    },
+    {
+      "id": "solarisbank-senior-data-engineer-2026",
+      "title": "(Senior) Data Engineer",
+      "company": "Solarisbank",
+      "location": "Berlin, Germany",
+      "url": "https://boards.greenhouse.io/solarisbank/jobs/5132907002",
+      "description": "Solarisbank is looking for a Senior Data Engineer to join its Data Platform Team, working closely with data engineering, data warehousing, and analytics experts.",
+      "category": "data",
+      "fit": 2,
+      "datePosted": "2026-08-13"
+    },
+    {
+      "id": "traderepublic-senior-afc-manager-2026",
+      "title": "(Senior) Anti-Financial Crime Manager",
+      "company": "Trade Republic",
+      "location": "Berlin, Germany",
+      "url": "https://startup.jobs/senior-anti-financial-crime-manager-trade-republic-2-7568732",
+      "description": "Trade Republic is hiring a Senior Anti-Financial Crime Manager to manage projects preventing financial crime, developing control frameworks, and optimizing AML/compliance processes.",
+      "category": "compliance",
+      "fit": 2,
+      "datePosted": "2026-08-13"
+    },
+    {
+      "id": "traderepublic-senior-compliance-officer-intl-2026",
+      "title": "(Senior) Compliance Officer - International",
+      "company": "Trade Republic",
+      "location": "Berlin, Germany",
+      "url": "https://startup.jobs/senior-compliance-officer-international-f-d-m-trade-republic-2-3723616",
+      "description": "Trade Republic seeks a Senior Compliance Officer - International with relevant AML and MiFID regulatory experience in the financial services sector.",
+      "category": "compliance",
+      "fit": 2,
+      "datePosted": "2026-08-13"
+    },
+    {
+      "id": "goldstandard-senior-kyc-analyst-2026",
+      "title": "Senior KYC Analyst",
+      "company": "Gold Standard",
+      "location": "Berlin, Germany",
+      "url": "https://www.climatechangecareers.com/job/gold-standard/berlin-germany/senior-kyc-analyst/",
+      "description": "Gold Standard is hiring a Senior KYC Analyst to lead KYC/KYB reviews, including ownership analysis, UBO mapping, and sanctions/PEP/adverse media assessments.",
+      "category": "compliance",
+      "fit": 3,
+      "datePosted": "2026-08-13"
+    },
+    {
+      "id": "n26-lead-swe-regtech-2026",
+      "title": "Lead Software Engineer (ServiceNow) - RegTech",
+      "company": "N26",
+      "location": "Berlin, Germany",
+      "url": "https://n26.com/en-eu/careers/positions/7992499",
+      "description": "N26 is hiring a Lead Software Engineer to own and evolve governance platforms that help the bank meet regulatory expectations and strengthen operational resilience.",
+      "category": "tech",
+      "fit": 2,
+      "datePosted": "2026-08-13"
+    },
+    {
+      "id": "solarisbank-senior-swe-2026",
+      "title": "(Senior) Software Engineer",
+      "company": "Solarisbank",
+      "location": "Berlin, Germany",
+      "url": "https://boards.greenhouse.io/solarisbank/jobs/6042830002",
+      "description": "Solarisbank, a tech company with a full German banking license, is hiring a Senior Software Engineer to build and maintain scalable backend systems on its Banking-as-a-Service platform.",
+      "category": "tech",
+      "fit": 3,
+      "datePosted": "2026-08-13"
+    },
+    {
+      "id": "solarisbank-senior-swe-elixir-2026",
+      "title": "Senior Software Engineer - Elixir",
+      "company": "Solarisbank",
+      "location": "Berlin, Germany",
+      "url": "https://boards.greenhouse.io/solarisbank/jobs/5132894002",
+      "description": "Solarisbank is hiring a Senior Software Engineer specializing in Elixir to build and maintain microservice-based backend systems.",
+      "category": "tech",
+      "fit": 3,
+      "datePosted": "2026-08-13"
+    },
+    {
+      "id": "deliveryhero-senior-swe-javakotlin-2026",
+      "title": "Senior Software Engineer, Java/Kotlin (Fintech)",
+      "company": "Delivery Hero",
+      "location": "Berlin, Germany",
+      "url": "https://careers.deliveryhero.com/job/senior-software-engineer-java-kotlin-fintech-in-berlin-germany-jid-8234",
+      "description": "Delivery Hero is hiring a Senior Software Engineer (Java/Kotlin) for its Payments team to build and scale Wallet, Payment, and Anti-Fraud solutions.",
+      "category": "tech",
+      "fit": 3,
+      "datePosted": "2026-08-13"
+    }
+  ]
 }
