@@ -224,6 +224,62 @@
           "What tools or automation does Trade Republic use for KYC screening today, and are there plans to expand them?"
         ]
       }
+    },
+    {
+      "id": "raisin-senior-manager-afc-advisory-2026",
+      "title": "Senior Manager AFC Advisory (f/m/d)",
+      "company": "Raisin",
+      "location": "Berlin, Germany",
+      "url": "https://job-boards.eu.greenhouse.io/raisin/jobs/4940916101",
+      "description": "Raisin is hiring a Senior Manager AFC Advisory to own bank-wide and client-related AFC project planning, conduct money-laundering risk analyses, and serve as technical point of contact for audits.",
+      "tags": ["compliance-leadership", "berlin-based", "lead-plus", "startup"],
+      "fit": 2,
+      "datePosted": "2026-08-14",
+      "verified": true,
+      "coverLetterDraft": "Dear Raisin Hiring Team,\n\nI'm writing to apply for the Senior Manager AFC Advisory role. As Compliance Operations Manager at Pliant, I lead end-to-end KYC due diligence for corporate clients and drive AI-driven automation of compliance workflows — directly relevant to owning AFC project planning, implementation, and documentation at Raisin's scale.\n\nAt Moonfare, I co-led the firm's ongoing due-diligence review project and worked with cross-functional stakeholders on automation improvements; at J.P. Morgan Chase, I conducted due diligence across Corporate, Financial Institution, and Publicly Traded Company risk tiers; and at PwC I built AML risk ratings and delivered internal AML/KYC training — experience that maps directly to this role's advisory, risk-assessment, and training responsibilities, and to serving as technical point of contact for audits.\n\nI hold a Master's in Finance and Accounting. I bring fluent English and German at B1 progressing to B2, and I'm committed to reaching full professional proficiency, and would welcome discussing how my regulatory depth can support this transition.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "Walk us through how you would own an AFC project from planning through implementation and documentation.",
+          "How do you approach conducting a money laundering risk analysis and setting customer risk ratings?",
+          "Describe your experience acting as a technical point of contact during a regulatory or internal audit.",
+          "How would you design and deliver AML/AFC training for stakeholders across the business?",
+          "Tell us about a time you monitored regulatory developments, such as outsourcing requirements, and translated them into internal policy changes.",
+          "Given the role requires full professional German proficiency, how would you handle regulator-facing communication while continuing to build fluency?"
+        ],
+        "toAsk": [
+          "How does the Senior Manager AFC Advisory role interact with the MLRO function and the broader AFC department?",
+          "What upcoming regulatory changes or projects will this role prioritize in the first six months?",
+          "How is Raisin using automation or technology to support AFC risk assessments and customer risk ratings today?"
+        ]
+      }
+    },
+    {
+      "id": "selbyjennings-head-of-compliance-fintech-berlin-2026",
+      "title": "Head of Compliance (m/f/d) - FinTech",
+      "company": "FinTech Company (via Selby Jennings, confidential search)",
+      "location": "Berlin / Frankfurt, Germany",
+      "url": "https://www.selbyjennings.com/en-de/job/head-of-compliance-mfd-fintech-berlinfrankfurt-pr572196_1768827684",
+      "description": "A Berlin/Frankfurt fintech specializing in digital business loans for SMEs is hiring a Head of Compliance to own the full compliance framework and manage a team of 4-5 compliance professionals across GDPR, financial crime prevention, KYC/KYB, and outsourcing oversight.",
+      "tags": ["compliance-leadership", "berlin-based", "lead-plus", "startup"],
+      "fit": 3,
+      "datePosted": "2026-08-14",
+      "verified": false,
+      "coverLetterDraft": "Dear Hiring Team,\n\nI'm applying for the Head of Compliance role leading your compliance function across GDPR, financial crime prevention, KYC/KYB, and outsourcing oversight. As Compliance Operations Manager at Pliant, I already own end-to-end KYC due diligence for corporate clients and drive AI-driven automation of compliance workflows — exactly the blend of hands-on ownership and process transformation this role calls for, and I'm ready to bring that to managing and developing a team of compliance professionals.\n\nMy background spans KYC Associate at Moonfare, where I co-led the ongoing due-diligence review project and helped shape automation improvements with cross-functional stakeholders; KYC Analyst at J.P. Morgan Chase across multiple risk tiers; and AML Analyst at PwC, where I built AML risk ratings and delivered internal AML/KYC training. Eight-plus years of enhanced due diligence, sanctions and PEP screening, and four-eyes review discipline have prepared me to own a compliance framework end-to-end and foster a culture of integrity across a growing fintech lender.\n\nI hold a Master's in Finance and Accounting and am based in Berlin.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How would you build and own a compliance framework spanning GDPR, financial crime prevention, and KYC/KYB from the ground up?",
+          "Describe your experience managing or mentoring a team of compliance professionals with varying seniority.",
+          "How do you approach outsourcing oversight and vendor risk management for compliance functions?",
+          "Tell us about a time you used automation or AI to reduce manual compliance workload.",
+          "How would you prioritize competing GDPR, AML, and KYB requirements when resources are limited?",
+          "Describe a situation where you had to foster a culture of integrity and risk awareness across a growing organization."
+        ],
+        "toAsk": [
+          "What does the current compliance team structure look like, and what are the biggest gaps this Head of Compliance role needs to close first?",
+          "How mature is the company's use of automation in compliance workflows today, and where do you see the most opportunity?",
+          "How does this role's KYC/KYB scope intersect with the digital lending product roadmap?"
+        ]
+      }
     }
   ]
 }
