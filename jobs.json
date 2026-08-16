@@ -280,6 +280,62 @@
           "How does this role's KYC/KYB scope intersect with the digital lending product roadmap?"
         ]
       }
+    },
+    {
+      "id": "klarna-senior-aml-expert-manager-2026",
+      "title": "Senior AML Expert / Manager",
+      "company": "Klarna",
+      "location": "Berlin, Germany",
+      "url": "https://jobs.lever.co/klarna/046f84b8-4b36-411b-ae1e-4d5d64be98a9",
+      "description": "Klarna is expanding its AML organization in Berlin and Stockholm, hiring a Senior AML Expert/Manager to help own AML Group strategy, guide product development toward best-in-class AML & CTF solutions, and adapt controls to new markets and regulations.",
+      "tags": ["compliance-leadership", "berlin-based", "lead-plus", "corporate"],
+      "fit": 3,
+      "datePosted": "2026-08-16",
+      "verified": false,
+      "coverLetterDraft": "Dear Klarna Hiring Team,\n\nI'm writing to apply for the Senior AML Expert / Manager role as you scale Klarna's AML organization in Berlin. As Compliance Operations Manager at Pliant, I lead end-to-end KYC due diligence for corporate clients and drive AI-driven automation of compliance workflows as part of an internal AI team — direct preparation for guiding product development toward best-in-class AML & CTF solutions.\n\nAt Moonfare, I co-led the firm's ongoing due-diligence review project and worked with cross-functional stakeholders on automation improvements; at J.P. Morgan Chase, I conducted due diligence across Corporate, Financial Institution, and Publicly Traded Company risk tiers; and at PwC I built AML risk ratings and delivered internal AML/KYC training. Eight-plus years across CDD/EDD, sanctions and PEP screening, and regulatory escalation give me the strategic depth to help set AML strategy across Klarna's markets, not just execute existing processes.\n\nI hold a Master's in Finance and Accounting, am based in Berlin, and am fluent in English with German at B1 progressing to B2.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How would you approach setting AML strategy for a new product launch across multiple Klarna markets?",
+          "Describe your experience translating regulatory requirements (AMLD, local CTF rules) into product or workflow changes.",
+          "How have you used automation or AI to improve AML/KYC processes in a previous role?",
+          "Walk us through a time you identified an AML control gap and drove the fix.",
+          "How do you balance centralized AML strategy with market-specific regulatory nuances?",
+          "Tell us about a time you collaborated with product or engineering teams on compliance requirements."
+        ],
+        "toAsk": [
+          "How is the AML organization currently split between Stockholm and Berlin, and how does this role collaborate across both hubs?",
+          "What does Klarna's roadmap look like for AI-driven AML detection or KYC automation?",
+          "What does success look like for this role in the first six months?"
+        ]
+      }
+    },
+    {
+      "id": "vividmoney-head-of-risk-compliance-2026",
+      "title": "Head of Risk & Compliance (m/f/d)",
+      "company": "Vivid Money",
+      "location": "Berlin, Germany or Amsterdam, Netherlands",
+      "url": "https://startup.jobs/head-of-risk-compliance-m-f-d-vivid-money-4131899",
+      "description": "Vivid Money is hiring a Head of Risk & Compliance to own the risk management and compliance framework for Vivid Money B.V., covering AML, duty of care, operational, third-party, and tech risk, plus oversight of financial risks at the Group level.",
+      "tags": ["compliance-leadership", "berlin-based", "lead-plus", "startup"],
+      "fit": 2,
+      "datePosted": "2026-08-16",
+      "verified": false,
+      "coverLetterDraft": "Dear Vivid Money Hiring Team,\n\nI'm applying for the Head of Risk & Compliance role owning Vivid Money B.V.'s risk and compliance framework. As Compliance Operations Manager at Pliant, I lead end-to-end KYC due diligence for corporate clients and drive AI-driven automation of compliance workflows — a strong foundation for overseeing AML, duty-of-care, and operational risk across Vivid's regulated entities.\n\nAt Moonfare, I co-led the firm's ongoing due-diligence review project and helped shape automation improvements with cross-functional stakeholders; at J.P. Morgan Chase, I conducted due diligence across Corporate, Financial Institution, and Publicly Traded Company risk tiers; and at PwC I built AML risk ratings and delivered internal AML/KYC training. Eight-plus years of enhanced due diligence, sanctions and PEP screening, and regulatory escalation management have prepared me to own a compliance framework end-to-end and represent it at the Group level.\n\nI hold a Master's in Finance and Accounting, am based in Berlin, and bring fluent English with German at B1 progressing to B2.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How would you structure a risk management framework spanning AML, operational, third-party, and tech risk across multiple regulated entities?",
+          "Describe your experience representing a compliance function at the Group level across jurisdictions.",
+          "How do you prioritize non-financial risk topics like AML and duty of care against financial risk topics like liquidity, credit, and market risk?",
+          "Tell us about a time you built or matured a compliance framework from an earlier stage.",
+          "How would you approach outsourcing and third-party risk oversight for a fast-growing fintech?",
+          "What's your experience with EU regulatory frameworks like AMLD, MiCA, or MiFID?"
+        ],
+        "toAsk": [
+          "How does this role coordinate with the Luxembourg-based entity and the wider Group Risk Management and Compliance team?",
+          "What are the top compliance or risk priorities driving this hire right now?",
+          "How mature is Vivid's use of automation or technology in risk and compliance monitoring today?"
+        ]
+      }
     }
   ]
 }
