@@ -336,6 +336,146 @@
           "How mature is Vivid's use of automation or technology in risk and compliance monitoring today?"
         ]
       }
+    },
+    {
+      "id": "pliant-head-aml-monitoring-2026",
+      "title": "Head AML Monitoring (m/f/d)",
+      "company": "Pliant",
+      "location": "Berlin, Germany (Hybrid)",
+      "url": "https://jobs.ashbyhq.com/pliant/29aa0f24-7c77-4e35-9b47-e176a0047ed0",
+      "description": "Pliant is hiring a Head of AML Monitoring within its Compliance Onboarding department to lead AML transaction monitoring for the B2B payments fintech.",
+      "tags": ["compliance-leadership", "berlin-based", "lead-plus", "startup"],
+      "fit": 3,
+      "datePosted": "2026-08-17",
+      "verified": true,
+      "coverLetterDraft": "Dear Pliant Hiring Team,\n\nI'm writing to express interest in the Head of AML Monitoring role. As Compliance Operations Manager at Pliant, I already lead end-to-end KYC due diligence for corporate clients and drive AI-driven automation of compliance workflows — I'd welcome the opportunity to bring that same operational rigor to leading AML monitoring end-to-end.\n\nBefore Pliant, I built a track record across enhanced due diligence and risk assessment: as KYC Associate at Moonfare, I co-led the firm's ongoing due-diligence review project; as KYC Analyst at J.P. Morgan Chase, I conducted due diligence across Corporate, Financial Institution, and Publicly Traded Company risk tiers; and as AML Analyst at PwC, I built AML risk ratings and delivered internal AML/KYC training. Eight-plus years of sanctions and PEP screening, four-eyes review discipline, and hands-on automation work position me well to own AML monitoring quality and scale it further.\n\nI hold a Master's in Finance and Accounting and am progressing toward German B2. I'd welcome the chance to discuss how my current work on Pliant's Compliance team could translate into leading AML Monitoring.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "Since you're currently on Pliant's Compliance team, how would you approach transitioning into leading the AML Monitoring function specifically?",
+          "How would you design or improve an AML transaction monitoring framework for a B2B payments fintech?",
+          "Describe your experience tuning detection rules or scenarios to reduce false positives while maintaining risk coverage.",
+          "How have you used AI or automation to improve compliance monitoring processes?",
+          "Walk us through how you would build out and lead a team responsible for AML monitoring alerts and escalations.",
+          "Tell us about a time you identified a monitoring gap and drove the fix with cross-functional stakeholders."
+        ],
+        "toAsk": [
+          "How does the Head of AML Monitoring role coordinate with the KYC/onboarding team I currently work with?",
+          "What does Pliant's AML monitoring tech stack and automation roadmap look like today?",
+          "What would the transition and team-building priorities look like in the first six months?"
+        ]
+      }
+    },
+    {
+      "id": "moss-deputy-mlro-2026",
+      "title": "Deputy MLRO (f/m/d)",
+      "company": "Moss",
+      "location": "Berlin, Germany",
+      "url": "https://wellfound.com/jobs/3204422-deputy-mlro-f-m-d",
+      "description": "Moss is hiring a Deputy MLRO to support the Director of Compliance/MLRO across AFC, regulatory compliance, and card fraud, with a mandate to quality-assure AFC risk analyses and build AI-driven compliance automation using tools like n8n and Claude workflows.",
+      "tags": ["compliance-leadership", "qa", "ai-automation", "berlin-based", "lead-plus", "startup"],
+      "fit": 3,
+      "datePosted": "2026-08-10",
+      "verified": true,
+      "coverLetterDraft": "Dear Moss Hiring Team,\n\nI'm applying for the Deputy MLRO role. As Compliance Operations Manager at Pliant, I lead end-to-end KYC due diligence for corporate clients and drive AI-driven automation of compliance workflows as part of an internal AI team — directly matching your mandate to quality-assure AFC risk analyses and build AI-driven automation into compliance processes.\n\nAt Moonfare, I co-led the firm's ongoing due-diligence review project and worked with cross-functional stakeholders on automation improvements; at J.P. Morgan Chase, I conducted due diligence across Corporate, Financial Institution, and Publicly Traded Company risk tiers; and at PwC I built AML risk ratings and delivered internal AML/KYC training. This combination of regulatory depth, four-eyes review discipline, and hands-on process automation experience prepares me to deputize for your Director of Compliance/MLRO and own quality assurance across AFC reporting.\n\nI hold a Master's in Finance and Accounting, am based in Berlin, and am fluent in English with German at B1 progressing to B2 — building toward the fluency this role calls for.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How would you quality-assure an AFC risk analysis or MLRO report before it goes to the regulator?",
+          "Describe your experience building or using automation tools (e.g. n8n, AI assistants) in a compliance workflow.",
+          "How would you step in and deputize for the Director of Compliance/MLRO during a regulatory inquiry?",
+          "Walk us through how you'd triage and investigate a card fraud case alongside a standard AML alert.",
+          "Tell us about a time you improved a compliance process's efficiency without weakening its quality controls.",
+          "Given the C1 German requirement, how would you handle BaFin-facing communication while continuing to build fluency?"
+        ],
+        "toAsk": [
+          "What does the current AI/automation stack (n8n, Claude workflows) look like, and how much ownership would this role have over expanding it?",
+          "How is quality assurance of AFC risk analyses currently structured, and what would this role change first?",
+          "What's the split of this role's time between AFC/AML, regulatory compliance, and card fraud?"
+        ]
+      }
+    },
+    {
+      "id": "n26-audit-operations-senior-manager-2026",
+      "title": "Audit Operations Senior Manager",
+      "company": "N26",
+      "location": "Berlin, Germany",
+      "url": "https://n26.com/en-eu/careers/positions/7758692",
+      "description": "N26 is hiring an Audit Operations Senior Manager to lead the Internal Audit Quality Assurance and Improvement Program, managing audit governance, remediation tracking, and reporting to senior management and the board.",
+      "tags": ["qa", "compliance-leadership", "berlin-based", "lead-plus", "corporate"],
+      "fit": 2,
+      "datePosted": "2026-08-01",
+      "verified": true,
+      "coverLetterDraft": "Dear N26 Hiring Team,\n\nI'm writing to apply for the Audit Operations Senior Manager role. While my background is in KYC/AML rather than internal audit specifically, my experience directly maps to the quality assurance and governance core of this role: as Compliance Operations Manager at Pliant, I own end-to-end KYC due diligence and apply four-eyes review discipline daily, and I drive AI-driven automation of compliance workflows that would translate well to modernizing audit operations and reporting.\n\nAt Moonfare, I co-led the firm's ongoing due-diligence review project, and at J.P. Morgan Chase I conducted due diligence and quality checks across Corporate, Financial Institution, and Publicly Traded Company risk tiers. At PwC, I delivered internal AML/KYC training and built risk ratings that fed into control frameworks — comparable to the remediation tracking and control-effectiveness reporting this role requires.\n\nI hold a Master's in Finance and Accounting and am based in Berlin, and I'm confident my regulatory rigor and process-improvement mindset would strengthen N26's Audit QA program.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "This role is in Internal Audit rather than Compliance — how would you apply your KYC/AML quality-review background to auditing controls across the bank?",
+          "How would you design a Quality Assurance and Improvement Program for an internal audit function?",
+          "Describe your experience tracking remediation items to closure and reporting status to senior stakeholders.",
+          "How do you use data analytics to identify systemic control weaknesses rather than one-off findings?",
+          "Tell us about a time you had to report a sensitive finding up to senior management or the board.",
+          "How have you used automation to improve reporting or governance processes in a previous role?"
+        ],
+        "toAsk": [
+          "How does the Audit Operations function collaborate with Compliance and Non-Financial Risk at N26?",
+          "What does the audit QA program's current maturity look like, and what's the top priority for this hire?",
+          "Is there an opportunity for someone with a compliance/KYC background, rather than a traditional audit background, to bring a different perspective to this role?"
+        ]
+      }
+    },
+    {
+      "id": "solarisbank-head-process-architecture-policy-2026",
+      "title": "Head of Process Architecture & Policy Management (f/m/d)",
+      "company": "Solarisbank",
+      "location": "Frankfurt or Berlin, Germany",
+      "url": "https://job-boards.greenhouse.io/solarisbank/jobs/8554454002",
+      "description": "Solarisbank is hiring a Head of Process Architecture & Policy Management to own the bank's written rules framework (SfO) under MaRisk/German Banking Act and serve as primary contact for internal/external auditors on policy and internal-controls governance.",
+      "tags": ["compliance-leadership", "berlin-based", "lead-plus", "startup"],
+      "fit": 2,
+      "datePosted": "2026-08-01",
+      "verified": true,
+      "coverLetterDraft": "Dear Solarisbank Hiring Team,\n\nI'm applying for the Head of Process Architecture & Policy Management role. As Compliance Operations Manager at Pliant, I own end-to-end KYC due diligence and apply rigorous four-eyes review and documentation discipline daily — the same discipline required to own a bank-wide written rules framework (SfO) under MaRisk and the German Banking Act.\n\nAt Moonfare, I co-led the firm's ongoing due-diligence review project and worked with cross-functional stakeholders on process and automation improvements; at J.P. Morgan Chase, I conducted due diligence across Corporate, Financial Institution, and Publicly Traded Company risk tiers, working within tightly governed policy frameworks; and at PwC I delivered internal AML/KYC training and built risk ratings that informed policy. This background gives me both the regulatory fluency and the process-architecture mindset to serve as a credible point of contact for auditors and to drive policy governance and digitalization initiatives.\n\nI hold a Master's in Finance and Accounting, am based in Berlin, and am fluent in English with German at B1 progressing to B2.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How would you structure and maintain a bank-wide written rules framework (SfO) under MaRisk?",
+          "Describe your experience serving as a point of contact for internal or external auditors.",
+          "How do you balance standardizing policy governance with the pace of a fast-growing fintech?",
+          "Tell us about a time you drove a digitalization or process-optimization initiative across multiple business units.",
+          "How would you handle competing policy priorities from different regulatory frameworks (e.g. AML, DORA, MaRisk)?",
+          "Given this role isn't AML/KYC-specific, how would your compliance background translate to owning enterprise policy architecture?"
+        ],
+        "toAsk": [
+          "How does this role coordinate with the AFC/Compliance and Regulatory Affairs functions at Solarisbank?",
+          "What's driving this hire now — a specific audit finding, growth, or a broader governance overhaul?",
+          "What tools or systems does Solarisbank use today for policy management, and are there plans to modernize them?"
+        ]
+      }
+    },
+    {
+      "id": "westernunion-head-aml-compliance-berlin-2026",
+      "title": "Head of AML Compliance - Berlin",
+      "company": "Western Union",
+      "location": "Berlin, Germany",
+      "url": "https://careers.westernunion.com/job-details/22853380/head-of-aml-compliance-berlin-berlin-de/",
+      "description": "Western Union is hiring a Head of AML Compliance for its Berlin-based international bank entity, setting AML strategy, acting as key contact for the FMA and European supervisory authorities, and leading a team of AML experts.",
+      "tags": ["compliance-leadership", "berlin-based", "lead-plus", "corporate"],
+      "fit": 3,
+      "datePosted": "2026-01-15",
+      "verified": false,
+      "coverLetterDraft": "Dear Western Union Hiring Team,\n\nI'm applying for the Head of AML Compliance role in Berlin. As Compliance Operations Manager at Pliant, I lead end-to-end KYC due diligence for corporate clients and drive AI-driven automation of compliance workflows — direct preparation for setting AML strategy and leading a team of AML experts at Western Union International Bank.\n\nAt Moonfare, I co-led the firm's ongoing due-diligence review project and helped shape automation improvements with cross-functional stakeholders; at J.P. Morgan Chase, I conducted due diligence across Corporate, Financial Institution, and Publicly Traded Company risk tiers; and at PwC I built AML risk ratings and delivered internal AML/KYC training. Eight-plus years across CDD/EDD, sanctions and PEP screening, and regulatory escalation give me the depth to act as a credible point of contact for supervisory authorities and to lead an AML team through complex, cross-border payment risk.\n\nI hold a Master's in Finance and Accounting, am based in Berlin, and am fluent in English with German at B1 progressing to B2.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How would you set AML strategy for a payments bank operating across multiple European jurisdictions?",
+          "Describe your experience acting as a primary point of contact with a financial regulator like the FMA.",
+          "How do you lead and develop a team of AML experts while managing your own strategic and regulator-facing responsibilities?",
+          "Walk us through how you'd assess AML risk specific to cross-border remittance and payment flows.",
+          "Tell us about a time you had to defend or explain an AML control decision to a regulator or auditor.",
+          "How have you incorporated automation or technology into AML compliance frameworks in previous roles?"
+        ],
+        "toAsk": [
+          "How does the Berlin-based Head of AML Compliance role coordinate with Western Union's global AML and compliance functions?",
+          "What's the current regulatory relationship status with the FMA and other supervisory authorities, and what are the near-term priorities?",
+          "What team structure and resources would this role inherit, and where are the biggest gaps to address first?"
+        ]
+      }
     }
   ]
 }
