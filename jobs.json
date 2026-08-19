@@ -21,7 +21,12 @@
       "location": "Berlin, Germany",
       "url": "https://builtin.com/job/senior-data-analyst-finance/4601980",
       "description": "N26 is hiring a Senior Data Analyst to empower Finance and Business teams with data-driven insights, monitoring and analyzing financial metrics and performance across the company's product domains.",
-      "tags": ["data", "berlin-based", "senior-specialist", "startup"],
+      "tags": [
+        "data",
+        "berlin-based",
+        "senior-specialist",
+        "startup"
+      ],
       "fit": 3,
       "datePosted": "2026-08-13"
     },
@@ -32,7 +37,12 @@
       "location": "Berlin, Germany",
       "url": "https://boards.greenhouse.io/solarisbank/jobs/5132907002",
       "description": "Solarisbank is looking for a Senior Data Engineer to join its Data Platform Team, working closely with data engineering, data warehousing, and analytics experts.",
-      "tags": ["data", "berlin-based", "senior-specialist", "startup"],
+      "tags": [
+        "data",
+        "berlin-based",
+        "senior-specialist",
+        "startup"
+      ],
       "fit": 2,
       "datePosted": "2026-08-13"
     },
@@ -43,7 +53,12 @@
       "location": "Berlin, Germany",
       "url": "https://startup.jobs/senior-anti-financial-crime-manager-trade-republic-2-7568732",
       "description": "Trade Republic is hiring a Senior Anti-Financial Crime Manager to manage projects preventing financial crime, developing control frameworks, and optimizing AML/compliance processes.",
-      "tags": ["compliance", "berlin-based", "senior-specialist", "startup"],
+      "tags": [
+        "compliance",
+        "berlin-based",
+        "senior-specialist",
+        "startup"
+      ],
       "fit": 2,
       "datePosted": "2026-08-13"
     },
@@ -54,7 +69,12 @@
       "location": "Berlin, Germany",
       "url": "https://startup.jobs/senior-compliance-officer-international-f-d-m-trade-republic-2-3723616",
       "description": "Trade Republic seeks a Senior Compliance Officer - International with relevant AML and MiFID regulatory experience in the financial services sector.",
-      "tags": ["compliance", "berlin-based", "senior-specialist", "startup"],
+      "tags": [
+        "compliance",
+        "berlin-based",
+        "senior-specialist",
+        "startup"
+      ],
       "fit": 2,
       "datePosted": "2026-08-13"
     },
@@ -65,7 +85,11 @@
       "location": "Berlin, Germany",
       "url": "https://www.climatechangecareers.com/job/gold-standard/berlin-germany/senior-kyc-analyst/",
       "description": "Gold Standard is hiring a Senior KYC Analyst to lead KYC/KYB reviews, including ownership analysis, UBO mapping, and sanctions/PEP/adverse media assessments.",
-      "tags": ["compliance", "berlin-based", "senior-specialist"],
+      "tags": [
+        "compliance",
+        "berlin-based",
+        "senior-specialist"
+      ],
       "fit": 3,
       "datePosted": "2026-08-13"
     },
@@ -76,7 +100,12 @@
       "location": "Berlin, Germany",
       "url": "https://n26.com/en-eu/careers/positions/7992499",
       "description": "N26 is hiring a Lead Software Engineer to own and evolve governance platforms that help the bank meet regulatory expectations and strengthen operational resilience.",
-      "tags": ["tech", "berlin-based", "lead-plus", "startup"],
+      "tags": [
+        "tech",
+        "berlin-based",
+        "lead-plus",
+        "startup"
+      ],
       "fit": 2,
       "datePosted": "2026-08-13"
     },
@@ -87,7 +116,12 @@
       "location": "Berlin, Germany",
       "url": "https://boards.greenhouse.io/solarisbank/jobs/6042830002",
       "description": "Solarisbank, a tech company with a full German banking license, is hiring a Senior Software Engineer to build and maintain scalable backend systems on its Banking-as-a-Service platform.",
-      "tags": ["tech", "berlin-based", "senior-specialist", "startup"],
+      "tags": [
+        "tech",
+        "berlin-based",
+        "senior-specialist",
+        "startup"
+      ],
       "fit": 3,
       "datePosted": "2026-08-13"
     },
@@ -98,7 +132,12 @@
       "location": "Berlin, Germany",
       "url": "https://boards.greenhouse.io/solarisbank/jobs/5132894002",
       "description": "Solarisbank is hiring a Senior Software Engineer specializing in Elixir to build and maintain microservice-based backend systems.",
-      "tags": ["tech", "berlin-based", "senior-specialist", "startup"],
+      "tags": [
+        "tech",
+        "berlin-based",
+        "senior-specialist",
+        "startup"
+      ],
       "fit": 3,
       "datePosted": "2026-08-13"
     },
@@ -109,7 +148,12 @@
       "location": "Berlin, Germany",
       "url": "https://careers.deliveryhero.com/job/senior-software-engineer-java-kotlin-fintech-in-berlin-germany-jid-8234",
       "description": "Delivery Hero is hiring a Senior Software Engineer (Java/Kotlin) for its Payments team to build and scale Wallet, Payment, and Anti-Fraud solutions.",
-      "tags": ["tech", "berlin-based", "senior-specialist", "corporate"],
+      "tags": [
+        "tech",
+        "berlin-based",
+        "senior-specialist",
+        "corporate"
+      ],
       "fit": 3,
       "datePosted": "2026-08-13"
     },
@@ -120,7 +164,12 @@
       "location": "Berlin, Germany",
       "url": "https://n26.com/en-eu/careers/positions/7845376",
       "description": "N26 is hiring a Team Lead to manage a team of four specialists within Non-Financial Risk Management, owning risk and control assessments, risk appetite frameworks, and enterprise-wide reporting to leadership.",
-      "tags": ["compliance-leadership", "berlin-based", "lead-plus", "startup"],
+      "tags": [
+        "compliance-leadership",
+        "berlin-based",
+        "lead-plus",
+        "startup"
+      ],
       "fit": 2,
       "datePosted": "2026-08-13",
       "verified": true,
@@ -148,7 +197,12 @@
       "location": "Berlin, Germany",
       "url": "https://wise.jobs/job/head-of-compliance-and-mlro-germany-in-berlin-jid-3398",
       "description": "Wise is hiring a Head of Compliance & MLRO to oversee compliance with German and EEA AML/CTF regulations, act as primary regulatory contact, and lead compliance policy, risk frameworks, and reporting for the German entity.",
-      "tags": ["compliance-leadership", "berlin-based", "lead-plus", "corporate"],
+      "tags": [
+        "compliance-leadership",
+        "berlin-based",
+        "lead-plus",
+        "corporate"
+      ],
       "fit": 2,
       "datePosted": "2026-08-13",
       "verified": true,
@@ -176,7 +230,12 @@
       "location": "Berlin, Germany",
       "url": "https://startup.jobs/head-of-compliance-operations-f-d-m-trade-republic-2-4537485",
       "description": "Trade Republic is hiring a Head of Compliance Operations to lead compliance operations, oversee KYC/AML processes at scale, and manage a team ensuring adherence to regulatory requirements across the bank's markets.",
-      "tags": ["compliance-leadership", "berlin-based", "lead-plus", "startup"],
+      "tags": [
+        "compliance-leadership",
+        "berlin-based",
+        "lead-plus",
+        "startup"
+      ],
       "fit": 3,
       "datePosted": "2026-08-13",
       "verified": false,
@@ -204,7 +263,12 @@
       "location": "Berlin, Germany",
       "url": "https://startup.jobs/kyc-manager-m-f-d-trade-republic-2-2840279",
       "description": "Trade Republic is hiring a KYC Manager to perform high-level KYC screening and reviews, guide junior team members through escalations, and ensure adherence to regulatory and partnership requirements.",
-      "tags": ["compliance-leadership", "berlin-based", "lead-plus", "startup"],
+      "tags": [
+        "compliance-leadership",
+        "berlin-based",
+        "lead-plus",
+        "startup"
+      ],
       "fit": 3,
       "datePosted": "2026-08-13",
       "verified": false,
@@ -232,7 +296,12 @@
       "location": "Berlin, Germany",
       "url": "https://job-boards.eu.greenhouse.io/raisin/jobs/4940916101",
       "description": "Raisin is hiring a Senior Manager AFC Advisory to own bank-wide and client-related AFC project planning, conduct money-laundering risk analyses, and serve as technical point of contact for audits.",
-      "tags": ["compliance-leadership", "berlin-based", "lead-plus", "startup"],
+      "tags": [
+        "compliance-leadership",
+        "berlin-based",
+        "lead-plus",
+        "startup"
+      ],
       "fit": 2,
       "datePosted": "2026-08-14",
       "verified": true,
@@ -260,7 +329,12 @@
       "location": "Berlin / Frankfurt, Germany",
       "url": "https://www.selbyjennings.com/en-de/job/head-of-compliance-mfd-fintech-berlinfrankfurt-pr572196_1768827684",
       "description": "A Berlin/Frankfurt fintech specializing in digital business loans for SMEs is hiring a Head of Compliance to own the full compliance framework and manage a team of 4-5 compliance professionals across GDPR, financial crime prevention, KYC/KYB, and outsourcing oversight.",
-      "tags": ["compliance-leadership", "berlin-based", "lead-plus", "startup"],
+      "tags": [
+        "compliance-leadership",
+        "berlin-based",
+        "lead-plus",
+        "startup"
+      ],
       "fit": 3,
       "datePosted": "2026-08-14",
       "verified": false,
@@ -288,7 +362,12 @@
       "location": "Berlin, Germany",
       "url": "https://jobs.lever.co/klarna/046f84b8-4b36-411b-ae1e-4d5d64be98a9",
       "description": "Klarna is expanding its AML organization in Berlin and Stockholm, hiring a Senior AML Expert/Manager to help own AML Group strategy, guide product development toward best-in-class AML & CTF solutions, and adapt controls to new markets and regulations.",
-      "tags": ["compliance-leadership", "berlin-based", "lead-plus", "corporate"],
+      "tags": [
+        "compliance-leadership",
+        "berlin-based",
+        "lead-plus",
+        "corporate"
+      ],
       "fit": 3,
       "datePosted": "2026-08-16",
       "verified": false,
@@ -316,7 +395,12 @@
       "location": "Berlin, Germany or Amsterdam, Netherlands",
       "url": "https://startup.jobs/head-of-risk-compliance-m-f-d-vivid-money-4131899",
       "description": "Vivid Money is hiring a Head of Risk & Compliance to own the risk management and compliance framework for Vivid Money B.V., covering AML, duty of care, operational, third-party, and tech risk, plus oversight of financial risks at the Group level.",
-      "tags": ["compliance-leadership", "berlin-based", "lead-plus", "startup"],
+      "tags": [
+        "compliance-leadership",
+        "berlin-based",
+        "lead-plus",
+        "startup"
+      ],
       "fit": 2,
       "datePosted": "2026-08-16",
       "verified": false,
@@ -344,7 +428,12 @@
       "location": "Berlin, Germany (Hybrid)",
       "url": "https://jobs.ashbyhq.com/pliant/29aa0f24-7c77-4e35-9b47-e176a0047ed0",
       "description": "Pliant is hiring a Head of AML Monitoring within its Compliance Onboarding department to lead AML transaction monitoring for the B2B payments fintech.",
-      "tags": ["compliance-leadership", "berlin-based", "lead-plus", "startup"],
+      "tags": [
+        "compliance-leadership",
+        "berlin-based",
+        "lead-plus",
+        "startup"
+      ],
       "fit": 3,
       "datePosted": "2026-08-17",
       "verified": true,
@@ -372,7 +461,14 @@
       "location": "Berlin, Germany",
       "url": "https://wellfound.com/jobs/3204422-deputy-mlro-f-m-d",
       "description": "Moss is hiring a Deputy MLRO to support the Director of Compliance/MLRO across AFC, regulatory compliance, and card fraud, with a mandate to quality-assure AFC risk analyses and build AI-driven compliance automation using tools like n8n and Claude workflows.",
-      "tags": ["compliance-leadership", "qa", "ai-automation", "berlin-based", "lead-plus", "startup"],
+      "tags": [
+        "compliance-leadership",
+        "qa",
+        "ai-automation",
+        "berlin-based",
+        "lead-plus",
+        "startup"
+      ],
       "fit": 3,
       "datePosted": "2026-08-10",
       "verified": true,
@@ -400,7 +496,13 @@
       "location": "Berlin, Germany",
       "url": "https://n26.com/en-eu/careers/positions/7758692",
       "description": "N26 is hiring an Audit Operations Senior Manager to lead the Internal Audit Quality Assurance and Improvement Program, managing audit governance, remediation tracking, and reporting to senior management and the board.",
-      "tags": ["qa", "compliance-leadership", "berlin-based", "lead-plus", "corporate"],
+      "tags": [
+        "qa",
+        "compliance-leadership",
+        "berlin-based",
+        "lead-plus",
+        "corporate"
+      ],
       "fit": 2,
       "datePosted": "2026-08-01",
       "verified": true,
@@ -428,7 +530,12 @@
       "location": "Frankfurt or Berlin, Germany",
       "url": "https://job-boards.greenhouse.io/solarisbank/jobs/8554454002",
       "description": "Solarisbank is hiring a Head of Process Architecture & Policy Management to own the bank's written rules framework (SfO) under MaRisk/German Banking Act and serve as primary contact for internal/external auditors on policy and internal-controls governance.",
-      "tags": ["compliance-leadership", "berlin-based", "lead-plus", "startup"],
+      "tags": [
+        "compliance-leadership",
+        "berlin-based",
+        "lead-plus",
+        "startup"
+      ],
       "fit": 2,
       "datePosted": "2026-08-01",
       "verified": true,
@@ -456,7 +563,12 @@
       "location": "Berlin, Germany",
       "url": "https://careers.westernunion.com/job-details/22853380/head-of-aml-compliance-berlin-berlin-de/",
       "description": "Western Union is hiring a Head of AML Compliance for its Berlin-based international bank entity, setting AML strategy, acting as key contact for the FMA and European supervisory authorities, and leading a team of AML experts.",
-      "tags": ["compliance-leadership", "berlin-based", "lead-plus", "corporate"],
+      "tags": [
+        "compliance-leadership",
+        "berlin-based",
+        "lead-plus",
+        "corporate"
+      ],
       "fit": 3,
       "datePosted": "2026-01-15",
       "verified": false,
@@ -484,7 +596,12 @@
       "location": "Berlin, Germany",
       "url": "https://www.mamgruppe.com/careers/senior-compliance-officer-berlin-10256-28606",
       "description": "A fast-growing, regulated financial services firm expanding into Germany is hiring a Senior Compliance Officer to own operational compliance for the new German entity, covering product governance, conduct risk, and regulator relationships.",
-      "tags": ["compliance-leadership", "berlin-based", "senior-specialist", "corporate"],
+      "tags": [
+        "compliance-leadership",
+        "berlin-based",
+        "senior-specialist",
+        "corporate"
+      ],
       "fit": 2,
       "datePosted": "2026-08-03",
       "verified": true,
@@ -512,7 +629,12 @@
       "location": "Berlin, Germany",
       "url": "https://job-boards.eu.greenhouse.io/raisin/jobs/4863206101",
       "description": "Raisin is hiring a Senior AFC Operations Manager to review complex transaction-monitoring alerts, decide on Suspicious Activity Reports, and drive the conceptual development of the bank's monitoring infrastructure and detection scenarios.",
-      "tags": ["compliance-leadership", "berlin-based", "senior-specialist", "startup"],
+      "tags": [
+        "compliance-leadership",
+        "berlin-based",
+        "senior-specialist",
+        "startup"
+      ],
       "fit": 2,
       "datePosted": "2026-07-01",
       "verified": false,
@@ -540,7 +662,13 @@
       "location": "Berlin, Germany",
       "url": "https://www.efinancialcareers.de/en/jobs-Germany-Mitte-Senior_AFC_Compliance_Officer.id24673556",
       "description": "Bitpanda is hiring a Senior AFC Compliance Officer to serve as appointed AMLO/Deputy AMLO for its German operations, owning the second-level AML control framework and driving data-led, automated improvements across case management and monitoring.",
-      "tags": ["compliance-leadership", "ai-automation", "berlin-based", "senior-specialist", "startup"],
+      "tags": [
+        "compliance-leadership",
+        "ai-automation",
+        "berlin-based",
+        "senior-specialist",
+        "startup"
+      ],
       "fit": 3,
       "datePosted": "2026-08-17",
       "verified": true,
@@ -568,7 +696,13 @@
       "location": "Berlin, Germany",
       "url": "https://www.efinancialcareers.de/en/jobs-Germany-Mitte-Compliance_Manager_mwd.id24611664",
       "description": "Scalable Capital is hiring a Compliance Manager to monitor compliance operations across securities and capital markets, implement MiFID II and WpHG requirements, and drive the digitalization and automation of internal compliance processes.",
-      "tags": ["compliance-leadership", "ai-automation", "berlin-based", "senior-specialist", "corporate"],
+      "tags": [
+        "compliance-leadership",
+        "ai-automation",
+        "berlin-based",
+        "senior-specialist",
+        "corporate"
+      ],
       "fit": 3,
       "datePosted": "2026-08-17",
       "verified": true,
@@ -586,6 +720,39 @@
           "What compliance processes are highest priority for digitalization and automation right now?",
           "How does this Compliance Manager role interact with Scalable's Legal and Risk functions?",
           "What tools or AI-based solutions is the compliance team currently piloting or considering?"
+        ]
+      }
+    },
+    {
+      "id": "coinbase-senior-manager-intl-regulatory-compliance-berlin-2026",
+      "title": "Senior Manager, International Regulatory Compliance",
+      "company": "Coinbase",
+      "location": "Berlin, Germany",
+      "url": "https://www.coinbase.com/careers/positions/5089037?gh_jid=5089037",
+      "description": "Coinbase is hiring a Senior Manager to lead and centrally coordinate the design and implementation of core Compliance Program elements across all non-US Coinbase entities, covering risk assessment, policy management, training, and regulatory change management.",
+      "tags": [
+        "compliance-leadership",
+        "berlin-based",
+        "lead-plus",
+        "corporate"
+      ],
+      "fit": 2,
+      "datePosted": "2026-08-19",
+      "verified": false,
+      "coverLetterDraft": "Dear Coinbase Hiring Team,\n\nI'm writing to apply for the Senior Manager, International Regulatory Compliance role. As Compliance Operations Manager at Pliant, I lead end-to-end KYC due diligence for corporate clients and drive AI-driven automation of compliance workflows as part of an internal AI team — experience directly relevant to designing and coordinating compliance program elements across multiple non-US entities.\n\nAt Moonfare, I co-led the firm's ongoing due-diligence review project and helped shape automation improvements with cross-functional stakeholders, guiding institutional clients through KYC/AML documentation. At J.P. Morgan Chase, I conducted due diligence across Corporate, Financial Institution, and Publicly Traded Company risk tiers, and at PwC I built AML risk ratings and delivered internal AML/KYC training across a six-month cross-border assignment. Across eight years in KYC, AML, and financial operations, I've built the regulatory-change management, policy design, and stakeholder-coordination skills this role requires, along with the four-eyes discipline needed to oversee compliance risk assessments across jurisdictions.\n\nI hold a Master's in Finance and Accounting, am based in Berlin, and am progressing toward German B2.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How would you design and roll out a core Compliance Program element (e.g. a risk assessment framework) across multiple non-US entities with differing local regulatory requirements?",
+          "Describe a time you coordinated with Compliance Officers in other jurisdictions to align on a shared program element.",
+          "How do you approach regulatory change management when a new EU or German regulation affects several entities at once?",
+          "What's your experience with compliance risk assessments in a crypto or digital-asset context, and how does it differ from traditional banking?",
+          "Walk us through how you've used automation or AI to improve compliance monitoring or reporting.",
+          "How do you balance central program consistency with the need for local regulatory nuance?"
+        ],
+        "toAsk": [
+          "How does the International Compliance team currently split responsibilities between central program design and local execution in each entity?",
+          "What does the regulatory roadmap look like for Coinbase's German/EU entities over the next 12 months?",
+          "How is AI or automation currently used within the International Compliance program, and where do you see the biggest opportunity?"
         ]
       }
     }
