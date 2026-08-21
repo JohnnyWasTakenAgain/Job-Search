@@ -885,6 +885,204 @@
           "What does success in the first six months in this role look like from your perspective?"
         ]
       }
+    },
+    {
+      "id": "n26-afc-sme-senior-associate-2026",
+      "title": "Anti-Financial Crime Subject Matter Expert (Senior Associate)",
+      "company": "N26",
+      "location": "Berlin, Germany",
+      "url": "https://n26.com/en-eu/careers/positions/8132219",
+      "description": "N26 is hiring a second-line AFC SME to design scalable, audit-proof compliance processes for retail banking product teams and to identify opportunities for AI/ML integration in financial-crime detection.",
+      "tags": [
+        "ai-automation",
+        "berlin-based",
+        "senior-specialist",
+        "corporate"
+      ],
+      "fit": 2,
+      "datePosted": "2026-08-21",
+      "verified": true,
+      "coverLetterDraft": "Dear N26 Hiring Team,\n\nI'm applying for the Anti-Financial Crime Subject Matter Expert role. Over 8+ years in KYC/AML — most recently leading end-to-end KYC due diligence and AI-driven compliance automation at Pliant — I've built the kind of second-line, audit-proof processes this role calls for, and I've done it while actively identifying where AI/ML can reduce manual review load without weakening controls.\n\nAt Moonfare, I co-led the firm's ongoing due-diligence review project and worked directly with cross-functional stakeholders to shape automation improvements — the same collaboration N26's Product and Engineering partnership requires. Earlier, at J.P. Morgan Chase, I conducted due diligence across Corporate, Financial Institution, and Publicly Traded Company risk tiers, giving me the regulatory range to help scale AFC frameworks for a fast-growing retail bank.\n\nI hold a Master's in Finance and Accounting, am SQL-proficient, and speak German at B1 progressing to B2 — enough to operate confidently in N26's Berlin base while continuing to build local fluency.\n\nI'd welcome the chance to discuss how I can help N26 scale AFC through smarter automation.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "Walk us through how you'd design a second-line AFC process that's both scalable and audit-proof.",
+          "Describe a time you identified an opportunity to apply AI/ML to a compliance workflow. What was the outcome?",
+          "How do you balance automation efficiency with regulatory risk tolerance?",
+          "How would you work with Product and Engineering teams who don't have a compliance background?",
+          "Tell us about a time you had to push back on a business stakeholder for compliance reasons.",
+          "What AFC/KYC regulatory frameworks are you most familiar with in the German/EU context?"
+        ],
+        "toAsk": [
+          "What does 'scalable AI/ML integration' look like in practice today at N26 — is there an existing pilot or is this role expected to build the first one?",
+          "How is the Second Line AFC function structured relative to First Line operations, and who does this role partner with most closely?",
+          "What does success look like in the first 6 months for this role?"
+        ]
+      }
+    },
+    {
+      "id": "bitpanda-senior-specialist-internal-audit-2026",
+      "title": "Senior Specialist, Internal Audit",
+      "company": "Bitpanda",
+      "location": "Berlin, Germany (hybrid with Vienna, Austria)",
+      "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4911699101",
+      "description": "Bitpanda is building an in-house internal audit function across DACH, transitioning audits from external providers, and is hiring a Senior Specialist to audit compliance and security controls against EU regulatory frameworks.",
+      "tags": [
+        "qa",
+        "berlin-based",
+        "senior-specialist",
+        "startup"
+      ],
+      "fit": 2,
+      "datePosted": "2026-08-21",
+      "verified": true,
+      "coverLetterDraft": "Dear Bitpanda Hiring Team,\n\nI'm writing to apply for the Senior Specialist, Internal Audit role. With 8+ years in KYC/AML compliance across banks, fintechs, and asset managers, I bring a reviewer's eye for control gaps and a track record of turning findings into process fixes — not just flagging them.\n\nAt Pliant, I lead end-to-end KYC due diligence and apply the four-eyes principle daily to calibrate case quality across a team. At Moonfare, I co-led the firm's ongoing due-diligence review project, working with cross-functional stakeholders to close process gaps. At J.P. Morgan Chase, I conducted due diligence across multiple risk tiers, learning how large institutions structure controls that can withstand external audit scrutiny — directly relevant to building an in-house audit function.\n\nI hold a Master's in Finance and Accounting and a Bachelor's in Mathematics, am comfortable with SQL and structured data review, and am building German fluency (B1, progressing to B2) alongside native-level English.\n\nI'd welcome the opportunity to bring this audit and controls background to Bitpanda's DACH internal audit build-out.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How would you approach standing up an internal audit function that's currently outsourced?",
+          "Walk us through how you'd design an audit test plan for a KYC/AML control.",
+          "Describe a time you found a control gap during a review — how did you escalate and resolve it?",
+          "How do you stay current on EU regulatory frameworks relevant to crypto/fintech?",
+          "How comfortable are you splitting time between Berlin and Vienna, and coordinating audits across two offices?",
+          "Tell us about a time your audit findings were disputed by the team being reviewed — how did you handle it?"
+        ],
+        "toAsk": [
+          "What's driving the move from external audit providers to an in-house function — is it cost, control, or regulatory expectation?",
+          "What does the DACH audit scope currently cover, and how much of it touches AML/KYC specifically?",
+          "How is success measured for this role in year one — audits completed, findings closed, or something else?"
+        ]
+      }
+    },
+    {
+      "id": "raisin-afc-operations-manager-2026",
+      "title": "AFC Operations Manager (m/f/d)",
+      "company": "Raisin",
+      "location": "Berlin, Germany",
+      "url": "https://job-boards.eu.greenhouse.io/raisin/jobs/4945588101",
+      "description": "Raisin is hiring an AFC Operations Manager to run sanctions/PEP screening and SAR handling end-to-end, optimize screening infrastructure, and execute internal QA controls ensuring KYC/screening output meets regulatory standards.",
+      "tags": [
+        "qa",
+        "berlin-based",
+        "senior-specialist",
+        "startup"
+      ],
+      "fit": 2,
+      "datePosted": "2026-08-21",
+      "verified": true,
+      "coverLetterDraft": "Dear Raisin Hiring Team,\n\nI'm applying for the AFC Operations Manager role. Sanctions and PEP screening quality control is core to what I already do: at Pliant, I lead KYC due diligence end-to-end and apply the four-eyes principle to keep screening output consistent and audit-ready.\n\nAt Moonfare, I co-led the ongoing due-diligence review project and helped shape automation improvements to screening and alert workflows with cross-functional stakeholders. At J.P. Morgan Chase, I handled due diligence across Corporate, Financial Institution, and Publicly Traded Company risk tiers, and at PwC I built AML risk ratings and delivered AML/KYC training — so I know both the analyst-level detail and how to set the standard others are held to.\n\nI'm also active in AI-driven process automation for compliance workflows, which fits directly with optimizing your screening infrastructure rather than just running it as-is.\n\nI hold a Master's in Finance and Accounting, working SQL skills, and German at B1 progressing to B2.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How do you ensure consistency in sanctions/PEP screening quality across a team?",
+          "Walk us through your approach to optimizing a screening or alert-handling infrastructure.",
+          "Describe a SAR case you handled end-to-end — what was the outcome?",
+          "How do you apply the four-eyes principle in day-to-day case review?",
+          "What metrics would you use to track screening quality over time?",
+          "Tell us about a time you improved a compliance process through automation."
+        ],
+        "toAsk": [
+          "What screening/case-management system does the team currently use, and are there plans to change it?",
+          "How is the AFC Operations team structured, and does this role have people-management responsibility today or is that planned to grow?",
+          "What's the current backlog/volume trend for alerts, and is this role expected to help reduce it?"
+        ]
+      }
+    },
+    {
+      "id": "n26-senior-manager-regulatory-project-management-2026",
+      "title": "Senior Manager, Regulatory Project Management",
+      "company": "N26",
+      "location": "Berlin, Germany",
+      "url": "https://n26.com/en-eu/careers/positions/8108374",
+      "description": "N26 is hiring a Senior Manager to lead a team of Regulatory Project Managers, owning a portfolio of high-impact regulatory and compliance initiatives reported directly to C-suite and Board stakeholders.",
+      "tags": [
+        "compliance-leadership",
+        "berlin-based",
+        "lead-plus",
+        "corporate"
+      ],
+      "fit": 3,
+      "datePosted": "2026-08-21",
+      "verified": true,
+      "coverLetterDraft": "Dear N26 Hiring Team,\n\nI'm applying for the Senior Manager, Regulatory Project Management role. I bring 8+ years in KYC/AML compliance and hands-on experience managing regulatory-driven initiatives, most recently as Compliance Operations Manager at Pliant, where I lead end-to-end KYC due diligence for corporate clients and drive AI-driven automation of compliance workflows as part of an internal AI team.\n\nAt Moonfare, I co-led the firm's ongoing due-diligence review project, coordinating cross-functional stakeholders to deliver on regulatory timelines. At J.P. Morgan Chase, I worked across Corporate, Financial Institution, and Publicly Traded Company risk tiers, which gave me first-hand exposure to how large institutions structure and govern regulatory programs — context I'd bring to leading N26's regulatory project portfolio.\n\nI'm ready to step into formal people management: I've mentored and calibrated casework informally throughout my career and am looking for a role where that becomes a core part of the job.\n\nI hold a Master's in Finance and Accounting and am building German fluency (B1 to B2) to operate fully in N26's Berlin base.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How would you structure and prioritize a portfolio of regulatory-driven projects?",
+          "Describe your experience managing a team — how do you set expectations and give feedback?",
+          "Walk us through a time you delivered a regulatory initiative against a hard deadline.",
+          "How do you communicate project risk and status to C-suite or Board stakeholders?",
+          "Tell us about a time a regulatory project went off track — what did you do?",
+          "How do you balance compliance rigor with delivery speed in a fast-moving fintech?"
+        ],
+        "toAsk": [
+          "What does the current portfolio of regulatory projects look like, and which are the highest priority right now?",
+          "How does this role's team of Regulatory Project Managers interface with AFC/KYC operations teams like the one I currently lead?",
+          "What reporting cadence and format does the C-suite/Board expect from this role?"
+        ]
+      }
+    },
+    {
+      "id": "deutschebank-teamlead-kyc-corporatebank-afc-2026",
+      "title": "Team Lead KYC – Corporate Bank (m/w/d), Anti-Financial Crime",
+      "company": "Deutsche Bank",
+      "location": "Berlin, Germany",
+      "url": "https://de.linkedin.com/jobs/view/team-lead-kyc-%E2%80%93-corporate-bank-m-w-d-anti-financial-crime-at-deutsche-bank-3397454727",
+      "description": "Deutsche Bank is hiring a Team Lead, reporting to the Team Manager of Business Line AFC Corporate Bank/Investment Bank Germany-EMEA, to oversee daily operations of a KYC team handling new client adoption and ongoing due diligence.",
+      "tags": [
+        "compliance-leadership",
+        "berlin-based",
+        "lead-plus",
+        "corporate"
+      ],
+      "fit": 3,
+      "datePosted": "2026-08-21",
+      "verified": false,
+      "coverLetterDraft": "Dear Deutsche Bank Hiring Team,\n\nI'm applying for the Team Lead KYC – Corporate Bank (AFC) role. This is squarely the next step I'm looking for: 8+ years in KYC/AML, most recently leading end-to-end KYC due diligence for corporate clients at Pliant, combined with a genuine appetite to move into formal team leadership.\n\nAt Moonfare, I co-led the firm's ongoing due-diligence review project, working with cross-functional stakeholders to keep case quality consistent under the four-eyes principle. Earlier, as a KYC Analyst at J.P. Morgan Chase, I conducted due diligence across Corporate, Financial Institution, and Publicly Traded Company risk tiers — the same population this Corporate Bank AFC team reviews daily, so I understand both the workload and the judgment calls a Team Lead needs to make.\n\nI also bring AI-driven process automation experience from my current role, which I'd want to apply to daily operations here where it makes reviews faster without weakening controls.\n\nI hold a Master's in Finance and Accounting and am building German to B2.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How would you manage daily operations for a team handling both new client adoption and ongoing KYC reviews?",
+          "Describe your experience managing or mentoring a team, even informally.",
+          "Walk us through how you'd handle a case where an analyst and a reviewer disagree under the four-eyes principle.",
+          "What's your experience with Corporate Bank / Investment Bank client risk tiers specifically?",
+          "How do you handle competing priorities between review quality and turnaround-time SLAs?",
+          "Tell us about a time you had to escalate a high-risk finding to senior stakeholders."
+        ],
+        "toAsk": [
+          "What does the reporting line look like between this Team Lead role and the Team Manager?",
+          "What's the current team size and case volume, and is headcount growth planned?",
+          "Are there active initiatives to modernize or automate parts of the KYC review process I'd be inheriting?"
+        ]
+      }
+    },
+    {
+      "id": "jpmorgan-retail-compliance-officer-vp-berlin-2026",
+      "title": "Retail Compliance Officer, Vice President (all genders)",
+      "company": "J.P. Morgan Chase & Co.",
+      "location": "Berlin (Mitte), Germany",
+      "url": "https://www.efinancialcareers.de/jobs-Germany-Berlin-Retail_Compliance_Officer_Vice_President_all_genders.id24345898",
+      "description": "J.P. Morgan is hiring a VP-level senior compliance advisor for retail/consumer banking, covering new-product compliance review, regulatory horizon-scanning, risk-based monitoring/testing design, and governance-level reporting.",
+      "tags": [
+        "compliance-leadership",
+        "berlin-based",
+        "lead-plus",
+        "corporate"
+      ],
+      "fit": 2,
+      "datePosted": "2026-08-20",
+      "verified": true,
+      "coverLetterDraft": "Dear J.P. Morgan Hiring Team,\n\nI'm applying for the Retail Compliance Officer, Vice President role in Berlin. I started my compliance career at J.P. Morgan Chase as a KYC Analyst, conducting due diligence across Corporate, Financial Institution, and Publicly Traded Company risk tiers — so I know the standards and culture this role operates in from the inside.\n\nSince then, I've built 8+ years of KYC/AML and regulatory experience: leading end-to-end KYC due diligence at Pliant, co-leading Moonfare's ongoing due-diligence review project, and delivering AML/KYC training and risk ratings at PwC. That combination of hands-on casework, regulatory escalation management, and stakeholder-facing delivery maps directly onto this role's compliance-review, horizon-scanning, and governance-reporting responsibilities for retail/consumer banking.\n\nI also bring AI-driven process automation experience relevant to modernizing monitoring and testing design, plus advanced Excel and SQL skills for data-driven compliance reporting.\n\nI hold a Master's in Finance and Accounting and a Bachelor's in Mathematics, and I'm building German fluency (B1 to B2) to work effectively in Berlin.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How do you approach horizon-scanning for upcoming retail banking regulation in Germany?",
+          "Walk us through how you'd design a risk-based monitoring and testing program.",
+          "Describe a time you advised a business team on a new product's compliance risk.",
+          "How do you report compliance metrics to governance committees?",
+          "Tell us about a time you disagreed with a business decision on regulatory grounds — how did you resolve it?",
+          "What's your experience with German retail/consumer banking regulation specifically (vs. wholesale/corporate)?"
+        ],
+        "toAsk": [
+          "How does this VP role interact with first-line retail banking teams versus second-line compliance leadership?",
+          "What are the top 2-3 regulatory priorities for J.P. Morgan's German retail business right now?",
+          "Is there a path from this role toward people management, or is it primarily an individual advisory function?"
+        ]
+      }
     }
   ]
 }
