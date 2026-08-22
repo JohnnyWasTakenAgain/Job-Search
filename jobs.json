@@ -1083,6 +1083,75 @@
           "Is there a path from this role toward people management, or is it primarily an individual advisory function?"
         ]
       }
+    },
+    {
+      "id": "n26-senior-business-audit-manager-2026",
+      "title": "Senior Business Audit Manager",
+      "company": "N26",
+      "location": "Berlin, Germany",
+      "url": "https://n26.com/en-eu/careers/positions/8063968",
+      "description": "N26 is hiring a Senior Business Audit Manager to conduct risk-based internal audits across the bank's business operations, preparing audit reports and supervising and reviewing the audit outputs of junior team members.",
+      "tags": [
+        "qa",
+        "compliance-leadership",
+        "berlin-based",
+        "lead-plus",
+        "corporate"
+      ],
+      "fit": 2,
+      "datePosted": "2026-08-22",
+      "verified": true,
+      "coverLetterDraft": "Dear N26 Hiring Team,\n\nI'm writing to apply for the Senior Business Audit Manager role. While my background is in KYC/AML compliance rather than internal audit specifically, I bring the exact review discipline this role calls for: as Compliance Operations Manager at Pliant, I apply the four-eyes principle daily to calibrate case quality across a team, and I drive AI-driven automation of compliance workflows that would translate directly to modernizing audit testing and reporting.\n\nAt Moonfare, I co-led the firm's ongoing due-diligence review project, working with cross-functional stakeholders to close process gaps under a shared quality standard. At J.P. Morgan Chase, I conducted due diligence across Corporate, Financial Institution, and Publicly Traded Company risk tiers, learning how large institutions build controls that withstand external audit scrutiny. At PwC, I built AML risk ratings and delivered internal training that fed directly into control frameworks.\n\nI hold a Master's in Finance and Accounting and a Bachelor's in Mathematics, am comfortable with SQL and structured data review, and am progressing toward German B2.\n\nI'd welcome the opportunity to bring this review and controls background to N26's Business Audit team.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "This role sits in Internal Audit rather than Compliance — how would you apply your KYC/AML review background to auditing broader business operations?",
+          "How would you design a risk-based audit plan for a new business area at N26?",
+          "Describe your experience supervising or reviewing the work of junior team members and giving them feedback.",
+          "Walk us through how you communicate sensitive audit findings to management or committees.",
+          "How have you used automation or data analysis to identify systemic issues rather than one-off findings?",
+          "Tell us about a time you disagreed with a business team's response to an audit finding — how did you resolve it?"
+        ],
+        "toAsk": [
+          "How does the Business Audit team coordinate with Compliance and Non-Financial Risk at N26?",
+          "What does the current audit portfolio prioritize, and what's driving this hire?",
+          "Is there a path for someone from a compliance/KYC background to grow within N26's Audit function?"
+        ]
+      }
+    },
+    {
+      "id": "solarisbank-senior-audit-manager-model-validation-2026",
+      "title": "Senior Audit Manager - Model Validation (f/m/d)",
+      "company": "Solarisbank",
+      "location": "Frankfurt or Berlin, Germany",
+      "url": "https://job-boards.greenhouse.io/solarisbank/jobs/8605280002",
+      "description": "Solarisbank is hiring a Senior Audit Manager to independently lead non-IT audit engagements focused on validating complex mathematical and AI/ML models, coordinating audit team members and performing audit quality reviews.",
+      "tags": [
+        "qa",
+        "ai-automation",
+        "compliance-leadership",
+        "berlin-based",
+        "lead-plus",
+        "startup"
+      ],
+      "fit": 2,
+      "datePosted": "2026-08-22",
+      "verified": true,
+      "coverLetterDraft": "Dear Solarisbank Hiring Team,\n\nI'm applying for the Senior Audit Manager - Model Validation role. My background is concentrated in KYC/AML compliance rather than quantitative model validation, but I bring the audit-leadership and review discipline this role needs: as Compliance Operations Manager at Pliant, I lead end-to-end KYC due diligence and apply the four-eyes principle to coordinate and calibrate the quality of a team's case output daily.\n\nAt Moonfare, I co-led the firm's ongoing due-diligence review project and worked with cross-functional stakeholders on automation improvements. At J.P. Morgan Chase, I conducted due diligence across Corporate, Financial Institution, and Publicly Traded Company risk tiers within a tightly governed banking environment, and at PwC I built AML risk ratings and delivered internal AML/KYC training.\n\nI don't come from a quantitative modeling background, but I'm SQL-proficient, comfortable with structured data analysis, and genuinely interested in extending into model-risk review as part of a broader move toward audit leadership.\n\nI hold a Master's in Finance and Accounting and a Bachelor's in Mathematics, and am based in Berlin with German at B1 progressing to B2.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "This role centers on validating quantitative and AI/ML models — how would you get up to speed on backtesting and stress-testing methodology given your compliance background?",
+          "How would you lead a non-IT audit engagement from planning through reporting?",
+          "Describe your experience coordinating and reviewing the work of other team members during a review or audit.",
+          "How do you approach challenging a model owner's assumptions when you find a gap?",
+          "What's your familiarity with MaRisk/KWG requirements for internal controls?",
+          "Tell us about a time you had to deliver a difficult finding to senior stakeholders."
+        ],
+        "toAsk": [
+          "How is the Model Validation function structured relative to the wider Internal Audit team, and how much cross-training is expected?",
+          "What tools or data science stack does the team currently use, and what support is there to ramp up on it?",
+          "Is this role based primarily in Frankfurt or Berlin in practice, and how much travel is expected between the two?"
+        ]
+      }
     }
   ]
 }
