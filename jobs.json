@@ -1287,6 +1287,39 @@
           "What team or support structure would this MLRO Compliance Officer role have access to?"
         ]
       }
+    },
+    {
+      "id": "airwallex-senior-director-eu-me-mlro-2026",
+      "title": "Senior Director EU & ME, MLRO",
+      "company": "Airwallex",
+      "location": "Amsterdam, Netherlands (EMEA region)",
+      "url": "https://careers.airwallex.com/job/15a5d8b4-a5fd-4b4d-a933-387702221b75/senior-director-eu-me-mlro/",
+      "description": "Airwallex is hiring a Senior Director EU & ME, MLRO to lead and mentor a decentralized team of in-country MLROs across Europe and the Middle East, act as primary regulatory liaison with central banks, and provide compliance sign-off on high-risk escalations as the region's definitive second-line authority.",
+      "tags": [
+        "compliance-leadership",
+        "remote-europe",
+        "lead-plus",
+        "startup"
+      ],
+      "fit": 2,
+      "datePosted": "2026-08-20",
+      "verified": true,
+      "coverLetterDraft": "Dear Airwallex Hiring Team,\n\nI'm writing to apply for the Senior Director EU & ME, MLRO role. As Compliance Operations Manager at Pliant, I lead end-to-end KYC due diligence for corporate clients and drive AI-driven automation of compliance workflows — a strong foundation for overseeing local financial crime operations and compliance workflows across EMEA jurisdictions.\n\nAt Moonfare, I co-led the firm's ongoing due-diligence review project and worked with cross-functional stakeholders on automation improvements; at J.P. Morgan Chase, I conducted due diligence across Corporate, Financial Institution, and Publicly Traded Company risk tiers; and at PwC I built AML risk ratings and delivered internal AML/KYC training, including a six-month on-site assignment in the Netherlands. Eight-plus years of enhanced due diligence, sanctions and PEP screening, and four-eyes review discipline have prepared me to provide compliance sign-off on high-risk decisions and mentor a team toward consistent global standards.\n\nWhile I haven't yet held a named MLRO title, I bring the regulatory depth, escalation judgment, and stakeholder-facing experience — including prior on-the-ground time in the Netherlands — this second-line leadership role requires.\n\nI hold a Master's in Finance and Accounting, am fluent in English, and am progressing toward German B2.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "This role sits at Senior Director level leading a team of in-country MLROs — how would you approach stepping into people leadership of that scope without having held a named MLRO title before?",
+          "How would you structure and prioritize regulatory relationships across multiple central banks in the EMEA region?",
+          "Describe how you'd provide compliance sign-off on a high-risk escalation under time pressure.",
+          "Walk us through how you'd ensure consistent application of global AML/CFT standards across a decentralized regional team.",
+          "How do you approach advising Product on licensing strategy and new-market rollouts from a compliance perspective?",
+          "Tell us about a time you built trust quickly with a new regulator or supervisory authority."
+        ],
+        "toAsk": [
+          "How is the decentralized team of in-country MLROs currently structured, and how many direct or dotted-line reports would this role have?",
+          "What's driving this hire — is EMEA regulatory scope expanding, or is this a succession/backfill?",
+          "How does escalation to the Governance and Risk Committee work in practice, and how much autonomy does this role have before something needs Committee sign-off?"
+        ]
+      }
     }
   ]
 }
