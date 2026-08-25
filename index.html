@@ -16,7 +16,6 @@
     --violet: #8b8fd6; --violet-dim: rgba(139,143,214,0.14);
     --date-green: #5fbf87; --date-green-dim: rgba(95,191,135,0.14);
     --date-yellow: #e0c341; --date-yellow-dim: rgba(224,195,65,0.14);
-    --date-blue: #5b93d1; --date-blue-dim: rgba(91,147,209,0.14);
     --display: 'Space Grotesk', sans-serif; --body: 'Inter', sans-serif; --mono: 'JetBrains Mono', monospace;
   }
   *{box-sizing:border-box;}
@@ -40,6 +39,7 @@
   .tabs{display:flex;gap:6px;margin-top:14px;overflow-x:auto;padding-bottom:4px;flex-wrap:wrap;}
   .tab{font-family:var(--mono);font-size:12px;white-space:nowrap;padding:8px 13px;border-radius:20px;background:var(--bg-alt);border:1px solid var(--border);color:var(--text-dim);}
   .tab.active{background:var(--amber-dim);border-color:var(--amber);color:var(--amber);}
+  .tab.stale{opacity:0.75;}
   .content{max-width:900px;margin:0 auto;padding:22px 20px 80px;}
   .empty{text-align:center;padding:60px 20px;color:var(--text-faint);font-family:var(--mono);font-size:13px;border:1px dashed var(--border);border-radius:12px;}
   .empty b{display:block;color:var(--text-dim);font-family:var(--display);font-size:16px;margin-bottom:6px;}
@@ -72,7 +72,6 @@
   .badge.new{background:var(--amber-dim);color:var(--amber);}
   .badge.date-today{background:var(--date-green-dim);color:var(--date-green);}
   .badge.date-3d{background:var(--date-yellow-dim);color:var(--date-yellow);}
-  .badge.date-7d{background:var(--date-blue-dim);color:var(--date-blue);}
   .badge.date-old{background:var(--red-dim);color:var(--red);}
   .title-link{color:inherit;text-decoration:none;border-bottom:1px dashed var(--text-faint);}
   .title-link:hover{border-bottom-color:var(--amber);color:var(--amber);}
@@ -93,7 +92,7 @@
 </head>
 <body>
 
-<div class="note-banner">Statusy i notatki zapisują się lokalnie w tej przeglądarce · nowe oferty dopisuje Twój Claude Code Routine w jobs.json</div>
+<div class="note-banner">Statusy i notatki zapisują się lokalnie w tej przeglądarce · nowe oferty dopisuje Twój Claude Code Routine w jobs.json · duplikaty (ten sam link) są automatycznie ukrywane</div>
 
 <div class="topbar">
   <div class="topbar-row">
@@ -111,7 +110,6 @@
   <div class="search-row" style="display:flex;gap:8px;flex-wrap:wrap;">
     <input class="search-input" id="searchInput" placeholder="Szukaj po firmie, stanowisku, lokalizacji…" style="flex:1;min-width:160px;">
     <button class="btn-ghost" id="verifiedToggle">★ Tylko zweryfikowane</button>
-    <button class="btn-ghost" id="archiveToggle">Pokaż starsze (&gt;7 dni)</button>
   </div>
   <div class="tabs" id="tabs"></div>
 </div>
@@ -124,8 +122,15 @@ let data = {tagLabels:{}, jobs:[]};
 let localState = {};
 let activeTab = null;
 let search = '';
-let showArchived = false;
 let onlyVerified = false;
+
+const PLACEMENTS = ['berlin-based','remote-europe','poland'];
+const FIXED_LABELS = {
+  'berlin-based':'Berlin',
+  'remote-europe':'Remote — Europe',
+  'poland':'Poland',
+  'stale-7d':'Powyżej 7 dni'
+};
 
 function loadLocal(){
   try{ localState = JSON.parse(localStorage.getItem(LS_KEY) || '{}'); }catch(e){ localState = {}; }
@@ -136,16 +141,59 @@ function setLocal(id, patch){ localState[id] = {...getLocal(id), ...patch}; save
 
 function escapeHtml(s){ const d = document.createElement('div'); d.textContent = s||''; return d.innerHTML; }
 function fitLabel(f){ return f===3?'Strong fit':f===2?'Good fit':'Maybe fit'; }
-function tagLabel(tag){ return (data.tagLabels && data.tagLabels[tag]) || tag.replace(/-/g,' ').replace(/\b\w/g, c=>c.toUpperCase()); }
-function dateBadge(datePosted){
+function tagLabel(tag){ return (data.tagLabels && data.tagLabels[tag]) || FIXED_LABELS[tag] || tag.replace(/-/g,' ').replace(/\b\w/g, c=>c.toUpperCase()); }
+
+function ageDays(datePosted){
   if(!datePosted) return null;
-  const ageMs = Date.now() - Date.parse(datePosted);
-  if(isNaN(ageMs)) return null;
-  const days = Math.floor(ageMs/86400000);
+  const ms = Date.now() - Date.parse(datePosted);
+  if(isNaN(ms)) return null;
+  return Math.floor(ms/86400000);
+}
+
+// date badge: green today, yellow up to 3 days, red 4-7 days, nothing beyond (item moves to its own tab instead)
+function dateBadge(datePosted){
+  const days = ageDays(datePosted);
+  if(days===null) return null;
   if(days<=0) return {label:'● Dziś', cls:'date-today'};
   if(days<=3) return {label:`● ${days}d temu`, cls:'date-3d'};
-  if(days<7) return {label:`● ${days}d temu`, cls:'date-7d'};
-  return {label:`● ${days}d temu`, cls:'date-old'};
+  if(days<=7) return {label:`● ${days}d temu`, cls:'date-old'};
+  return null;
+}
+
+// derive a single location placement per job, with backward-compat fallback to old "tags" array
+function placementOf(job){
+  if(job.placement && PLACEMENTS.includes(job.placement)) return job.placement;
+  if(Array.isArray(job.tags)){
+    if(job.tags.includes('poland')) return 'poland';
+    if(job.tags.includes('berlin-based')) return 'berlin-based';
+    if(job.tags.includes('remote-europe')) return 'remote-europe';
+  }
+  return 'other';
+}
+
+// each job belongs to exactly ONE tab: its placement, unless it's stale (>7 days) and not
+// actively being tracked (applied/interview) — then it moves to the stale-7d tab instead.
+function effectiveTab(job, local){
+  const protected_ = local.stage==='applied' || local.stage==='interview';
+  const days = ageDays(job.datePosted);
+  if(!protected_ && days!==null && days>7) return 'stale-7d';
+  return placementOf(job);
+}
+
+function dedupeJobs(jobs){
+  const byKey = new Map();
+  jobs.forEach(job=>{
+    const key = (job.url && job.url.trim().toLowerCase()) || (job.title+'|'+job.company).toLowerCase();
+    const existing = byKey.get(key);
+    if(!existing){
+      byKey.set(key, job);
+      return;
+    }
+    // prefer the more complete / verified copy
+    const score = j => (j.verified===true?2:0) + (j.coverLetterDraft?1:0) + (j.interviewPrep?1:0);
+    if(score(job) > score(existing)) byKey.set(key, job);
+  });
+  return [...byKey.values()];
 }
 
 async function init(){
@@ -154,15 +202,12 @@ async function init(){
     const res = await fetch('./jobs.json?_=' + Date.now());
     data = await res.json();
     if(!data.tagLabels) data.tagLabels = {};
-    // backward compat: old entries might still use "category" instead of "tags"
     data.jobs.forEach(j=>{ if(!j.tags) j.tags = j.category ? [j.category] : []; });
+    data.jobs = dedupeJobs(data.jobs);
     document.getElementById('lastUpdated').textContent = data.jobs.length + ' ofert w bazie';
   }catch(e){
     document.getElementById('lastUpdated').textContent = 'nie udało się wczytać jobs.json';
   }
-  const allTags = new Set();
-  data.jobs.forEach(j=>j.tags.forEach(t=>allTags.add(t)));
-  activeTab = allTags.size ? [...allTags][0] : null;
   render();
 }
 
@@ -170,14 +215,18 @@ function renderTabs(){
   const tabsEl = document.getElementById('tabs');
   tabsEl.innerHTML = '';
   const counts = {};
-  data.jobs.forEach(j=>j.tags.forEach(t=>counts[t]=(counts[t]||0)+1));
-  const tags = Object.keys(counts).sort((a,b)=>counts[b]-counts[a]);
-  if(!activeTab && tags.length) activeTab = tags[0];
-  tags.forEach(tag=>{
+  data.jobs.forEach(j=>{
+    const t = effectiveTab(j, getLocal(j.id));
+    counts[t] = (counts[t]||0)+1;
+  });
+  const order = [...PLACEMENTS, 'stale-7d'].filter(t=>counts[t]>0);
+  Object.keys(counts).forEach(t=>{ if(!order.includes(t)) order.push(t); });
+  if(!activeTab || !counts[activeTab]) activeTab = order[0] || null;
+  order.forEach(t=>{
     const btn = document.createElement('button');
-    btn.className = 'tab' + (activeTab===tag?' active':'');
-    btn.innerHTML = `${escapeHtml(tagLabel(tag))} <span style="opacity:.7">${counts[tag]}</span>`;
-    btn.onclick = ()=>{ activeTab = tag; render(); };
+    btn.className = 'tab' + (activeTab===t?' active':'') + (t==='stale-7d'?' stale':'');
+    btn.innerHTML = `${escapeHtml(tagLabel(t))} <span style="opacity:.7">${counts[t]}</span>`;
+    btn.onclick = ()=>{ activeTab = t; render(); };
     tabsEl.appendChild(btn);
   });
 }
@@ -191,19 +240,10 @@ function renderStats(){
 function renderContent(){
   const content = document.getElementById('content');
   content.innerHTML = '';
-  let jobs = data.jobs.filter(j=>j.tags.includes(activeTab));
+  let jobs = data.jobs.filter(j=>effectiveTab(j, getLocal(j.id))===activeTab);
   const q = search.trim().toLowerCase();
   if(q) jobs = jobs.filter(j=>(j.title+' '+j.company+' '+(j.location||'')+' '+(j.description||'')).toLowerCase().includes(q));
   if(onlyVerified) jobs = jobs.filter(j=>j.verified===true);
-  if(!showArchived){
-    jobs = jobs.filter(j=>{
-      const local = getLocal(j.id);
-      if(local.stage==='applied' || local.stage==='interview') return true;
-      if(!j.datePosted) return true;
-      const ageMs = Date.now() - Date.parse(j.datePosted);
-      return isNaN(ageMs) || ageMs <= 7*86400000;
-    });
-  }
   jobs.sort((a,b)=> (b.fit||1)-(a.fit||1) || (b.verified===true)-(a.verified===true));
 
   if(jobs.length===0){
@@ -225,7 +265,8 @@ function renderContent(){
     if(local.notInterested) badges += `<span class="badge notint">Nie interesuje</span>`;
     if(local.stage==='new') badges += `<span class="badge new">Nowe</span>`;
 
-    const otherTags = job.tags.filter(t=>t!==activeTab);
+    // descriptive chips: everything except placement-type tags (those are now implied by the tab)
+    const otherTags = (job.tags||[]).filter(t=>!PLACEMENTS.includes(t));
     const chips = otherTags.map(t=>`<span class="tag-chip">${escapeHtml(tagLabel(t))}</span>`).join('');
 
     const hasCover = job.coverLetterDraft && job.coverLetterDraft.trim();
@@ -292,12 +333,6 @@ let searchTimer;
 document.getElementById('searchInput').addEventListener('input', (e)=>{
   clearTimeout(searchTimer);
   searchTimer = setTimeout(()=>{ search = e.target.value; render(); }, 200);
-});
-document.getElementById('archiveToggle').addEventListener('click', ()=>{
-  showArchived = !showArchived;
-  document.getElementById('archiveToggle').classList.toggle('on', showArchived);
-  document.getElementById('archiveToggle').textContent = showArchived ? 'Ukryj starsze' : 'Pokaż starsze (>7 dni)';
-  render();
 });
 document.getElementById('verifiedToggle').addEventListener('click', ()=>{
   onlyVerified = !onlyVerified;
