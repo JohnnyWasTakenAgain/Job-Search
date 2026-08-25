@@ -1320,6 +1320,39 @@
           "How does escalation to the Governance and Risk Committee work in practice, and how much autonomy does this role have before something needs Committee sign-off?"
         ]
       }
+    },
+    {
+      "id": "revolut-head-regulatory-compliance-eu-branches-2026",
+      "title": "Head of Regulatory Compliance (EU Branches)",
+      "company": "Revolut",
+      "location": "Remote (Poland, Portugal, or Spain) / Hybrid from Barcelona, Kraków, Lisbon, Madrid, or Porto",
+      "url": "https://jobs.pointnine.com/companies/revolut-com/jobs/44812882-head-of-regulatory-compliance-eu-branches",
+      "description": "Revolut is hiring a Head of Regulatory Compliance to build and lead a compliance team supporting its expanding European branch network, aligning local regulatory frameworks with global standards and engaging directly with regulators.",
+      "tags": [
+        "compliance-leadership",
+        "remote-europe",
+        "lead-plus",
+        "corporate"
+      ],
+      "fit": 2,
+      "datePosted": "2026-08-25",
+      "verified": true,
+      "coverLetterDraft": "Dear Revolut Hiring Team,\n\nI'm applying for the Head of Regulatory Compliance (EU Branches) role. As Compliance Operations Manager at Pliant, I lead end-to-end KYC due diligence for corporate clients and drive AI-driven automation of compliance workflows as part of an internal AI team — a strong foundation for building and leading a compliance team that keeps pace with Revolut's expanding European branch network.\n\nAt Moonfare, I co-led the firm's ongoing due-diligence review project and worked with cross-functional stakeholders on automation improvements; at J.P. Morgan Chase, I conducted due diligence across Corporate, Financial Institution, and Publicly Traded Company risk tiers; and at PwC I built AML risk ratings and delivered internal AML/KYC training across a six-month cross-border assignment in the Netherlands. Eight-plus years of enhanced due diligence, regulatory escalation, and four-eyes review discipline have prepared me to align local branch frameworks with global compliance standards and engage credibly with regulators.\n\nI hold a Master's in Finance and Accounting, am fluent in English, and am comfortable working across distributed European teams.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How would you build and lead a compliance team from the ground up to support a new EU branch?",
+          "Describe your experience aligning local regulatory frameworks with a global compliance standard.",
+          "Walk us through how you'd engage with a new regulator when Revolut enters a market for the first time.",
+          "How do you prioritize compliance work across multiple branches with different regulatory timelines?",
+          "Tell us about a time you advised the business on a regulatory requirement that shaped a product or expansion decision.",
+          "How have you used automation or process improvement to scale a compliance function across multiple markets?"
+        ],
+        "toAsk": [
+          "How many EU branches does this role currently cover, and what's the roadmap for further expansion?",
+          "How does this role coordinate with Revolut's central Financial Crime Compliance and Group Compliance functions?",
+          "What does the current team structure look like, and how much of it still needs to be built out?"
+        ]
+      }
     }
   ]
 }
