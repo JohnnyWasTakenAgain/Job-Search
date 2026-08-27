@@ -1487,6 +1487,107 @@
           "What's the client base and case mix this team typically handles?"
         ]
       }
+    },
+    {
+      "id": "finom-fincrime-risk-manager-aml-sanctions-2026",
+      "title": "FinCrime Risk Manager - AML & Sanctions (2nd LoD)",
+      "company": "Finom",
+      "location": "Remote (Poland / Netherlands / Spain, hybrid across Europe)",
+      "url": "https://jobs.eu.lever.co/pnlfin/1674109e-3704-4068-9e00-7fb17e9e6189",
+      "description": "Finom is hiring a second-line-of-defense AML & Sanctions Risk Manager to own its FinCrime scenario library and rule-review cycle, managing a small team and working directly with ML engineers on rule creation and model validation.",
+      "tags": [
+        "compliance-leadership",
+        "ai-automation",
+        "remote-europe",
+        "senior-specialist",
+        "startup"
+      ],
+      "fit": 3,
+      "datePosted": "2026-08-01",
+      "verified": true,
+      "coverLetterDraft": "Dear Hiring Team at Finom,\n\nI'm applying for the FinCrime Risk Manager (AML & Sanctions, 2nd LoD) role. As Compliance Operations Manager at Pliant, I lead end-to-end KYC due diligence for corporate clients and drive AI-driven automation of compliance workflows as part of an internal AI team — directly relevant to Finom's collaboration between FinCrime and ML engineers on scenario rules and model validation.\n\nEarlier, at J.P. Morgan Chase and PwC, I built AML risk ratings and conducted due diligence across corporate, financial institution, and publicly traded client tiers, and delivered AML/KYC training. At Moonfare, I co-led an ongoing due-diligence review project and helped shape automation improvements with cross-functional stakeholders — experience that maps onto owning and refining a scenario library and managing a small team.\n\nI hold a Master's in Finance and Accounting and a Bachelor's in Mathematics, with working SQL skills that let me engage directly with rule logic rather than relying on others to translate it. I'd welcome the chance to bring that combination of hands-on AML expertise and automation focus to Finom's second line.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "Walk us through how you've used AI or automation to improve a compliance workflow — what was the before/after?",
+          "How do you approach designing or reviewing AML/sanctions scenario rules, and how do you validate they catch true positives without excessive noise?",
+          "Describe a time you managed or mentored a small team through a high-pressure regulatory deadline.",
+          "How do you balance second-line independence with close collaboration with engineering/ML teams?",
+          "What's your experience with sanctions screening across multiple EU jurisdictions?",
+          "Tell us about a case where you had to escalate a finding that was unpopular with stakeholders."
+        ],
+        "toAsk": [
+          "How does the FinCrime team currently measure the effectiveness of automated rules versus manual review capacity?",
+          "What does success look like for this role in the first six months, particularly around the rule-review cycle?",
+          "How is the two-person team structured, and what's the split between hands-on casework and strategic rule design?"
+        ]
+      }
+    },
+    {
+      "id": "revolut-regulatory-compliance-manager-qc-2026",
+      "title": "Regulatory Compliance Manager (Quality Control)",
+      "company": "Revolut",
+      "location": "Remote (Ireland, Lithuania, Poland, Portugal, Romania, Spain, UK)",
+      "url": "https://www.revolut.com/careers/position/regulatory-compliance-manager-quality-control-f26d29c0-8d06-4e35-adc7-9b3a791075b9/",
+      "description": "Second-line QA role at Revolut validating that regulatory obligations are correctly mapped to controls, running quality-control checks on compliance work, mentoring junior team members, and feeding review findings back to stakeholders.",
+      "tags": [
+        "qa",
+        "compliance-leadership",
+        "remote-europe",
+        "senior-specialist",
+        "corporate"
+      ],
+      "fit": 3,
+      "datePosted": "2026-07-15",
+      "verified": false,
+      "coverLetterDraft": "Dear Revolut Hiring Team,\n\nI'm writing to apply for the Regulatory Compliance Manager (Quality Control) role. In my current role as Compliance Operations Manager at Pliant, I lead KYC due diligence for corporate clients under a four-eyes review model and have been part of an internal AI team driving automation across compliance workflows — work that centers on exactly what this role asks for: validating that regulatory obligations translate correctly into working controls.\n\nAt Moonfare, I co-led the firm's ongoing due-diligence review project, which included calibrating case quality across the team and feeding findings back to stakeholders. At J.P. Morgan Chase, I conducted due diligence across Corporate, Financial Institution, and Publicly Traded Company risk tiers, giving me a working view of how control design needs to flex by client type. My AML/KYC training delivery at PwC also gave me direct experience translating QC findings into practical guidance for junior staff.\n\nI'm comfortable working across EU jurisdictions and used to mentoring analysts as part of day-to-day casework, not just reviewing it. I'd welcome a conversation about how I can contribute to Revolut's second line.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How do you design a QC sampling methodology to catch systemic control gaps, not just individual case errors?",
+          "Tell us about a time your quality review findings led to a control or process being redesigned.",
+          "How do you handle disagreement with a first-line team about a QC finding?",
+          "What's your experience mapping regulatory obligations to operational controls across multiple jurisdictions?",
+          "How do you give feedback to junior analysts in a way that improves quality without slowing throughput?",
+          "Describe your experience with EU-wide AML/KYC regulatory frameworks."
+        ],
+        "toAsk": [
+          "How do the QC function's findings feed into Revolut's broader regulatory reporting and remediation process?",
+          "What's the current split between manual QC sampling and any automated quality checks?",
+          "How does this role interact with the compliance teams in each EU branch or hub?"
+        ]
+      }
+    },
+    {
+      "id": "xapobank-mlro-deputy-2026",
+      "title": "MLRO / Deputy MLRO",
+      "company": "Xapo Bank",
+      "location": "Remote, work from anywhere (fully distributed, HQ Gibraltar)",
+      "url": "https://jobgether.com/offer/69a59f1b7f0cfae7f1268a35-mlro-deputy-mlro",
+      "description": "Xapo Bank's Global Compliance team is hiring an MLRO / Deputy MLRO to support the Chief Compliance Officer in building and running the bank's Anti-Financial Crime (AML/CTF) Framework, with people-management responsibility and full regulatory ownership.",
+      "tags": [
+        "compliance-leadership",
+        "remote-europe",
+        "lead-plus",
+        "startup"
+      ],
+      "fit": 3,
+      "datePosted": "2026-04-01",
+      "verified": false,
+      "coverLetterDraft": "Dear Xapo Bank Hiring Team,\n\nI'm applying for the MLRO / Deputy MLRO role. Over 8+ years in KYC/AML across J.P. Morgan Chase, PwC, Moonfare, and now Pliant, I've built the operational depth this role needs: end-to-end KYC/CDD and EDD, AML and sanctions risk assessment, PEP and adverse media screening, and regulatory escalation management. At Pliant, I lead KYC due diligence for corporate clients and contribute to an internal AI team's automation of compliance workflows, giving me a practical view of how to scale an AFC framework without losing control quality.\n\nAt Moonfare, I co-led the firm's ongoing due-diligence review project and worked directly with cross-functional stakeholders to shape process improvements — the kind of cross-team coordination a distributed compliance function depends on. At PwC, I delivered AML/KYC training and built risk ratings for individuals and legal entities across a six-month on-site client engagement.\n\nI hold a Master's in Finance and Accounting and a Bachelor's in Mathematics, and I'm comfortable working remotely across time zones. I'd welcome the opportunity to discuss how I can support Xapo's Anti-Financial Crime Framework.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "What experience do you have owning or contributing to an AML/CTF framework end-to-end, including policy design?",
+          "How would you approach building out a compliance framework for a fully distributed, crypto-native bank operating across 30+ countries?",
+          "Tell us about a time you had to manage or coordinate a team remotely across time zones.",
+          "How do you stay current on sanctions and AML regulatory changes across multiple jurisdictions simultaneously?",
+          "What's your experience with crypto or digital-asset-specific AML risks, if any?",
+          "Describe a significant regulatory escalation you managed and how you resolved it."
+        ],
+        "toAsk": [
+          "Given Xapo operates fully distributed across 30+ countries, how is the AFC framework structured to handle jurisdiction-specific requirements consistently?",
+          "What does the reporting line and day-to-day collaboration with the CCO look like for this role?",
+          "How is the compliance team using automation or tooling today, and where do you see the biggest gaps?"
+        ]
+      }
     }
   ]
 }
