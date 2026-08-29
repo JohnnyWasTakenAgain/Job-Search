@@ -1588,6 +1588,73 @@
           "How is the compliance team using automation or tooling today, and where do you see the biggest gaps?"
         ]
       }
+    },
+    {
+      "id": "raisin-third-party-risk-manager-2026",
+      "title": "Third Party Risk Manager (f/m/d)",
+      "company": "Raisin",
+      "location": "Berlin, Germany",
+      "url": "https://job-boards.eu.greenhouse.io/raisin/jobs/4847099101",
+      "description": "Raisin is hiring a Third Party Risk Manager to deputize for the TPRM function lead, coordinating priorities and quality assurance while building out third-party/outsourcing risk frameworks under MaRisk AT 9 and DORA.",
+      "tags": [
+        "qa",
+        "compliance-leadership",
+        "berlin-based",
+        "senior-specialist",
+        "startup"
+      ],
+      "fit": 2,
+      "datePosted": "2026-08-29",
+      "verified": true,
+      "coverLetterDraft": "Dear Raisin Hiring Team,\n\nI'm applying for the Third Party Risk Manager role. As Compliance Operations Manager at Pliant, I already apply the four-eyes principle and quality-assurance discipline to case review daily — the same rigor this role's outsourcing/TPRM quality-assurance mandate calls for, alongside the AI-driven automation of compliance workflows I drive as part of an internal AI team.\n\nAt Moonfare, I co-led the firm's ongoing due-diligence review project and coordinated priorities with cross-functional stakeholders; at J.P. Morgan Chase, I worked within tightly governed third-party and vendor frameworks across Corporate, Financial Institution, and Publicly Traded Company risk tiers; and at PwC I built risk ratings and delivered internal compliance training. This background gives me the risk-assessment rigor and stakeholder coordination to deputize for the TPRM function lead and represent the team credibly.\n\nI hold a Master's in Finance and Accounting, am based in Berlin, and am fluent in English with German at B1 progressing to B2.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "This role centers on third-party/outsourcing risk rather than AML/KYC specifically — how would you apply your compliance quality-assurance background to vendor and outsourcing risk under MaRisk AT 9 and DORA?",
+          "Describe your experience deputizing for a function lead and representing a team's priorities to stakeholders.",
+          "How would you design a quality-assurance framework for reviewing third-party risk assessments?",
+          "Walk us through how you'd coordinate competing priorities across multiple outsourcing arrangements.",
+          "Tell us about a time you used automation to improve a risk or compliance review process.",
+          "How do you stay current on DORA and MaRisk outsourcing requirements?"
+        ],
+        "toAsk": [
+          "How is the Third Party Risk Management function currently structured, and how does this role coordinate with the wider Compliance/AFC teams?",
+          "What's driving this hire — DORA implementation, growth in outsourcing arrangements, or something else?",
+          "What does the current QA process for third-party risk assessments look like today?"
+        ]
+      }
+    },
+    {
+      "id": "traderepublic-intl-compliance-manager-austria-italy-2026",
+      "title": "International Compliance Manager - Austria, Italy & other Countries (f/d/m)",
+      "company": "Trade Republic",
+      "location": "Berlin, Germany",
+      "url": "https://startup.jobs/international-compliance-manager-austria-italy-other-countries-f-d-m-trade-republic-2-4942178",
+      "description": "Trade Republic is hiring an International Compliance Manager to advise Country Management Teams in Austria, Italy, and other expansion markets on AML/MiFID regulatory requirements as the bank scales across new jurisdictions.",
+      "tags": [
+        "compliance-leadership",
+        "berlin-based",
+        "lead-plus",
+        "startup"
+      ],
+      "fit": 2,
+      "datePosted": "2026-08-29",
+      "verified": false,
+      "coverLetterDraft": "Dear Trade Republic Hiring Team,\n\nI'm applying for the International Compliance Manager role supporting expansion into Austria, Italy, and other markets. As Compliance Operations Manager at Pliant, I lead end-to-end KYC due diligence for corporate clients and drive AI-driven automation of compliance workflows — direct preparation for advising Country Management Teams on AML/MiFID requirements as Trade Republic scales across new jurisdictions.\n\nAt Moonfare, I co-led the firm's ongoing due-diligence review project and guided institutional clients through KYC/AML documentation; at J.P. Morgan Chase, I conducted due diligence across Corporate, Financial Institution, and Publicly Traded Company risk tiers; and at PwC I built AML risk ratings and delivered internal AML/KYC training, including a six-month cross-border assignment in the Netherlands. This gives me the cross-jurisdictional regulatory fluency and stakeholder-facing communication this role needs.\n\nI hold a Master's in Finance and Accounting, am based in Berlin, and am fluent in English with German at B1 progressing to B2 — though I'd want to discuss the Italian-language expectation for the Austria/Italy scope directly.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How would you advise Country Management Teams in Austria and Italy on AML/MiFID requirements without Italian fluency — what's your plan to bridge that gap?",
+          "Walk us through how you'd structure regulatory monitoring across multiple expansion markets simultaneously.",
+          "Describe your experience acting as a point of contact for country-level stakeholders on compliance requirements.",
+          "How do you prioritize compliance work when expansion markets have different regulatory timelines?",
+          "Tell us about a time you had to quickly build subject-matter expertise in an unfamiliar regulatory framework.",
+          "How would you balance central Trade Republic compliance standards with country-specific AML/MiFID nuances?"
+        ],
+        "toAsk": [
+          "Is Italian fluency a hard requirement for this scope, or can local counsel or language support cover that gap?",
+          "What does the current compliance footprint look like in Austria and Italy, and what's driving the expansion timeline?",
+          "How does this role coordinate with Trade Republic's Head of Compliance Operations and other country-specific compliance managers?"
+        ]
+      }
     }
   ]
 }
