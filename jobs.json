@@ -1655,6 +1655,39 @@
           "How does this role coordinate with Trade Republic's Head of Compliance Operations and other country-specific compliance managers?"
         ]
       }
+    },
+    {
+      "id": "selbyjennings-mlro-fintech-berlin-2026",
+      "title": "MLRO - FinTech - Berlin (m/f/d)",
+      "company": "FinTech Company (via Selby Jennings, confidential search)",
+      "location": "Berlin, Germany",
+      "url": "https://www.selbyjennings.com/en-ch/job/mlro-fintech-berlin-mfd-pr563972_1760337417",
+      "description": "A Berlin-based fintech is hiring an MLRO to lead the local AML/CTF compliance framework, act as primary liaison with German regulatory authorities, oversee transaction monitoring and SAR filing with the FIU, and implement localized AML/KYC policies.",
+      "tags": [
+        "compliance-leadership",
+        "berlin-based",
+        "lead-plus",
+        "startup"
+      ],
+      "fit": 2,
+      "datePosted": "2026-08-30",
+      "verified": false,
+      "coverLetterDraft": "Dear Hiring Team,\n\nI'm writing to apply for the MLRO role at your Berlin-based fintech. As Compliance Operations Manager at Pliant, I lead end-to-end KYC due diligence for corporate clients and drive AI-driven automation of compliance workflows — a strong foundation for owning the local AML/CTF framework and acting as primary liaison with German regulators.\n\nAt Moonfare, I co-led the firm's ongoing due-diligence review project and guided institutional clients through KYC/AML documentation; at J.P. Morgan Chase, I conducted due diligence across Corporate, Financial Institution, and Publicly Traded Company risk tiers; and at PwC I built AML risk ratings and delivered internal AML/KYC training. Eight-plus years of enhanced due diligence, sanctions and PEP screening, and regulatory escalation management have prepared me to oversee transaction monitoring, SAR filing, and localized AML/KYC policy implementation.\n\nI hold a Master's in Finance and Accounting, am based in Berlin, and am fluent in English with German at B1 progressing to B2 — I'd welcome discussing how quickly I can build toward the fluency this regulator-facing role requires.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How would you structure the local AML/CTF compliance framework as the appointed MLRO for a growing fintech?",
+          "Describe your experience or readiness to act as primary liaison with German regulatory authorities like BaFin or the FIU.",
+          "Walk us through how you'd decide when a suspicious activity report needs to be filed with the FIU.",
+          "How do you approach designing localized AML/KYC policies that also satisfy EU-wide requirements?",
+          "Tell us about a time you had to build regulatory credibility in a market where you were still developing language fluency.",
+          "What's your experience with transaction monitoring system tuning and escalation management?"
+        ],
+        "toAsk": [
+          "What is the current state of the regulatory relationship with BaFin and the FIU, and what's driving this hire?",
+          "What team and resources would this MLRO role inherit, and where are the biggest gaps to close first?",
+          "Is German fluency required from day one, or is there a runway to build toward it while ramping up regulator-facing work?"
+        ]
+      }
     }
   ]
 }
