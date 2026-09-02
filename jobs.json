@@ -1823,6 +1823,39 @@
           "How is the audit function using data analytics or automation today, and where is that heading?"
         ]
       }
+    },
+    {
+      "id": "raisin-senior-manager-afc-advisory-ii-2026",
+      "title": "Senior Manager AFC Advisory (f/m/d)",
+      "company": "Raisin",
+      "location": "Berlin, Frankfurt, Hamburg, or Munich, Germany",
+      "url": "https://job-boards.eu.greenhouse.io/raisin/jobs/4949391101",
+      "description": "Raisin is hiring a second Senior Manager AFC Advisory to drive the strategic development of its AML framework, own risk-analysis methodology and internal control design, and serve as technical point of contact for internal and external AFC audits.",
+      "tags": [
+        "compliance-leadership",
+        "berlin-based",
+        "lead-plus",
+        "startup"
+      ],
+      "fit": 2,
+      "datePosted": "2026-09-02",
+      "verified": true,
+      "coverLetterDraft": "Dear Raisin Hiring Team,\n\nI'm writing to apply for the Senior Manager AFC Advisory role. As Compliance Operations Manager at Pliant, I own end-to-end KYC due diligence for corporate clients and drive AI-driven automation of compliance workflows — a strong base for owning AML framework development, risk-analysis methodology, and internal control design at Raisin's scale.\n\nAt Moonfare, I co-led the firm's ongoing due-diligence review project and worked with cross-functional stakeholders on automation improvements; at J.P. Morgan Chase, I conducted due diligence across Corporate, Financial Institution, and Publicly Traded Company risk tiers; and at PwC I built AML risk ratings and delivered internal AML/KYC training. This mix of regulatory depth, control-design experience, and four-eyes review discipline maps directly onto owning AFC projects end-to-end and acting as technical contact for audits.\n\nI hold a Master's in Finance and Accounting, am based in Berlin, and bring fluent English with German at B1 progressing to B2.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How would you approach advancing Raisin's AML framework in line with new regulatory and IT requirements?",
+          "Describe your experience developing or refining an AML risk-analysis methodology and customer risk ratings.",
+          "Walk us through how you'd manage AML outsourcing oversight for a third-party provider.",
+          "Tell us about a time you served as technical point of contact during an internal or external audit.",
+          "How do you translate new regulatory requirements into actionable internal standards and training?",
+          "How would you prioritize AFC advisory work across four office locations with a single advisory function?"
+        ],
+        "toAsk": [
+          "How does this requisition differ from the other open Senior Manager AFC Advisory role, and how would the two positions divide the workload?",
+          "What upcoming regulatory changes are driving this AML framework development work right now?",
+          "How is Raisin using automation or technology to support AFC advisory and risk-methodology work today?"
+        ]
+      }
     }
   ]
 }
