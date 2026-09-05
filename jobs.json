@@ -1856,6 +1856,74 @@
           "How is Raisin using automation or technology to support AFC advisory and risk-methodology work today?"
         ]
       }
+    },
+    {
+      "id": "coinbase-internal-audit-manager-luxembourg-2026",
+      "title": "Internal Audit Manager (Luxembourg Entity)",
+      "company": "Coinbase",
+      "location": "Remote - Luxembourg",
+      "url": "https://www.coinbase.com/careers/positions/8097292?gh_jid=8097292",
+      "description": "Coinbase is hiring an Internal Audit Manager to own a portfolio of operational, financial, and compliance audits for its CSSF/ECB/EBA/ESMA-regulated Luxembourg entity, mentoring team members and using generative AI to improve audit workflows.",
+      "tags": [
+        "qa",
+        "compliance-leadership",
+        "remote-europe",
+        "lead-plus",
+        "corporate"
+      ],
+      "fit": 3,
+      "datePosted": "2026-07-30",
+      "verified": true,
+      "coverLetterDraft": "Dear Coinbase Hiring Team,\n\nI'm writing to apply for the Internal Audit Manager role covering your Luxembourg entity. As Compliance Operations Manager at Pliant, I own end-to-end KYC due diligence for corporate clients and apply four-eyes review discipline to case work daily — the same rigor this role needs to audit compliance controls against CSSF, ECB, EBA, and ESMA requirements and validate that remediation actually closes the gap.\n\nAt Moonfare, I co-led the firm's ongoing due-diligence review project, calibrating case quality across a team; at J.P. Morgan Chase, I conducted due diligence across Corporate, Financial Institution, and Publicly Traded Company risk tiers; at PwC I built AML risk ratings and delivered internal AML/KYC training. I've also spent the past year driving AI-driven automation of compliance workflows at Pliant, which speaks directly to your expectation that audit work responsibly incorporate generative AI while keeping human oversight.\n\nI hold a Master's in Finance and Accounting and I'm comfortable presenting findings to senior stakeholders, having regularly escalated and defended risk decisions in my current and prior roles.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How would you structure a multi-year audit roadmap across CSSF, ECB, EBA, and ESMA requirements for a Luxembourg-regulated entity?",
+          "Describe your experience testing whether a compliance control operates effectively in practice, not just on paper.",
+          "How do you use generative AI responsibly in audit work while maintaining human oversight?",
+          "Tell us about a time you presented a sensitive audit finding to executive or Board-level stakeholders.",
+          "How would you mentor and evaluate audit team members with varying experience levels?",
+          "Walk us through how you'd validate that a remediation action actually closed an identified gap."
+        ],
+        "toAsk": [
+          "How does this Internal Audit Manager role coordinate with Coinbase's Luxembourg compliance and legal teams day to day?",
+          "What does the quarterly in-person 'surge' model look like in practice, and how is remote collaboration structured the rest of the time?",
+          "What's driving this hire — a specific regulatory finding, entity growth, or a broader audit function build-out?"
+        ]
+      }
+    },
+    {
+      "id": "coinbase-associate-manager-internal-audit-fcc-2026",
+      "title": "Associate Manager, Internal Audit - Financial Crimes Compliance",
+      "company": "Coinbase",
+      "location": "United Kingdom (remote)",
+      "url": "https://www.coinbase.com/careers/positions/8154987?gh_jid=8154987",
+      "description": "Coinbase is hiring an Associate Manager to lead Financial Crimes Compliance audits end-to-end, assessing AML and sanctions control design and effectiveness, mentoring junior auditors, and driving improvements to audit systems.",
+      "tags": [
+        "qa",
+        "compliance-leadership",
+        "remote-europe",
+        "lead-plus",
+        "corporate"
+      ],
+      "fit": 2,
+      "datePosted": "2026-08-24",
+      "verified": true,
+      "coverLetterDraft": "Dear Coinbase Hiring Team,\n\nI'm applying for the Associate Manager, Internal Audit - Financial Crimes Compliance role. As Compliance Operations Manager at Pliant, I lead end-to-end KYC due diligence for corporate clients and apply a four-eyes review discipline daily — direct preparation for independently leading FCC audits from planning through reporting and assessing whether AML and sanctions controls are designed and working as intended.\n\nAt Moonfare, I co-led the firm's ongoing due-diligence review project and helped guide colleagues through complex cases; at J.P. Morgan Chase, I conducted due diligence across Corporate, Financial Institution, and Publicly Traded Company risk tiers; at PwC I built AML risk ratings and delivered internal AML/KYC training. Eight-plus years across CDD/EDD, sanctions and PEP screening, and cross-border regulatory frameworks give me the breadth this audit scope needs, and my current work driving AI-driven compliance automation matches your interest in innovating audit execution.\n\nI hold a Master's in Finance and Accounting and am ready to bring a practitioner's eye to Coinbase's Financial Crimes Compliance audit program.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "Walk us through how you'd scope and lead a Financial Crimes Compliance audit from planning through reporting.",
+          "How do you assess whether AML/sanctions control design actually translates into effective day-to-day operation?",
+          "Describe your experience working across US, EU, and APAC AML or sanctions regulatory frameworks.",
+          "How would you mentor a junior auditor through their first complex fieldwork assignment?",
+          "Tell us about a time you used data analysis to surface a control gap that wasn't obvious from documentation alone.",
+          "How do you balance independently leading an engagement with still being coachable as an Associate Manager?"
+        ],
+        "toAsk": [
+          "How does this role's audit scope intersect with Coinbase's first- and second-line financial crimes compliance teams?",
+          "What does career progression from Associate Manager to Manager look like on this Internal Audit team?",
+          "Where is Coinbase currently investing in audit innovation or systems improvements that this role would help drive?"
+        ]
+      }
     }
   ]
 }
