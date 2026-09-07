@@ -1924,6 +1924,39 @@
           "Where is Coinbase currently investing in audit innovation or systems improvements that this role would help drive?"
         ]
       }
+    },
+    {
+      "id": "okx-head-of-compliance-mtf-2026",
+      "title": "Head of Compliance: Multilateral Trading Facility (MTF)",
+      "company": "OKX (OKX Europe Markets Limited)",
+      "location": "Remote (EMEA / open to EEA jurisdictions)",
+      "url": "https://job-boards.greenhouse.io/okx/jobs/7984392003",
+      "description": "OKX is hiring a Head of Compliance to own the MiFID compliance function for its MFSA-authorised Multilateral Trading Facility, reporting to the Regional Head of Compliance EMEA, open to candidates elsewhere in the EEA who can demonstrate a path to Malta regulatory familiarity.",
+      "tags": [
+        "compliance-leadership",
+        "remote-europe",
+        "lead-plus",
+        "corporate"
+      ],
+      "fit": 3,
+      "datePosted": "2026-09-02",
+      "verified": true,
+      "coverLetterDraft": "Dear OKX Hiring Team,\n\nI'm writing to apply for the Head of Compliance role for OKX's Multilateral Trading Facility. As Compliance Operations Manager at Pliant, I lead end-to-end KYC due diligence for corporate clients and drive AI-driven automation of compliance workflows as part of an internal AI team — experience that translates directly into owning a MiFID compliance function and reporting into a Regional Head of Compliance.\n\nAt Moonfare, I co-led the firm's ongoing due-diligence review project and worked with cross-functional stakeholders on automation improvements; at J.P. Morgan Chase, I conducted due diligence across Corporate, Financial Institution, and Publicly Traded Company risk tiers; and at PwC I built AML risk ratings and delivered internal AML/KYC training, including a six-month on-site assignment abroad. Eight-plus years of regulatory escalation management, four-eyes review discipline, and cross-border stakeholder work have prepared me to build regulatory familiarity quickly in a new EEA jurisdiction and own a compliance function end-to-end.\n\nI hold a Master's in Finance and Accounting, am fluent in English, and am comfortable working remotely across EEA time zones.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "This role requires familiarity with Malta's regulatory environment, or a demonstrable ability to build that quickly from another EEA jurisdiction — how would you approach ramping up on Maltese/MFSA requirements?",
+          "How would you structure a MiFID compliance function for a newly authorised Multilateral Trading Facility?",
+          "Describe your experience reporting into a regional compliance structure rather than owning a fully standalone function.",
+          "Walk us through how you'd approach a request from the MFSA for information or a regulatory inspection.",
+          "How have you used automation or AI to strengthen a compliance monitoring or reporting function?",
+          "This role sits at the intersection of crypto and traditional securities regulation (MiFID) — how comfortable are you with that combination given your banking/fintech AML background?"
+        ],
+        "toAsk": [
+          "How does this role's MiFID compliance mandate divide from the separate MLRO/AML function at the MTF entity?",
+          "What does the path to full Malta regulatory approval or recognition look like for someone based elsewhere in the EEA?",
+          "How is the Regional Head of Compliance EMEA structure organized, and how much autonomy would this role have day to day?"
+        ]
+      }
     }
   ]
 }
