@@ -1957,6 +1957,141 @@
           "How is the Regional Head of Compliance EMEA structure organized, and how much autonomy would this role have day to day?"
         ]
       }
+    },
+    {
+      "id": "kraken-model-risk-management-specialist-2026",
+      "title": "Model Risk Management Specialist (AML/CFT Models)",
+      "company": "Kraken",
+      "location": "Remote (Canada, Brazil, Ireland, Cyprus, Portugal, Poland, UK)",
+      "url": "https://jobs.ashbyhq.com/kraken.com/d8fd9d2b-4ffb-4e90-b10e-c14d01c6cb92",
+      "description": "Independently validates Kraken's Transaction Monitoring, Customer Risk Assessment, Screening, and AI models for AML/CFT compliance, reviewing model documentation, testing methodology, and bias, and ensuring alignment with EU AML/CFT directives.",
+      "tags": [
+        "qa",
+        "ai-automation",
+        "remote-europe",
+        "senior-specialist",
+        "corporate"
+      ],
+      "fit": 2,
+      "datePosted": "2026-09-07",
+      "verified": true,
+      "coverLetterDraft": "Dear Kraken Hiring Team,\n\nI'm writing to apply for the Model Risk Management Specialist role validating AML/CFT models. As Compliance Operations Manager at Pliant, I lead end-to-end KYC due diligence for corporate clients while driving AI-driven automation of compliance workflows as part of an internal AI team — work that has given me a practitioner's view of how transaction-monitoring and screening models actually perform in production, not just on paper.\n\nEarlier, at J.P. Morgan Chase, I conducted due diligence across Corporate, Financial Institution, and Publicly Traded Company risk tiers, and at PwC I built AML risk ratings and KYC profiles while delivering internal AML/KYC training — experience that sharpened my eye for where model outputs diverge from real risk. My SQL fundamentals and Excel-based data analysis let me engage directly with model logic and testing methodology rather than relying on secondhand summaries.\n\nI'd welcome the opportunity to bring that combination of hands-on AML casework and automation-focused thinking to independently validating Kraken's AML/CFT models.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "Walk us through how you'd approach independently validating a transaction-monitoring model you didn't build — what would you check first?",
+          "Describe your experience distinguishing false positives from true risk signals in AML screening or monitoring output.",
+          "How do you document and communicate model limitations to stakeholders who aren't technical?",
+          "Tell us about a time you used data analysis (SQL/Excel) to identify a gap or bias in a compliance process.",
+          "What's your understanding of the EU's regulatory expectations around AI/ML use in AML/CFT models?",
+          "Describe a situation where you had to push back on a model owner's assumptions."
+        ],
+        "toAsk": [
+          "How does the model risk function interact with the teams that own the underlying transaction-monitoring and screening models day to day?",
+          "What does the model validation cycle look like in practice — how often are AML/CFT models reassessed?",
+          "How is 'bias' in AML/CFT models currently being measured or tested at Kraken?"
+        ]
+      }
+    },
+    {
+      "id": "revolut-fcc-manager-quality-control-2026",
+      "title": "Financial Crime Compliance Manager (Quality Control)",
+      "company": "Revolut",
+      "location": "Remote (Ireland, Lithuania, Poland, Portugal, Romania, Spain, UK)",
+      "url": "https://www.revolut.com/careers/position/financial-crime-compliance-manager-quality-control-d0de798b-8e48-43e5-9738-90a755064e2d/",
+      "description": "Quality-control role reviewing decisions and deliverables made by other financial crime compliance staff across all three lines of defence, running structured QC testing and file-sampling frameworks (including over outsourced operational partners) and validating that regulatory obligations are properly mapped to controls.",
+      "tags": [
+        "qa",
+        "compliance-leadership",
+        "remote-europe",
+        "senior-specialist",
+        "corporate"
+      ],
+      "fit": 2,
+      "datePosted": "2026-08-01",
+      "verified": true,
+      "coverLetterDraft": "Dear Revolut Hiring Team,\n\nI'm applying for the Financial Crime Compliance Manager (Quality Control) role. As Compliance Operations Manager at Pliant, I lead end-to-end KYC due diligence for corporate clients and have built quality checkpoints into that process as part of driving AI-driven automation of compliance workflows — directly relevant to reviewing decisions made by other financial crime compliance staff across the three lines of defence.\n\nAt Moonfare, I co-led the firm's ongoing due-diligence review project, calibrating case quality across a team and shaping automation improvements with cross-functional stakeholders. At J.P. Morgan Chase, I conducted due diligence across Corporate, Financial Institution, and Publicly Traded Company risk tiers, giving me a broad view of what \"good\" casework looks like across risk profiles — useful when running structured QC testing and file-sampling frameworks, including over outsourced partners.\n\nMy Master's in Finance and Accounting and working SQL skills let me engage directly with how regulatory obligations are mapped to controls, not just review outputs at face value.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How would you design a file-sampling framework to test the quality of casework across multiple compliance teams, including outsourced partners?",
+          "Tell us about a time you identified a systemic quality issue in someone else's casework — how did you escalate and follow up?",
+          "How do you make sure regulatory obligations are correctly mapped to controls, rather than just checking a box?",
+          "Describe your experience giving feedback to compliance analysts whose work didn't meet quality standards.",
+          "How do you balance QC rigor with turnaround-time pressure from the business?",
+          "What metrics would you use to report QC findings to senior management?"
+        ],
+        "toAsk": [
+          "How are QC findings currently fed back into first-line training and process design?",
+          "What's the current split between reviewing in-house casework versus outsourced operational partners?",
+          "How does this QC function coordinate with the other Financial Crime Compliance teams at Revolut, given the multiple related roles I've seen posted?"
+        ]
+      }
+    },
+    {
+      "id": "revolut-fcc-lead-2026",
+      "title": "Financial Crime Compliance Lead",
+      "company": "Revolut",
+      "location": "Remote (Lithuania, Poland, Portugal, Spain, UK)",
+      "url": "https://www.revolut.com/careers/position/financial-crime-compliance-lead-c2190bf0-2a8a-44cf-892b-edb8f9d3725a/",
+      "description": "Senior leadership role defining group-wide FinCrime policy and minimum standards, overseeing the quarterly performance of entity MLROs and compliance managers, and preparing escalation reports for senior management and the Board.",
+      "tags": [
+        "compliance-leadership",
+        "remote-europe",
+        "lead-plus",
+        "corporate"
+      ],
+      "fit": 2,
+      "datePosted": "2026-08-01",
+      "verified": true,
+      "coverLetterDraft": "Dear Revolut Hiring Team,\n\nI'm applying for the Financial Crime Compliance Lead role. As Compliance Operations Manager at Pliant, I lead end-to-end KYC due diligence for corporate clients and drive AI-driven automation of compliance workflows as part of an internal AI team, giving me first-hand experience setting standards that other teams are expected to follow.\n\nAt Moonfare, I co-led the firm's ongoing due-diligence review project and guided institutional clients through KYC/AML documentation, working directly with cross-functional stakeholders to shape process improvements. Earlier, at J.P. Morgan Chase and PwC, I conducted due diligence and built AML risk ratings across Corporate, Financial Institution, and Publicly Traded Company client tiers, and delivered internal AML/KYC training — experience relevant to defining group-wide FinCrime policy and overseeing the performance of entity MLROs and compliance managers.\n\nI hold a Master's in Finance and Accounting, and I'm comfortable preparing escalation reporting for senior stakeholders. I'd welcome the chance to bring that policy-setting and oversight experience to Revolut's FinCrime leadership team.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How would you go about setting a group-wide FinCrime policy that has to work across multiple entities and MLROs with different local requirements?",
+          "Describe a time you had to hold another manager or team accountable for a compliance shortfall.",
+          "How do you prepare escalation reports for senior management or the Board — what makes a report actionable versus just informative?",
+          "Tell us about your experience with sanctions and AML/CTF requirements across both retail and business customer segments.",
+          "How do you approach quarterly performance reviews of compliance managers you don't directly manage day-to-day?",
+          "What's an example of a policy you had to revise because it wasn't working in practice?"
+        ],
+        "toAsk": [
+          "How much autonomy do entity MLROs have versus how much is set centrally by this role?",
+          "What's driving the need for this role right now — is it new regulatory scrutiny, growth into new markets, or something else?",
+          "How does this Lead role coordinate with the Quality Control and Assurance functions within Financial Crime Compliance?"
+        ]
+      }
+    },
+    {
+      "id": "revolut-fcc-assurance-manager-2026",
+      "title": "Financial Crime Compliance Assurance Manager",
+      "company": "Revolut",
+      "location": "Remote (multi-country Europe)",
+      "url": "https://www.revolut.com/careers/position/financial-crime-compliance-assurance-manager-c2bcb73f-f28a-4cac-91d6-cd4a4caefc8e/",
+      "description": "Designs and runs compliance testing and assurance programs with risk-based control testing over the AML program, using data analytics (SQL/Python) to review rule-based and model-based transaction-monitoring performance and threshold tuning.",
+      "tags": [
+        "qa",
+        "ai-automation",
+        "remote-europe",
+        "senior-specialist",
+        "corporate"
+      ],
+      "fit": 3,
+      "datePosted": "2026-08-01",
+      "verified": true,
+      "coverLetterDraft": "Dear Revolut Hiring Team,\n\nI'm applying for the Financial Crime Compliance Assurance Manager role. As Compliance Operations Manager at Pliant, I lead end-to-end KYC due diligence for corporate clients and drive AI-driven automation of compliance workflows as part of an internal AI team — work that has made me comfortable using data to test whether a control is actually working, not just whether it exists on paper.\n\nMy SQL fundamentals and advanced Excel skills let me engage directly with rule-based and model-based transaction-monitoring output, and at Moonfare I co-led the firm's ongoing due-diligence review project, helping shape automation improvements with cross-functional stakeholders. At J.P. Morgan Chase and PwC, I built AML risk ratings and conducted due diligence across Corporate, Financial Institution, and Publicly Traded Company tiers, which shaped how I think about risk-based control testing.\n\nI hold a Master's in Finance and Accounting and a Bachelor's in Mathematics, and I'd welcome the opportunity to bring that blend of hands-on AML casework and data-driven assurance thinking to this role.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "Walk us through how you'd design a risk-based control testing program for an AML transaction-monitoring system.",
+          "What SQL or Python-based analysis have you done to evaluate rule or model performance, such as threshold tuning?",
+          "How do you distinguish a control design issue from a control operating-effectiveness issue during testing?",
+          "Tell us about a time your assurance work led to a meaningful change in how a control was run.",
+          "How do you prioritize which controls to test first, given limited assurance-team capacity?",
+          "Describe your experience presenting technical testing findings to a non-technical audience."
+        ],
+        "toAsk": [
+          "What tools or data infrastructure does the Assurance team currently use for testing rule-based versus model-based monitoring?",
+          "How are findings from this role fed back to the teams that own transaction-monitoring thresholds?",
+          "How is success measured for this role in the first six months?"
+        ]
+      }
     }
   ]
 }
