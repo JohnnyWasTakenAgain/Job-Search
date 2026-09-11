@@ -2194,6 +2194,40 @@
           "What does success look like for this role in the first six months?"
         ]
       }
+    },
+    {
+      "id": "lloydsbank-head-of-audit-berlin-2026",
+      "title": "Head of Audit (m/f/d)",
+      "company": "Lloyds Bank GmbH",
+      "location": "Berlin, Germany (team also based in Amsterdam)",
+      "url": "https://www.lloydsbank.de/career/Head-of-Audit--m-f-d---",
+      "description": "Lloyds Bank GmbH is hiring a Head of Audit to set the direction for its Internal Audit function (third line of defense), leading a team of 11 audit professionals across Berlin and Amsterdam and reporting to the Audit Committee/Supervisory Board.",
+      "tags": [
+        "qa",
+        "compliance-leadership",
+        "berlin-based",
+        "lead-plus",
+        "corporate"
+      ],
+      "fit": 2,
+      "datePosted": "2026-09-08",
+      "verified": true,
+      "coverLetterDraft": "Dear Hiring Team,\n\nI'm writing to apply for the Head of Audit role at Lloyds Bank GmbH. Over 8+ years in KYC/AML across J.P. Morgan Chase, PwC, and fintechs including Pliant and Moonfare, I've built the instincts this role demands: assessing regulatory risk, escalating gaps to leadership, and holding case work to a consistent quality bar under the four-eyes principle.\n\nAt Pliant, I lead end-to-end KYC due diligence for corporate clients and drive AI-driven automation of compliance workflows — experience directly relevant to modernizing an audit function's methodology and reporting. At Moonfare, I co-led an ongoing due-diligence review project, working cross-functionally to calibrate quality standards across a distributed team, similar to reviewing and challenging audit findings before they reach a Board or Audit Committee.\n\nWhile my background is compliance-led rather than classical internal audit, the core discipline overlaps: independent risk assessment, escalation management, and rigorous review of others' work in a regulated banking environment. I hold a Master's in Finance and Accounting, and my German (B1, progressing to B2) supports work with BaFin-regulated entities.\n\nI'd welcome the chance to discuss how this background translates to leading Lloyds Bank's Internal Audit team.\n\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "Walk us through your experience reviewing or challenging the case work of others, e.g. under a four-eyes control — what did quality calibration look like in practice?",
+          "This role sits in the third line of defense, distinct from your second-line compliance background — how do you see the relationship between audit and compliance, and what would you need to learn to make that transition?",
+          "You don't list a CIA/ACA/ACCA/CPA certification — how would you approach building internal audit technical competence quickly?",
+          "Describe a time you had to present findings or escalate a risk to senior leadership or a board-level committee. How did you frame it?",
+          "How have you used AI or automation to improve a compliance or risk process, and how would that translate to modernizing an audit function?",
+          "How would you manage and develop a team of 11 audit professionals spread across two locations (Berlin and Amsterdam)?"
+        ],
+        "toAsk": [
+          "Since the team spans Berlin and Amsterdam, how is audit scope currently split between the two locations, and would this role involve regular travel?",
+          "Is this a newly created role, and what would success look like in the first 12 months?",
+          "How does Lloyds Bank GmbH's Internal Audit function currently engage with AI/automation tooling, and is there appetite to expand that?"
+        ]
+      }
     }
   ]
 }
