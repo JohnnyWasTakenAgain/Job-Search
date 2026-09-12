@@ -2228,6 +2228,72 @@
           "How does Lloyds Bank GmbH's Internal Audit function currently engage with AI/automation tooling, and is there appetite to expand that?"
         ]
       }
+    },
+    {
+      "id": "revolut-business-compliance-manager-eu-bank-2026",
+      "title": "Business Compliance Manager (EU Bank)",
+      "company": "Revolut",
+      "location": "Remote in Bucharest, Kraków, Lisbon, Madrid, or Vilnius region (select EU countries) / hybrid options in those cities",
+      "url": "https://www.revolut.com/careers/position/business-compliance-manager-eu-bank-d568397b-2f28-4d33-bbf1-dcc50f41e52e/",
+      "description": "Revolut is hiring a Business Compliance Manager to act as a product-embedded compliance partner for its EU Bank, steering retail banking and payments features through regulatory requirements, leading a small team of Business Compliance Managers, and liaising with regulators and auditors.",
+      "tags": [
+        "compliance-leadership",
+        "remote-europe",
+        "lead-plus",
+        "corporate"
+      ],
+      "fit": 2,
+      "datePosted": "2026-02-08",
+      "verified": false,
+      "coverLetterDraft": "Dear Revolut Hiring Team,\n\nI'm writing to apply for the Business Compliance Manager (EU Bank) role. As Compliance Operations Manager at Pliant, I lead end-to-end KYC due diligence for corporate clients while driving AI-driven automation of compliance workflows — experience directly relevant to steering retail banking and payments products through complex regulatory requirements and building efficient compliance processes.\n\nAt Moonfare, I co-led the firm's ongoing due-diligence review project and worked cross-functionally with product and business stakeholders to shape automation improvements, similar to the first-line/second-line liaison this role requires. My time at J.P. Morgan Chase spanned Corporate, Financial Institution, and Publicly Traded Company risk tiers, and at PwC I built AML risk ratings and delivered internal AML/KYC training — a foundation for spotting compliance risk in new product launches and coaching a team.\n\nI'm comfortable acting as a go-to compliance expert for business stakeholders and have experience mentoring colleagues on due-diligence quality. I hold a Master's in Finance and Accounting, am fluent in English, and speak German at B1 (progressing to B2), with Polish as a native language.\n\nI'd welcome the chance to discuss how my compliance and automation background could support Revolut's EU Bank.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "Walk us through how you would evaluate a new retail banking or payments feature for compliance risk before launch.",
+          "How do you balance being a business-embedded (first-line) compliance partner while maintaining independence from second-line compliance?",
+          "Describe how you've used automation or data tools to make a compliance process more efficient.",
+          "Tell us about a time you led or mentored a small team through a complex due-diligence or compliance project.",
+          "How would you handle a disagreement between a product team wanting to launch fast and your compliance assessment that more controls are needed?",
+          "What experience do you have engaging directly with regulators or auditors?"
+        ],
+        "toAsk": [
+          "How is the Business Compliance Manager function structured across EU Bank products, and how does this role interact with second-line Financial Crime Compliance?",
+          "What products or markets is EU Bank prioritizing for expansion in the next 12 months, and how does that shape this role's workload?",
+          "What does success look like for this role's team-leadership component in the first six months?"
+        ]
+      }
+    },
+    {
+      "id": "bitstack-head-risk-compliance-2026",
+      "title": "Head of Risk & Compliance",
+      "company": "Bitstack",
+      "location": "Fully remote (company based in Paris, France)",
+      "url": "https://www.welcometothejungle.com/en/companies/bitstack/jobs/head-of-risk-compliance_paris_BITST_1m2eY6M",
+      "description": "Bitstack, a Bitcoin savings app, is hiring a Head of Risk & Compliance to own its AML-CFT framework end-to-end, act as primary contact for French regulators (AMF/ACPR), and build, recruit, and mentor its compliance and risk team.",
+      "tags": [
+        "compliance-leadership",
+        "remote-europe",
+        "lead-plus",
+        "startup"
+      ],
+      "fit": 2,
+      "datePosted": "2026-05-29",
+      "verified": false,
+      "coverLetterDraft": "Dear Bitstack Hiring Team,\n\nI'm applying for the Head of Risk & Compliance role. Over 8+ years in KYC, AML, and financial operations — across J.P. Morgan Chase, PwC, Moonfare, and now Pliant — I've built AML risk ratings, led enhanced due diligence for corporate and institutional clients, and driven AI-driven automation of compliance workflows, giving me the operational depth to own an AML-CFT framework end-to-end.\n\nAt Pliant, I lead KYC due diligence for corporate clients and contribute to an internal AI team automating compliance processes — directly relevant to scaling Bitstack's compliance function as it grows. At Moonfare, I co-led an ongoing due-diligence review project and shaped automation improvements with cross-functional stakeholders; at PwC, I delivered internal AML/KYC training and completed a client secondment in the Netherlands, giving me hands-on experience adapting AML practice across jurisdictions.\n\nI'm drawn to Bitstack's mission of making Bitcoin savings accessible, and to a role combining hands-on AML-CFT ownership with building and mentoring a compliance team. While my direct regulatory experience has been with German, US, and Dutch frameworks rather than the AMF/ACPR, I bring strong cross-jurisdictional AML fundamentals and a fast learning curve for new regulatory regimes.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How would you design Bitstack's AML-CFT framework to meet MiCA/CASP requirements as a crypto-asset service provider?",
+          "What's your experience with KYC/KYB for retail crypto customers versus corporate/institutional clients?",
+          "How would you approach being the primary point of contact for AMF/ACPR given you don't yet have direct experience with French regulators?",
+          "Tell us about a time you built or scaled a compliance team from a small base.",
+          "How do you evaluate and select AML transaction-monitoring tools for a fast-growing fintech?",
+          "Describe a situation where you had to balance regulatory rigor with a startup's need to move quickly."
+        ],
+        "toAsk": [
+          "Where is Bitstack in its MiCA/CASP licensing or registration process, and how would this role support that?",
+          "How large is the current risk and compliance team, and what does the hiring roadmap look like over the next year?",
+          "Since AMF/ACPR communication is French-language, how does the team typically handle that day to day?"
+        ]
+      }
     }
   ]
 }
