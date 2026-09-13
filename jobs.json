@@ -2294,6 +2294,74 @@
           "Since AMF/ACPR communication is French-language, how does the team typically handle that day to day?"
         ]
       }
+    },
+    {
+      "id": "n26-afc-compliance-controls-reviews-manager-2026",
+      "title": "AFC Compliance Controls and Reviews - Manager",
+      "company": "N26",
+      "location": "Berlin, Germany",
+      "url": "https://n26.com/en-eu/careers/positions/7215136",
+      "description": "Leads second-line-of-defense control and testing activities within N26's Anti-Financial Crime Compliance, Controls & Reviews team, planning independent AFC reviews and reporting findings to senior stakeholders.",
+      "fit": 3,
+      "datePosted": "2026-09-08",
+      "verified": false,
+      "tags": [
+        "compliance-leadership",
+        "qa",
+        "berlin-based",
+        "lead-plus",
+        "startup"
+      ],
+      "coverLetterDraft": "Dear N26 Hiring Team,\n\nI'm writing to apply for the AFC Compliance Controls and Reviews - Manager role. As a Compliance Operations Manager with 8+ years across global banks, fintechs, and asset managers, I bring hands-on experience designing and executing second-line control and testing frameworks for KYC/AML programs.\n\nAt Pliant, I lead end-to-end KYC due diligence for corporate clients while driving AI-driven automation of compliance workflows as part of an internal AI team - work directly relevant to building an efficient, risk-based AFC controls and reviews function. At Moonfare, I co-led an ongoing due-diligence review project and helped shape automation improvements with cross-functional stakeholders, and at J.P. Morgan Chase I conducted due diligence across multiple risk tiers for a global client portfolio.\n\nI'm particularly drawn to this role's blend of independent testing, stakeholder reporting, and people-management responsibilities - areas where I already operate informally by mentoring analysts and calibrating case quality. I hold a Master's in Finance and Accounting, am fluent in English, and am progressing toward German B2.\n\nI'd welcome the chance to discuss how my controls-testing and automation background could strengthen N26's AFC function.\n\nSincerely,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "Walk us through how you would design a risk-based testing plan for our AFC controls, including sampling methodology and scope prioritization.",
+          "Describe a time you identified a control gap during a compliance review - how did you escalate it and what was the outcome?",
+          "How have you used AI or automation to improve compliance workflows, and what guardrails did you put in place to manage model risk?",
+          "How do you approach giving feedback to case handlers whose work didn't meet quality standards, especially across a distributed team?",
+          "What KPIs or metrics would you use to report AFC control effectiveness to senior stakeholders?",
+          "How do you stay current with evolving AML/CTF regulatory expectations in the EU, and how would you translate a new requirement into a testing standard?"
+        ],
+        "toAsk": [
+          "How do this team's findings feed into remediation - who owns fixing the gaps identified during reviews?",
+          "What tooling or automation is already in place for testing and sampling, and where's the biggest opportunity to modernize it?",
+          "How is this Manager role expected to grow - is there a path to building or leading a larger controls-testing team?"
+        ]
+      }
+    },
+    {
+      "id": "riskinc-kyc-compliance-officer-2026",
+      "title": "KYC & Compliance Officer",
+      "company": "Risk.Inc",
+      "location": "Remote - Europe",
+      "url": "https://jobgether.com/offer/6a99f5050875ca77c4c4a016-kyc-compliance-officer",
+      "description": "Leads KYC/KYB due diligence and PSP/banking onboarding for a high-risk-sector client base, and develops and improves AML policies and screening/monitoring tooling.",
+      "fit": 2,
+      "datePosted": "2026-09-04",
+      "verified": true,
+      "tags": [
+        "compliance-leadership",
+        "ai-automation",
+        "remote-europe",
+        "senior-specialist",
+        "startup"
+      ],
+      "coverLetterDraft": "Dear Risk.Inc Hiring Team,\n\nI'm applying for the KYC & Compliance Officer role. I bring 8+ years of KYC/AML experience across global banks, fintechs, and asset managers, with a strong track record in high-risk-sector due diligence and process improvement.\n\nAt Pliant, I lead end-to-end KYC due diligence for corporate clients and drive AI-driven automation of compliance workflows as part of an internal AI team. At Moonfare, I co-led an ongoing due-diligence review project and helped shape automation improvements with cross-functional stakeholders while guiding institutional clients through KYC/AML documentation. Earlier, at J.P. Morgan Chase and PwC, I conducted due diligence across Corporate, Financial Institution, and Publicly Traded Company clients, built AML risk ratings, and delivered internal AML/KYC training.\n\nThis role's combination of hands-on KYC/KYB due diligence with developing and improving AML policies and screening/monitoring tooling closely matches what I do today - I don't just execute existing processes, I help build better ones. I hold a Master's in Finance and Accounting and am comfortable working with SQL and data-driven screening tools.\n\nI'd welcome the opportunity to discuss how I can contribute to Risk.Inc's compliance function.\n\nSincerely,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "Describe your experience conducting KYC/KYB due diligence in a high-risk sector - what red flags do you prioritize?",
+          "How would you approach onboarding a new payment service provider or banking partner from a compliance perspective?",
+          "Tell us about a time you improved or automated a screening/monitoring process - what was the impact?",
+          "How do you calibrate AML policies to keep pace with evolving regulations across multiple European jurisdictions?",
+          "What's your experience with sanctions and PEP screening tools, and how do you handle false positives at scale?",
+          "How do you handle a case where a business stakeholder pushes back on a compliance decision you've made?"
+        ],
+        "toAsk": [
+          "What screening/monitoring tooling does the team currently use, and where are the biggest gaps you'd want this role to close?",
+          "How is the compliance function structured, and who does this role report to?",
+          "What does success look like in this role after the first 6 months?"
+        ]
+      }
     }
   ]
 }
