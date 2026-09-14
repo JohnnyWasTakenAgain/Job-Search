@@ -2362,6 +2362,108 @@
           "What does success look like in this role after the first 6 months?"
         ]
       }
+    },
+    {
+      "id": "scalablecapital-teamlead-afc-operations-2026",
+      "title": "Team Lead Anti-Financial Crime Operations (m/f/x)",
+      "company": "Scalable Capital",
+      "location": "Berlin, Germany",
+      "url": "https://jobs.smartrecruiters.com/ScalableGmbH/744000148449225-team-lead-anti-financial-crime-operations-m-f-x-",
+      "description": "Scalable Capital is hiring a Team Lead to mentor a team of AFC experts, own the QA framework for transaction-alert reviews, and drive automation and tooling improvements across AFC operations.",
+      "tags": [
+        "compliance-leadership",
+        "qa",
+        "ai-automation",
+        "berlin-based",
+        "lead-plus",
+        "corporate"
+      ],
+      "fit": 3,
+      "datePosted": "2026-09-14",
+      "verified": true,
+      "coverLetterDraft": "Dear Scalable Capital Hiring Team,\n\nI'm writing to apply for the Team Lead, Anti-Financial Crime Operations role. As Compliance Operations Manager at Pliant, I lead end-to-end KYC due diligence for corporate clients and drive AI-driven automation of compliance workflows — direct preparation for owning your AFC team's QA framework, tooling, and automation roadmap while mentoring a team of AFC experts.\n\nAt Moonfare, I co-led the firm's ongoing due-diligence review project and worked with cross-functional stakeholders on automation improvements; at J.P. Morgan Chase, I conducted due diligence across Corporate, Financial Institution, and Publicly Traded Company risk tiers; and at PwC I built AML risk ratings and delivered internal AML/KYC training. Eight-plus years of transaction-alert review, money-laundering typology analysis, and four-eyes discipline have prepared me to escalate complex cases, calibrate a team's decisioning, and refine operational controls at Scalable Capital's scale.\n\nI hold a Master's in Finance and Accounting, am based in Berlin, and am progressing toward German B2.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How would you build and own a QA framework for a team reviewing transaction-monitoring alerts?",
+          "Describe a time you mentored a team member through a complex money-laundering typology or escalation.",
+          "How have you used automation or tooling to improve AFC operations without weakening quality?",
+          "Walk us through how you'd triage and prioritize a backlog of high-risk transaction alerts.",
+          "How do you balance operational throughput targets with regulatory risk coverage?",
+          "Tell us about a time you identified a financial crime trend and translated it into a process change."
+        ],
+        "toAsk": [
+          "What does the AFC Operations team's current QA framework look like, and what would this role change first?",
+          "How does this Berlin-based team collaborate with the Munich office and with product/engineering on control improvements?",
+          "What's the current mix of automation vs. manual review in the team's transaction-alert workflow?"
+        ]
+      }
+    },
+    {
+      "id": "sumup-senior-internal-auditor-legal-compliance-2026",
+      "title": "Senior Internal Auditor (Legal & Compliance)",
+      "company": "SumUp",
+      "location": "Berlin, Germany",
+      "url": "https://www.sumup.com/careers/positions/berlin-germany/legal-compliance/senior-internal-auditor-/8726270002/",
+      "description": "SumUp is hiring a Senior Internal Auditor to plan and conduct regulatory, compliance, and operational audits across its European markets, reporting to the Global Head of Internal Audit.",
+      "tags": [
+        "qa",
+        "berlin-based",
+        "senior-specialist",
+        "startup"
+      ],
+      "fit": 2,
+      "datePosted": "2026-09-14",
+      "verified": true,
+      "coverLetterDraft": "Dear SumUp Hiring Team,\n\nI'm applying for the Senior Internal Auditor (Legal & Compliance) role. While my background is in KYC/AML operations rather than internal audit specifically, my experience maps closely to this role's quality-assurance core: as Compliance Operations Manager at Pliant, I own end-to-end KYC due diligence and apply four-eyes review discipline daily, and I drive AI-driven automation of compliance workflows that would translate well to strengthening audit methodology and reporting.\n\nAt Moonfare, I co-led the firm's ongoing due-diligence review project, and at J.P. Morgan Chase I conducted due diligence and quality checks across Corporate, Financial Institution, and Publicly Traded Company risk tiers. At PwC, I delivered internal AML/KYC training and built risk ratings that fed into control frameworks — comparable to assessing regulatory, compliance, and operational controls across European markets.\n\nI hold a Master's in Finance and Accounting, am based in Berlin, and am confident my regulatory rigor would strengthen SumUp's audit function.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "This role is in Internal Audit rather than Compliance operations — how would you apply your KYC/AML review background to broader regulatory and operational audits?",
+          "Describe your experience preparing an audit report with findings and recommendations for senior stakeholders.",
+          "How do you approach coordinating an audit project across multiple European markets with different regulatory regimes?",
+          "Tell us about a time you identified a control weakness and drove it through to remediation.",
+          "How would you contribute to improving SumUp's audit frameworks and methodologies?",
+          "What's your experience with compliance-related audit work versus pure financial or operational audits?"
+        ],
+        "toAsk": [
+          "How does the Internal Audit function collaborate with SumUp's Legal & Compliance teams day to day?",
+          "What's driving this hire — a specific regulatory finding, growth, or a broader audit function build-out?",
+          "What does the audit team's current coverage of AML/financial-crime controls look like?"
+        ]
+      }
+    },
+    {
+      "id": "coinbase-manager-compliance-testing-assurance-2026",
+      "title": "Manager of Compliance Testing and Assurance",
+      "company": "Coinbase",
+      "location": "Hybrid - Luxembourg",
+      "url": "https://www.coinbase.com/careers/positions/7286062?gh_jid=7286062",
+      "description": "Coinbase is hiring a Manager to lead an independent oversight program that tests whether its AML/CFT, sanctions, and other compliance controls are designed and operating effectively across US and international entities.",
+      "tags": [
+        "compliance-leadership",
+        "qa",
+        "remote-europe",
+        "lead-plus",
+        "corporate"
+      ],
+      "fit": 3,
+      "datePosted": "2026-07-16",
+      "verified": true,
+      "coverLetterDraft": "Dear Coinbase Hiring Team,\n\nI'm writing to apply for the Manager of Compliance Testing and Assurance role. As Compliance Operations Manager at Pliant, I lead end-to-end KYC due diligence for corporate clients and drive AI-driven automation of compliance workflows — direct preparation for testing whether Coinbase's AML/CFT and sanctions controls are designed and operating effectively across international entities.\n\nAt Moonfare, I co-led the firm's ongoing due-diligence review project and worked with cross-functional stakeholders on automation improvements; at J.P. Morgan Chase, I conducted due diligence and quality checks across Corporate, Financial Institution, and Publicly Traded Company risk tiers; and at PwC I built AML risk ratings and delivered internal AML/KYC training. Eight-plus years of four-eyes review discipline and enhanced due diligence give me the rigor to build testing frameworks and deliver credible, evidence-based results to senior stakeholders.\n\nI hold a Master's in Finance and Accounting and am progressing toward German B2, and I'm ready to bring that same discipline to Coinbase's independent oversight program.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How would you design a testing framework to assess whether AML/CFT controls are operating effectively, not just designed correctly?",
+          "Describe your experience with four-eyes review or independent quality checks on compliance decisions.",
+          "How do you prioritize testing coverage across multiple regulatory areas — AML/CFT, sanctions, consumer protection, trade surveillance?",
+          "Walk us through how you'd report a control failure to senior stakeholders and track it to remediation.",
+          "How have you used automation to improve the efficiency of a compliance review or testing process?",
+          "Tell us about a time you had to defend a testing finding that was challenged by the business."
+        ],
+        "toAsk": [
+          "How does the Compliance Testing and Assurance function coordinate with Coinbase's Internal Audit and Regulatory Compliance teams?",
+          "What does the current testing coverage look like across international entities, and what's the priority for this hire?",
+          "How is Coinbase using automation or AI to scale compliance testing today?"
+        ]
+      }
     }
   ]
 }
