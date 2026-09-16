@@ -2464,6 +2464,39 @@
           "How is Coinbase using automation or AI to scale compliance testing today?"
         ]
       }
+    },
+    {
+      "id": "lemonmarkets-investment-compliance-manager-2026",
+      "title": "Investment Compliance Manager (f/m/x)",
+      "company": "lemon.markets",
+      "location": "Berlin, Germany (Hybrid)",
+      "url": "https://jobs.ashbyhq.com/lemon-markets/df2b4362-8d58-47b1-9d31-3dc8fa635b0b",
+      "description": "lemon.markets is hiring an Investment Compliance Manager to own and strengthen its investment compliance function, covering WpHG requirements, best execution, market abuse surveillance, and product governance across its securities brokerage business.",
+      "tags": [
+        "compliance-leadership",
+        "berlin-based",
+        "lead-plus",
+        "startup"
+      ],
+      "fit": 2,
+      "datePosted": "2026-06-27",
+      "verified": true,
+      "coverLetterDraft": "Dear lemon.markets Hiring Team,\n\nI'm writing to apply for the Investment Compliance Manager role. As Compliance Operations Manager at Pliant, I own end-to-end KYC due diligence for corporate clients and drive AI-driven automation of compliance workflows — a foundation of regulatory rigor and process ownership that transfers directly to strengthening lemon.markets' investment compliance function across WpHG, best execution, and market abuse surveillance.\n\nAt Moonfare, I co-led the firm's ongoing due-diligence review project and worked with cross-functional stakeholders on automation improvements; at J.P. Morgan Chase, I conducted due diligence across Corporate, Financial Institution, and Publicly Traded Company risk tiers within tightly governed regulatory frameworks; and at PwC I built AML risk ratings and delivered internal AML/KYC training. While my direct experience centers on AML/KYC rather than securities compliance, eight-plus years of regulatory escalation management, four-eyes review discipline, and cross-functional collaboration give me a strong base to own product governance and conflicts-of-interest oversight.\n\nI hold a Master's in Finance and Accounting, am based in Berlin, and am fluent in English with German at B1 progressing to B2.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "This role centers on investment/securities compliance (WpHG, best execution, market abuse) rather than AML/KYC — how would you apply your due-diligence and regulatory-escalation background to this domain?",
+          "How would you approach strengthening a product governance framework for a securities brokerage platform?",
+          "Describe your experience conducting or supporting market abuse surveillance or best-execution monitoring.",
+          "How do you own and evolve a compliance function embedded within Product and Engineering teams?",
+          "Tell us about a time you managed conflicts-of-interest oversight or advised on a regulatory grey area.",
+          "How have you used automation to reduce manual compliance workload in a previous role?"
+        ],
+        "toAsk": [
+          "How does the Investment Compliance function coordinate with lemon.markets' AML/KYC and broader dwpbank Group compliance teams?",
+          "What is driving this hire now — a specific regulatory requirement, product launch, or team growth?",
+          "How mature is lemon.markets use of automation or technology in compliance monitoring today?"
+        ]
+      }
     }
   ]
 }
