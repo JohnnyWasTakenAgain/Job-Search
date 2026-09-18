@@ -52,15 +52,33 @@
       "company": "Trade Republic",
       "location": "Berlin, Germany",
       "url": "https://startup.jobs/senior-anti-financial-crime-manager-trade-republic-2-7568732",
-      "description": "Trade Republic is hiring a Senior Anti-Financial Crime Manager to manage projects preventing financial crime, developing control frameworks, and optimizing AML/compliance processes.",
+      "description": "Trade Republic is hiring a Senior Anti-Financial Crime Manager to evolve its AFC systems and controls with a strong focus on scalability and automation, act as interface for national and international regulators, and run compliance training for the AFC Compliance team.",
       "tags": [
-        "compliance",
+        "compliance-leadership",
+        "ai-automation",
         "berlin-based",
-        "senior-specialist",
+        "lead-plus",
         "startup"
       ],
       "fit": 2,
-      "datePosted": "2026-08-13"
+      "datePosted": "2026-08-13",
+      "verified": true,
+      "coverLetterDraft": "Dear Trade Republic Hiring Team,\n\nI'm applying for the Senior Anti-Financial Crime Manager role. As Compliance Operations Manager at Pliant, I lead end-to-end KYC due diligence for corporate clients and drive AI-driven automation of compliance workflows as part of an internal AI team — directly relevant to evolving your AFC systems and controls with a focus on scalability and automation.\n\nAt Moonfare, I co-led the firm's ongoing due-diligence review project and worked with cross-functional stakeholders on automation improvements; at J.P. Morgan Chase, I conducted due diligence across Corporate, Financial Institution, and Publicly Traded Company risk tiers; and at PwC I built AML risk ratings and delivered internal AML/KYC training — experience that maps directly to acting as interface for regulators and running compliance training sessions.\n\nI hold a Master's in Finance and Accounting, am based in Berlin, and bring fluent English with German at B1 progressing to B2.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How would you approach evolving an AFC systems and controls framework with a focus on scalability and automation?",
+          "Describe a cross-functional AFC project you've owned end-to-end, from planning to regulator-facing reporting.",
+          "How do you act as an interface for national and international regulators during an inquiry or audit?",
+          "Walk us through how you'd design and deliver a customized compliance training session for non-compliance staff.",
+          "Tell us about a time you evolved an internal AFC policy in response to a regulatory change.",
+          "How do you balance regulatory rigor with the automation and efficiency Trade Republic needs at scale?"
+        ],
+        "toAsk": [
+          "What does 'evolving AFC systems and controls with a focus on scalability and automation' look like in practice right now?",
+          "How does this role coordinate with Trade Republic's broader AFC Compliance team and the MLRO function?",
+          "What's driving this hire — growth into new markets, a recent regulatory finding, or scaling existing controls?"
+        ]
+      }
     },
     {
       "id": "traderepublic-senior-compliance-officer-intl-2026",
