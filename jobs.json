@@ -2717,6 +2717,40 @@
           "How is the AML/Compliance function structured today, and who would this role report to?"
         ]
       }
+    },
+    {
+      "id": "deloitte-financial-crime-technology-manager-2026",
+      "title": "(Senior) Manager Financial Crime Technology FSI (m/w/d)",
+      "company": "Deloitte",
+      "location": "Berlin, Germany (hybrid; also offered in Duesseldorf, Frankfurt, Hamburg, Munich)",
+      "url": "https://www.efinancialcareers.de/jobs-Germany-Mitte-Senior_Manager_Financial_Crime_Technology_FSI_mwd.id24742060",
+      "description": "Consulting role advising financial institutions on strategy, selection, and implementation of anti-financial-crime technology (AML, sanctions, export controls), with responsibility for steering interdisciplinary project teams and developing staff.",
+      "tags": [
+        "compliance-leadership",
+        "ai-automation",
+        "berlin-based",
+        "lead-plus",
+        "corporate"
+      ],
+      "fit": 2,
+      "datePosted": "2026-09-16",
+      "verified": true,
+      "coverLetterDraft": "Dear Deloitte Hiring Team,\n\nI'm applying for the (Senior) Manager Financial Crime Technology FSI role. As Compliance Operations Manager at Pliant, I lead end-to-end KYC due diligence for corporate clients while driving AI-driven automation of compliance workflows as part of an internal AI team — direct, hands-on experience with the anti-financial-crime technology selection and implementation challenges your clients face.\n\nAt Moonfare, I co-led the ongoing due-diligence review project and partnered with cross-functional stakeholders to shape automation improvements. At J.P. Morgan Chase, I conducted due diligence across Corporate, Financial Institution, and Publicly Traded Company risk tiers, and at PwC I built AML risk ratings and delivered internal AML/KYC training — experience that translates well into advising institutions on AFC technology strategy and steering delivery teams.\n\nI hold a Master's in Finance and Accounting and a Bachelor's in Mathematics, have working SQL skills, and am fluent in English with German at B1 progressing to B2. I'd welcome the chance to bring practitioner-level AFC technology experience to your advisory teams in Berlin.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "Walk us through an AFC technology implementation or automation project you've led end-to-end, from requirements to rollout.",
+          "How would you evaluate and compare AML/sanctions screening vendors for a mid-size financial institution?",
+          "What KPIs would you use to measure whether a financial crime technology solution is actually reducing risk?",
+          "Describe a time you had to manage a client or stakeholder who resisted a proposed compliance technology change.",
+          "How do you approach steering and developing an interdisciplinary project team with mixed technical and compliance backgrounds?",
+          "What's your view on where AI/automation genuinely reduces false positives in AML screening versus just shifting the workload?"
+        ],
+        "toAsk": [
+          "What does a typical Financial Crime Technology FSI engagement look like in terms of client mix and project length?",
+          "How is the practice currently building out AI/automation capability within financial crime advisory work?",
+          "What does the path from Manager to Senior Manager look like on this team, and how is team leadership evaluated?"
+        ]
+      }
     }
   ]
 }
