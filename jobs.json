@@ -2751,6 +2751,139 @@
           "What does the path from Manager to Senior Manager look like on this team, and how is team leadership evaluated?"
         ]
       }
+    },
+    {
+      "id": "michaelpage-mlro-payments-berlin-2026",
+      "title": "Money Laundering Reporting Officer / MLRO (m/w/d)",
+      "company": "Confidential Client (via Michael Page)",
+      "location": "Berlin, Germany (Hybrid)",
+      "url": "https://www.michaelpage.de/job-detail/money-laundering-reporting-officer-mlro-mwd/ref/jn-082026-7088716",
+      "description": "MLRO role at an international financial services / payments provider's German unit, owning the AML/CTF framework, transaction monitoring and sanctions compliance, and acting as primary contact with BaFin and the FIU.",
+      "fit": 3,
+      "datePosted": "2026-08-24",
+      "verified": true,
+      "tags": [
+        "compliance-leadership",
+        "berlin-based",
+        "lead-plus",
+        "corporate"
+      ],
+      "coverLetterDraft": "Dear Hiring Team,\n\nI'm writing to apply for the Money Laundering Reporting Officer (MLRO) role in Berlin. As Compliance Operations Manager at Pliant, I lead end-to-end KYC due diligence for corporate clients and drive AI-driven automation of compliance workflows as part of an internal AI team — direct experience with the transaction monitoring, sanctions compliance, and regulatory reporting responsibilities this role demands.\n\nEarlier roles sharpened the specific skills an MLRO needs: at Moonfare I co-led an ongoing due-diligence review project and helped shape automation improvements with cross-functional stakeholders; at J.P. Morgan Chase I conducted due diligence across Corporate, Financial Institution, and Publicly Traded Company risk tiers; at PwC I built AML risk ratings and delivered internal AML/KYC training, including a six-month on-site assignment in the Netherlands. I'm comfortable acting as the point of contact with supervisory authorities and have experience with the four-eyes principle and regulatory escalation management.\n\nBased in Berlin with German at B1/B2, I'd welcome the chance to bring this cross-functional, automation-minded approach to your AML framework.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "Walk us through how you would structure the AML/CTF framework for a new financial services entity from scratch.",
+          "How have you handled a situation where you had to challenge or escalate a suspicious transaction to senior management or a regulator?",
+          "What experience do you have acting as the primary contact with regulators like BaFin or the FIU?",
+          "How do you approach calibrating and reviewing the quality of KYC/CDD decisions made by junior analysts?",
+          "Describe a time you used automation or AI tools to improve an AML/compliance process — what was the impact?",
+          "How do you stay current with evolving EU AML/CTF regulations and sanctions regimes?"
+        ],
+        "toAsk": [
+          "What does the current AML technology stack look like, and is there appetite to invest further in automation?",
+          "How is the MLRO function structured relative to the wider compliance and risk teams here?",
+          "What are the biggest current regulatory priorities or findings this role would need to address in the first six months?"
+        ]
+      }
+    },
+    {
+      "id": "okx-deputy-mlro-remote-2026",
+      "title": "Deputy Money Laundering Reporting Officer (Deputy MLRO)",
+      "company": "OKX",
+      "location": "Remote - EMEA",
+      "url": "https://job-boards.greenhouse.io/okx/jobs/7996961003",
+      "description": "Deputizes for the MLRO across OKX's MiCA-regulated EU crypto entity, overseeing AML/CFT investigations, SAR filing, second-line KYC/CDD oversight, and transaction-monitoring controls.",
+      "fit": 3,
+      "datePosted": "2026-09-21",
+      "verified": true,
+      "tags": [
+        "compliance-leadership",
+        "remote-europe",
+        "lead-plus",
+        "corporate"
+      ],
+      "coverLetterDraft": "Dear Hiring Manager,\n\nI'm applying for the Deputy MLRO role supporting OKX's MiCA-regulated compliance framework. As Compliance Operations Manager at Pliant, I lead end-to-end KYC due diligence for corporate clients and drive AI-driven automation of compliance workflows within an internal AI team — directly relevant to the AML/CFT oversight, investigations, and CDD responsibilities this role covers.\n\nMy background spans due diligence across risk tiers at J.P. Morgan Chase (Corporate, Financial Institution, and Publicly Traded Company clients), AML risk-rating and training delivery at PwC, and co-leading an ongoing due-diligence review project at Moonfare where I helped shape automation improvements with cross-functional stakeholders. I'm used to advising business units on financial crime risk and investigating suspicious activity under regulatory scrutiny, and I bring a genuine interest in applying AI to strengthen — not just speed up — compliance decision-making.\n\nFluent in English, progressing in German (B1/B2), and comfortable working across time zones, I'd welcome the opportunity to bring this combination of hands-on AML expertise and automation focus to OKX's compliance team.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How would you approach deputizing for an MLRO in a crypto-asset business regulated under MiCA?",
+          "Describe your experience investigating suspicious activity and deciding when to file a SAR.",
+          "How do you evaluate and calibrate KYC/CDD decisions made by other analysts on high-risk crypto clients?",
+          "What's your experience with blockchain/transaction-monitoring tools, and how would you improve one you inherited?",
+          "Tell us about a time you advised a business unit on financial crime risk and they pushed back — how did you handle it?",
+          "How do you keep AML/CTF programs compliant as crypto regulation evolves across multiple EU jurisdictions?"
+        ],
+        "toAsk": [
+          "How is the Deputy MLRO role expected to evolve as MiCA supervision matures across EU member states?",
+          "What automation or AI tooling is currently used in transaction monitoring and CDD, and where are the biggest gaps?",
+          "How does the compliance team collaborate with the MLRO across other OKX-regulated entities outside the EU?"
+        ]
+      }
+    },
+    {
+      "id": "revolut-regulatory-compliance-manager-germany-branch-2026",
+      "title": "Regulatory Compliance Manager (Revolut Branch in Germany)",
+      "company": "Revolut",
+      "location": "Germany (exact city unspecified; on-site branch role)",
+      "url": "https://startup.jobs/regulatory-compliance-manager-revolut-branch-in-germany-revolut-1847011",
+      "description": "Builds and owns the regulatory compliance framework for Revolut's newly established German branch, leading thematic reviews and gap remediation; requires 8+ years of German banking compliance experience.",
+      "fit": 2,
+      "datePosted": "2026-09-21",
+      "verified": false,
+      "tags": [
+        "compliance-leadership",
+        "berlin-based",
+        "lead-plus",
+        "corporate"
+      ],
+      "coverLetterDraft": "Dear Hiring Team,\n\nI'm excited to apply for the Regulatory Compliance Manager role supporting Revolut's new German branch. As Compliance Operations Manager at Pliant, I lead end-to-end KYC due diligence for corporate clients and drive AI-driven automation of compliance workflows — experience directly relevant to building a compliance framework and running thematic reviews and gap remediation for a new banking entity.\n\nI bring 8+ years across global banks, fintechs, and asset managers: due diligence across risk tiers at J.P. Morgan Chase, AML risk-rating and training at PwC (including a six-month on-site assignment in the Netherlands), and co-leading due-diligence review and automation initiatives at Moonfare. I'm comfortable working cross-functionally with stakeholders to stand up new processes and controls, and have direct experience with regulatory escalation management and the four-eyes principle.\n\nBased in Berlin, fluent in English with German at B1/B2, I'd welcome bringing this operational and automation-minded compliance background to Revolut's growing German presence.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "What would your first 90 days look like building out the compliance framework for a brand-new German branch?",
+          "How do you design and run a thematic review, and how do you decide what needs gap remediation?",
+          "Describe your experience working with German regulators (BaFin) or German banking regulations.",
+          "How do you balance a fast-moving fintech culture with the rigor required for a regulated banking branch?",
+          "Tell us about a time you had to build a process or control from scratch with no existing playbook.",
+          "What's your approach to keeping a compliance framework current as the branch scales headcount and product lines?"
+        ],
+        "toAsk": [
+          "What's driving the timing of establishing this branch now, and what stage is it at in the licensing/setup process?",
+          "How does this role interface with Revolut's central EU compliance function versus operating independently?",
+          "What are the first thematic reviews or remediation priorities identified for this branch?"
+        ]
+      }
+    },
+    {
+      "id": "scalablecapital-compliance-manager-digitalization-2026",
+      "title": "Compliance Manager (m/w/d)",
+      "company": "Scalable Capital",
+      "location": "Berlin, Germany (Hybrid)",
+      "url": "https://jobs.smartrecruiters.com/ScalableGmbH/744000140446795-compliance-manager-m-w-d-",
+      "description": "Securities/capital-markets compliance role (MiFID II, WpHG) at a Berlin fintech, explicitly tasked with driving digitalization and automation of internal compliance processes and evaluating AI-supported tools.",
+      "fit": 2,
+      "datePosted": "2026-09-21",
+      "verified": true,
+      "tags": [
+        "compliance-leadership",
+        "ai-automation",
+        "berlin-based",
+        "senior-specialist",
+        "corporate"
+      ],
+      "coverLetterDraft": "Dear Hiring Team,\n\nI'm applying for the Compliance Manager role at Scalable Capital. While my background is concentrated in AML/KYC rather than securities compliance, the core of this role — driving digitalization and automation of compliance processes and evaluating AI-supported approaches — is exactly what I do day to day as Compliance Operations Manager at Pliant, where I lead KYC due diligence for corporate clients and drive AI-driven automation of compliance workflows as part of an internal AI team.\n\nI've also built the cross-functional and process-improvement skills this role needs: co-leading a due-diligence review project at Moonfare and shaping automation improvements with stakeholders, and delivering AML/KYC training and building risk ratings at PwC. I have advanced Excel and SQL fundamentals for data-driven process work, and I'm comfortable partnering with internal teams and external auditors to keep controls current as regulations evolve.\n\nBased in Berlin, fluent in English with German at B1/B2, I'd welcome bringing this automation-focused approach to your compliance team.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "What's your experience with MiFID II or WpHG, even if most of your background is AML/KYC-focused?",
+          "Tell us about a compliance process you digitalized or automated — what was the before/after?",
+          "How would you evaluate whether an AI-supported tool is trustworthy enough to use in a compliance process?",
+          "How do you work with external auditors during a compliance review?",
+          "Describe a time you had to learn a new regulatory domain quickly — how did you approach it?",
+          "How do you prioritize automation projects against day-to-day compliance monitoring work?"
+        ],
+        "toAsk": [
+          "What does “Digitalisierung und Automatisierung” look like in practice today — are there existing AI pilots in the compliance function?",
+          "How does this Compliance Manager role split time between securities/capital-markets compliance and broader financial-crime compliance, if at all?",
+          "What tools or vendors is the team currently evaluating for AI-supported compliance work?"
+        ]
+      }
     }
   ]
 }
