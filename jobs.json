@@ -2884,6 +2884,106 @@
           "What tools or vendors is the team currently evaluating for AI-supported compliance work?"
         ]
       }
+    },
+    {
+      "id": "qonto-internal-audit-manager-german-market-2026",
+      "title": "Internal Audit Manager - German market",
+      "company": "Qonto",
+      "location": "Berlin, Germany (hybrid; Paris or Milan also possible)",
+      "url": "https://jobs.lever.co/qonto/4555db78-b810-4939-99a5-7ba15f630412",
+      "description": "Qonto is hiring an Internal Audit Manager to lead end-to-end audit missions covering its German Branch's compliance and operational controls, coordinate with BaFin and external auditors, and contribute to Group-wide risk assessments as Qonto pursues pan-European credit institution licensing.",
+      "tags": [
+        "qa",
+        "berlin-based",
+        "lead-plus",
+        "startup"
+      ],
+      "fit": 2,
+      "datePosted": "2026-09-12",
+      "verified": true,
+      "coverLetterDraft": "Dear Qonto Hiring Team,\n\nI'm writing to apply for the Internal Audit Manager - German market role. As Compliance Operations Manager at Pliant, I own end-to-end KYC due diligence for corporate clients and drive AI-driven automation of compliance workflows — work that depends on the same rigor, four-eyes discipline, and control-testing mindset this audit mandate requires.\n\nAt Moonfare, I co-led the firm's ongoing due-diligence review project, working with cross-functional stakeholders to identify process gaps and shape automation improvements — effectively an internal audit function within compliance operations. At J.P. Morgan Chase, I conducted due diligence across Corporate, Financial Institution, and Publicly Traded Company risk tiers, and at PwC I built AML risk ratings and delivered internal AML/KYC training, giving me first-hand exposure to the control weaknesses an audit function is meant to catch.\n\nI hold a Master's in Finance and Accounting, am based in Berlin, and am fluent in English with German at B1 progressing toward B2 — I want to flag this openly given the role's fluent-German requirement, while noting my daily working proficiency and continued progress.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "Walk us through how you'd scope and execute an end-to-end audit mission for Qonto's German Branch.",
+          "How would you approach coordinating with BaFin and external auditors during a regulatory review?",
+          "Describe a time you identified a control gap during a due-diligence or compliance review and how you escalated it.",
+          "How do you track and follow up on audit recommendations to ensure they're actually implemented?",
+          "Given the fluent-German requirement, how would you handle audit interviews and documentation review in German day to day?",
+          "How do you balance an independent audit perspective with maintaining working relationships with the teams you're reviewing?"
+        ],
+        "toAsk": [
+          "As Qonto pursues credit institution licensing across Europe, how is the internal audit function's scope expected to grow?",
+          "How does the German market audit role coordinate with Group-wide audit planning and other country audit leads?",
+          "What's the current mix of German-language versus English-language work in this role day to day?"
+        ]
+      }
+    },
+    {
+      "id": "evotym-deputy-mlro-poland-remote-2026",
+      "title": "Deputy MLRO",
+      "company": "Electronic Money Institution (via Evotym, confidential search)",
+      "location": "Remote (Poland-based, fully remote)",
+      "url": "https://careers.evotym.com/jobs/8395782-deputy-mlro",
+      "description": "A card-scheme-connected electronic money institution processing e-commerce, iGaming, and Forex payments is hiring a Deputy MLRO to support the MLRO on AML/financial-crime matters, oversee merchant onboarding and monitoring, and manage compliance requests from Visa and Mastercard.",
+      "tags": [
+        "compliance-leadership",
+        "remote-europe",
+        "senior-specialist",
+        "startup"
+      ],
+      "fit": 2,
+      "datePosted": "2026-09-15",
+      "verified": true,
+      "coverLetterDraft": "Dear Hiring Team,\n\nI'm applying for the Deputy MLRO role supporting your electronic money institution client. As Compliance Operations Manager at Pliant, I lead end-to-end KYC due diligence and AML risk assessment for corporate clients, and I've built the sanctions and PEP screening discipline this deputy mandate requires to support an MLRO across merchant onboarding, monitoring, and remediation.\n\nMy background includes AML Analyst at PwC, where I built AML risk ratings for individuals and legal entities and delivered internal AML/KYC training, and KYC Analyst at J.P. Morgan Chase, conducting due diligence across Corporate, Financial Institution, and Publicly Traded Company risk tiers. While my direct experience is concentrated in banking and asset-management KYC/AML rather than card-scheme or acquiring risk, the underlying skills — sanctions screening, transaction-pattern analysis, regulatory escalation, and four-eyes case review — transfer directly to merchant risk and scheme-inquiry work.\n\nI'm fluent in English; I don't speak Russian, which I want to flag given the listed requirement. I hold a Master's in Finance and Accounting and am currently based in Berlin, fully open to remote work.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How would you handle a Visa or Mastercard scheme inquiry into a merchant's transaction patterns?",
+          "Walk us through your approach to merchant onboarding due diligence and ongoing monitoring.",
+          "Describe your experience with sanctions screening and how you'd apply it to a merchant risk context.",
+          "How would you support the MLRO in preparing a SAR or escalation for a payments business?",
+          "This role's language requirements include Russian — how would you handle that gap in a deputy capacity?",
+          "Tell us about a time you had to assess a high-risk business model (e.g., iGaming or Forex) for onboarding risk."
+        ],
+        "toAsk": [
+          "What's driving the need for a Deputy MLRO right now — team growth, a new scheme relationship, or a regulatory finding?",
+          "How is the compliance/risk team structured between the MLRO, this deputy role, and merchant risk analysts?",
+          "What card schemes and payment rails does the business currently operate across, and are there plans to expand?"
+        ]
+      }
+    },
+    {
+      "id": "gomining-general-manager-custody-compliance-2026",
+      "title": "General Manager - Custody & Compliance",
+      "company": "GoMining",
+      "location": "Remote (Cyprus, Georgia, Poland, Spain, Serbia, or Latvia)",
+      "url": "https://apply.workable.com/gomining/j/5391770DC3/",
+      "description": "GoMining is hiring a General Manager to own its crypto custody and compliance business end-to-end — strategy, KYC/AML/Travel Rule operations, and an engineering team — with an explicit mandate to use AI and automation to keep the function lean.",
+      "tags": [
+        "compliance-leadership",
+        "ai-automation",
+        "remote-europe",
+        "lead-plus",
+        "startup"
+      ],
+      "fit": 2,
+      "datePosted": "2026-08-27",
+      "verified": false,
+      "coverLetterDraft": "Dear GoMining Hiring Team,\n\nI'm applying for the General Manager, Custody & Compliance role. As Compliance Operations Manager at Pliant, I already own end-to-end KYC due diligence for corporate clients while driving AI-driven automation of compliance workflows as part of an internal AI team — exactly the intersection of compliance ownership and automation this role is built around.\n\nMy background gives me the operational depth to build scalable KYC/AML and Travel Rule processes: at Moonfare, I co-led the firm's ongoing due-diligence review project and helped shape automation improvements with cross-functional stakeholders; at J.P. Morgan Chase, I conducted due diligence across multiple institutional risk tiers; and at PwC I built AML risk ratings and delivered AML/KYC training. I'm not a custody-infrastructure specialist, so I'd lean on a fast ramp-up on the Fireblocks/Copper/BitGo side of the role while owning the compliance and KYC/AML program from day one.\n\nI hold a Master's in Finance and Accounting, am fluent in English, and am based in Berlin with full remote flexibility for this position.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How would you prioritize between onboarding conversion, fraud prevention, and regulatory compliance when they pull in different directions?",
+          "Describe how you'd use AI or automation to keep a compliance/custody team lean while scaling volume.",
+          "What's your experience with crypto custody providers like Fireblocks, Copper, or BitGo, and how would you get up to speed quickly?",
+          "Walk us through how you'd operationalize Travel Rule compliance for a custody platform.",
+          "As a GM owning P&L, how do you think about the tradeoff between compliance rigor and business growth?",
+          "Tell us about a time you led a cross-functional team, including engineers, toward a compliance or risk deadline."
+        ],
+        "toAsk": [
+          "What does success look like for this role in the first six months — a compliance milestone, a custody launch, or a business metric?",
+          "How large is the current custody and compliance team, and what's the split between compliance and engineering headcount?",
+          "Where specifically do you see the biggest opportunity to apply AI/automation in this function right now?"
+        ]
+      }
     }
   ]
 }
