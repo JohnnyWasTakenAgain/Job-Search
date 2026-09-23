@@ -2984,6 +2984,208 @@
           "Where specifically do you see the biggest opportunity to apply AI/automation in this function right now?"
         ]
       }
+    },
+    {
+      "id": "n26-complaints-compliance-prevention-manager-2026",
+      "title": "Complaints Compliance & Prevention Manager",
+      "company": "N26",
+      "location": "Berlin, Germany (on-site)",
+      "url": "https://n26.com/en-eu/careers/positions/8161394?gh_jid=8161394",
+      "description": "Leads N26's preventive Root-Cause-Analysis framework and regulatory remediation roadmap for complaints handling, owns Written Orders compliance, and directs team members across the complaints and operations function.",
+      "fit": 3,
+      "datePosted": "2026-08-27",
+      "verified": true,
+      "tags": [
+        "compliance-leadership",
+        "qa",
+        "berlin-based",
+        "lead-plus",
+        "startup"
+      ],
+      "coverLetterDraft": "Dear N26 Hiring Team,\n\nI'm writing to apply for the Complaints Compliance & Prevention Manager role. As Compliance Operations Manager at Pliant, I lead end-to-end KYC due diligence for corporate clients and have driven AI-assisted automation of compliance workflows as part of an internal AI team - work that translates directly into building a preventive, root-cause-driven complaints framework rather than one that only reacts after the fact.\n\nAt Moonfare, I co-led the ongoing due-diligence review project and worked cross-functionally to shape process improvements guided by regulatory expectations; at J.P. Morgan and PwC, I built the risk-tiered due-diligence and escalation habits that this role's Written Orders and regulatory-remediation work requires. I'm comfortable directing team members, setting quality standards for their casework, and being the operational point of contact for regulators and auditors.\n\nBerlin-based and progressing toward German B2, I'd welcome the chance to bring that mix of hands-on AML/KYC depth and process-improvement mindset to N26's compliance organization.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "Walk us through how you'd design a Root Cause Analysis framework for recurring compliance complaints.",
+          "Describe a time you identified a systemic gap in a compliance process and drove a fix, not just a workaround.",
+          "How have you used automation or AI tooling to reduce manual compliance workload, and what were the risks you had to manage?",
+          "How would you handle being the primary contact for a regulator during an active remediation on Written Orders?",
+          "Tell us about a time you had to lead or mentor others through a change in compliance procedure.",
+          "How do you balance speed of remediation against thoroughness when BaFin timelines are involved?"
+        ],
+        "toAsk": [
+          "What is driving the need for a dedicated preventive RCA framework right now - a specific finding, an audit, or a strategic push?",
+          "How is the complaints compliance team structured today, and who would this role's team members report through?",
+          "What does success look like in the first six months for the Written Orders remediation roadmap?"
+        ]
+      }
+    },
+    {
+      "id": "sevensenders-senior-compliance-manager-ai-governance-2026",
+      "title": "Senior Compliance Manager (Legal, Privacy & AI Governance) (f/m/x)",
+      "company": "Seven Senders",
+      "location": "Berlin, Germany (hybrid)",
+      "url": "https://jobs.smartrecruiters.com/SevenSenders/744000146998470-senior-compliance-manager-legal-privacy-ai-governance-f-m-x-",
+      "description": "Builds and rolls out the company's AI governance framework and training program alongside GDPR/data-protection compliance and centralized procurement-compliance processes, reporting to the Head of Finance & GRC.",
+      "fit": 2,
+      "datePosted": "2026-09-23",
+      "verified": true,
+      "tags": [
+        "ai-automation",
+        "compliance-leadership",
+        "berlin-based",
+        "senior-specialist",
+        "startup"
+      ],
+      "coverLetterDraft": "Dear Seven Senders Hiring Team,\n\nI'm applying for the Senior Compliance Manager (Legal, Privacy & AI Governance) role. While my core background is AML/KYC compliance, the thread running through my career - at Pliant, Moonfare, J.P. Morgan and PwC - is building and governing processes that must hold up under regulatory scrutiny, and increasingly doing that with AI in the loop rather than around it.\n\nAt Pliant, I work as part of an internal AI team driving automation of compliance workflows, which means I've had to think concretely about AI governance: where automation is appropriate, where a human review step is non-negotiable, and how to document that reasoning for auditors. That's the same discipline your AI governance framework and training program need. I also bring hands-on GDPR-adjacent experience from handling sensitive client documentation under strict data-protection rules across banking and fintech environments.\n\nI'd welcome the opportunity to bring that regulatory rigor and automation mindset to Seven Senders' compliance function.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "What experience do you have specifically with AI governance frameworks, as opposed to general compliance or AML/KYC work?",
+          "How would you design an AI governance training program for non-technical staff across an organization?",
+          "Describe your hands-on experience with GDPR or data-protection compliance.",
+          "How do you evaluate whether a new AI tool a business team wants to adopt is compliant to roll out?",
+          "Tell us about a time you had to be the sole compliance expert in the room advising non-compliance stakeholders.",
+          "How do you prioritize when legal, privacy, and procurement compliance topics compete for your time?"
+        ],
+        "toAsk": [
+          "What AI tools or use cases within Seven Senders is this governance framework primarily meant to cover?",
+          "Is this a purely individual-contributor role today, or is there a path to building out a team as the AI governance function grows?",
+          "What's prompted the company to formalize AI governance now?"
+        ]
+      }
+    },
+    {
+      "id": "enfuce-risk-manager-2026",
+      "title": "Risk Manager (2nd Line)",
+      "company": "Enfuce",
+      "location": "Remote (Germany, UK, Finland, Spain and other locations eligible)",
+      "url": "https://enfuceoy.teamtailor.com/jobs/8220896-risk-manager",
+      "description": "Second-line risk function role coordinating RCSA, Key Risk Indicator monitoring, and control testing for a Finland/UK-licensed e-money institution, with oversight of incidents and remediation.",
+      "fit": 2,
+      "datePosted": "2026-09-23",
+      "verified": true,
+      "tags": [
+        "qa",
+        "compliance-leadership",
+        "remote-europe",
+        "senior-specialist",
+        "startup"
+      ],
+      "coverLetterDraft": "Dear Enfuce Hiring Team,\n\nI'm applying for the Risk Manager (2nd Line) role. My background is second-line-adjacent by nature: as Compliance Operations Manager at Pliant and previously as a KYC Associate at Moonfare, I've spent years reviewing and challenging first-line casework under the four-eyes principle, escalating regulatory risk, and calibrating quality standards for others' due-diligence decisions.\n\nAt J.P. Morgan, I assessed risk across Corporate, Financial Institution, and Publicly Traded Company client tiers, which built the same risk-tiering instinct this role's RCSA and KRI monitoring work requires. At PwC, I built AML risk ratings and delivered internal training - practical experience in translating a risk framework into something operational teams can actually use day to day.\n\nI'm based in Berlin with fluent English and working German, and comfortable operating fully remote within a distributed European team. I'd welcome bringing that combination of regulatory judgment and process discipline to Enfuce's second-line function.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "Walk us through how you'd run an RCSA cycle for a payments/e-money business.",
+          "What Key Risk Indicators would you propose for an AML/KYC operations team, and why?",
+          "Describe a time you challenged a first-line decision as part of a second-line or QA review.",
+          "How do you handle disagreement with the first line over whether an incident needs escalating?",
+          "What's your experience with regulated e-money or payments institutions specifically, versus banking?",
+          "How would you structure incident and remediation tracking so nothing falls through the cracks?"
+        ],
+        "toAsk": [
+          "How is the second-line risk function currently staffed, and how does this role fit alongside compliance and internal audit?",
+          "What incident or regulatory finding, if any, prompted this role opening?",
+          "Given the remote/distributed team, how does the risk function coordinate day-to-day across locations and time zones?"
+        ]
+      }
+    },
+    {
+      "id": "soprasteria-manager-afc-operations-ai-managed-services-2026",
+      "title": "Manager Anti-Financial Crime Operations, AI & Managed Services (m/w/d)",
+      "company": "Sopra Steria",
+      "location": "Germany (Berlin, Frankfurt, Hamburg, Köln, Leipzig, München; home office)",
+      "url": "https://www.stepstone.de/stellenangebote--Manager-Anti-Financial-Crime-Operations-AI-Managed-Services-m-w-d-bundesweit-Berlin-Frankfurt-Hamburg-Koeln-Leipzig-Muenchen-Sopra-Steria--14527888-inline.html",
+      "description": "Consulting role helping banking and fintech clients transform their Anti-Financial Crime operations through managed services and AI-driven automation of AML/KYC workflows.",
+      "fit": 3,
+      "datePosted": "2026-09-21",
+      "verified": true,
+      "tags": [
+        "compliance-leadership",
+        "ai-automation",
+        "berlin-based",
+        "lead-plus",
+        "corporate"
+      ],
+      "coverLetterDraft": "Dear Sopra Steria Hiring Team,\n\nI'm applying for the Manager, Anti-Financial Crime Operations, AI & Managed Services role. My career has been built at the intersection this role occupies: hands-on AFC operations and the automation that makes those operations scale. At Pliant, I lead end-to-end KYC due diligence for corporate clients while driving AI-driven automation of compliance workflows as part of an internal AI team - directly relevant to advising clients on transforming their own AFC managed services.\n\nEarlier, at J.P. Morgan and PwC, I worked across the full AML/KYC lifecycle - due diligence, risk rating, escalation, and training - across Corporate, Financial Institution, and Publicly Traded Company client tiers. That breadth means I can speak credibly to clients about both the compliance substance and the operational mechanics of running an AFC function, not just the automation layer on top of it.\n\nBased in Berlin and open to the bundesweit home-office setup, I'd welcome bringing this operator's perspective to Sopra Steria's advisory practice.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How would you assess whether a client's AFC operation is a good candidate for AI-driven automation versus needing process fixes first?",
+          "Describe your hands-on experience running or advising on AML/KYC operations at scale.",
+          "What's an example of an AI or automation project you drove in a compliance context, and what was the measurable outcome?",
+          "How do you handle client stakeholders who are skeptical of automating AFC decisions?",
+          "What consulting or client-facing experience do you have, and how does it differ from working in-house?",
+          "How do you stay current on regulatory expectations (BaFin, EU AMLA) for AI use in financial crime controls?"
+        ],
+        "toAsk": [
+          "What does a typical AFC Operations & Managed Services engagement look like end-to-end for a client?",
+          "How is the AI component of this practice area currently resourced - is it a dedicated team I'd work with, or something I'd help build out?",
+          "What size and type of clients (banks vs. fintechs) make up most of this team's current pipeline?"
+        ]
+      }
+    },
+    {
+      "id": "capgeminiinvent-senior-manager-afc-aml-kyc-fraud-2026",
+      "title": "(Senior) Manager Anti-Financial Crime, AML, KYC & Fraud (w/m/d)",
+      "company": "Capgemini Invent",
+      "location": "Germany (Berlin, Frankfurt am Main, Hamburg, Köln, München, Stuttgart)",
+      "url": "https://www.stepstone.de/stellenangebote--Senior-Manager-Anti-Financial-Crime-AML-KYC-Fraud-w-m-d-Berlin-Frankfurt-am-Main-Hamburg-Koeln-Muenchen-Stuttgart-Capgemini-Invent--14526585-inline.html",
+      "description": "Banking & Insurance consulting/advisory manager role leading client engagements on Anti-Financial Crime, AML, KYC and fraud-prevention transformation programs.",
+      "fit": 3,
+      "datePosted": "2026-09-21",
+      "verified": true,
+      "tags": [
+        "compliance-leadership",
+        "berlin-based",
+        "lead-plus",
+        "corporate"
+      ],
+      "coverLetterDraft": "Dear Capgemini Invent Hiring Team,\n\nI'm applying for the (Senior) Manager, Anti-Financial Crime, AML, KYC & Fraud role. Over 8+ years across J.P. Morgan, PwC, Moonfare and now Pliant, I've worked the full spectrum of AML/KYC delivery - due diligence across Corporate, Financial Institution and Publicly Traded Company client tiers, AML risk rating, PEP and adverse media screening, and regulatory escalation - the exact subject matter your clients need advising on.\n\nWhat I'd bring beyond domain depth is delivery experience with change itself: at Moonfare I co-led the firm's ongoing due-diligence review project and worked with cross-functional stakeholders to shape automation improvements; at Pliant I'm part of an internal AI team driving compliance workflow automation. That combination - deep AML/KYC/fraud expertise plus first-hand experience leading transformation projects - maps directly onto advising banking and insurance clients on their AFC operating models.\n\nBerlin-based with fluent English and working German, I'd welcome the opportunity to bring this to Capgemini Invent's practice.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "Describe a transformation or process-improvement project you led in an AML/KYC context, from diagnosis to delivery.",
+          "How do you approach fraud prevention differently from AML/KYC, and where do the two overlap operationally?",
+          "What's your experience presenting findings or recommendations to senior client stakeholders?",
+          "How would you structure a client engagement to assess the maturity of their AFC controls?",
+          "Tell us about a time you had to manage a team or workstream under a tight regulatory deadline.",
+          "What German and EU regulatory developments in AML/KYC do you think will most affect clients in the next 1-2 years?"
+        ],
+        "toAsk": [
+          "What does the client mix look like for this practice - mostly incumbent banks, or increasingly fintechs and insurers too?",
+          "How is seniority and team structure organized within this AFC/AML/KYC practice area at Capgemini Invent?",
+          "What's a recent engagement this team delivered that you're particularly proud of?"
+        ]
+      }
+    },
+    {
+      "id": "earlybird-compliance-risk-manager-2026",
+      "title": "Compliance & Risk Manager (m/f/d)",
+      "company": "Earlybird VC Management GmbH & Co. KG",
+      "location": "Berlin, Germany",
+      "url": "https://www.stepstone.de/stellenangebote--Compliance-Risk-Manager-m-f-d-Berlin-Earlybird-VC-Management-GmbH-Co-KG--13883309-inline.html",
+      "description": "Owns core compliance topics including AML aspects and the risk-management framework at a Berlin-based venture capital firm, working closely with the Head of Risk.",
+      "fit": 2,
+      "datePosted": "2026-09-21",
+      "verified": true,
+      "tags": [
+        "compliance-leadership",
+        "berlin-based",
+        "senior-specialist",
+        "startup"
+      ],
+      "coverLetterDraft": "Dear Earlybird Hiring Team,\n\nI'm applying for the Compliance & Risk Manager role. My background is grounded in AML/KYC and financial operations across banks, fintechs and asset managers - J.P. Morgan, PwC, Thomson Reuters, State Street, Moonfare and now Pliant - which gives me a practical, cross-sector view of how compliance and risk frameworks actually need to function day to day, not just on paper.\n\nAt Moonfare, an asset-management platform, I co-led the ongoing due-diligence review project and guided institutional clients through KYC/AML documentation, which is close in substance to the investor and portfolio-company diligence a VC compliance function handles. I also bring analytical rigor from my Finance and Mathematics background, and hands-on process-improvement experience from driving AI-assisted automation of compliance workflows at Pliant.\n\nI'd welcome bringing that combination of AML expertise and process ownership to Earlybird's compliance and risk framework, working closely with your Head of Risk.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "What experience do you have with compliance in a venture capital or asset management context specifically, versus banking/fintech?",
+          "How would you approach AML risk assessment for investors (LPs) and portfolio companies, which differs from retail/corporate banking KYC?",
+          "Describe how you'd build or improve a risk-management framework largely on your own, without a large compliance team around you.",
+          "Tell us about a time you had to explain a compliance requirement to non-compliance colleagues (e.g. investment team) and get their buy-in.",
+          "How do you prioritize compliance topics when working closely with one Head of Risk rather than a full department?",
+          "What's your experience with German or EU fund-related regulatory requirements?"
+        ],
+        "toAsk": [
+          "What does the compliance and risk function currently look like at Earlybird, and how does this role fit alongside the Head of Risk?",
+          "Is the AML component focused mainly on LP onboarding, portfolio company due diligence, or both?",
+          "What's driving the need for this role now - fund growth, a new regulatory requirement, or something else?"
+        ]
+      }
     }
   ]
 }
