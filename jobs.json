@@ -3186,6 +3186,107 @@
           "What's driving the need for this role now - fund growth, a new regulatory requirement, or something else?"
         ]
       }
+    },
+    {
+      "id": "n26-ict-compliance-senior-manager-2026",
+      "title": "ICT GRC – ICT Compliance Senior Manager",
+      "company": "N26",
+      "location": "Berlin, Germany (onsite)",
+      "url": "https://n26.com/en-eu/careers/positions/8203568?gh_jid=8203568",
+      "description": "Leads N26's second-line ICT compliance function, building the IT compliance framework against DORA/MaRisk/BAIT, running independent compliance assessments, and championing AI-enabled compliance monitoring while managing a team.",
+      "fit": 3,
+      "datePosted": "2026-09-24",
+      "verified": true,
+      "tags": [
+        "compliance-leadership",
+        "ai-automation",
+        "berlin-based",
+        "lead-plus",
+        "corporate"
+      ],
+      "coverLetterDraft": "Dear N26 Hiring Team,\n\nI'm writing to apply for the ICT Compliance Senior Manager role in the Risk department. As a Compliance Operations Manager with 8+ years across banks and fintechs - most recently leading KYC due diligence at Pliant while driving AI-driven automation of compliance workflows as part of an internal AI team - I bring hands-on experience translating regulatory requirements into scalable, automated second-line processes.\n\nWhile my direct domain has been AML/KYC rather than ICT-specific compliance, the underlying discipline is the same: building second-line frameworks against EU regulation, running independent compliance assessments, and reporting to senior stakeholders. I've co-led due-diligence review projects and shaped automation improvements with cross-functional stakeholders at Moonfare, and worked across multiple risk tiers at J.P. Morgan, so ramping up on DORA/MaRisk/BAIT specifics is a matter of applying a method I already know to a new regulatory domain.\n\nI'd welcome the chance to bring that automation-first, second-line mindset to N26's ICT compliance function, and to build and lead a team applying AI to compliance monitoring at scale.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "Your background is in AML/KYC compliance rather than ICT/IT compliance - how would you ramp up on DORA, MaRisk, and BAIT requirements?",
+          "Describe a time you used AI or automation to improve a compliance process. What was the measurable impact?",
+          "How do you structure independent compliance assessments and communicate findings to senior stakeholders or regulators?",
+          "Tell us about a time you had to manage or mentor a team through a period of regulatory change.",
+          "How do you balance automation initiatives with maintaining audit-ready documentation and control evidence?",
+          "Walk us through how you'd prioritize a first 90-day plan for building out this ICT compliance function."
+        ],
+        "toAsk": [
+          "How mature is N26's AI-enabled compliance monitoring today - is this role building automation from scratch or scaling an existing capability?",
+          "What does the team structure and reporting line into the CISO Office look like, and how much autonomy will I have in hiring and shaping the team?",
+          "How does this ICT Compliance function coordinate with N26's existing AFC/KYC compliance teams?"
+        ]
+      }
+    },
+    {
+      "id": "n26-ict-risk-compliance-manager-2026",
+      "title": "ICT GRC – Risk & Compliance Manager",
+      "company": "N26",
+      "location": "Berlin, Germany (onsite)",
+      "url": "https://n26.com/en-eu/careers/positions/8169035?gh_jid=8169035",
+      "description": "Manages IT risk within N26's second line of defense, maintaining the ICT risk register and reporting on compliance status, with an explicit mandate to leverage AI tools to enhance risk assessment and compliance monitoring.",
+      "fit": 2,
+      "datePosted": "2026-09-24",
+      "verified": true,
+      "tags": [
+        "ai-automation",
+        "berlin-based",
+        "senior-specialist",
+        "corporate"
+      ],
+      "coverLetterDraft": "Dear N26 Hiring Team,\n\nI'm applying for the ICT Risk & Compliance Manager role supporting the Deputy CISO. Over 8+ years in KYC/AML compliance - most recently at Pliant, where I lead due diligence for corporate clients and help drive AI-driven automation of compliance workflows as part of an internal AI team - I've built a track record of turning manual, judgment-heavy review processes into scalable, tool-assisted ones without compromising quality.\n\nThough my domain expertise centers on AML/KYC rather than ICT risk specifically, the underlying skill set transfers directly: risk assessment methodology, maintaining risk registers and control evidence, collaborating cross-functionally on mitigation plans, and reporting compliance status to leadership. At J.P. Morgan and Moonfare I worked across risk tiers and co-led automation-focused due-diligence projects with cross-functional stakeholders.\n\nI'm particularly drawn to this role's emphasis on leveraging AI tools to enhance risk assessment and threat identification - that's the direction I've been pushing in my current role, and I'd welcome the opportunity to apply it to N26's ICT risk function.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "What ICT/IT risk frameworks are you familiar with, given your background is primarily AML/KYC?",
+          "Give an example of an AI tool or technique you've used to enhance a compliance or risk process.",
+          "How do you maintain and prioritize a risk register when facing competing regulatory deadlines?",
+          "Describe how you've collaborated with technical teams on remediation of a risk finding.",
+          "How do you communicate technical risk findings to non-technical senior stakeholders?",
+          "Tell us about a time your review of an existing process uncovered a control gap - what did you do?"
+        ],
+        "toAsk": [
+          "What specific AI tools or vendors is the team currently using or evaluating for compliance monitoring?",
+          "Since this role has no direct reports, what does the growth path look like - toward a lead role like the ICT Compliance Senior Manager position?",
+          "How does this role's output feed into N26's DORA/BAIT regulatory reporting cycle?"
+        ]
+      }
+    },
+    {
+      "id": "scalablecapital-pm-afc-2026",
+      "title": "Product Manager - Anti Financial Crime (m/f/x)",
+      "company": "Scalable Capital",
+      "location": "Berlin, Germany (hybrid, work-from-abroad possible)",
+      "url": "https://jobs.smartrecruiters.com/ScalableGmbH/744000140457923-product-manager-anti-financial-crime-m-f-x-",
+      "description": "Owns and builds a greenfield anti-financial-crime platform from scratch, translating AML/regulatory requirements into engineering specs, designing AI/ML-driven detection and automation workflows, with functional ownership of a data-engineering team.",
+      "fit": 3,
+      "datePosted": "2026-09-24",
+      "verified": true,
+      "tags": [
+        "ai-automation",
+        "compliance-leadership",
+        "berlin-based",
+        "lead-plus",
+        "corporate"
+      ],
+      "coverLetterDraft": "Dear Scalable Capital Hiring Team,\n\nI'm excited to apply for the Product Manager - Anti Financial Crime role. With 8+ years in KYC/AML compliance - including leading end-to-end KYC due diligence at Pliant and driving AI-driven automation of compliance workflows as part of an internal AI team - I understand both the regulatory substance of AFC requirements and the operational pain points that make them hard to scale.\n\nI've spent my career on the receiving end of AFC tooling: running due diligence and risk assessments across corporate, financial-institution, and retail clients at J.P. Morgan, Moonfare, and PwC, and shaping automation improvements alongside cross-functional stakeholders. That gives me a clear view of where detection logic, workflow design, and analyst usability succeed or fail in practice - exactly the translation work this role calls for between regulatory requirements and engineering specifications.\n\nWhile I haven't held a formal PM title, I've effectively owned automation initiatives end-to-end: defining requirements, working with engineers, and measuring impact on compliance workflows. I'd welcome the chance to bring that domain depth to building Scalable Capital's AFC platform from the ground up.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "You haven't held a formal Product Manager title before - how would you approach translating AML/regulatory requirements into technical specs for engineers?",
+          "Describe your experience working with or overseeing a technical or data-engineering team.",
+          "Walk us through how you'd prioritize a roadmap for an AFC platform built from scratch.",
+          "What AI/ML-driven detection techniques are you familiar with, and how have you evaluated their effectiveness?",
+          "How do you balance regulatory compliance requirements against engineering speed and product usability?",
+          "Tell us about a time you had to make a trade-off between automation and manual review quality."
+        ],
+        "toAsk": [
+          "What does 'functional ownership' of the data engineering team mean in practice - do I set priorities, or also participate in performance and hiring decisions?",
+          "What AFC capabilities exist today, and how much of this role is greenfield build versus improving existing tooling?",
+          "How closely will this role work with Scalable Capital's existing Compliance/AFC operations teams day to day?"
+        ]
+      }
     }
   ]
 }
