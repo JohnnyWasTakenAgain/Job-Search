@@ -3287,6 +3287,40 @@
           "How closely will this role work with Scalable Capital's existing Compliance/AFC operations teams day to day?"
         ]
       }
+    },
+    {
+      "id": "airwallex-manager-emea-fcc-monitoring-testing-2026",
+      "title": "Manager, EMEA FCC Monitoring & Testing",
+      "company": "Airwallex",
+      "location": "London or Amsterdam (EMEA, remote-flexible)",
+      "url": "https://www.nogigiddy.com/jobs/manager-emea-fcc-monitoring-testing-airwallex-opwjgl",
+      "description": "Airwallex is hiring a Manager to shape and scale its EMEA financial crime compliance monitoring and testing framework, independently validating AML, sanctions, and KYC/KYB controls as part of a data-driven second-line assurance function.",
+      "tags": [
+        "qa",
+        "ai-automation",
+        "remote-europe",
+        "lead-plus",
+        "startup"
+      ],
+      "fit": 2,
+      "datePosted": "2026-08-20",
+      "verified": false,
+      "coverLetterDraft": "Dear Airwallex Hiring Team,\n\nI'm writing to apply for the Manager, EMEA FCC Monitoring & Testing role. As Compliance Operations Manager at Pliant, I lead end-to-end KYC due diligence for corporate clients while driving AI-driven automation of compliance workflows as part of an internal AI team — experience directly relevant to building a data-driven, technology-enabled second-line assurance function.\n\nAcross eight years in KYC/AML at J.P. Morgan Chase, PwC, and fintechs including Moonfare and Pliant, I've conducted due diligence across multiple risk tiers, built AML risk ratings, and helped shape automation improvements with cross-functional stakeholders. I bring hands-on familiarity with sanctions screening, PEP/adverse media review, and the four-eyes principle that underpins independent control testing, plus working SQL skills for interrogating monitoring data.\n\nI'm particularly drawn to this role's second-line, review-of-controls focus: validating that AML, sanctions, and KYC/KYB controls actually work as designed, rather than only executing them, is exactly the direction I want to grow into.\n\nI'd welcome the chance to discuss how my KYC/AML and automation background could strengthen Airwallex's EMEA monitoring and testing framework.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "Walk us through how you would design a risk-based testing plan to validate AML/sanctions/KYC controls across multiple EMEA markets.",
+          "Describe a time you identified a control gap or false sense of assurance in a compliance process — how did you address it?",
+          "How have you used data analysis or automation (e.g., SQL, scripting) to improve the efficiency or coverage of compliance monitoring?",
+          "How do you balance independence as a second-line function while maintaining a constructive relationship with first-line teams?",
+          "Tell us about a time you had to report a significant finding to senior stakeholders — how did you handle it?",
+          "What's your experience with sanctions screening and transaction monitoring system logic, and how would you go about testing them?"
+        ],
+        "toAsk": [
+          "How is the FCC Monitoring & Testing function's independence from first-line Compliance Operations structured and safeguarded here?",
+          "What tooling or data infrastructure does the team use today for control testing, and where are the biggest gaps you're hoping this hire will close?",
+          "How does this EMEA role coordinate with the global Director, FCC Monitoring & Testing and other regional monitoring teams (ANZ, APAC)?"
+        ]
+      }
     }
   ]
 }
