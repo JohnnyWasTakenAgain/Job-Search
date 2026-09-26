@@ -2956,7 +2956,7 @@
       "title": "General Manager - Custody & Compliance",
       "company": "GoMining",
       "location": "Remote (Cyprus, Georgia, Poland, Spain, Serbia, or Latvia)",
-      "url": "https://apply.workable.com/gomining/j/5391770DC3/",
+      "url": "https://gomining.com/careers/general-manager-custody-compliance",
       "description": "GoMining is hiring a General Manager to own its crypto custody and compliance business end-to-end — strategy, KYC/AML/Travel Rule operations, and an engineering team — with an explicit mandate to use AI and automation to keep the function lean.",
       "tags": [
         "compliance-leadership",
@@ -2967,7 +2967,7 @@
       ],
       "fit": 2,
       "datePosted": "2026-08-27",
-      "verified": false,
+      "verified": true,
       "coverLetterDraft": "Dear GoMining Hiring Team,\n\nI'm applying for the General Manager, Custody & Compliance role. As Compliance Operations Manager at Pliant, I already own end-to-end KYC due diligence for corporate clients while driving AI-driven automation of compliance workflows as part of an internal AI team — exactly the intersection of compliance ownership and automation this role is built around.\n\nMy background gives me the operational depth to build scalable KYC/AML and Travel Rule processes: at Moonfare, I co-led the firm's ongoing due-diligence review project and helped shape automation improvements with cross-functional stakeholders; at J.P. Morgan Chase, I conducted due diligence across multiple institutional risk tiers; and at PwC I built AML risk ratings and delivered AML/KYC training. I'm not a custody-infrastructure specialist, so I'd lean on a fast ramp-up on the Fireblocks/Copper/BitGo side of the role while owning the compliance and KYC/AML program from day one.\n\nI hold a Master's in Finance and Accounting, am fluent in English, and am based in Berlin with full remote flexibility for this position.\n\nBest regards,\n[Your Name]",
       "interviewPrep": {
         "expected": [
@@ -3319,6 +3319,74 @@
           "How is the FCC Monitoring & Testing function's independence from first-line Compliance Operations structured and safeguarded here?",
           "What tooling or data infrastructure does the team use today for control testing, and where are the biggest gaps you're hoping this hire will close?",
           "How does this EMEA role coordinate with the global Director, FCC Monitoring & Testing and other regional monitoring teams (ANZ, APAC)?"
+        ]
+      }
+    },
+    {
+      "id": "billie-compliance-expert-deputy-mlro-2026",
+      "title": "Compliance Expert and Deputy MLRO (w/m/d)",
+      "company": "Billie",
+      "location": "Berlin, Germany (Hybrid)",
+      "url": "https://jobs.ashbyhq.com/billie/fcc221b2-5ff3-47e0-a666-48b539b5543b",
+      "description": "Billie is hiring a Deputy MLRO to develop and maintain its financial-crime and regulatory risk framework, supervise and independently review business processes, lead strategic compliance projects, and act as the key point of contact for internal and external audits.",
+      "tags": [
+        "compliance-leadership",
+        "qa",
+        "berlin-based",
+        "senior-specialist",
+        "startup"
+      ],
+      "fit": 3,
+      "datePosted": "2026-09-21",
+      "verified": true,
+      "coverLetterDraft": "Dear Billie Compliance Team,\n\nI'm applying for the Compliance Expert and Deputy MLRO role. As Compliance Operations Manager at Pliant, I lead end-to-end KYC due diligence for corporate clients and drive AI-driven automation of compliance workflows as part of an internal AI team — directly relevant to a Deputy MLRO role that combines regulatory ownership with process automation.\n\nMy background covers exactly the independent-review and audit-readiness work this role calls for: at Moonfare, I co-led the ongoing due-diligence review project and shaped automation improvements with cross-functional stakeholders; at J.P. Morgan Chase, I conducted due diligence across Corporate, Financial Institution, and Publicly Traded Company risk tiers; at PwC, I built AML risk ratings, delivered AML/KYC training, and completed an on-site client assignment. I'm comfortable acting as a key point of contact for internal and external audits and translating regulatory requirements into practical, four-eyes-checked processes.\n\nI hold a Master's in Finance and Accounting, work fluently in English with German at B1 progressing to B2, and am based in Berlin, ready for this hybrid role.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How would you structure Billie's financial-crime and regulatory risk framework as Deputy MLRO?",
+          "Describe your approach to conducting independent reviews of business processes for AML/compliance gaps.",
+          "How have you used AI or automation to strengthen compliance workflows in your current role?",
+          "Walk us through how you'd prepare for and manage an internal or external audit as the compliance point of contact.",
+          "Tell us about a time you had to escalate a regulatory or AML risk to senior stakeholders.",
+          "What's your experience working alongside or deputizing for an MLRO?"
+        ],
+        "toAsk": [
+          "What does the Senior Director of Compliance you'd report to prioritize most in the first six months?",
+          "How is the compliance team structured, and how much of this role is hands-on review versus strategic project leadership?",
+          "Where do you see the biggest opportunity to bring AI or automation into Billie's compliance workflows?"
+        ]
+      }
+    },
+    {
+      "id": "getyourguide-senior-internal-audit-manager-2026",
+      "title": "Senior Internal Audit Manager",
+      "company": "GetYourGuide",
+      "location": "Berlin, Germany",
+      "url": "https://job-boards.greenhouse.io/getyourguide/jobs/8146892",
+      "description": "GetYourGuide is hiring its founding Internal Audit hire to build the function from scratch with an AI-first mindset — business audits, SOX/internal-control readiness, fraud reviews and investigations, and reporting to senior stakeholders and committees.",
+      "tags": [
+        "qa",
+        "ai-automation",
+        "lead-plus",
+        "berlin-based",
+        "corporate"
+      ],
+      "fit": 2,
+      "datePosted": "2026-08-21",
+      "verified": true,
+      "coverLetterDraft": "Dear GetYourGuide Hiring Team,\n\nI'm writing about the Senior Internal Audit Manager role. While my background is KYC/AML rather than classic internal audit, the core skill set overlaps directly: as Compliance Operations Manager at Pliant, I lead due diligence reviews and drive AI-driven automation of compliance workflows, and I'm drawn to the chance to build a new Internal Audit function with an AI-first mindset rather than legacy manual processes.\n\nI bring hands-on experience reviewing and calibrating others' work: at Moonfare, I co-led the ongoing due-diligence review project; at J.P. Morgan Chase, I assessed due diligence across Corporate, Financial Institution, and Publicly Traded Company risk tiers; at PwC, I built AML risk ratings and delivered internal training. This background translates directly to fraud reviews, controls testing, and reporting to senior stakeholders — the core of this founding audit hire.\n\nI hold a Master's in Finance and Accounting and a Bachelor's in Mathematics, giving me the analytical rigor for SOX and controls-readiness work, and I'm based in Berlin, available for this role.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "Since this is a founding audit hire, how would you design GetYourGuide's Internal Audit function from scratch?",
+          "What's your experience with SOX or internal-controls readiness work?",
+          "How would you bring an \"AI-first\" mindset to audit and controls testing rather than legacy manual workflows?",
+          "Describe a fraud review or investigation you've led and the outcome.",
+          "How do you communicate audit findings to senior stakeholders or committees?",
+          "Tell us about a time you had to build a new process or function without an existing playbook."
+        ],
+        "toAsk": [
+          "What does \"founding\" this function look like in practice — is there an existing audit committee or reporting structure already in place?",
+          "Which business areas, such as payments, marketplace, or supplier risk, are the first priority for audit coverage?",
+          "What tools or AI/automation capabilities is the team currently exploring for controls testing?"
         ]
       }
     }
