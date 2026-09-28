@@ -3389,6 +3389,73 @@
           "What tools or AI/automation capabilities is the team currently exploring for controls testing?"
         ]
       }
+    },
+    {
+      "id": "deliveryhero-compliance-manager-2026",
+      "title": "Compliance Manager",
+      "company": "Delivery Hero",
+      "location": "Berlin, Germany (hybrid, 2 days/week on-site)",
+      "url": "https://jobs.smartrecruiters.com/DeliveryHero/744000151873830-compliance-manager",
+      "description": "Senior role on Delivery Hero's Global GRC team leading design and maintenance of the group compliance framework, financial-crime controls, and compliance testing/monitoring/investigations, with direct leadership of a Berlin-based compliance team.",
+      "tags": [
+        "compliance-leadership",
+        "qa",
+        "berlin-based",
+        "lead-plus",
+        "corporate"
+      ],
+      "fit": 3,
+      "datePosted": "2026-09-28",
+      "verified": true,
+      "coverLetterDraft": "Dear Delivery Hero Hiring Team,\n\nI'm writing to apply for the Compliance Manager role on your Global GRC team. As Compliance Operations Manager at Pliant, I lead end-to-end KYC due diligence for corporate clients while driving AI-driven automation of compliance workflows as part of an internal AI team — direct experience building and maintaining compliance frameworks and financial-crime controls at scale.\n\nI bring strong QA and review experience: at Moonfare, I co-led the ongoing due-diligence review project and helped shape automation improvements with cross-functional stakeholders; at J.P. Morgan Chase, I conducted due diligence across Corporate, Financial Institution, and Publicly Traded Company risk tiers; at PwC, I built AML risk ratings and delivered internal AML/KYC training. This mix of hands-on financial-crime expertise and case-review/calibration work maps directly onto compliance testing, monitoring, and investigations.\n\nI hold a Master's in Finance and Accounting and a Bachelor's in Mathematics, and I'm based in Berlin, available for the hybrid schedule this role requires.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "Walk us through how you'd design or improve a group-wide compliance framework covering financial-crime controls across multiple markets.",
+          "Tell me about a time you led or calibrated quality reviews of other people's casework — how did you ensure consistency?",
+          "How have you used AI or automation to improve a compliance process, and what were the results?",
+          "How would you approach a compliance testing and monitoring program for a large, multi-entity organization like Delivery Hero?",
+          "Describe a time you had to escalate a significant compliance or financial-crime risk to senior stakeholders.",
+          "How do you balance leading a team day-to-day with staying hands-on in complex due-diligence or investigation cases?"
+        ],
+        "toAsk": [
+          "How is the Global GRC team structured, and how does the Berlin compliance team collaborate with country-level compliance functions?",
+          "What does the compliance testing and monitoring program currently look like, and where do you see the biggest gaps or opportunities?",
+          "How much appetite is there for automating parts of the compliance framework, and is there an existing AI/automation initiative I'd be plugging into?"
+        ]
+      }
+    },
+    {
+      "id": "okx-head-of-compliance-emea-2026",
+      "title": "Head of Compliance, EMEA",
+      "company": "OKX",
+      "location": "Remote, EMEA (open to candidates across Europe)",
+      "url": "https://job-boards.greenhouse.io/okx/jobs/7546852003",
+      "description": "Senior leadership role directing OKX's compliance strategy and execution across EMEA, managing and elevating the performance of country Heads of Compliance and MLROs, and reporting compliance risk to management and the Board.",
+      "tags": [
+        "compliance-leadership",
+        "remote-europe",
+        "lead-plus",
+        "corporate"
+      ],
+      "fit": 3,
+      "datePosted": "2026-09-28",
+      "verified": false,
+      "coverLetterDraft": "Dear OKX Hiring Team,\n\nI'm applying for the Head of Compliance, EMEA role. As Compliance Operations Manager at Pliant, I lead end-to-end KYC due diligence for corporate clients and drive AI-driven automation of compliance workflows within a fast-moving fintech environment — directly relevant to scaling a compliance function across a fast-growing, multi-entity organization like OKX's EMEA operations.\n\nI have direct people-management and cross-border coordination experience: at Moonfare, I co-led the firm's ongoing due-diligence review project and worked with cross-functional stakeholders on automation improvements; at J.P. Morgan Chase, I assessed due diligence across Corporate, Financial Institution, and Publicly Traded Company risk tiers for a global client portfolio; at PwC, I built AML risk ratings and delivered internal AML/KYC training, including a six-month on-site assignment in the Netherlands. This background gives me the regulatory breadth and team-elevation experience to support country Heads of Compliance and MLROs across EMEA.\n\nI hold a Master's in Finance and Accounting, a Bachelor's in Mathematics, and I'm based in Berlin with fluent English and working German, ready for remote EMEA-wide collaboration.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How would you approach managing and elevating the performance of country Heads of Compliance and MLROs across different EMEA jurisdictions?",
+          "What's your experience with crypto/digital-asset regulation, or how would you ramp up on it quickly?",
+          "Describe a time you had to align compliance practices across multiple entities or countries with different regulatory requirements.",
+          "How do you produce compliance reporting that's useful for senior management and the Board?",
+          "Tell me about a time you drove AI or automation improvements in a compliance workflow.",
+          "How do you handle a situation where a local MLRO disagrees with a group-level compliance policy?"
+        ],
+        "toAsk": [
+          "How is the Head of Compliance, Regions role structured relative to this position, and how much autonomy will I have over the EMEA strategy?",
+          "Which EMEA markets or entities are the current compliance priorities, and are there any pending regulatory changes (e.g., MiCA) driving urgency?",
+          "What tools or automation does the compliance team currently use, and is there room to introduce AI-driven process improvements?"
+        ]
+      }
     }
   ]
 }
