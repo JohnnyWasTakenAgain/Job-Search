@@ -23,12 +23,12 @@
       "description": "N26 is hiring a Senior Data Analyst to empower Finance and Business teams with data-driven insights, monitoring and analyzing financial metrics and performance across the company's product domains.",
       "tags": [
         "data",
-        "berlin-based",
         "senior-specialist",
         "startup"
       ],
       "fit": 3,
-      "datePosted": "2026-08-13"
+      "datePosted": "2026-08-13",
+      "placement": "berlin-based"
     },
     {
       "id": "solarisbank-senior-data-engineer-2026",
@@ -39,12 +39,12 @@
       "description": "Solarisbank is looking for a Senior Data Engineer to join its Data Platform Team, working closely with data engineering, data warehousing, and analytics experts.",
       "tags": [
         "data",
-        "berlin-based",
         "senior-specialist",
         "startup"
       ],
       "fit": 2,
-      "datePosted": "2026-08-13"
+      "datePosted": "2026-08-13",
+      "placement": "berlin-based"
     },
     {
       "id": "traderepublic-senior-afc-manager-2026",
@@ -56,7 +56,6 @@
       "tags": [
         "compliance-leadership",
         "ai-automation",
-        "berlin-based",
         "lead-plus",
         "startup"
       ],
@@ -78,7 +77,8 @@
           "How does this role coordinate with Trade Republic's broader AFC Compliance team and the MLRO function?",
           "What's driving this hire — growth into new markets, a recent regulatory finding, or scaling existing controls?"
         ]
-      }
+      },
+      "placement": "berlin-based"
     },
     {
       "id": "traderepublic-senior-compliance-officer-intl-2026",
@@ -89,12 +89,12 @@
       "description": "Trade Republic seeks a Senior Compliance Officer - International with relevant AML and MiFID regulatory experience in the financial services sector.",
       "tags": [
         "compliance",
-        "berlin-based",
         "senior-specialist",
         "startup"
       ],
       "fit": 2,
-      "datePosted": "2026-08-13"
+      "datePosted": "2026-08-13",
+      "placement": "berlin-based"
     },
     {
       "id": "goldstandard-senior-kyc-analyst-2026",
@@ -105,11 +105,11 @@
       "description": "Gold Standard is hiring a Senior KYC Analyst to lead KYC/KYB reviews, including ownership analysis, UBO mapping, and sanctions/PEP/adverse media assessments.",
       "tags": [
         "compliance",
-        "berlin-based",
         "senior-specialist"
       ],
       "fit": 3,
-      "datePosted": "2026-08-13"
+      "datePosted": "2026-08-13",
+      "placement": "berlin-based"
     },
     {
       "id": "n26-lead-swe-regtech-2026",
@@ -120,12 +120,12 @@
       "description": "N26 is hiring a Lead Software Engineer to own and evolve governance platforms that help the bank meet regulatory expectations and strengthen operational resilience.",
       "tags": [
         "tech",
-        "berlin-based",
         "lead-plus",
         "startup"
       ],
       "fit": 2,
-      "datePosted": "2026-08-13"
+      "datePosted": "2026-08-13",
+      "placement": "berlin-based"
     },
     {
       "id": "solarisbank-senior-swe-2026",
@@ -136,12 +136,12 @@
       "description": "Solarisbank, a tech company with a full German banking license, is hiring a Senior Software Engineer to build and maintain scalable backend systems on its Banking-as-a-Service platform.",
       "tags": [
         "tech",
-        "berlin-based",
         "senior-specialist",
         "startup"
       ],
       "fit": 3,
-      "datePosted": "2026-08-13"
+      "datePosted": "2026-08-13",
+      "placement": "berlin-based"
     },
     {
       "id": "solarisbank-senior-swe-elixir-2026",
@@ -152,12 +152,12 @@
       "description": "Solarisbank is hiring a Senior Software Engineer specializing in Elixir to build and maintain microservice-based backend systems.",
       "tags": [
         "tech",
-        "berlin-based",
         "senior-specialist",
         "startup"
       ],
       "fit": 3,
-      "datePosted": "2026-08-13"
+      "datePosted": "2026-08-13",
+      "placement": "berlin-based"
     },
     {
       "id": "deliveryhero-senior-swe-javakotlin-2026",
@@ -168,12 +168,12 @@
       "description": "Delivery Hero is hiring a Senior Software Engineer (Java/Kotlin) for its Payments team to build and scale Wallet, Payment, and Anti-Fraud solutions.",
       "tags": [
         "tech",
-        "berlin-based",
         "senior-specialist",
         "corporate"
       ],
       "fit": 3,
-      "datePosted": "2026-08-13"
+      "datePosted": "2026-08-13",
+      "placement": "berlin-based"
     },
     {
       "id": "n26-teamlead-nfr-internal-controls-2026",
@@ -184,7 +184,6 @@
       "description": "N26 is hiring a Team Lead to manage a team of four specialists within Non-Financial Risk Management, owning risk and control assessments, risk appetite frameworks, and enterprise-wide reporting to leadership.",
       "tags": [
         "compliance-leadership",
-        "berlin-based",
         "lead-plus",
         "startup"
       ],
@@ -206,7 +205,8 @@
           "What does success look like for this Team Lead role in the first six months?",
           "How does the team collaborate with N26's AFC and Banking Compliance functions day to day?"
         ]
-      }
+      },
+      "placement": "berlin-based"
     },
     {
       "id": "wise-head-of-compliance-mlro-germany-2026",
@@ -217,7 +217,6 @@
       "description": "Wise is hiring a Head of Compliance & MLRO to oversee compliance with German and EEA AML/CTF regulations, act as primary regulatory contact, and lead compliance policy, risk frameworks, and reporting for the German entity.",
       "tags": [
         "compliance-leadership",
-        "berlin-based",
         "lead-plus",
         "corporate"
       ],
@@ -239,7 +238,8 @@
           "How does the Germany compliance function coordinate with Wise's global compliance and legal teams?",
           "What support or budget is available for building out the compliance team under this role?"
         ]
-      }
+      },
+      "placement": "berlin-based"
     },
     {
       "id": "traderepublic-head-of-compliance-operations-2026",
@@ -250,7 +250,6 @@
       "description": "Trade Republic is hiring a Head of Compliance Operations to lead compliance operations, oversee KYC/AML processes at scale, and manage a team ensuring adherence to regulatory requirements across the bank's markets.",
       "tags": [
         "compliance-leadership",
-        "berlin-based",
         "lead-plus",
         "startup"
       ],
@@ -272,7 +271,8 @@
           "What are the biggest operational bottlenecks the compliance team is trying to solve right now?",
           "How is AI or automation currently being used in Trade Republic's compliance operations, and where do you see the biggest opportunity?"
         ]
-      }
+      },
+      "placement": "berlin-based"
     },
     {
       "id": "traderepublic-kyc-manager-2026",
@@ -283,7 +283,6 @@
       "description": "Trade Republic is hiring a KYC Manager to perform high-level KYC screening and reviews, guide junior team members through escalations, and ensure adherence to regulatory and partnership requirements.",
       "tags": [
         "compliance-leadership",
-        "berlin-based",
         "lead-plus",
         "startup"
       ],
@@ -305,7 +304,8 @@
           "How does this role interact with Trade Republic's Head of Compliance Operations and AFC functions?",
           "What tools or automation does Trade Republic use for KYC screening today, and are there plans to expand them?"
         ]
-      }
+      },
+      "placement": "berlin-based"
     },
     {
       "id": "raisin-senior-manager-afc-advisory-2026",
@@ -316,7 +316,6 @@
       "description": "Raisin is hiring a Senior Manager AFC Advisory to own bank-wide and client-related AFC project planning, conduct money-laundering risk analyses, and serve as technical point of contact for audits.",
       "tags": [
         "compliance-leadership",
-        "berlin-based",
         "lead-plus",
         "startup"
       ],
@@ -338,7 +337,8 @@
           "What upcoming regulatory changes or projects will this role prioritize in the first six months?",
           "How is Raisin using automation or technology to support AFC risk assessments and customer risk ratings today?"
         ]
-      }
+      },
+      "placement": "berlin-based"
     },
     {
       "id": "selbyjennings-head-of-compliance-fintech-berlin-2026",
@@ -349,7 +349,6 @@
       "description": "A Berlin/Frankfurt fintech specializing in digital business loans for SMEs is hiring a Head of Compliance to own the full compliance framework and manage a team of 4-5 compliance professionals across GDPR, financial crime prevention, KYC/KYB, and outsourcing oversight.",
       "tags": [
         "compliance-leadership",
-        "berlin-based",
         "lead-plus",
         "startup"
       ],
@@ -371,7 +370,8 @@
           "How mature is the company's use of automation in compliance workflows today, and where do you see the most opportunity?",
           "How does this role's KYC/KYB scope intersect with the digital lending product roadmap?"
         ]
-      }
+      },
+      "placement": "berlin-based"
     },
     {
       "id": "klarna-senior-aml-expert-manager-2026",
@@ -382,7 +382,6 @@
       "description": "Klarna is expanding its AML organization in Berlin and Stockholm, hiring a Senior AML Expert/Manager to help own AML Group strategy, guide product development toward best-in-class AML & CTF solutions, and adapt controls to new markets and regulations.",
       "tags": [
         "compliance-leadership",
-        "berlin-based",
         "lead-plus",
         "corporate"
       ],
@@ -404,7 +403,8 @@
           "What does Klarna's roadmap look like for AI-driven AML detection or KYC automation?",
           "What does success look like for this role in the first six months?"
         ]
-      }
+      },
+      "placement": "berlin-based"
     },
     {
       "id": "vividmoney-head-of-risk-compliance-2026",
@@ -415,7 +415,6 @@
       "description": "Vivid Money is hiring a Head of Risk & Compliance to own the risk management and compliance framework for Vivid Money B.V., covering AML, duty of care, operational, third-party, and tech risk, plus oversight of financial risks at the Group level.",
       "tags": [
         "compliance-leadership",
-        "berlin-based",
         "lead-plus",
         "startup"
       ],
@@ -437,7 +436,8 @@
           "What are the top compliance or risk priorities driving this hire right now?",
           "How mature is Vivid's use of automation or technology in risk and compliance monitoring today?"
         ]
-      }
+      },
+      "placement": "berlin-based"
     },
     {
       "id": "pliant-head-aml-monitoring-2026",
@@ -448,7 +448,6 @@
       "description": "Pliant is hiring a Head of AML Monitoring within its Compliance Onboarding department to lead AML transaction monitoring for the B2B payments fintech.",
       "tags": [
         "compliance-leadership",
-        "berlin-based",
         "lead-plus",
         "startup"
       ],
@@ -470,7 +469,8 @@
           "What does Pliant's AML monitoring tech stack and automation roadmap look like today?",
           "What would the transition and team-building priorities look like in the first six months?"
         ]
-      }
+      },
+      "placement": "berlin-based"
     },
     {
       "id": "moss-deputy-mlro-2026",
@@ -483,7 +483,6 @@
         "compliance-leadership",
         "qa",
         "ai-automation",
-        "berlin-based",
         "lead-plus",
         "startup"
       ],
@@ -505,7 +504,8 @@
           "How is quality assurance of AFC risk analyses currently structured, and what would this role change first?",
           "What's the split of this role's time between AFC/AML, regulatory compliance, and card fraud?"
         ]
-      }
+      },
+      "placement": "berlin-based"
     },
     {
       "id": "n26-audit-operations-senior-manager-2026",
@@ -517,7 +517,6 @@
       "tags": [
         "qa",
         "compliance-leadership",
-        "berlin-based",
         "lead-plus",
         "corporate"
       ],
@@ -539,7 +538,8 @@
           "What does the audit QA program's current maturity look like, and what's the top priority for this hire?",
           "Is there an opportunity for someone with a compliance/KYC background, rather than a traditional audit background, to bring a different perspective to this role?"
         ]
-      }
+      },
+      "placement": "berlin-based"
     },
     {
       "id": "solarisbank-head-process-architecture-policy-2026",
@@ -550,7 +550,6 @@
       "description": "Solarisbank is hiring a Head of Process Architecture & Policy Management to own the bank's written rules framework (SfO) under MaRisk/German Banking Act and serve as primary contact for internal/external auditors on policy and internal-controls governance.",
       "tags": [
         "compliance-leadership",
-        "berlin-based",
         "lead-plus",
         "startup"
       ],
@@ -572,7 +571,8 @@
           "What's driving this hire now — a specific audit finding, growth, or a broader governance overhaul?",
           "What tools or systems does Solarisbank use today for policy management, and are there plans to modernize them?"
         ]
-      }
+      },
+      "placement": "berlin-based"
     },
     {
       "id": "westernunion-head-aml-compliance-berlin-2026",
@@ -583,7 +583,6 @@
       "description": "Western Union is hiring a Head of AML Compliance for its Berlin-based international bank entity, setting AML strategy, acting as key contact for the FMA and European supervisory authorities, and leading a team of AML experts.",
       "tags": [
         "compliance-leadership",
-        "berlin-based",
         "lead-plus",
         "corporate"
       ],
@@ -605,7 +604,8 @@
           "What's the current regulatory relationship status with the FMA and other supervisory authorities, and what are the near-term priorities?",
           "What team structure and resources would this role inherit, and where are the biggest gaps to address first?"
         ]
-      }
+      },
+      "placement": "berlin-based"
     },
     {
       "id": "mamgruppe-senior-compliance-officer-berlin-2026",
@@ -616,7 +616,6 @@
       "description": "A fast-growing, regulated financial services firm expanding into Germany is hiring a Senior Compliance Officer to own operational compliance for the new German entity, covering product governance, conduct risk, and regulator relationships.",
       "tags": [
         "compliance-leadership",
-        "berlin-based",
         "senior-specialist",
         "corporate"
       ],
@@ -638,7 +637,8 @@
           "How does this role interact with the wider European compliance and legal teams?",
           "What level of German proficiency will be expected as the German entity scales?"
         ]
-      }
+      },
+      "placement": "berlin-based"
     },
     {
       "id": "raisin-senior-afc-operations-manager-2026",
@@ -649,7 +649,6 @@
       "description": "Raisin is hiring a Senior AFC Operations Manager to review complex transaction-monitoring alerts, decide on Suspicious Activity Reports, and drive the conceptual development of the bank's monitoring infrastructure and detection scenarios.",
       "tags": [
         "compliance-leadership",
-        "berlin-based",
         "senior-specialist",
         "startup"
       ],
@@ -671,7 +670,8 @@
           "How does this role coordinate with the Senior Manager AFC Advisory function?",
           "What's the balance between SAR decisioning and infrastructure/process-improvement work in this role day to day?"
         ]
-      }
+      },
+      "placement": "berlin-based"
     },
     {
       "id": "bitpanda-senior-afc-compliance-officer-berlin-2026",
@@ -683,7 +683,6 @@
       "tags": [
         "compliance-leadership",
         "ai-automation",
-        "berlin-based",
         "senior-specialist",
         "startup"
       ],
@@ -705,7 +704,8 @@
           "How is Bitpanda using automation or AI today across case management and transaction monitoring, and where's the biggest opportunity?",
           "How does the Germany AMLO role coordinate with Bitpanda's group-level compliance function across other markets?"
         ]
-      }
+      },
+      "placement": "berlin-based"
     },
     {
       "id": "scalablecapital-compliance-manager-berlin-2026",
@@ -717,7 +717,6 @@
       "tags": [
         "compliance-leadership",
         "ai-automation",
-        "berlin-based",
         "senior-specialist",
         "corporate"
       ],
@@ -739,7 +738,8 @@
           "How does this Compliance Manager role interact with Scalable's Legal and Risk functions?",
           "What tools or AI-based solutions is the compliance team currently piloting or considering?"
         ]
-      }
+      },
+      "placement": "berlin-based"
     },
     {
       "id": "coinbase-senior-manager-intl-regulatory-compliance-berlin-2026",
@@ -750,7 +750,6 @@
       "description": "Coinbase is hiring a Senior Manager to lead and centrally coordinate the design and implementation of core Compliance Program elements across all non-US Coinbase entities, covering risk assessment, policy management, training, and regulatory change management.",
       "tags": [
         "compliance-leadership",
-        "berlin-based",
         "lead-plus",
         "corporate"
       ],
@@ -772,7 +771,8 @@
           "What does the regulatory roadmap look like for Coinbase's German/EU entities over the next 12 months?",
           "How is AI or automation currently used within the International Compliance program, and where do you see the biggest opportunity?"
         ]
-      }
+      },
+      "placement": "berlin-based"
     },
     {
       "id": "deloitte-senior-manager-aml-berlin-2026",
@@ -783,7 +783,6 @@
       "description": "Deloitte is hiring a Senior Manager to lead AML/CFT advisory engagements for clients, developing risk models and control frameworks while managing and developing project teams.",
       "tags": [
         "compliance-leadership",
-        "berlin-based",
         "lead-plus",
         "corporate"
       ],
@@ -804,7 +803,8 @@
           "How does Deloitte's compliance practice incorporate automation or AI tooling into AML advisory work today?",
           "What's the path from Senior Manager toward a people-leadership or practice-development role here?"
         ]
-      }
+      },
+      "placement": "berlin-based"
     },
     {
       "id": "vividmoney-mlro-german-branch-2026",
@@ -815,7 +815,6 @@
       "description": "Vivid Money is hiring the Money Laundering Reporting Officer for its German branch, owning AML process oversight, suspicious activity reporting, and regulator relationships.",
       "tags": [
         "compliance-leadership",
-        "berlin-based",
         "lead-plus",
         "startup"
       ],
@@ -836,7 +835,8 @@
           "How does Vivid balance group-level AML standards with the specific requirements of BaFin as the German branch regulator?",
           "What support - team, tooling, budget - comes with this MLRO mandate in the first year?"
         ]
-      }
+      },
+      "placement": "berlin-based"
     },
     {
       "id": "deloitte-senior-manager-compliance-berlin-2026",
@@ -847,7 +847,6 @@
       "description": "Deloitte is hiring a Senior Manager to lead compliance management system (CMS) advisory engagements, covering MiFID II/WpHG capital-markets compliance, with client acquisition and team-leadership responsibility.",
       "tags": [
         "compliance-leadership",
-        "berlin-based",
         "lead-plus",
         "corporate"
       ],
@@ -868,7 +867,8 @@
           "What does the travel expectation typically look like for this role in practice?",
           "What's the trajectory from Senior Manager to Director within this practice?"
         ]
-      }
+      },
+      "placement": "berlin-based"
     },
     {
       "id": "bitcapital-compliance-manager-berlin-2026",
@@ -881,7 +881,6 @@
         "compliance-leadership",
         "ai-automation",
         "qa",
-        "berlin-based",
         "senior-specialist",
         "startup"
       ],
@@ -902,7 +901,8 @@
           "Is there a roadmap toward this role gaining direct reports as the compliance function grows?",
           "What does success in the first six months in this role look like from your perspective?"
         ]
-      }
+      },
+      "placement": "berlin-based"
     },
     {
       "id": "n26-afc-sme-senior-associate-2026",
@@ -913,7 +913,6 @@
       "description": "N26 is hiring a second-line AFC SME to design scalable, audit-proof compliance processes for retail banking product teams and to identify opportunities for AI/ML integration in financial-crime detection.",
       "tags": [
         "ai-automation",
-        "berlin-based",
         "senior-specialist",
         "corporate"
       ],
@@ -935,7 +934,8 @@
           "How is the Second Line AFC function structured relative to First Line operations, and who does this role partner with most closely?",
           "What does success look like in the first 6 months for this role?"
         ]
-      }
+      },
+      "placement": "berlin-based"
     },
     {
       "id": "bitpanda-senior-specialist-internal-audit-2026",
@@ -946,7 +946,6 @@
       "description": "Bitpanda is building an in-house internal audit function across DACH, transitioning audits from external providers, and is hiring a Senior Specialist to audit compliance and security controls against EU regulatory frameworks.",
       "tags": [
         "qa",
-        "berlin-based",
         "senior-specialist",
         "startup"
       ],
@@ -968,7 +967,8 @@
           "What does the DACH audit scope currently cover, and how much of it touches AML/KYC specifically?",
           "How is success measured for this role in year one — audits completed, findings closed, or something else?"
         ]
-      }
+      },
+      "placement": "berlin-based"
     },
     {
       "id": "raisin-afc-operations-manager-2026",
@@ -979,7 +979,6 @@
       "description": "Raisin is hiring an AFC Operations Manager to run sanctions/PEP screening and SAR handling end-to-end, optimize screening infrastructure, and execute internal QA controls ensuring KYC/screening output meets regulatory standards.",
       "tags": [
         "qa",
-        "berlin-based",
         "senior-specialist",
         "startup"
       ],
@@ -1001,7 +1000,8 @@
           "How is the AFC Operations team structured, and does this role have people-management responsibility today or is that planned to grow?",
           "What's the current backlog/volume trend for alerts, and is this role expected to help reduce it?"
         ]
-      }
+      },
+      "placement": "berlin-based"
     },
     {
       "id": "n26-senior-manager-regulatory-project-management-2026",
@@ -1012,7 +1012,6 @@
       "description": "N26 is hiring a Senior Manager to lead a team of Regulatory Project Managers, owning a portfolio of high-impact regulatory and compliance initiatives reported directly to C-suite and Board stakeholders.",
       "tags": [
         "compliance-leadership",
-        "berlin-based",
         "lead-plus",
         "corporate"
       ],
@@ -1034,7 +1033,8 @@
           "How does this role's team of Regulatory Project Managers interface with AFC/KYC operations teams like the one I currently lead?",
           "What reporting cadence and format does the C-suite/Board expect from this role?"
         ]
-      }
+      },
+      "placement": "berlin-based"
     },
     {
       "id": "deutschebank-teamlead-kyc-corporatebank-afc-2026",
@@ -1045,7 +1045,6 @@
       "description": "Deutsche Bank is hiring a Team Lead, reporting to the Team Manager of Business Line AFC Corporate Bank/Investment Bank Germany-EMEA, to oversee daily operations of a KYC team handling new client adoption and ongoing due diligence.",
       "tags": [
         "compliance-leadership",
-        "berlin-based",
         "lead-plus",
         "corporate"
       ],
@@ -1067,7 +1066,8 @@
           "What's the current team size and case volume, and is headcount growth planned?",
           "Are there active initiatives to modernize or automate parts of the KYC review process I'd be inheriting?"
         ]
-      }
+      },
+      "placement": "berlin-based"
     },
     {
       "id": "jpmorgan-retail-compliance-officer-vp-berlin-2026",
@@ -1078,7 +1078,6 @@
       "description": "J.P. Morgan is hiring a VP-level senior compliance advisor for retail/consumer banking, covering new-product compliance review, regulatory horizon-scanning, risk-based monitoring/testing design, and governance-level reporting.",
       "tags": [
         "compliance-leadership",
-        "berlin-based",
         "lead-plus",
         "corporate"
       ],
@@ -1100,7 +1099,8 @@
           "What are the top 2-3 regulatory priorities for J.P. Morgan's German retail business right now?",
           "Is there a path from this role toward people management, or is it primarily an individual advisory function?"
         ]
-      }
+      },
+      "placement": "berlin-based"
     },
     {
       "id": "n26-senior-business-audit-manager-2026",
@@ -1112,7 +1112,6 @@
       "tags": [
         "qa",
         "compliance-leadership",
-        "berlin-based",
         "lead-plus",
         "corporate"
       ],
@@ -1134,7 +1133,8 @@
           "What does the current audit portfolio prioritize, and what's driving this hire?",
           "Is there a path for someone from a compliance/KYC background to grow within N26's Audit function?"
         ]
-      }
+      },
+      "placement": "berlin-based"
     },
     {
       "id": "solarisbank-senior-audit-manager-model-validation-2026",
@@ -1147,7 +1147,6 @@
         "qa",
         "ai-automation",
         "compliance-leadership",
-        "berlin-based",
         "lead-plus",
         "startup"
       ],
@@ -1169,7 +1168,8 @@
           "What tools or data science stack does the team currently use, and what support is there to ramp up on it?",
           "Is this role based primarily in Frankfurt or Berlin in practice, and how much travel is expected between the two?"
         ]
-      }
+      },
+      "placement": "berlin-based"
     },
     {
       "id": "ey-manager-regulatory-risk-compliance-transformation-2026",
@@ -1181,7 +1181,6 @@
       "tags": [
         "compliance-leadership",
         "ai-automation",
-        "berlin-based",
         "lead-plus",
         "corporate"
       ],
@@ -1203,7 +1202,8 @@
           "How is the Hub structured relative to EY's broader Forensic & Integrity Services and Compliance practices?",
           "What proportion of engagements focus specifically on KYC/AML versus broader risk/regulatory transformation?"
         ]
-      }
+      },
+      "placement": "berlin-based"
     },
     {
       "id": "ey-senior-manager-forensic-payment-fraud-prevention-2026",
@@ -1215,7 +1215,6 @@
       "tags": [
         "compliance-leadership",
         "ai-automation",
-        "berlin-based",
         "lead-plus",
         "corporate"
       ],
@@ -1237,7 +1236,8 @@
           "What does the client mix look like — mostly banks, or increasingly fintechs and payment providers?",
           "What tools or platforms does the team use for AI/ML-based fraud detection advisory work?"
         ]
-      }
+      },
+      "placement": "berlin-based"
     },
     {
       "id": "exxeta-regulatory-compliance-director-2026",
@@ -1249,7 +1249,6 @@
       "tags": [
         "compliance-leadership",
         "ai-automation",
-        "berlin-based",
         "lead-plus",
         "corporate"
       ],
@@ -1271,7 +1270,8 @@
           "How is the compliance consulting practice split between AFC/AML work and capital-markets regulation?",
           "What's the current mix of team management versus hands-on client delivery in this Director role?"
         ]
-      }
+      },
+      "placement": "berlin-based"
     },
     {
       "id": "michaelpage-mlro-compliance-officer-berlin-2026",
@@ -1282,7 +1282,6 @@
       "description": "A confidential Michael Page client is hiring an MLRO Compliance Officer to implement and advance anti-money-laundering prevention measures, monitor AML processes, assess risk, and coordinate with internal and external stakeholders on financial crime prevention.",
       "tags": [
         "compliance-leadership",
-        "berlin-based",
         "lead-plus",
         "corporate"
       ],
@@ -1304,7 +1303,8 @@
           "What's driving this hire — is the MLRO function being built out, or is this a replacement role?",
           "What team or support structure would this MLRO Compliance Officer role have access to?"
         ]
-      }
+      },
+      "placement": "berlin-based"
     },
     {
       "id": "airwallex-senior-director-eu-me-mlro-2026",
@@ -1315,7 +1315,6 @@
       "description": "Airwallex is hiring a Senior Director EU & ME, MLRO to lead and mentor a decentralized team of in-country MLROs across Europe and the Middle East, act as primary regulatory liaison with central banks, and provide compliance sign-off on high-risk escalations as the region's definitive second-line authority.",
       "tags": [
         "compliance-leadership",
-        "remote-europe",
         "lead-plus",
         "startup"
       ],
@@ -1337,7 +1336,8 @@
           "What's driving this hire — is EMEA regulatory scope expanding, or is this a succession/backfill?",
           "How does escalation to the Governance and Risk Committee work in practice, and how much autonomy does this role have before something needs Committee sign-off?"
         ]
-      }
+      },
+      "placement": "remote-europe"
     },
     {
       "id": "revolut-head-regulatory-compliance-eu-branches-2026",
@@ -1348,7 +1348,6 @@
       "description": "Revolut is hiring a Head of Regulatory Compliance to build and lead a compliance team supporting its expanding European branch network, aligning local regulatory frameworks with global standards and engaging directly with regulators.",
       "tags": [
         "compliance-leadership",
-        "remote-europe",
         "lead-plus",
         "corporate"
       ],
@@ -1370,7 +1369,8 @@
           "How does this role coordinate with Revolut's central Financial Crime Compliance and Group Compliance functions?",
           "What does the current team structure look like, and how much of it still needs to be built out?"
         ]
-      }
+      },
+      "placement": "remote-europe"
     },
     {
       "id": "solarisbank-senior-regulatory-affairs-manager-2026",
@@ -1382,7 +1382,6 @@
       "tags": [
         "compliance-leadership",
         "qa",
-        "berlin-based",
         "senior-specialist",
         "startup"
       ],
@@ -1404,7 +1403,8 @@
           "What's driving this hire — a specific audit finding, growth, or increased regulatory scrutiny?",
           "How is the role split between Frankfurt and Berlin day to day?"
         ]
-      }
+      },
+      "placement": "berlin-based"
     },
     {
       "id": "revolut-compliance-manager-deputy-mlro-germany-2026",
@@ -1415,7 +1415,6 @@
       "description": "Revolut is hiring a Compliance Manager to serve as Deputy MLRO for its German entity, overseeing the Financial Crime/AML control framework, SAR filings, and liaison with local law-enforcement and regulators.",
       "tags": [
         "compliance-leadership",
-        "berlin-based",
         "lead-plus",
         "corporate"
       ],
@@ -1437,7 +1436,8 @@
           "What's the current scale of Revolut's German entity, and how is the compliance team expected to grow?",
           "How does Revolut use automation today in AML case management, and where's the biggest opportunity for this role?"
         ]
-      }
+      },
+      "placement": "berlin-based"
     },
     {
       "id": "airwallex-manager-fcc-mlro-germany-2026",
@@ -1448,7 +1448,6 @@
       "description": "Airwallex is hiring a Manager, Financial Crime Compliance to serve as designated MLRO for its German Branch, owning AML/CTF and sanctions requirements, policy, training, governance, and SAR/FIU reporting as primary BaFin contact.",
       "tags": [
         "compliance-leadership",
-        "berlin-based",
         "lead-plus",
         "startup"
       ],
@@ -1470,7 +1469,8 @@
           "What's driving this hire — is the German Branch scaling, or is this a new regulatory requirement?",
           "What does Airwallex's current AML tech stack and automation roadmap look like for this role to build on?"
         ]
-      }
+      },
+      "placement": "berlin-based"
     },
     {
       "id": "allaml-senior-manager-aml-risk-investigations-2026",
@@ -1482,7 +1482,6 @@
       "tags": [
         "compliance-leadership",
         "ai-automation",
-        "berlin-based",
         "lead-plus",
         "startup"
       ],
@@ -1504,7 +1503,8 @@
           "What generative or agent-based AI tools is ALL AML currently exploring or using in investigations?",
           "What's the client base and case mix this team typically handles?"
         ]
-      }
+      },
+      "placement": "berlin-based"
     },
     {
       "id": "finom-fincrime-risk-manager-aml-sanctions-2026",
@@ -1516,7 +1516,6 @@
       "tags": [
         "compliance-leadership",
         "ai-automation",
-        "remote-europe",
         "senior-specialist",
         "startup"
       ],
@@ -1538,7 +1537,8 @@
           "What does success look like for this role in the first six months, particularly around the rule-review cycle?",
           "How is the two-person team structured, and what's the split between hands-on casework and strategic rule design?"
         ]
-      }
+      },
+      "placement": "remote-europe"
     },
     {
       "id": "revolut-regulatory-compliance-manager-qc-2026",
@@ -1550,7 +1550,6 @@
       "tags": [
         "qa",
         "compliance-leadership",
-        "remote-europe",
         "senior-specialist",
         "corporate"
       ],
@@ -1572,7 +1571,8 @@
           "What's the current split between manual QC sampling and any automated quality checks?",
           "How does this role interact with the compliance teams in each EU branch or hub?"
         ]
-      }
+      },
+      "placement": "remote-europe"
     },
     {
       "id": "xapobank-mlro-deputy-2026",
@@ -1583,7 +1583,6 @@
       "description": "Xapo Bank's Global Compliance team is hiring an MLRO / Deputy MLRO to support the Chief Compliance Officer in building and running the bank's Anti-Financial Crime (AML/CTF) Framework, with people-management responsibility and full regulatory ownership.",
       "tags": [
         "compliance-leadership",
-        "remote-europe",
         "lead-plus",
         "startup"
       ],
@@ -1605,7 +1604,8 @@
           "What does the reporting line and day-to-day collaboration with the CCO look like for this role?",
           "How is the compliance team using automation or tooling today, and where do you see the biggest gaps?"
         ]
-      }
+      },
+      "placement": "remote-europe"
     },
     {
       "id": "raisin-third-party-risk-manager-2026",
@@ -1617,7 +1617,6 @@
       "tags": [
         "qa",
         "compliance-leadership",
-        "berlin-based",
         "senior-specialist",
         "startup"
       ],
@@ -1639,7 +1638,8 @@
           "What's driving this hire — DORA implementation, growth in outsourcing arrangements, or something else?",
           "What does the current QA process for third-party risk assessments look like today?"
         ]
-      }
+      },
+      "placement": "berlin-based"
     },
     {
       "id": "traderepublic-intl-compliance-manager-austria-italy-2026",
@@ -1650,7 +1650,6 @@
       "description": "Trade Republic is hiring an International Compliance Manager to advise Country Management Teams in Austria, Italy, and other expansion markets on AML/MiFID regulatory requirements as the bank scales across new jurisdictions.",
       "tags": [
         "compliance-leadership",
-        "berlin-based",
         "lead-plus",
         "startup"
       ],
@@ -1672,7 +1671,8 @@
           "What does the current compliance footprint look like in Austria and Italy, and what's driving the expansion timeline?",
           "How does this role coordinate with Trade Republic's Head of Compliance Operations and other country-specific compliance managers?"
         ]
-      }
+      },
+      "placement": "berlin-based"
     },
     {
       "id": "selbyjennings-mlro-fintech-berlin-2026",
@@ -1683,7 +1683,6 @@
       "description": "A Berlin-based fintech is hiring an MLRO to lead the local AML/CTF compliance framework, act as primary liaison with German regulatory authorities, oversee transaction monitoring and SAR filing with the FIU, and implement localized AML/KYC policies.",
       "tags": [
         "compliance-leadership",
-        "berlin-based",
         "lead-plus",
         "startup"
       ],
@@ -1705,7 +1704,8 @@
           "What team and resources would this MLRO role inherit, and where are the biggest gaps to close first?",
           "Is German fluency required from day one, or is there a runway to build toward it while ramping up regulator-facing work?"
         ]
-      }
+      },
+      "placement": "berlin-based"
     },
     {
       "id": "trading212-senior-compliance-officer-berlin-2026",
@@ -1716,7 +1716,6 @@
       "description": "Trading212 is hiring a Senior Compliance Officer in Berlin to own compliance advisory across product governance, conduct risk, and financial promotions review, and to manage the BaFin relationship for its German brokerage build-out.",
       "tags": [
         "compliance-leadership",
-        "berlin-based",
         "senior-specialist",
         "startup"
       ],
@@ -1738,7 +1737,8 @@
           "How is the compliance function structured today, and where does this role sit relative to Legal and Risk?",
           "What are the biggest compliance priorities for the German business over the next 12 months?"
         ]
-      }
+      },
+      "placement": "berlin-based"
     },
     {
       "id": "kraken-head-of-compliance-pcf12-2026",
@@ -1750,7 +1750,6 @@
       "tags": [
         "compliance-leadership",
         "ai-automation",
-        "remote-europe",
         "lead-plus",
         "corporate"
       ],
@@ -1772,7 +1771,8 @@
           "What AI or automation tools has the compliance team already deployed, and what's the roadmap for the next year?",
           "How does this role's team and mandate compare to Kraken's other EU-regulated entities?"
         ]
-      }
+      },
+      "placement": "remote-europe"
     },
     {
       "id": "kraken-head-of-aml-ctf-pcf52-2026",
@@ -1784,7 +1784,6 @@
       "tags": [
         "compliance-leadership",
         "ai-automation",
-        "remote-europe",
         "lead-plus",
         "corporate"
       ],
@@ -1806,7 +1805,8 @@
           "What does the current transaction monitoring and case management tech stack look like, and where is automation planned next?",
           "How does this role coordinate with Kraken's broader global AML function versus the EU entity specifically?"
         ]
-      }
+      },
+      "placement": "remote-europe"
     },
     {
       "id": "kraken-internal-audit-fincrime-conduct-manager-2026",
@@ -1818,7 +1818,6 @@
       "tags": [
         "qa",
         "compliance-leadership",
-        "remote-europe",
         "lead-plus",
         "corporate"
       ],
@@ -1840,7 +1839,8 @@
           "What's the relationship between this role's findings and the second-line compliance team's remediation process?",
           "How is the audit function using data analytics or automation today, and where is that heading?"
         ]
-      }
+      },
+      "placement": "remote-europe"
     },
     {
       "id": "raisin-senior-manager-afc-advisory-ii-2026",
@@ -1851,7 +1851,6 @@
       "description": "Raisin is hiring a second Senior Manager AFC Advisory to drive the strategic development of its AML framework, own risk-analysis methodology and internal control design, and serve as technical point of contact for internal and external AFC audits.",
       "tags": [
         "compliance-leadership",
-        "berlin-based",
         "lead-plus",
         "startup"
       ],
@@ -1873,7 +1872,8 @@
           "What upcoming regulatory changes are driving this AML framework development work right now?",
           "How is Raisin using automation or technology to support AFC advisory and risk-methodology work today?"
         ]
-      }
+      },
+      "placement": "berlin-based"
     },
     {
       "id": "coinbase-internal-audit-manager-luxembourg-2026",
@@ -1885,7 +1885,6 @@
       "tags": [
         "qa",
         "compliance-leadership",
-        "remote-europe",
         "lead-plus",
         "corporate"
       ],
@@ -1907,7 +1906,8 @@
           "What does the quarterly in-person 'surge' model look like in practice, and how is remote collaboration structured the rest of the time?",
           "What's driving this hire — a specific regulatory finding, entity growth, or a broader audit function build-out?"
         ]
-      }
+      },
+      "placement": "remote-europe"
     },
     {
       "id": "coinbase-associate-manager-internal-audit-fcc-2026",
@@ -1919,7 +1919,6 @@
       "tags": [
         "qa",
         "compliance-leadership",
-        "remote-europe",
         "lead-plus",
         "corporate"
       ],
@@ -1941,7 +1940,8 @@
           "What does career progression from Associate Manager to Manager look like on this Internal Audit team?",
           "Where is Coinbase currently investing in audit innovation or systems improvements that this role would help drive?"
         ]
-      }
+      },
+      "placement": "remote-europe"
     },
     {
       "id": "okx-head-of-compliance-mtf-2026",
@@ -1952,7 +1952,6 @@
       "description": "OKX is hiring a Head of Compliance to own the MiFID compliance function for its MFSA-authorised Multilateral Trading Facility, reporting to the Regional Head of Compliance EMEA, open to candidates elsewhere in the EEA who can demonstrate a path to Malta regulatory familiarity.",
       "tags": [
         "compliance-leadership",
-        "remote-europe",
         "lead-plus",
         "corporate"
       ],
@@ -1974,7 +1973,8 @@
           "What does the path to full Malta regulatory approval or recognition look like for someone based elsewhere in the EEA?",
           "How is the Regional Head of Compliance EMEA structure organized, and how much autonomy would this role have day to day?"
         ]
-      }
+      },
+      "placement": "remote-europe"
     },
     {
       "id": "kraken-model-risk-management-specialist-2026",
@@ -1986,7 +1986,6 @@
       "tags": [
         "qa",
         "ai-automation",
-        "remote-europe",
         "senior-specialist",
         "corporate"
       ],
@@ -2008,7 +2007,8 @@
           "What does the model validation cycle look like in practice — how often are AML/CFT models reassessed?",
           "How is 'bias' in AML/CFT models currently being measured or tested at Kraken?"
         ]
-      }
+      },
+      "placement": "remote-europe"
     },
     {
       "id": "revolut-fcc-manager-quality-control-2026",
@@ -2020,7 +2020,6 @@
       "tags": [
         "qa",
         "compliance-leadership",
-        "remote-europe",
         "senior-specialist",
         "corporate"
       ],
@@ -2042,7 +2041,8 @@
           "What's the current split between reviewing in-house casework versus outsourced operational partners?",
           "How does this QC function coordinate with the other Financial Crime Compliance teams at Revolut, given the multiple related roles I've seen posted?"
         ]
-      }
+      },
+      "placement": "remote-europe"
     },
     {
       "id": "revolut-fcc-lead-2026",
@@ -2053,7 +2053,6 @@
       "description": "Senior leadership role defining group-wide FinCrime policy and minimum standards, overseeing the quarterly performance of entity MLROs and compliance managers, and preparing escalation reports for senior management and the Board.",
       "tags": [
         "compliance-leadership",
-        "remote-europe",
         "lead-plus",
         "corporate"
       ],
@@ -2075,7 +2074,8 @@
           "What's driving the need for this role right now — is it new regulatory scrutiny, growth into new markets, or something else?",
           "How does this Lead role coordinate with the Quality Control and Assurance functions within Financial Crime Compliance?"
         ]
-      }
+      },
+      "placement": "remote-europe"
     },
     {
       "id": "revolut-fcc-assurance-manager-2026",
@@ -2087,7 +2087,6 @@
       "tags": [
         "qa",
         "ai-automation",
-        "remote-europe",
         "senior-specialist",
         "corporate"
       ],
@@ -2109,7 +2108,8 @@
           "How are findings from this role fed back to the teams that own transaction-monitoring thresholds?",
           "How is success measured for this role in the first six months?"
         ]
-      }
+      },
+      "placement": "remote-europe"
     },
     {
       "id": "reap-head-financial-crime-compliance-2026",
@@ -2121,7 +2121,6 @@
       "tags": [
         "compliance-leadership",
         "ai-automation",
-        "remote-europe",
         "lead-plus",
         "startup"
       ],
@@ -2143,7 +2142,8 @@
           "What does the current FCC team structure look like, and what's the hiring plan for this role's first year?",
           "Which jurisdictions and regulators does this role need to engage with most directly?"
         ]
-      }
+      },
+      "placement": "remote-europe"
     },
     {
       "id": "sumup-global-kyc-manager-2026",
@@ -2154,7 +2154,6 @@
       "description": "SumUp is hiring a Global KYC Manager to own its PEP/sanctions screening framework and customer risk-scoring models, set global KYC strategy, and lead KYC remediation from regulatory reviews and escalations.",
       "tags": [
         "compliance-leadership",
-        "berlin-based",
         "lead-plus",
         "startup"
       ],
@@ -2176,7 +2175,8 @@
           "How is the KYC function currently structured across SumUp's markets, and how many direct reports would this role have?",
           "What screening and risk-scoring tools does SumUp use today, and are there plans to modernize them?"
         ]
-      }
+      },
+      "placement": "berlin-based"
     },
     {
       "id": "okx-senior-compliance-manager-fcc-investigations-2026",
@@ -2189,7 +2189,6 @@
         "compliance-leadership",
         "qa",
         "ai-automation",
-        "remote-europe",
         "lead-plus",
         "corporate"
       ],
@@ -2211,7 +2210,8 @@
           "What AI tools are already in use for investigations, and how much ownership would this role have in expanding them?",
           "What does success look like for this role in the first six months?"
         ]
-      }
+      },
+      "placement": "remote-europe"
     },
     {
       "id": "lloydsbank-head-of-audit-berlin-2026",
@@ -2223,7 +2223,6 @@
       "tags": [
         "qa",
         "compliance-leadership",
-        "berlin-based",
         "lead-plus",
         "corporate"
       ],
@@ -2245,7 +2244,8 @@
           "Is this a newly created role, and what would success look like in the first 12 months?",
           "How does Lloyds Bank GmbH's Internal Audit function currently engage with AI/automation tooling, and is there appetite to expand that?"
         ]
-      }
+      },
+      "placement": "berlin-based"
     },
     {
       "id": "revolut-business-compliance-manager-eu-bank-2026",
@@ -2256,7 +2256,6 @@
       "description": "Revolut is hiring a Business Compliance Manager to act as a product-embedded compliance partner for its EU Bank, steering retail banking and payments features through regulatory requirements, leading a small team of Business Compliance Managers, and liaising with regulators and auditors.",
       "tags": [
         "compliance-leadership",
-        "remote-europe",
         "lead-plus",
         "corporate"
       ],
@@ -2278,7 +2277,8 @@
           "What products or markets is EU Bank prioritizing for expansion in the next 12 months, and how does that shape this role's workload?",
           "What does success look like for this role's team-leadership component in the first six months?"
         ]
-      }
+      },
+      "placement": "remote-europe"
     },
     {
       "id": "bitstack-head-risk-compliance-2026",
@@ -2289,7 +2289,6 @@
       "description": "Bitstack, a Bitcoin savings app, is hiring a Head of Risk & Compliance to own its AML-CFT framework end-to-end, act as primary contact for French regulators (AMF/ACPR), and build, recruit, and mentor its compliance and risk team.",
       "tags": [
         "compliance-leadership",
-        "remote-europe",
         "lead-plus",
         "startup"
       ],
@@ -2311,7 +2310,8 @@
           "How large is the current risk and compliance team, and what does the hiring roadmap look like over the next year?",
           "Since AMF/ACPR communication is French-language, how does the team typically handle that day to day?"
         ]
-      }
+      },
+      "placement": "remote-europe"
     },
     {
       "id": "n26-afc-compliance-controls-reviews-manager-2026",
@@ -2326,7 +2326,6 @@
       "tags": [
         "compliance-leadership",
         "qa",
-        "berlin-based",
         "lead-plus",
         "startup"
       ],
@@ -2345,7 +2344,8 @@
           "What tooling or automation is already in place for testing and sampling, and where's the biggest opportunity to modernize it?",
           "How is this Manager role expected to grow - is there a path to building or leading a larger controls-testing team?"
         ]
-      }
+      },
+      "placement": "berlin-based"
     },
     {
       "id": "riskinc-kyc-compliance-officer-2026",
@@ -2360,7 +2360,6 @@
       "tags": [
         "compliance-leadership",
         "ai-automation",
-        "remote-europe",
         "senior-specialist",
         "startup"
       ],
@@ -2379,7 +2378,8 @@
           "How is the compliance function structured, and who does this role report to?",
           "What does success look like in this role after the first 6 months?"
         ]
-      }
+      },
+      "placement": "remote-europe"
     },
     {
       "id": "scalablecapital-teamlead-afc-operations-2026",
@@ -2392,7 +2392,6 @@
         "compliance-leadership",
         "qa",
         "ai-automation",
-        "berlin-based",
         "lead-plus",
         "corporate"
       ],
@@ -2414,7 +2413,8 @@
           "How does this Berlin-based team collaborate with the Munich office and with product/engineering on control improvements?",
           "What's the current mix of automation vs. manual review in the team's transaction-alert workflow?"
         ]
-      }
+      },
+      "placement": "berlin-based"
     },
     {
       "id": "sumup-senior-internal-auditor-legal-compliance-2026",
@@ -2425,7 +2425,6 @@
       "description": "SumUp is hiring a Senior Internal Auditor to plan and conduct regulatory, compliance, and operational audits across its European markets, reporting to the Global Head of Internal Audit.",
       "tags": [
         "qa",
-        "berlin-based",
         "senior-specialist",
         "startup"
       ],
@@ -2447,7 +2446,8 @@
           "What's driving this hire — a specific regulatory finding, growth, or a broader audit function build-out?",
           "What does the audit team's current coverage of AML/financial-crime controls look like?"
         ]
-      }
+      },
+      "placement": "berlin-based"
     },
     {
       "id": "coinbase-manager-compliance-testing-assurance-2026",
@@ -2459,7 +2459,6 @@
       "tags": [
         "compliance-leadership",
         "qa",
-        "remote-europe",
         "lead-plus",
         "corporate"
       ],
@@ -2481,7 +2480,8 @@
           "What does the current testing coverage look like across international entities, and what's the priority for this hire?",
           "How is Coinbase using automation or AI to scale compliance testing today?"
         ]
-      }
+      },
+      "placement": "remote-europe"
     },
     {
       "id": "lemonmarkets-investment-compliance-manager-2026",
@@ -2492,7 +2492,6 @@
       "description": "lemon.markets is hiring an Investment Compliance Manager to own and strengthen its investment compliance function, covering WpHG requirements, best execution, market abuse surveillance, and product governance across its securities brokerage business.",
       "tags": [
         "compliance-leadership",
-        "berlin-based",
         "lead-plus",
         "startup"
       ],
@@ -2514,7 +2513,8 @@
           "What is driving this hire now — a specific regulatory requirement, product launch, or team growth?",
           "How mature is lemon.markets use of automation or technology in compliance monitoring today?"
         ]
-      }
+      },
+      "placement": "berlin-based"
     },
     {
       "id": "pleo-deputy-head-financial-crime-2026",
@@ -2525,7 +2525,6 @@
       "description": "Pleo is hiring a Deputy Head of Financial Crime to oversee financial crime operations, lead remediation programs, and manage the FinCrime Operations team for its spend-management platform.",
       "tags": [
         "compliance-leadership",
-        "remote-europe",
         "lead-plus",
         "startup"
       ],
@@ -2547,7 +2546,8 @@
           "How does the FinCrime Operations team collaborate with Product and Engineering at Pleo?",
           "What does success look like for this role in the first six months?"
         ]
-      }
+      },
+      "placement": "remote-europe"
     },
     {
       "id": "ramp-billhop-mlro-aml-2026",
@@ -2558,7 +2558,6 @@
       "description": "Ramp is hiring a Money Laundering Reporting Officer for Billhop AB to own its AML/CTF program end-to-end, serving as the primary contact for Finansinspektionen and covering STR filing and high-risk onboarding oversight.",
       "tags": [
         "compliance-leadership",
-        "remote-europe",
         "lead-plus",
         "startup"
       ],
@@ -2580,7 +2579,8 @@
           "How does this standalone MLRO role get support from Ramp's broader compliance and legal teams?",
           "What's the current relationship status with Finansinspektionen, and are there any open items to inherit?"
         ]
-      }
+      },
+      "placement": "remote-europe"
     },
     {
       "id": "revolut-fcc-manager-financial-partnerships-2026",
@@ -2591,7 +2591,6 @@
       "description": "Revolut is hiring a Financial Crime Compliance Manager to design and implement financial crime controls supporting the growth of its financial partnerships, including risk assessments and Board-level reporting.",
       "tags": [
         "compliance-leadership",
-        "remote-europe",
         "senior-specialist",
         "corporate"
       ],
@@ -2613,7 +2612,8 @@
           "How does this role coordinate with the other Financial Crime Compliance Manager teams (Quality Control, Assurance) already at Revolut?",
           "What's the balance between control design work and day-to-day risk assessment / escalation handling in this role?"
         ]
-      }
+      },
+      "placement": "remote-europe"
     },
     {
       "id": "traderepublic-afc-operations-manager-2026",
@@ -2625,7 +2625,6 @@
       "tags": [
         "compliance-leadership",
         "qa",
-        "berlin-based",
         "lead-plus",
         "startup"
       ],
@@ -2647,7 +2646,8 @@
           "What's driving this hire — scaling case volumes, a new market launch, or restructuring the AFC function?",
           "How does this role collaborate with the AFC Lead on strategy versus owning day-to-day operations?"
         ]
-      }
+      },
+      "placement": "berlin-based"
     },
     {
       "id": "larsonmaddox-director-compliance-emea-berlin-2026",
@@ -2659,7 +2659,6 @@
       "tags": [
         "compliance-leadership",
         "qa",
-        "berlin-based",
         "lead-plus",
         "corporate"
       ],
@@ -2681,7 +2680,8 @@
           "How large is the compliance team today, and what does the team-building roadmap look like for this hire?",
           "What prompted this Director-level hire — a recent regulatory finding, a new market entry, or scaling an existing function?"
         ]
-      }
+      },
+      "placement": "berlin-based"
     },
     {
       "id": "citypay-group-aml-compliance-manager-2026",
@@ -2694,7 +2694,6 @@
         "compliance-leadership",
         "qa",
         "ai-automation",
-        "remote-europe",
         "lead-plus",
         "startup"
       ],
@@ -2716,7 +2715,8 @@
           "What AML tooling or automation initiatives are already underway that this role would inherit or help shape?",
           "How is the AML/Compliance function structured today, and who would this role report to?"
         ]
-      }
+      },
+      "placement": "remote-europe"
     },
     {
       "id": "deloitte-financial-crime-technology-manager-2026",
@@ -2728,7 +2728,6 @@
       "tags": [
         "compliance-leadership",
         "ai-automation",
-        "berlin-based",
         "lead-plus",
         "corporate"
       ],
@@ -2750,7 +2749,8 @@
           "How is the practice currently building out AI/automation capability within financial crime advisory work?",
           "What does the path from Manager to Senior Manager look like on this team, and how is team leadership evaluated?"
         ]
-      }
+      },
+      "placement": "berlin-based"
     },
     {
       "id": "michaelpage-mlro-payments-berlin-2026",
@@ -2764,7 +2764,6 @@
       "verified": true,
       "tags": [
         "compliance-leadership",
-        "berlin-based",
         "lead-plus",
         "corporate"
       ],
@@ -2783,7 +2782,8 @@
           "How is the MLRO function structured relative to the wider compliance and risk teams here?",
           "What are the biggest current regulatory priorities or findings this role would need to address in the first six months?"
         ]
-      }
+      },
+      "placement": "berlin-based"
     },
     {
       "id": "okx-deputy-mlro-remote-2026",
@@ -2797,7 +2797,6 @@
       "verified": true,
       "tags": [
         "compliance-leadership",
-        "remote-europe",
         "lead-plus",
         "corporate"
       ],
@@ -2816,7 +2815,8 @@
           "What automation or AI tooling is currently used in transaction monitoring and CDD, and where are the biggest gaps?",
           "How does the compliance team collaborate with the MLRO across other OKX-regulated entities outside the EU?"
         ]
-      }
+      },
+      "placement": "remote-europe"
     },
     {
       "id": "revolut-regulatory-compliance-manager-germany-branch-2026",
@@ -2830,7 +2830,6 @@
       "verified": false,
       "tags": [
         "compliance-leadership",
-        "berlin-based",
         "lead-plus",
         "corporate"
       ],
@@ -2849,7 +2848,8 @@
           "How does this role interface with Revolut's central EU compliance function versus operating independently?",
           "What are the first thematic reviews or remediation priorities identified for this branch?"
         ]
-      }
+      },
+      "placement": "berlin-based"
     },
     {
       "id": "scalablecapital-compliance-manager-digitalization-2026",
@@ -2864,7 +2864,6 @@
       "tags": [
         "compliance-leadership",
         "ai-automation",
-        "berlin-based",
         "senior-specialist",
         "corporate"
       ],
@@ -2883,7 +2882,8 @@
           "How does this Compliance Manager role split time between securities/capital-markets compliance and broader financial-crime compliance, if at all?",
           "What tools or vendors is the team currently evaluating for AI-supported compliance work?"
         ]
-      }
+      },
+      "placement": "berlin-based"
     },
     {
       "id": "qonto-internal-audit-manager-german-market-2026",
@@ -2894,7 +2894,6 @@
       "description": "Qonto is hiring an Internal Audit Manager to lead end-to-end audit missions covering its German Branch's compliance and operational controls, coordinate with BaFin and external auditors, and contribute to Group-wide risk assessments as Qonto pursues pan-European credit institution licensing.",
       "tags": [
         "qa",
-        "berlin-based",
         "lead-plus",
         "startup"
       ],
@@ -2916,7 +2915,8 @@
           "How does the German market audit role coordinate with Group-wide audit planning and other country audit leads?",
           "What's the current mix of German-language versus English-language work in this role day to day?"
         ]
-      }
+      },
+      "placement": "berlin-based"
     },
     {
       "id": "evotym-deputy-mlro-poland-remote-2026",
@@ -2927,7 +2927,6 @@
       "description": "A card-scheme-connected electronic money institution processing e-commerce, iGaming, and Forex payments is hiring a Deputy MLRO to support the MLRO on AML/financial-crime matters, oversee merchant onboarding and monitoring, and manage compliance requests from Visa and Mastercard.",
       "tags": [
         "compliance-leadership",
-        "remote-europe",
         "senior-specialist",
         "startup"
       ],
@@ -2949,7 +2948,8 @@
           "How is the compliance/risk team structured between the MLRO, this deputy role, and merchant risk analysts?",
           "What card schemes and payment rails does the business currently operate across, and are there plans to expand?"
         ]
-      }
+      },
+      "placement": "remote-europe"
     },
     {
       "id": "gomining-general-manager-custody-compliance-2026",
@@ -2961,7 +2961,6 @@
       "tags": [
         "compliance-leadership",
         "ai-automation",
-        "remote-europe",
         "lead-plus",
         "startup"
       ],
@@ -2983,7 +2982,8 @@
           "How large is the current custody and compliance team, and what's the split between compliance and engineering headcount?",
           "Where specifically do you see the biggest opportunity to apply AI/automation in this function right now?"
         ]
-      }
+      },
+      "placement": "remote-europe"
     },
     {
       "id": "n26-complaints-compliance-prevention-manager-2026",
@@ -2998,7 +2998,6 @@
       "tags": [
         "compliance-leadership",
         "qa",
-        "berlin-based",
         "lead-plus",
         "startup"
       ],
@@ -3017,7 +3016,8 @@
           "How is the complaints compliance team structured today, and who would this role's team members report through?",
           "What does success look like in the first six months for the Written Orders remediation roadmap?"
         ]
-      }
+      },
+      "placement": "berlin-based"
     },
     {
       "id": "sevensenders-senior-compliance-manager-ai-governance-2026",
@@ -3032,7 +3032,6 @@
       "tags": [
         "ai-automation",
         "compliance-leadership",
-        "berlin-based",
         "senior-specialist",
         "startup"
       ],
@@ -3051,7 +3050,8 @@
           "Is this a purely individual-contributor role today, or is there a path to building out a team as the AI governance function grows?",
           "What's prompted the company to formalize AI governance now?"
         ]
-      }
+      },
+      "placement": "berlin-based"
     },
     {
       "id": "enfuce-risk-manager-2026",
@@ -3066,7 +3066,6 @@
       "tags": [
         "qa",
         "compliance-leadership",
-        "remote-europe",
         "senior-specialist",
         "startup"
       ],
@@ -3085,7 +3084,8 @@
           "What incident or regulatory finding, if any, prompted this role opening?",
           "Given the remote/distributed team, how does the risk function coordinate day-to-day across locations and time zones?"
         ]
-      }
+      },
+      "placement": "remote-europe"
     },
     {
       "id": "soprasteria-manager-afc-operations-ai-managed-services-2026",
@@ -3100,7 +3100,6 @@
       "tags": [
         "compliance-leadership",
         "ai-automation",
-        "berlin-based",
         "lead-plus",
         "corporate"
       ],
@@ -3119,7 +3118,8 @@
           "How is the AI component of this practice area currently resourced - is it a dedicated team I'd work with, or something I'd help build out?",
           "What size and type of clients (banks vs. fintechs) make up most of this team's current pipeline?"
         ]
-      }
+      },
+      "placement": "berlin-based"
     },
     {
       "id": "capgeminiinvent-senior-manager-afc-aml-kyc-fraud-2026",
@@ -3133,7 +3133,6 @@
       "verified": true,
       "tags": [
         "compliance-leadership",
-        "berlin-based",
         "lead-plus",
         "corporate"
       ],
@@ -3152,7 +3151,8 @@
           "How is seniority and team structure organized within this AFC/AML/KYC practice area at Capgemini Invent?",
           "What's a recent engagement this team delivered that you're particularly proud of?"
         ]
-      }
+      },
+      "placement": "berlin-based"
     },
     {
       "id": "earlybird-compliance-risk-manager-2026",
@@ -3166,7 +3166,6 @@
       "verified": true,
       "tags": [
         "compliance-leadership",
-        "berlin-based",
         "senior-specialist",
         "startup"
       ],
@@ -3185,7 +3184,8 @@
           "Is the AML component focused mainly on LP onboarding, portfolio company due diligence, or both?",
           "What's driving the need for this role now - fund growth, a new regulatory requirement, or something else?"
         ]
-      }
+      },
+      "placement": "berlin-based"
     },
     {
       "id": "n26-ict-compliance-senior-manager-2026",
@@ -3200,7 +3200,6 @@
       "tags": [
         "compliance-leadership",
         "ai-automation",
-        "berlin-based",
         "lead-plus",
         "corporate"
       ],
@@ -3219,7 +3218,8 @@
           "What does the team structure and reporting line into the CISO Office look like, and how much autonomy will I have in hiring and shaping the team?",
           "How does this ICT Compliance function coordinate with N26's existing AFC/KYC compliance teams?"
         ]
-      }
+      },
+      "placement": "berlin-based"
     },
     {
       "id": "n26-ict-risk-compliance-manager-2026",
@@ -3233,7 +3233,6 @@
       "verified": true,
       "tags": [
         "ai-automation",
-        "berlin-based",
         "senior-specialist",
         "corporate"
       ],
@@ -3252,7 +3251,8 @@
           "Since this role has no direct reports, what does the growth path look like - toward a lead role like the ICT Compliance Senior Manager position?",
           "How does this role's output feed into N26's DORA/BAIT regulatory reporting cycle?"
         ]
-      }
+      },
+      "placement": "berlin-based"
     },
     {
       "id": "scalablecapital-pm-afc-2026",
@@ -3267,7 +3267,6 @@
       "tags": [
         "ai-automation",
         "compliance-leadership",
-        "berlin-based",
         "lead-plus",
         "corporate"
       ],
@@ -3286,7 +3285,8 @@
           "What AFC capabilities exist today, and how much of this role is greenfield build versus improving existing tooling?",
           "How closely will this role work with Scalable Capital's existing Compliance/AFC operations teams day to day?"
         ]
-      }
+      },
+      "placement": "berlin-based"
     },
     {
       "id": "airwallex-manager-emea-fcc-monitoring-testing-2026",
@@ -3298,7 +3298,6 @@
       "tags": [
         "qa",
         "ai-automation",
-        "remote-europe",
         "lead-plus",
         "startup"
       ],
@@ -3320,7 +3319,8 @@
           "What tooling or data infrastructure does the team use today for control testing, and where are the biggest gaps you're hoping this hire will close?",
           "How does this EMEA role coordinate with the global Director, FCC Monitoring & Testing and other regional monitoring teams (ANZ, APAC)?"
         ]
-      }
+      },
+      "placement": "remote-europe"
     },
     {
       "id": "billie-compliance-expert-deputy-mlro-2026",
@@ -3332,7 +3332,6 @@
       "tags": [
         "compliance-leadership",
         "qa",
-        "berlin-based",
         "senior-specialist",
         "startup"
       ],
@@ -3354,7 +3353,8 @@
           "How is the compliance team structured, and how much of this role is hands-on review versus strategic project leadership?",
           "Where do you see the biggest opportunity to bring AI or automation into Billie's compliance workflows?"
         ]
-      }
+      },
+      "placement": "berlin-based"
     },
     {
       "id": "getyourguide-senior-internal-audit-manager-2026",
@@ -3367,7 +3367,6 @@
         "qa",
         "ai-automation",
         "lead-plus",
-        "berlin-based",
         "corporate"
       ],
       "fit": 2,
@@ -3388,7 +3387,8 @@
           "Which business areas, such as payments, marketplace, or supplier risk, are the first priority for audit coverage?",
           "What tools or AI/automation capabilities is the team currently exploring for controls testing?"
         ]
-      }
+      },
+      "placement": "berlin-based"
     },
     {
       "id": "deliveryhero-compliance-manager-2026",
@@ -3400,7 +3400,6 @@
       "tags": [
         "compliance-leadership",
         "qa",
-        "berlin-based",
         "lead-plus",
         "corporate"
       ],
@@ -3422,7 +3421,8 @@
           "What does the compliance testing and monitoring program currently look like, and where do you see the biggest gaps or opportunities?",
           "How much appetite is there for automating parts of the compliance framework, and is there an existing AI/automation initiative I'd be plugging into?"
         ]
-      }
+      },
+      "placement": "berlin-based"
     },
     {
       "id": "okx-head-of-compliance-emea-2026",
@@ -3433,7 +3433,6 @@
       "description": "Senior leadership role directing OKX's compliance strategy and execution across EMEA, managing and elevating the performance of country Heads of Compliance and MLROs, and reporting compliance risk to management and the Board.",
       "tags": [
         "compliance-leadership",
-        "remote-europe",
         "lead-plus",
         "corporate"
       ],
@@ -3455,111 +3454,151 @@
           "Which EMEA markets or entities are the current compliance priorities, and are there any pending regulatory changes (e.g., MiCA) driving urgency?",
           "What tools or automation does the compliance team currently use, and is there room to introduce AI-driven process improvements?"
         ]
-      }
+      },
+      "placement": "remote-europe"
     },
     {
-  "id": "ca-ekspert-projekty-aml-warszawa",
-  "title": "Ekspertka / Ekspert ds. Projektów AML",
-  "company": "Credit Agricole Bank Polska S.A.",
-  "location": "Warszawa (hybrid)",
-  "url": "https://www.karierawfinansach.pl/oferta-pracy/282665,ekspertka-ekspert-ds-projektow-aml-warszawa",
-  "description": "Senior specialist role driving AML-CFT project work — gap analysis, process/system changes for regulatory compliance, and recommending improvements across AML-CFT processes.",
-  "placement": "poland",
-  "tags": ["senior-specialist"],
-  "fit": 2,
-  "datePosted": "2026-09-16",
-  "verified": true
-},
-{
-  "id": "ca-ekspert-kyc-warszawa",
-  "title": "Ekspertka / Ekspert KYC",
-  "company": "Credit Agricole Bank Polska S.A.",
-  "location": "Warszawa (hybrid)",
-  "url": "https://www.karierawfinansach.pl/oferta-pracy/283023,ekspertka-ekspert-kyc-warszawa",
-  "description": "Senior specialist owning KYC/EDD decisions for higher-risk clients, beneficial-owner analysis, and regulatory reporting within the KYC–Customer Data tribe.",
-  "placement": "poland",
-  "tags": ["senior-specialist"],
-  "fit": 2,
-  "datePosted": "2026-09-16",
-  "verified": true
-},
-{
-  "id": "pekao-aml-champion-optymalizacja-procesow",
-  "title": "Główny Specjalista / Główna Specjalistka - AML Champion w Zespole Optymalizacji Procesów",
-  "company": "Bank Pekao S.A.",
-  "location": "Warszawa (hybrid)",
-  "url": "https://www.karierawfinansach.pl/oferta-pracy/281068,glowny-specjalista-glowna-specjalistka-aml-champion-w-zespole-optymalizacji-procesow-warszawa",
-  "description": "Process-optimization role for KYC onboarding — designing workflows, defining KPIs, and improving data-collection solutions across AML/KYC/FATCA/CRS/sanctions requirements.",
-  "placement": "poland",
-  "tags": ["ai-automation"],
-  "fit": 2,
-  "datePosted": "2026-09-16",
-  "verified": true
-},
-{
-  "id": "pekao-bezpieczenstwo-transakcji",
-  "title": "Ekspert / Ekspertka ds. Bezpieczeństwa Transakcji",
-  "company": "Bank Pekao S.A.",
-  "location": "Warszawa (hybrid)",
-  "url": "https://www.karierawfinansach.pl/oferta-pracy/282647,ekspert-ekspertka-ds-bezpieczenstwa-transakcji-warszawa",
-  "description": "Individual-contributor role building and developing anti-fraud rules and mechanisms, min. 3 years in financial-crime prevention.",
-  "placement": "poland",
-  "tags": [],
-  "fit": 1,
-  "datePosted": "2026-09-16",
-  "verified": true
-},
-{
-  "id": "millennium-weryfikacja-sankcyjna",
-  "title": "Specjalista / Specjalistka AML ds. Weryfikacji Sankcyjnej Transakcji",
-  "company": "Bank Millennium S.A.",
-  "location": "Warszawa (hybrid)",
-  "url": "https://www.karierawfinansach.pl/oferta-pracy/277489,specjalista-specjalistka-aml-ds-weryfikacji-sankcyjnej-transakcji-warszawa",
-  "description": "Individual-contributor sanctions-screening specialist role, min. 2 years AML experience, handling regulator queries and OFAC/OFSI-related reviews.",
-  "placement": "poland",
-  "tags": [],
-  "fit": 1,
-  "datePosted": "2026-09-16",
-  "verified": true
-},
-{
-  "id": "ey-digital-assets-aml-analyst",
-  "title": "Digital Assets AML Analyst",
-  "company": "EY (dawniej Ernst & Young)",
-  "location": "Warszawa",
-  "url": "https://www.karierawfinansach.pl/oferta-pracy/281818,digital-assets-aml-analyst-warszawa",
-  "description": "Entry-level role (min. 6 months experience) supporting AML/KYC for digital-assets and crypto-related clients.",
-  "placement": "poland",
-  "tags": [],
-  "fit": 1,
-  "datePosted": "2026-09-16",
-  "verified": true
-},
-{
-  "id": "ey-fincrime-operations-aml-kyc",
-  "title": "Specjalista / ka ds. AML / KYC w zespole FinCrime Operations",
-  "company": "EY (dawniej Ernst & Young)",
-  "location": "Warszawa (hybrid)",
-  "url": "https://www.karierawfinansach.pl/oferta-pracy/279749,specjalista-ka-ds-aml-kyc-w-zespole-fincrime-operations-warszawa",
-  "description": "Junior-to-mid AML/KYC operations role (min. 1 year experience) within EY's Financial Crime Operations team, serving financial-institution clients.",
-  "placement": "poland",
-  "tags": [],
-  "fit": 1,
-  "datePosted": "2026-09-16",
-  "verified": true
-},
-{
-  "id": "ey-operacje-aml",
-  "title": "Specjalista/ka ds. Operacji AML",
-  "company": "EY (dawniej Ernst & Young)",
-  "location": "Warszawa (hybrid)",
-  "url": "https://www.karierawfinansach.pl/oferta-pracy/272954,specjalistaka-ds-operacji-aml-warszawa",
-  "description": "Junior-to-mid AML operations role (min. 2 years experience) handling transaction-monitoring investigations and KYC profile work.",
-  "placement": "poland",
-  "tags": [],
-  "fit": 1,
-  "datePosted": "2026-09-16",
-  "verified": true
-}
+      "id": "ca-ekspert-projekty-aml-warszawa",
+      "title": "Ekspertka / Ekspert ds. Projektów AML",
+      "company": "Credit Agricole Bank Polska S.A.",
+      "location": "Warszawa (hybrid)",
+      "url": "https://www.karierawfinansach.pl/oferta-pracy/282665,ekspertka-ekspert-ds-projektow-aml-warszawa",
+      "description": "Senior specialist role driving AML-CFT project work — gap analysis, process/system changes for regulatory compliance, and recommending improvements across AML-CFT processes.",
+      "placement": "poland",
+      "tags": [
+        "senior-specialist"
+      ],
+      "fit": 2,
+      "datePosted": "2026-09-16",
+      "verified": true
+    },
+    {
+      "id": "ca-ekspert-kyc-warszawa",
+      "title": "Ekspertka / Ekspert KYC",
+      "company": "Credit Agricole Bank Polska S.A.",
+      "location": "Warszawa (hybrid)",
+      "url": "https://www.karierawfinansach.pl/oferta-pracy/283023,ekspertka-ekspert-kyc-warszawa",
+      "description": "Senior specialist owning KYC/EDD decisions for higher-risk clients, beneficial-owner analysis, and regulatory reporting within the KYC–Customer Data tribe.",
+      "placement": "poland",
+      "tags": [
+        "senior-specialist"
+      ],
+      "fit": 2,
+      "datePosted": "2026-09-16",
+      "verified": true
+    },
+    {
+      "id": "pekao-aml-champion-optymalizacja-procesow",
+      "title": "Główny Specjalista / Główna Specjalistka - AML Champion w Zespole Optymalizacji Procesów",
+      "company": "Bank Pekao S.A.",
+      "location": "Warszawa (hybrid)",
+      "url": "https://www.karierawfinansach.pl/oferta-pracy/281068,glowny-specjalista-glowna-specjalistka-aml-champion-w-zespole-optymalizacji-procesow-warszawa",
+      "description": "Process-optimization role for KYC onboarding — designing workflows, defining KPIs, and improving data-collection solutions across AML/KYC/FATCA/CRS/sanctions requirements.",
+      "placement": "poland",
+      "tags": [
+        "ai-automation"
+      ],
+      "fit": 2,
+      "datePosted": "2026-09-16",
+      "verified": true
+    },
+    {
+      "id": "pekao-bezpieczenstwo-transakcji",
+      "title": "Ekspert / Ekspertka ds. Bezpieczeństwa Transakcji",
+      "company": "Bank Pekao S.A.",
+      "location": "Warszawa (hybrid)",
+      "url": "https://www.karierawfinansach.pl/oferta-pracy/282647,ekspert-ekspertka-ds-bezpieczenstwa-transakcji-warszawa",
+      "description": "Individual-contributor role building and developing anti-fraud rules and mechanisms, min. 3 years in financial-crime prevention.",
+      "placement": "poland",
+      "tags": [],
+      "fit": 1,
+      "datePosted": "2026-09-16",
+      "verified": true
+    },
+    {
+      "id": "millennium-weryfikacja-sankcyjna",
+      "title": "Specjalista / Specjalistka AML ds. Weryfikacji Sankcyjnej Transakcji",
+      "company": "Bank Millennium S.A.",
+      "location": "Warszawa (hybrid)",
+      "url": "https://www.karierawfinansach.pl/oferta-pracy/277489,specjalista-specjalistka-aml-ds-weryfikacji-sankcyjnej-transakcji-warszawa",
+      "description": "Individual-contributor sanctions-screening specialist role, min. 2 years AML experience, handling regulator queries and OFAC/OFSI-related reviews.",
+      "placement": "poland",
+      "tags": [],
+      "fit": 1,
+      "datePosted": "2026-09-16",
+      "verified": true
+    },
+    {
+      "id": "ey-digital-assets-aml-analyst",
+      "title": "Digital Assets AML Analyst",
+      "company": "EY (dawniej Ernst & Young)",
+      "location": "Warszawa",
+      "url": "https://www.karierawfinansach.pl/oferta-pracy/281818,digital-assets-aml-analyst-warszawa",
+      "description": "Entry-level role (min. 6 months experience) supporting AML/KYC for digital-assets and crypto-related clients.",
+      "placement": "poland",
+      "tags": [],
+      "fit": 1,
+      "datePosted": "2026-09-16",
+      "verified": true
+    },
+    {
+      "id": "ey-fincrime-operations-aml-kyc",
+      "title": "Specjalista / ka ds. AML / KYC w zespole FinCrime Operations",
+      "company": "EY (dawniej Ernst & Young)",
+      "location": "Warszawa (hybrid)",
+      "url": "https://www.karierawfinansach.pl/oferta-pracy/279749,specjalista-ka-ds-aml-kyc-w-zespole-fincrime-operations-warszawa",
+      "description": "Junior-to-mid AML/KYC operations role (min. 1 year experience) within EY's Financial Crime Operations team, serving financial-institution clients.",
+      "placement": "poland",
+      "tags": [],
+      "fit": 1,
+      "datePosted": "2026-09-16",
+      "verified": true
+    },
+    {
+      "id": "ey-operacje-aml",
+      "title": "Specjalista/ka ds. Operacji AML",
+      "company": "EY (dawniej Ernst & Young)",
+      "location": "Warszawa (hybrid)",
+      "url": "https://www.karierawfinansach.pl/oferta-pracy/272954,specjalistaka-ds-operacji-aml-warszawa",
+      "description": "Junior-to-mid AML operations role (min. 2 years experience) handling transaction-monitoring investigations and KYC profile work.",
+      "placement": "poland",
+      "tags": [],
+      "fit": 1,
+      "datePosted": "2026-09-16",
+      "verified": true
+    },
+    {
+      "id": "ig-kyc-team-lead-krakow-2026",
+      "title": "KYC Team Lead",
+      "company": "IG Group",
+      "location": "Kraków, Poland",
+      "url": "https://www.jobsinforex.com/job/170867/kyc-team-lead/",
+      "description": "Lead a KYC team in Poland supporting institutional client onboarding, owning team performance, SLAs and quality standards, and coaching analysts while driving onboarding process improvements.",
+      "placement": "poland",
+      "tags": [
+        "compliance-leadership",
+        "lead-plus",
+        "corporate"
+      ],
+      "fit": 3,
+      "datePosted": "2026-05-15",
+      "verified": false,
+      "coverLetterDraft": "Dear Hiring Team,\n\nI am applying for the KYC Team Lead role in Kraków. I bring 8+ years in KYC/AML across J.P. Morgan, PwC and fintechs, and currently manage KYC due diligence for corporate clients at Pliant, where I also contribute to AI-driven automation of compliance workflows.\n\nAt J.P. Morgan I performed due diligence across Corporate, Financial Institution and Publicly Traded client types, which maps directly to institutional onboarding. At Moonfare I co-led a due-diligence review project and worked with cross-functional stakeholders on automation improvements; at PwC I delivered internal AML/KYC training. I apply a four-eyes mindset to quality: calibrating reviewers, spotting documentation gaps early and keeping SLAs without lowering standards.\n\nAs a native Polish speaker fluent in English, I can work easily with both Polish and international teams and with the EMEA KYC Manager. I would welcome the chance to discuss how I can raise quality and throughput in your onboarding process.\n\nKind regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How have you managed team performance against SLAs and quality KPIs?",
+          "Walk us through EDD for a complex institutional client structure.",
+          "How would you coach an analyst who repeatedly misses documentation gaps?",
+          "Describe a process improvement you drove in KYC onboarding and its measurable effect.",
+          "How do you balance onboarding speed with regulatory risk?",
+          "Tell us about a disagreement with a stakeholder over a risk decision."
+        ],
+        "toAsk": [
+          "How is the Kraków KYC team structured relative to the India team, and who owns hand-offs?",
+          "What are the main KYC onboarding bottlenecks planned for automation this year?",
+          "What does success look like in the first six months?"
+        ]
+      }
+    }
   ]
 }
