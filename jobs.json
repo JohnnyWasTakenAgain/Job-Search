@@ -3456,6 +3456,110 @@
           "What tools or automation does the compliance team currently use, and is there room to introduce AI-driven process improvements?"
         ]
       }
-    }
+    },
+    {
+  "id": "ca-ekspert-projekty-aml-warszawa",
+  "title": "Ekspertka / Ekspert ds. Projektów AML",
+  "company": "Credit Agricole Bank Polska S.A.",
+  "location": "Warszawa (hybrid)",
+  "url": "https://www.karierawfinansach.pl/oferta-pracy/282665,ekspertka-ekspert-ds-projektow-aml-warszawa",
+  "description": "Senior specialist role driving AML-CFT project work — gap analysis, process/system changes for regulatory compliance, and recommending improvements across AML-CFT processes.",
+  "placement": "poland",
+  "tags": ["senior-specialist"],
+  "fit": 2,
+  "datePosted": "2026-09-16",
+  "verified": true
+},
+{
+  "id": "ca-ekspert-kyc-warszawa",
+  "title": "Ekspertka / Ekspert KYC",
+  "company": "Credit Agricole Bank Polska S.A.",
+  "location": "Warszawa (hybrid)",
+  "url": "https://www.karierawfinansach.pl/oferta-pracy/283023,ekspertka-ekspert-kyc-warszawa",
+  "description": "Senior specialist owning KYC/EDD decisions for higher-risk clients, beneficial-owner analysis, and regulatory reporting within the KYC–Customer Data tribe.",
+  "placement": "poland",
+  "tags": ["senior-specialist"],
+  "fit": 2,
+  "datePosted": "2026-09-16",
+  "verified": true
+},
+{
+  "id": "pekao-aml-champion-optymalizacja-procesow",
+  "title": "Główny Specjalista / Główna Specjalistka - AML Champion w Zespole Optymalizacji Procesów",
+  "company": "Bank Pekao S.A.",
+  "location": "Warszawa (hybrid)",
+  "url": "https://www.karierawfinansach.pl/oferta-pracy/281068,glowny-specjalista-glowna-specjalistka-aml-champion-w-zespole-optymalizacji-procesow-warszawa",
+  "description": "Process-optimization role for KYC onboarding — designing workflows, defining KPIs, and improving data-collection solutions across AML/KYC/FATCA/CRS/sanctions requirements.",
+  "placement": "poland",
+  "tags": ["ai-automation"],
+  "fit": 2,
+  "datePosted": "2026-09-16",
+  "verified": true
+},
+{
+  "id": "pekao-bezpieczenstwo-transakcji",
+  "title": "Ekspert / Ekspertka ds. Bezpieczeństwa Transakcji",
+  "company": "Bank Pekao S.A.",
+  "location": "Warszawa (hybrid)",
+  "url": "https://www.karierawfinansach.pl/oferta-pracy/282647,ekspert-ekspertka-ds-bezpieczenstwa-transakcji-warszawa",
+  "description": "Individual-contributor role building and developing anti-fraud rules and mechanisms, min. 3 years in financial-crime prevention.",
+  "placement": "poland",
+  "tags": [],
+  "fit": 1,
+  "datePosted": "2026-09-16",
+  "verified": true
+},
+{
+  "id": "millennium-weryfikacja-sankcyjna",
+  "title": "Specjalista / Specjalistka AML ds. Weryfikacji Sankcyjnej Transakcji",
+  "company": "Bank Millennium S.A.",
+  "location": "Warszawa (hybrid)",
+  "url": "https://www.karierawfinansach.pl/oferta-pracy/277489,specjalista-specjalistka-aml-ds-weryfikacji-sankcyjnej-transakcji-warszawa",
+  "description": "Individual-contributor sanctions-screening specialist role, min. 2 years AML experience, handling regulator queries and OFAC/OFSI-related reviews.",
+  "placement": "poland",
+  "tags": [],
+  "fit": 1,
+  "datePosted": "2026-09-16",
+  "verified": true
+},
+{
+  "id": "ey-digital-assets-aml-analyst",
+  "title": "Digital Assets AML Analyst",
+  "company": "EY (dawniej Ernst & Young)",
+  "location": "Warszawa",
+  "url": "https://www.karierawfinansach.pl/oferta-pracy/281818,digital-assets-aml-analyst-warszawa",
+  "description": "Entry-level role (min. 6 months experience) supporting AML/KYC for digital-assets and crypto-related clients.",
+  "placement": "poland",
+  "tags": [],
+  "fit": 1,
+  "datePosted": "2026-09-16",
+  "verified": true
+},
+{
+  "id": "ey-fincrime-operations-aml-kyc",
+  "title": "Specjalista / ka ds. AML / KYC w zespole FinCrime Operations",
+  "company": "EY (dawniej Ernst & Young)",
+  "location": "Warszawa (hybrid)",
+  "url": "https://www.karierawfinansach.pl/oferta-pracy/279749,specjalista-ka-ds-aml-kyc-w-zespole-fincrime-operations-warszawa",
+  "description": "Junior-to-mid AML/KYC operations role (min. 1 year experience) within EY's Financial Crime Operations team, serving financial-institution clients.",
+  "placement": "poland",
+  "tags": [],
+  "fit": 1,
+  "datePosted": "2026-09-16",
+  "verified": true
+},
+{
+  "id": "ey-operacje-aml",
+  "title": "Specjalista/ka ds. Operacji AML",
+  "company": "EY (dawniej Ernst & Young)",
+  "location": "Warszawa (hybrid)",
+  "url": "https://www.karierawfinansach.pl/oferta-pracy/272954,specjalistaka-ds-operacji-aml-warszawa",
+  "description": "Junior-to-mid AML operations role (min. 2 years experience) handling transaction-monitoring investigations and KYC profile work.",
+  "placement": "poland",
+  "tags": [],
+  "fit": 1,
+  "datePosted": "2026-09-16",
+  "verified": true
+}
   ]
 }
