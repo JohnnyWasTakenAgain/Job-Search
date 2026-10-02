@@ -129,7 +129,8 @@ const FIXED_LABELS = {
   'berlin-based':'Berlin',
   'remote-europe':'Remote — Europe',
   'poland':'Poland',
-  'stale-7d':'Powyżej 7 dni'
+  'stale-7to14':'7-14 dni',
+  'stale-14d':'Powyżej 14 dni'
 };
 
 function loadLocal(){
@@ -171,12 +172,15 @@ function placementOf(job){
   return 'other';
 }
 
-// each job belongs to exactly ONE tab: its placement, unless it's stale (>7 days) and not
-// actively being tracked (applied/interview) — then it moves to the stale-7d tab instead.
+// each job belongs to exactly ONE tab: its placement, unless it's stale and not
+// actively being tracked (applied/interview) — then it moves to a staleness tab instead.
 function effectiveTab(job, local){
   const protected_ = local.stage==='applied' || local.stage==='interview';
   const days = ageDays(job.datePosted);
-  if(!protected_ && days!==null && days>7) return 'stale-7d';
+  if(!protected_ && days!==null){
+    if(days>14) return 'stale-14d';
+    if(days>7) return 'stale-7to14';
+  }
   return placementOf(job);
 }
 
@@ -219,12 +223,12 @@ function renderTabs(){
     const t = effectiveTab(j, getLocal(j.id));
     counts[t] = (counts[t]||0)+1;
   });
-  const order = [...PLACEMENTS, 'stale-7d'].filter(t=>counts[t]>0);
+  const order = [...PLACEMENTS, 'stale-7to14', 'stale-14d'].filter(t=>counts[t]>0);
   Object.keys(counts).forEach(t=>{ if(!order.includes(t)) order.push(t); });
   if(!activeTab || !counts[activeTab]) activeTab = order[0] || null;
   order.forEach(t=>{
     const btn = document.createElement('button');
-    btn.className = 'tab' + (activeTab===t?' active':'') + (t==='stale-7d'?' stale':'');
+    btn.className = 'tab' + (activeTab===t?' active':'') + (t.startsWith('stale-')?' stale':'');
     btn.innerHTML = `${escapeHtml(tagLabel(t))} <span style="opacity:.7">${counts[t]}</span>`;
     btn.onclick = ()=>{ activeTab = t; render(); };
     tabsEl.appendChild(btn);
