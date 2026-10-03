@@ -126,6 +126,7 @@ let onlyVerified = false;
 
 const PLACEMENTS = ['berlin-based','remote-europe','poland'];
 const FIXED_LABELS = {
+  'applied-tab':'✓ Zaaplikowano',
   'berlin-based':'Berlin',
   'remote-europe':'Remote — Europe',
   'poland':'Poland',
@@ -172,12 +173,14 @@ function placementOf(job){
   return 'other';
 }
 
-// each job belongs to exactly ONE tab: its placement, unless it's stale and not
-// actively being tracked (applied/interview) — then it moves to a staleness tab instead.
+// each job belongs to exactly ONE tab:
+// - applied/interview → dedicated "Zaaplikowano" tab (regardless of location or age)
+// - otherwise stale (>7 days) → a staleness tab
+// - otherwise → its location placement
 function effectiveTab(job, local){
-  const protected_ = local.stage==='applied' || local.stage==='interview';
+  if(local.stage==='applied' || local.stage==='interview') return 'applied-tab';
   const days = ageDays(job.datePosted);
-  if(!protected_ && days!==null){
+  if(days!==null){
     if(days>14) return 'stale-14d';
     if(days>7) return 'stale-7to14';
   }
@@ -223,7 +226,7 @@ function renderTabs(){
     const t = effectiveTab(j, getLocal(j.id));
     counts[t] = (counts[t]||0)+1;
   });
-  const order = [...PLACEMENTS, 'stale-7to14', 'stale-14d'].filter(t=>counts[t]>0);
+  const order = ['applied-tab', ...PLACEMENTS, 'stale-7to14', 'stale-14d'].filter(t=>counts[t]>0);
   Object.keys(counts).forEach(t=>{ if(!order.includes(t)) order.push(t); });
   if(!activeTab || !counts[activeTab]) activeTab = order[0] || null;
   order.forEach(t=>{
