@@ -3599,6 +3599,38 @@
           "What does success look like in the first six months?"
         ]
       }
+    },
+    {
+      "id": "pwc-aml-senior-analyst-german-warszawa-2026",
+      "title": "AML Senior Analyst with German | Financial Crime Unit",
+      "company": "PwC",
+      "location": "Warszawa / Lublin / Poznań / Gdańsk, Poland (hybrid)",
+      "url": "https://karierawfinansach.pl/oferta-pracy/271415,aml-senior-analyst-with-german-financial-crime-unit-warszawa",
+      "description": "Senior analyst role in PwC's Financial Crime Unit building KYC profiles and AML risk assessments for international clients, with junior-staff mentoring. Fluent German required.",
+      "placement": "poland",
+      "tags": [
+        "senior-specialist",
+        "corporate"
+      ],
+      "fit": 1,
+      "datePosted": "2026-10-04",
+      "verified": true,
+      "coverLetterDraft": "Dear Hiring Team,\n\nI am applying for the AML Senior Analyst role in PwC's Financial Crime Unit. I bring 8+ years in KYC/AML, including two years as an AML Analyst at PwC, where I built KYC profiles and AML risk ratings for individuals and legal entities, delivered internal AML/KYC training and completed a six-month on-site client assignment in the Netherlands.\n\nSince then I have performed due diligence across Corporate, Financial Institution and Publicly Traded client types at J.P. Morgan and now manage KYC due diligence at Pliant, where I also work on AI-driven automation of compliance workflows. I am comfortable mentoring analysts and applying a four-eyes review standard.\n\nI am a native Polish speaker, fluent in English, with German at B1 and progressing to B2. I understand this role asks for fluent German, so I would value an honest conversation about the timeline and about what I can contribute meanwhile.\n\nKind regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "Walk us through building a KYC profile and AML risk rating for a multi-layer legal entity.",
+          "How do you handle a client who is slow to provide UBO documentation?",
+          "Describe how you have mentored or trained junior analysts.",
+          "How do you stay consistent with changing client policies and procedures across projects?",
+          "Tell us about a time you found an error in a colleague's work. How did you raise it?",
+          "How would you rate your German today, and how are you improving it?"
+        ],
+        "toAsk": [
+          "What German proficiency level is truly required day to day, and is there language support?",
+          "Which client portfolios and jurisdictions would this role cover?",
+          "What is the path from Senior Analyst to a QA or team lead role?"
+        ]
+      }
     }
   ]
 }
