@@ -3631,6 +3631,72 @@
           "What is the path from Senior Analyst to a QA or team lead role?"
         ]
       }
+    },
+    {
+      "id": "millennium-teamlead-payment-transaction-security-wroclaw-2026",
+      "title": "Kierownik / Kierowniczka Zespołu Bezpieczeństwa Transakcji Płatniczych (Team Lead, Payment Transaction Security)",
+      "company": "Bank Millennium S.A.",
+      "location": "Wrocław, Poland (hybrid)",
+      "url": "https://www.karierawfinansach.pl/oferta-pracy/283251",
+      "description": "Team lead role owning anti-fraud policies and detection processes for payment services, with PSD2 and AML knowledge required. Leads a team of security specialists.",
+      "placement": "poland",
+      "tags": [
+        "compliance-leadership",
+        "lead-plus",
+        "corporate"
+      ],
+      "fit": 2,
+      "datePosted": "2026-10-05",
+      "verified": true,
+      "coverLetterDraft": "Dear Hiring Team,\n\nI am applying for the Team Lead role in Payment Transaction Security. I have 8+ years in KYC/AML and financial operations across J.P. Morgan, PwC and fintech, and currently run KYC due diligence for corporate clients as Compliance Operations Manager at Pliant.\n\nThere I also work in an internal AI team automating compliance workflows, which cuts manual review effort while keeping a four-eyes standard. At PwC and Moonfare I trained colleagues, reviewed case work and shaped process improvements with cross-functional stakeholders.\n\nI am a native Polish speaker, fluent in English, with a Master's in Finance and Accounting. My background is AML-led rather than fraud-led, so I would be building on PSD2 and fraud-typology depth quickly; I would welcome a conversation on how my process-automation and review-quality experience can help your team.\n\nKind regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How would you structure an anti-fraud policy for payment services under PSD2?",
+          "Describe how AML and fraud controls overlap, and where they should stay separate.",
+          "How do you set priorities and quality standards for a team reviewing alerts?",
+          "Tell us about a time you automated or redesigned a detection or review process.",
+          "How have you handled disagreement within a team over a risk decision?",
+          "What is your experience in fraud prevention specifically, and how would you close any gap?"
+        ],
+        "toAsk": [
+          "How large is the team and what are its current alert volumes and backlog?",
+          "Is there a roadmap for automation or ML-based detection in this area?",
+          "How does the team work with AML and compliance functions at the bank?"
+        ]
+      }
+    },
+    {
+      "id": "biocatch-senior-manager-customer-audit-due-diligence-germany-2026",
+      "title": "Senior Manager, Customer Audit & Due Diligence Compliance",
+      "company": "BioCatch",
+      "location": "Germany (fully remote)",
+      "url": "https://www.remoterocketship.com/company/biocatch/jobs/senior-manager-customer-audit-due-diligence-compliance-germany-remote/",
+      "description": "Leads complex, high-risk customer audits and due diligence requests at a fraud-prevention fintech, mentoring junior staff and defining scalable processes. 8+ years in financial-services audit/due diligence required.",
+      "placement": "remote-europe",
+      "tags": [
+        "qa",
+        "lead-plus",
+        "startup"
+      ],
+      "fit": 1,
+      "datePosted": "2026-10-02",
+      "verified": true,
+      "coverLetterDraft": "Dear Hiring Team,\n\nI am applying for the Senior Manager, Customer Audit & Due Diligence Compliance role. I have 8+ years in financial services due diligence, including KYC/EDD for corporate, financial-institution and listed-company clients at J.P. Morgan, and today I lead corporate KYC due diligence at Pliant.\n\nI have guided institutional clients through detailed KYC/AML documentation at Moonfare and have delivered internal training at PwC. At Pliant I am part of an AI team automating compliance workflows, which maps directly to your goal of scalable processes for high-volume requests.\n\nI have not worked with Archer or MetricStream, but I am comfortable learning GRC tooling quickly given my SQL and advanced Excel background. I am fluent in English, native Polish and B1 German.\n\nKind regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "Walk us through handling a high-risk customer audit from intake to response.",
+          "How do you decide when to escalate a request or involve legal and security?",
+          "How have you built or improved a repeatable process for high-volume requests?",
+          "Describe how you mentor junior team members and review their drafts.",
+          "What experience do you have with GRC platforms such as Archer or MetricStream?",
+          "Tell us about a time you had to push back on a stakeholder under time pressure."
+        ],
+        "toAsk": [
+          "Which customer segments (banks, regulators) generate most of the audits?",
+          "Is there appetite to use AI to automate questionnaire and audit responses?",
+          "What does the team structure look like, and who would report to this role?"
+        ]
+      }
     }
   ]
 }
