@@ -3697,6 +3697,39 @@
           "What does the team structure look like, and who would report to this role?"
         ]
       }
+    },
+    {
+      "id": "okx-senior-compliance-analyst-special-investigations-2026",
+      "title": "Compliance Analyst / Senior Compliance Analyst (Special Investigations)",
+      "company": "OKX",
+      "location": "Remote (EMEA / Europe)",
+      "url": "https://job-boards.greenhouse.io/okx/jobs/8012599003",
+      "description": "Conduct in-depth investigations of complex AML cases involving crypto transactions, evaluate transaction monitoring requirements, and collaborate with law enforcement and regulators; remote option for the EMEA team.",
+      "placement": "remote-europe",
+      "tags": [
+        "compliance",
+        "senior-specialist",
+        "corporate"
+      ],
+      "fit": 2,
+      "datePosted": "2026-10-06",
+      "verified": true,
+      "coverLetterDraft": "Dear OKX Hiring Team,\n\nI'm applying for the Senior Compliance Analyst role in Special Investigations. As Compliance Operations Manager at Pliant, I lead end-to-end KYC due diligence for corporate clients and apply AI-driven automation to compliance workflows. Earlier, at J.P. Morgan Chase I performed due diligence across Corporate, Financial Institution and Publicly Traded Company risk tiers, and at PwC I built AML risk ratings for individuals and legal entities and delivered internal AML/KYC training.\n\nEight-plus years across banks, fintechs and asset managers have given me a rigorous approach to escalations, EDD, PEP and adverse media analysis, and clear written reporting for regulators and non-specialist stakeholders. I am keen to deepen my blockchain-analytics skills (Chainalysis/Elliptic) on complex, high-risk cases, and I can contribute process improvements from my automation work.\n\nI hold a Master's in Finance and Accounting, am based in Berlin, and work fluently in English.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "Walk us through how you would investigate a complex AML case involving crypto transactions from alert to SAR decision.",
+          "What is your experience with blockchain analytics tools such as Chainalysis or Elliptic, and how would you ramp up?",
+          "How do you decide when to escalate a case or file a suspicious activity report?",
+          "Describe a time you handled a high-risk EDD case with incomplete information.",
+          "How would you explain a technical investigation finding to law enforcement or non-technical stakeholders?",
+          "Tell us about a time you improved an investigation process or introduced automation."
+        ],
+        "toAsk": [
+          "How is the Special Investigations team structured across EMEA, and how are cases prioritised?",
+          "Which blockchain analytics and case-management tools does the team use today?",
+          "What does progression from Senior Analyst look like on this team?"
+        ]
+      }
     }
   ]
 }
