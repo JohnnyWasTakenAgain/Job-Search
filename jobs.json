@@ -3730,6 +3730,39 @@
           "What does progression from Senior Analyst look like on this team?"
         ]
       }
+    },
+    {
+      "id": "raisin-afc-operations-manager-transaction-monitoring-2026",
+      "title": "AFC Operations Manager - Transaction Monitoring (m/f/d)",
+      "company": "Raisin",
+      "location": "Berlin, Germany",
+      "placement": "berlin-based",
+      "url": "https://job-boards.eu.greenhouse.io/raisin/jobs/4998206101",
+      "description": "Raisin is hiring an AFC Operations Manager to handle screening alerts and KYC investigations, own the SAR process end-to-end, tune screening logic and thresholds, and run QA controls on the unit's daily output. Excellent German is mandatory.",
+      "tags": [
+        "qa",
+        "senior-specialist",
+        "startup"
+      ],
+      "fit": 2,
+      "datePosted": "2026-10-06",
+      "verified": true,
+      "coverLetterDraft": "Dear Raisin Hiring Team,\n\nI'm applying for the AFC Operations Manager - Transaction Monitoring role. Screening-alert review, KYC investigation quality and process improvement are what I do today: at Pliant I lead end-to-end KYC due diligence for corporate clients and apply the four-eyes principle to keep output audit-ready.\n\nAt Moonfare I co-led the ongoing due-diligence review project and worked with cross-functional stakeholders on automation improvements. At J.P. Morgan Chase I performed due diligence across Corporate, Financial Institution and Publicly Traded Company risk tiers, and at PwC I built AML risk ratings and trained colleagues on AML/KYC, so I can both execute and set the standard for others' case work.\n\nI also work on AI-driven automation of compliance workflows, which maps directly to tuning screening logic and reducing false positives.\n\nI hold a Master's in Finance and Accounting, have SQL fundamentals, and speak German at B1 progressing to B2 alongside fluent English.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How would you approach tuning screening thresholds to reduce false positives without raising regulatory risk?",
+          "Walk us through a SAR you drafted and filed end-to-end.",
+          "How do you run quality controls on a screening unit's daily output?",
+          "How do you assess adverse media and PEP hits under German and EU AML rules?",
+          "Describe a KYC or screening workflow you documented and improved.",
+          "Tell us about a time you disagreed with a colleague's case decision during review. How did you resolve it?"
+        ],
+        "toAsk": [
+          "Which screening and case-management tools does the team use, and is a change planned?",
+          "How is this role split between hands-on alert handling and QA or process ownership?",
+          "Given the German requirement, what level do you expect on day one, and is language support available?"
+        ]
+      }
     }
   ]
 }
