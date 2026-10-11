@@ -3763,6 +3763,39 @@
           "Given the German requirement, what level do you expect on day one, and is language support available?"
         ]
       }
+    },
+    {
+      "id": "okx-head-of-compliance-eu-uk-2026",
+      "title": "Head of Compliance, EU & UK",
+      "company": "OKX",
+      "location": "Remote (EMEA)",
+      "url": "https://job-boards.greenhouse.io/okx/jobs/8016752003",
+      "description": "Lead the compliance program across OKX's European and UK entities, managing Country Heads of Compliance and MLROs. Mandate includes improving workflows with data, automation and AI-enabled tools.",
+      "fit": 2,
+      "datePosted": "2026-10-08",
+      "verified": true,
+      "placement": "remote-europe",
+      "tags": [
+        "compliance-leadership",
+        "ai-automation",
+        "lead-plus"
+      ],
+      "coverLetterDraft": "Dear Hiring Team,\n\nI am applying for the Head of Compliance, EU & UK role. I have 8+ years in KYC/AML across J.P. Morgan, PwC, Moonfare and Pliant, where I currently lead end-to-end KYC due diligence as Compliance Operations Manager and drive AI-based automation of compliance workflows within an internal AI team.\n\nYour mandate to improve workflows with data, automation and AI-enabled tools without weakening controls is the work I already do: I have redesigned review steps, kept four-eyes checks intact, and managed regulatory escalations. At PwC I built AML risk ratings and trained colleagues, so developing others and setting consistent standards is familiar to me.\n\nI recognise this is a very senior, multi-jurisdiction position and that my leadership scope is smaller today. I would bring strong operational depth, a practical automation track record and fluent English (Polish native, German B1).\n\nI would welcome a conversation.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How would you create consistency across Country Heads of Compliance and MLROs while preserving local accountability?",
+          "Where would you apply AI or automation in a compliance program, and how do you keep controls strong?",
+          "Walk us through how you would handle a regulator examination or inquiry.",
+          "How do you work with MiCA, MiFID II and the EU AML framework (AMLR/AMLA) in practice?",
+          "Tell me about a time you challenged the business on a compliance issue.",
+          "How do you measure the effectiveness of a compliance program using KPIs and SLAs?"
+        ],
+        "toAsk": [
+          "How large is the team of Country Heads and MLROs today, and where are they based?",
+          "Which compliance workflows are the first candidates for AI-enabled improvement?",
+          "Is the role fully remote within the EU, or tied to a hub?"
+        ]
+      }
     }
   ]
 }
