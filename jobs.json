@@ -3796,6 +3796,102 @@
           "Is the role fully remote within the EU, or tied to a hub?"
         ]
       }
+    },
+    {
+      "id": "moneygram-supervisor-compliance-tm-poland-2026",
+      "title": "Supervisor, Compliance - Transaction Monitoring",
+      "company": "MoneyGram",
+      "location": "Poland (Remote)",
+      "url": "https://jobs.dayforcehcm.com/moneygram/candidateportal/jobs/515",
+      "description": "Supervise a team of compliance analysts investigating suspicious transactions (fraud, money laundering, terrorist financing), with regulatory reporting and performance tracking. Aggregator tags level inconsistently; listing is supervisory.",
+      "fit": 2,
+      "placement": "poland",
+      "tags": [
+        "compliance-leadership",
+        "lead-plus",
+        "corporate"
+      ],
+      "verified": false,
+      "coverLetterDraft": "Dear Hiring Team,\n\nI am applying for the Supervisor, Compliance - Transaction Monitoring role at MoneyGram. I am a Compliance Operations Manager with 8+ years in KYC/AML across J.P. Morgan, PwC, Moonfare and Pliant, covering CDD/EDD, sanctions and PEP screening, adverse media, and four-eyes review.\n\nSupervising analysts who investigate suspicious activity matches my experience reviewing others' work under the four-eyes principle and escalating complex AML cases to regulators and senior management.\n\nAt Pliant I lead end-to-end KYC due diligence for corporate clients and work in an internal AI team automating compliance workflows, which has taught me how to raise quality and throughput without weakening controls. I would welcome the chance to discuss how this fits your team.\n\nKind regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How do you review and coach analysts investigating suspicious transactions?",
+          "Walk me through escalating a complex AML case end to end.",
+          "What controls or process improvements have you implemented in an AML setting?",
+          "How do you manage backlog and deadlines on regulatory reporting?",
+          "Tell me about a disagreement with an analyst over a case decision.",
+          "How would you use Excel/data analysis to track team performance?"
+        ],
+        "toAsk": [
+          "How large is the analyst team and how is it split across locations?",
+          "Which regulatory reporting regimes does this team own day to day?",
+          "Is there appetite for automation in alert review?"
+        ]
+      },
+      "datePosted": "2026-10-13"
+    },
+    {
+      "id": "biocatch-senior-manager-customer-audit-dd-2026",
+      "title": "Senior Manager, Customer Audit & Due Diligence Compliance",
+      "company": "BioCatch",
+      "location": "Germany (Remote)",
+      "url": "https://www.comeet.com/jobs/biocatch/03.00E/senior-manager-customer-audit--due-diligence-compliance/C6.37F",
+      "description": "Lead complex customer audits and due diligence reviews, set quality standards, review team output and improve tooling. Closer to third-party/customer assurance than KYC, hence lower fit.",
+      "fit": 1,
+      "placement": "remote-europe",
+      "tags": [
+        "qa",
+        "ai-automation",
+        "lead-plus"
+      ],
+      "verified": false,
+      "coverLetterDraft": "Dear Hiring Team,\n\nI am applying for the Senior Manager, Customer Audit & Due Diligence Compliance role at BioCatch. I am a Compliance Operations Manager with 8+ years in KYC/AML across J.P. Morgan, PwC, Moonfare and Pliant, covering CDD/EDD, sanctions and PEP screening, adverse media, and four-eyes review.\n\nMy background is KYC and AML due diligence rather than customer audits, but the core work, reviewing complex evidence, setting quality standards, and improving process and tooling, is what I do daily.\n\nAt Pliant I lead end-to-end KYC due diligence for corporate clients and work in an internal AI team automating compliance workflows, which has taught me how to raise quality and throughput without weakening controls. I would welcome the chance to discuss how this fits your team.\n\nKind regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How would you set and enforce quality standards for due diligence responses?",
+          "Describe a complex, high-risk review you led.",
+          "What GRC or response-management tools have you used?",
+          "How do you mentor analysts and managers?",
+          "How have you used automation to improve a compliance process?"
+        ],
+        "toAsk": [
+          "What does the audit/due diligence volume look like and how is it split?",
+          "How is AI currently used in the response process?",
+          "How does this team work with Sales and InfoSec?"
+        ]
+      },
+      "datePosted": "2026-10-13"
+    },
+    {
+      "id": "sii-senior-aml-kyc-analyst-krakow-2026",
+      "title": "Senior AML/KYC Analyst",
+      "company": "Sii (global bank client)",
+      "location": "Kraków, Poland",
+      "url": "https://www.pracuj.pl/praca/senior-aml-kyc-analyst-f-m-x-krakow-wadowicka-12,oferta,1005105688",
+      "description": "Senior analyst supporting KYC and client onboarding teams for a global bank client; English working language. Listing valid until 21 Oct (per search snippet).",
+      "fit": 2,
+      "placement": "poland",
+      "tags": [
+        "senior-specialist",
+        "corporate"
+      ],
+      "verified": false,
+      "coverLetterDraft": "Dear Hiring Team,\n\nI am applying for the Senior AML/KYC Analyst role at Sii. I am a Compliance Operations Manager with 8+ years in KYC/AML across J.P. Morgan, PwC, Moonfare and Pliant, covering CDD/EDD, sanctions and PEP screening, adverse media, and four-eyes review.\n\nI have supported KYC reviews and onboarding across Corporate, Financial Institution and Publicly Traded clients at J.P. Morgan, which maps directly to a global bank client programme.\n\nAt Pliant I lead end-to-end KYC due diligence for corporate clients and work in an internal AI team automating compliance workflows, which has taught me how to raise quality and throughput without weakening controls. I would welcome the chance to discuss how this fits your team.\n\nKind regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "Walk me through a KYC review for a complex corporate structure.",
+          "How do you identify UBOs and handle high-risk jurisdictions?",
+          "How do you handle conflicting documentation?",
+          "What is your approach to EDD and adverse media?",
+          "How do you work with a client's team as an outsourced consultant?"
+        ],
+        "toAsk": [
+          "Which bank and which KYC processes would I support?",
+          "What is the team size and career path at Sii?",
+          "Is the role hybrid or on-site in Kraków?"
+        ]
+      },
+      "datePosted": "2026-10-13"
     }
   ]
 }
