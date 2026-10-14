@@ -3831,38 +3831,6 @@
       "datePosted": "2026-10-13"
     },
     {
-      "id": "biocatch-senior-manager-customer-audit-dd-2026",
-      "title": "Senior Manager, Customer Audit & Due Diligence Compliance",
-      "company": "BioCatch",
-      "location": "Germany (Remote)",
-      "url": "https://www.comeet.com/jobs/biocatch/03.00E/senior-manager-customer-audit--due-diligence-compliance/C6.37F",
-      "description": "Lead complex customer audits and due diligence reviews, set quality standards, review team output and improve tooling. Closer to third-party/customer assurance than KYC, hence lower fit.",
-      "fit": 1,
-      "placement": "remote-europe",
-      "tags": [
-        "qa",
-        "ai-automation",
-        "lead-plus"
-      ],
-      "verified": false,
-      "coverLetterDraft": "Dear Hiring Team,\n\nI am applying for the Senior Manager, Customer Audit & Due Diligence Compliance role at BioCatch. I am a Compliance Operations Manager with 8+ years in KYC/AML across J.P. Morgan, PwC, Moonfare and Pliant, covering CDD/EDD, sanctions and PEP screening, adverse media, and four-eyes review.\n\nMy background is KYC and AML due diligence rather than customer audits, but the core work, reviewing complex evidence, setting quality standards, and improving process and tooling, is what I do daily.\n\nAt Pliant I lead end-to-end KYC due diligence for corporate clients and work in an internal AI team automating compliance workflows, which has taught me how to raise quality and throughput without weakening controls. I would welcome the chance to discuss how this fits your team.\n\nKind regards,\n[Your Name]",
-      "interviewPrep": {
-        "expected": [
-          "How would you set and enforce quality standards for due diligence responses?",
-          "Describe a complex, high-risk review you led.",
-          "What GRC or response-management tools have you used?",
-          "How do you mentor analysts and managers?",
-          "How have you used automation to improve a compliance process?"
-        ],
-        "toAsk": [
-          "What does the audit/due diligence volume look like and how is it split?",
-          "How is AI currently used in the response process?",
-          "How does this team work with Sales and InfoSec?"
-        ]
-      },
-      "datePosted": "2026-10-13"
-    },
-    {
       "id": "sii-senior-aml-kyc-analyst-krakow-2026",
       "title": "Senior AML/KYC Analyst",
       "company": "Sii (global bank client)",
@@ -3892,6 +3860,71 @@
         ]
       },
       "datePosted": "2026-10-13"
+    },
+    {
+      "id": "lemonmarkets-senior-fincrime-ops-specialist-afc-2026",
+      "title": "Senior Financial Crime Operations Specialist (AFC) (f/m/x)",
+      "company": "lemon.markets",
+      "location": "Berlin, Germany (Hybrid)",
+      "url": "https://jobs.ashbyhq.com/lemon-markets/4f1b03f0-5e52-44fe-9c31-e90dfe3aba0c",
+      "description": "Sole first-line AFC operations owner building the operating model from scratch: transaction monitoring, screening, SoW reviews, investigations, plus workflow and automation improvements with Product and Engineering.",
+      "fit": 3,
+      "datePosted": "2026-09-29",
+      "verified": true,
+      "placement": "berlin-based",
+      "tags": [
+        "ai-automation",
+        "senior-specialist",
+        "startup"
+      ],
+      "coverLetterDraft": "Dear lemon.markets team,\n\nI am applying for the Senior Financial Crime Operations Specialist (AFC) role. I have eight years in KYC/AML across J.P. Morgan, PwC, Moonfare and, currently, Pliant, where I lead corporate KYC due diligence and work in an internal AI team automating compliance workflows.\n\nYour role asks for someone who can run AFC operations hands-on and build the controls around them. That matches my work: I handle EDD, Source of Wealth style reviews, sanctions, PEP and adverse media screening, and escalations under the four-eyes principle, and I have helped redesign review processes with cross-functional stakeholders at Moonfare and Pliant.\n\nI would bring the same approach here: document the operating model, find manual effort worth automating, and define clear requirements for Product and Engineering. I work in Excel and SQL, and I am comfortable with ambiguity and with being the single owner of a function.\n\nI am based in Berlin, fluent in English, and at B1 German, progressing to B2. I would welcome a conversation.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How would you set up an AFC operating model from scratch as the only first-line specialist?",
+          "Walk us through a Source of Wealth review where the documentation was weak. What did you decide and why?",
+          "Which transaction monitoring or screening steps would you automate first, and how would you keep control quality?",
+          "Describe an escalation to the MLRO or second line you disagreed with. How was it resolved?",
+          "How do you prioritise alerts and investigations when volume spikes?",
+          "How have you worked with engineers to turn a compliance need into a workflow requirement?"
+        ],
+        "toAsk": [
+          "How mature are the current TM and screening tools, and what is the engineering capacity for AFC automation?",
+          "How is first-line versus second-line responsibility split with the MLRO today?",
+          "What does success look like after 6 and 12 months, and is a team planned to grow around this role?"
+        ]
+      }
+    },
+    {
+      "id": "amlrightsource-senior-financial-crime-analyst-poland-2026",
+      "title": "Senior Financial Crime Analyst (AML/KYC)",
+      "company": "AML RightSource",
+      "location": "Poland (Remote, Kraków-listed)",
+      "url": "https://amlrightsource.wd1.myworkdayjobs.com/amlrightsource/job/Krakow-Poland/Senior-Financial-Crime-Analyst--AML-KYC----Krakow--Poland_R-103093",
+      "description": "Senior analyst role analysing suspicious activity and KYC/AML files, performing quality control reviews of associate analysts' work and helping guide a team of analysts. Remote within Poland.",
+      "fit": 2,
+      "datePosted": "2026-08-14",
+      "verified": false,
+      "placement": "poland",
+      "tags": [
+        "qa",
+        "senior-specialist",
+        "corporate"
+      ],
+      "coverLetterDraft": "Dear Hiring Team,\n\nI am applying for the Senior Financial Crime Analyst position. I have eight years of KYC/AML experience, including AML risk rating and KYC profile work at PwC (with a six-month client assignment in the Netherlands), KYC due diligence across corporate, financial institution and listed-company clients at J.P. Morgan, and corporate KYC at Pliant today.\n\nThe quality control element of this role is what interests me most. I apply the four-eyes principle daily, review others' casework, and delivered internal AML/KYC training at PwC. I know how to give precise feedback tied to policy and to spot recurring errors that point to process gaps.\n\nI also bring Excel and SQL skills for analysing patterns in cases, and experience automating parts of compliance workflows. I am a native Polish speaker, fluent in English, and comfortable working remotely.\n\nI would be glad to discuss how I can contribute.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How do you structure a QC review of another analyst's AML file, and what errors do you look for first?",
+          "Describe a case where you disagreed with an associate's conclusion. How did you give feedback?",
+          "How do you decide whether activity is suspicious enough to escalate?",
+          "How do you handle high volume under client deadlines without losing quality?",
+          "What does guiding junior analysts look like in practice for you?"
+        ],
+        "toAsk": [
+          "What are the QC sampling rates and error-rate targets for this team?",
+          "Which clients and jurisdictions would this role support?",
+          "Is there a path from senior analyst to team lead?"
+        ]
+      }
     }
   ]
 }
