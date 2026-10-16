@@ -3925,6 +3925,133 @@
           "Is there a path from senior analyst to team lead?"
         ]
       }
+    },
+    {
+      "id": "pwc-team-leader-german-aml-warszawa-2026",
+      "title": "Experienced Team Leader with German | Managed Services Operations",
+      "company": "PwC",
+      "location": "Warszawa, Poland (hybrid)",
+      "url": "https://www.karierawfinansach.pl/oferta-pracy/283306,experienced-team-leader-with-german-managed-services-operations-warszawa",
+      "description": "Lead a team of 10-15 AML analysts in PwC's Financial Crime Unit managed services, acting as deputy to the Operations Manager. Requires fluent German and English plus 4+ years of team management.",
+      "fit": 2,
+      "datePosted": "2026-10-16",
+      "verified": true,
+      "placement": "poland",
+      "tags": [
+        "compliance-leadership",
+        "lead-plus",
+        "corporate"
+      ],
+      "coverLetterDraft": "Dear PwC Hiring Team,\n\nI'm applying for the Experienced Team Leader (Managed Services Operations) role. I bring eight years of hands-on KYC/AML experience, including a PwC AML Analyst role where I built KYC profiles and AML risk ratings and delivered internal training. Today I manage compliance operations at Pliant, leading end-to-end corporate KYC due diligence and driving AI-based automation of review workflows, which helps teams hit targets with consistent quality.\n\nAt J.P. Morgan I worked across Corporate, Financial Institution and Publicly Traded Company risk tiers under four-eyes review, so I know where analyst teams stall and how to coach them. I would apply that operational discipline to managing workload, escalations and performance targets for your analysts. My German is the point I would like to discuss openly in an interview, as the role requires fluency.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How do you manage workload and SLAs for a team of 10-15 AML analysts?",
+          "Describe a time you coached an underperforming analyst.",
+          "How do you handle a target breach and escalate it to the Operations Manager?",
+          "What quality-control mechanisms have you used for KYC/AML case reviews?",
+          "How would you retain high performers in a managed-services environment?",
+          "Tell me about an operations project you led."
+        ],
+        "toAsk": [
+          "How is the team's performance measured across client engagements?",
+          "What AI-based tools does the Financial Crime Unit currently use in daily operations?",
+          "What is the path from team lead to operations manager?"
+        ]
+      }
+    },
+    {
+      "id": "pwc-aml-senior-analyst-german-krakow-2026",
+      "title": "AML Senior Analyst with German | Financial Crime Unit",
+      "company": "PwC",
+      "location": "Kraków, Poland (hybrid)",
+      "url": "https://www.karierawfinansach.pl/oferta-pracy/283271,aml-senior-analyst-with-german-financial-crime-unit-krakow",
+      "description": "Senior analyst role building KYC profiles and AML risk ratings for client projects in Poland and abroad, supporting junior staff. Fluent German required; AI-tool proficiency expected.",
+      "fit": 2,
+      "datePosted": "2026-10-16",
+      "verified": true,
+      "placement": "poland",
+      "tags": [
+        "senior-specialist",
+        "corporate"
+      ],
+      "coverLetterDraft": "Dear PwC Hiring Team,\n\nI'm applying for the AML Senior Analyst role. In my earlier PwC role I built KYC profiles and AML risk ratings for individuals and legal entities, delivered internal AML/KYC training and completed a six-month on-site client assignment. Since then I have gained eight years of experience across J.P. Morgan, Moonfare and Pliant, covering EDD, sanctions, PEP and adverse media screening.\n\nAt Pliant I also work on AI-driven automation of compliance workflows, which fits your expectation of confident use of AI-based tools. I am comfortable working independently on client projects and supporting less experienced colleagues. I would be glad to discuss how my German level fits the role.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "Walk me through how you build a KYC profile and assign an AML risk rating.",
+          "How do you handle conflicting or incomplete client documentation?",
+          "Which AI tools have you used in KYC work, and what were the limits?",
+          "Describe a case that required escalation.",
+          "How do you balance deadlines with quality on parallel client projects?"
+        ],
+        "toAsk": [
+          "What share of work is on projects abroad versus in Poland?",
+          "How do senior analysts support and develop junior staff?"
+        ]
+      }
+    },
+    {
+      "id": "soprasteria-manager-afc-consulting-transformation-2026",
+      "title": "Manager Anti-Financial Crime Consulting, Operations & Transformation (m/w/d)",
+      "company": "Sopra Steria",
+      "location": "Berlin, Germany",
+      "url": "https://www.efinancialcareers.com/jobs-Germany-Mitte-Manager_Anti-Financial_Crime_Consulting_Operations__Transformation_mwd.id24814371",
+      "description": "Advisory manager role transforming AFC processes and operating models at banks and neobanks, including spotting AI and automation opportunities and line-managing staff. German C1 required.",
+      "fit": 2,
+      "datePosted": "2026-10-16",
+      "verified": true,
+      "placement": "berlin-based",
+      "tags": [
+        "compliance-leadership",
+        "ai-automation",
+        "lead-plus",
+        "corporate"
+      ],
+      "coverLetterDraft": "Dear Sopra Steria Hiring Team,\n\nI'm applying for the Manager Anti-Financial Crime Consulting, Operations & Transformation role. My background combines hands-on AFC operations with automation. At Pliant I manage compliance operations, lead corporate KYC due diligence and help drive AI-based automation of compliance workflows within an internal AI team. At Moonfare I co-led an ongoing due-diligence review project and shaped automation improvements with cross-functional stakeholders.\n\nEarlier work at J.P. Morgan and PwC covered the AML/KYC lifecycle, risk rating and training, so I can advise clients on both regulatory substance and operating-model mechanics. I am Berlin-based and would welcome contributing to your AFC transformation and managed-service work.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How would you approach redesigning an AFC operating model for a neobank?",
+          "Where does AI add the most value in KYC and sanctions screening, and where does it not?",
+          "Describe a remediation or transformation programme you worked on.",
+          "How do you structure an offer or tender response for an AFC engagement?",
+          "How do you lead and develop consultants technically and as a line manager?"
+        ],
+        "toAsk": [
+          "How is the AFC practice split between advisory and managed services?",
+          "What is the expected balance between delivery and sales?",
+          "How are AI initiatives for clients currently staffed?"
+        ]
+      }
+    },
+    {
+      "id": "finom-risk-manager-aml-sanctions-poland-2026",
+      "title": "Risk Manager, AML, Sanctions (Poland)",
+      "company": "Finom",
+      "location": "Remote, Poland",
+      "url": "https://www.remoterocketship.com/company/finom-co/jobs/risk-manager-aml-sanctions-poland-remote/",
+      "description": "Second-line AML and sanctions risk manager owning key risk indicators, working with ML engineers on tooling and managing a team of two. Requires 3+ years in second-line AFC and SQL skills.",
+      "fit": 3,
+      "datePosted": "2026-10-16",
+      "verified": false,
+      "placement": "poland",
+      "tags": [
+        "ai-automation",
+        "senior-specialist",
+        "startup"
+      ],
+      "coverLetterDraft": "Dear Finom Hiring Team,\n\nI'm applying for the Risk Manager, AML & Sanctions role. I have eight years in KYC, AML and sanctions risk across banks and fintechs, and I currently manage compliance operations at Pliant, where I work in an internal AI team automating compliance workflows. That ties directly to your need to review monitoring tools and collaborate with machine learning engineers.\n\nI have SQL fundamentals and advanced Excel analytics, have delivered AML/KYC training at PwC, and have co-led a due-diligence review project at Moonfare. I am comfortable owning risk indicators, advising first-line teams and leading a small team, and would welcome the chance to discuss the role.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How do you review a transaction-monitoring rule set and decide on tuning?",
+          "Which AML and sanctions KRIs would you track first at an SME-focused fintech?",
+          "Describe working with ML engineers on a compliance tool.",
+          "How would you run AML training for first-line teams?",
+          "Tell me about leading or mentoring a small team."
+        ],
+        "toAsk": [
+          "Which monitoring and sanctions tools are in place today?",
+          "How is the second line positioned relative to product teams?"
+        ]
+      }
     }
   ]
 }
