@@ -4052,6 +4052,38 @@
           "How is the second line positioned relative to product teams?"
         ]
       }
+    },
+    {
+      "id": "dcg-senior-kyc-analyst-aml-compliance-officer-warsaw-2026",
+      "title": "Senior KYC Analyst / AML Compliance Officer",
+      "company": "DCG (confidential client)",
+      "location": "Warsaw, Poland",
+      "url": "https://diversecg.co.uk/senior-kyc-analyst-aml-compliance-officer,6823,en",
+      "description": "Subject-matter expert on international AML rules and KYC guidelines, leading KYC transformation projects across 1st and 2nd line and automating country-specific requirements into a global policy framework. Requires 7+ years in AML/KYC policy, advisory or transformation work.",
+      "fit": 3,
+      "datePosted": "2026-10-20",
+      "verified": true,
+      "placement": "poland",
+      "tags": [
+        "ai-automation",
+        "senior-specialist",
+        "corporate"
+      ],
+      "coverLetterDraft": "Dear DCG Team,\n\nI'm applying for the Senior KYC Analyst / AML Compliance Officer role in Warsaw. I have over eight years in KYC and AML across J.P. Morgan Chase, PwC, Moonfare and Pliant, where I now lead KYC due diligence for corporate clients and work in an internal AI team automating compliance workflows.\n\nThat combination matches your need for someone who can interpret AML requirements and turn them into automated, consistent processes. At Moonfare I co-led a due-diligence review project and shaped automation improvements with cross-functional stakeholders; at PwC I delivered internal AML/KYC training and built risk ratings for individuals and legal entities.\n\nI would welcome the chance to discuss how I can support your KYC transformation work.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How would you translate a country-specific KYC requirement into a global policy standard?",
+          "Describe a KYC transformation or remediation project you contributed to and the outcome.",
+          "Where would you apply automation in a KYC process, and where would you keep human review?",
+          "How do you handle disagreement between 1st and 2nd line on risk interpretation?",
+          "Walk me through an EDD case with conflicting adverse-media evidence."
+        ],
+        "toAsk": [
+          "Which regions and regulations does the global policy framework currently cover?",
+          "How far along is the KYC automation roadmap, and who owns delivery?",
+          "Is the role hybrid, and what is the team structure?"
+        ]
+      }
     }
   ]
 }
