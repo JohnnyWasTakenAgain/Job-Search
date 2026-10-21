@@ -779,7 +779,7 @@
       "title": "(Senior) Manager Geldwäscheprävention / Anti-Money Laundering (m/w/d)",
       "company": "Deloitte",
       "location": "Berlin, Germany",
-      "url": "https://de.linkedin.com/jobs/view/senior-manager-geldwäscheprävention-anti-money-laundering-m-w-d-in-berlin-at-deloitte-4454033700",
+      "url": "https://job.deloitte.com/job-senior-manager-geldwaeschepraevention-anti-money-laundering-mwd-_48460",
       "description": "Deloitte is hiring a Senior Manager to lead AML/CFT advisory engagements for clients, developing risk models and control frameworks while managing and developing project teams.",
       "tags": [
         "compliance-leadership",
@@ -4082,6 +4082,39 @@
           "Which regions and regulations does the global policy framework currently cover?",
           "How far along is the KYC automation roadmap, and who owns delivery?",
           "Is the role hybrid, and what is the team structure?"
+        ]
+      }
+    },
+    {
+      "id": "solarisbank-team-lead-kyb-operations-2026",
+      "title": "Team Lead KYB Operations",
+      "company": "Solarisbank",
+      "location": "Berlin, Germany",
+      "url": "https://job-boards.greenhouse.io/solarisbank/jobs/8874221002",
+      "description": "Lead a team of KYB analysts for the BaaS bank, owning CDD/EDD quality (86% pass-rate target), KPIs and KYB workflow automation under EU AMLR.",
+      "tags": [
+        "compliance-leadership",
+        "qa",
+        "ai-automation"
+      ],
+      "fit": 3,
+      "datePosted": "2026-10-20",
+      "verified": true,
+      "placement": "berlin-based",
+      "coverLetterDraft": "Dear Solaris Hiring Team,\n\nI am applying for the Team Lead KYB Operations role. I have 8+ years in KYC/AML and currently work as Compliance Operations Manager at Pliant, where I run end-to-end corporate due diligence and help drive AI-based automation of compliance workflows within an internal AI team.\n\nThat maps closely to your role: I am used to applying four-eyes review, calibrating analysts' CDD/EDD case work against quality standards, and turning findings into process changes. At Moonfare I co-led an ongoing due-diligence review project and shaped automation improvements with cross-functional stakeholders; at J.P. Morgan and PwC I handled multi-tier risk assessments across corporate, financial-institution and listed clients.\n\nYour focus on KPIs, audit-ready trails and reducing manual KYB effort through automation is exactly where I want to build next. I speak fluent English and native Polish, and my German is B1 and progressing to B2.\n\nI would welcome the chance to discuss how I could raise quality and throughput of your KYB team.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How would you lead and coach KYB analysts to reach and sustain a pass rate above 86%?",
+          "Walk us through your approach to CDD/EDD on a complex corporate structure with opaque UBOs.",
+          "What automation have you implemented in KYC/KYB workflows, and how did you measure the impact?",
+          "How do you handle workload prioritisation when onboarding backlogs spike?",
+          "Describe a time you disagreed with an analyst's risk assessment. How did you resolve it?",
+          "What does the EU AML Regulation change for KYB processes?"
+        ],
+        "toAsk": [
+          "Which parts of the KYB workflow are already automated, and what is the AI-orchestration roadmap for this team?",
+          "How is the team split between Berlin and Frankfurt, and how is quality measured and audited today?",
+          "What does the current backlog and team size look like?"
         ]
       }
     }
