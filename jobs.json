@@ -4117,6 +4117,39 @@
           "What does the current backlog and team size look like?"
         ]
       }
+    },
+    {
+      "id": "eneba-financial-crime-manager-2026",
+      "title": "Financial Crime Manager",
+      "company": "Eneba",
+      "location": "Remote (Europe / compatible time zone)",
+      "url": "https://jobgether.com/offer/6ad0ffe049c73d7b9983974a-financial-crime-manager",
+      "description": "Own the AML roadmap for a gaming marketplace scale-up: product risk assessments, controls frameworks, SAR-ready investigations, sanctions/CDD/EDD and EMI licence preparation.",
+      "tags": [
+        "compliance-leadership",
+        "senior-specialist",
+        "startup"
+      ],
+      "fit": 2,
+      "datePosted": "2026-10-15",
+      "verified": true,
+      "placement": "remote-europe",
+      "coverLetterDraft": "Dear Eneba Hiring Team,\n\nI am applying for the Financial Crime Manager role. I have 8+ years in KYC/AML, and as Compliance Operations Manager at Pliant I run end-to-end corporate due diligence and help drive AI-based automation of compliance workflows within an internal AI team.\n\nYour role combines hands-on CDD/EDD and sanctions work with building controls and an AML roadmap, which is how I already work. At Moonfare I co-led an ongoing due-diligence review project and shaped automation improvements with cross-functional stakeholders; at J.P. Morgan and PwC I produced risk ratings and profiles for corporate, financial-institution and listed clients, and I delivered internal AML/KYC training.\n\nAs Eneba prepares for an EMI licence, I would bring practical experience in turning regulatory requirements into repeatable, auditable processes. I speak fluent English and native Polish, and I work well in European time zones.\n\nI would welcome the chance to discuss the role.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How would you assess money laundering risk for a new digital-goods marketplace product?",
+          "Walk us through an investigation you took from alert to SAR-ready case.",
+          "How do you design controls and a framework when none exist?",
+          "How would you prepare the AML function for an EMI licence application?",
+          "Describe a time you used data analysis to find a root cause in a compliance process.",
+          "How do you balance hands-on casework with roadmap ownership?"
+        ],
+        "toAsk": [
+          "Where is Eneba in the EMI licensing process, and what AML deliverables are expected in the first 6 months?",
+          "What does the current AML tooling and automation stack look like?",
+          "Is the role expected to grow into a team lead or MLRO-track position?"
+        ]
+      }
     }
   ]
 }
