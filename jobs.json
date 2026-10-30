@@ -4150,6 +4150,38 @@
           "Is the role expected to grow into a team lead or MLRO-track position?"
         ]
       }
+    },
+    {
+      "id": "selbyjennings-senior-kyc-manager-berlin-2026",
+      "title": "Senior KYC Manager",
+      "company": "Selby Jennings (confidential client)",
+      "location": "Berlin or Munich, Germany (hybrid, substantial remote options)",
+      "url": "https://www.selbyjennings.com/job/senior-kyc-manager",
+      "description": "Senior KYC Manager role focused on complex correspondent banking KYC cases, listed via Selby Jennings for a confidential client. Only confirmed via search snippet; direct page load was rate-limited.",
+      "fit": 2,
+      "datePosted": "2026-10-30",
+      "verified": false,
+      "placement": "berlin-based",
+      "tags": [
+        "compliance-leadership",
+        "lead-plus",
+        "corporate"
+      ],
+      "coverLetterDraft": "Dear Hiring Team,\n\nI am applying for the Senior KYC Manager role. I have 8+ years in KYC/AML across J.P. Morgan Chase, PwC, Moonfare and Pliant, where I currently manage compliance operations and lead end-to-end corporate due diligence.\n\nAt J.P. Morgan I worked Corporate, Financial Institution and Publicly Traded Company clients across risk tiers, which is close to the complex correspondent banking cases you describe. At PwC I built AML risk ratings and delivered internal AML/KYC training. At Pliant I am part of an internal AI team automating compliance workflows, cutting manual review effort while keeping four-eyes controls intact.\n\nI would bring structured EDD judgement, clear escalation handling and a practical approach to improving processes with data and automation.\n\nI would welcome the chance to discuss how I can contribute.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "Walk us through a complex correspondent banking or financial institution KYC case you handled end to end.",
+          "How do you assess and escalate high-risk or unclear ownership structures?",
+          "How have you managed or mentored analysts, and how do you maintain quality across a team?",
+          "Describe a process you automated or improved in a compliance workflow and the measurable result.",
+          "Tell us about a time you disagreed with a business stakeholder on a risk decision."
+        ],
+        "toAsk": [
+          "How large is the team and what does the reporting line look like?",
+          "What is the current backlog and case mix, and what regulatory drivers are behind the hire?",
+          "What is the remote/hybrid expectation in practice?"
+        ]
+      }
     }
   ]
 }
