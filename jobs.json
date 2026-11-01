@@ -4182,6 +4182,71 @@
           "What is the remote/hybrid expectation in practice?"
         ]
       }
+    },
+    {
+      "id": "scalable-team-lead-afc-ops-2026-10",
+      "title": "Team Lead Anti-Financial Crime Operations (m/f/x)",
+      "company": "Scalable Capital",
+      "location": "Berlin, Germany",
+      "url": "https://jobs.smartrecruiters.com/ScalableGmbH/744000157428069-team-lead-anti-financial-crime-operations-m-f-x-",
+      "description": "Lead a team of AFC experts, act as escalation point for high-risk alerts, own the QA framework for investigation standards and drive workflow/process automation with Product, Data and Engineering.",
+      "placement": "berlin-based",
+      "tags": [
+        "compliance-leadership",
+        "qa",
+        "ai-automation"
+      ],
+      "fit": 3,
+      "datePosted": "2026-10-23",
+      "verified": true,
+      "coverLetterDraft": "Dear Scalable Capital Hiring Team,\n\nI'm applying for the Team Lead Anti-Financial Crime Operations role. As Compliance Operations Manager at Pliant I run end-to-end KYC due diligence for corporate clients and drive AI-driven automation of compliance workflows within an internal AI team, which maps directly to your focus on optimising tooling and process automation.\n\nAt Moonfare I co-led an ongoing due-diligence review project with cross-functional stakeholders; at J.P. Morgan Chase I worked cases across Corporate, FI and Public Company risk tiers under four-eyes review; at PwC I built AML risk ratings and trained colleagues. That combination of casework depth, quality review and coaching is what I would bring to owning your QA framework and mentoring AFC experts.\n\nI hold a Master's in Finance and Accounting, am based in Berlin, and bring fluent English with German at B1 progressing to B2.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How would you structure a QA framework for high-volume AFC investigations while keeping SLAs?",
+          "Describe how you triage and escalate a complex, high-risk alert to the 2nd line.",
+          "Tell us about coaching an underperforming analyst.",
+          "Where have you used automation or AI to improve a compliance process, and what was the measurable result?",
+          "How do you align 1st line, 2nd line, Product and Engineering when priorities conflict?",
+          "Walk us through a typology of money laundering relevant to a retail broker/neobank."
+        ],
+        "toAsk": [
+          "How is the AFC Operations team structured today and how large is the alert backlog?",
+          "Which automation or tooling initiatives (including the new AFC platform) will this role influence?",
+          "How does the QA framework currently feed back into 2nd-line reporting?"
+        ]
+      }
+    },
+    {
+      "id": "sumup-global-kyc-lead-2026-09",
+      "title": "Global KYC Lead",
+      "company": "SumUp",
+      "location": "Germany (Cologne listed; posting describes Berlin office, office-first)",
+      "url": "https://sumup.com/careers/positions/8842493002?gh_jid=8842493002",
+      "description": "Own the PEP/sanctions screening framework and customer risk scoring models, lead KYC strategy and remediation, and translate regulatory change into scalable controls across global markets.",
+      "placement": "berlin-based",
+      "tags": [
+        "compliance-leadership",
+        "lead-plus",
+        "corporate"
+      ],
+      "fit": 3,
+      "datePosted": "2026-09-24",
+      "verified": true,
+      "coverLetterDraft": "Dear SumUp Hiring Team,\n\nI'm applying for the Global KYC Lead role. At Pliant I lead KYC due diligence for corporate clients and automate compliance workflows with an internal AI team; at Moonfare I co-led a due-diligence review project and shaped automation improvements with cross-functional stakeholders.\n\nPrior roles at J.P. Morgan Chase (multi-tier KYC across Corporate, FI and listed clients) and PwC (AML risk ratings, internal training) give me a grounding in PEP, sanctions and adverse-media screening and in risk-rating methodology, which is central to owning your screening framework and scoring models. I would welcome the chance to turn regulatory change into scalable, automated controls.\n\nI hold a Master's in Finance and Accounting, am based in Berlin, and bring fluent English with German at B1 progressing to B2.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How would you design or review a PEP and sanctions screening framework for merchants across many markets?",
+          "How do you build and validate a customer risk scoring model?",
+          "Describe leading a KYC remediation after an audit or regulatory finding.",
+          "How do you balance commercial growth with regulatory obligations?",
+          "Tell us about a time you engaged senior leadership or a regulator on a contentious KYC question."
+        ],
+        "toAsk": [
+          "Is the role based in Berlin or Cologne, and what is the team's split between locations?",
+          "What are the biggest gaps in the current screening and scoring framework?",
+          "How much automation or AI tooling is planned for KYC workflows?"
+        ]
+      }
     }
   ]
 }
