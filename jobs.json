@@ -4247,6 +4247,96 @@
           "How much automation or AI tooling is planned for KYC workflows?"
         ]
       }
+    },
+    {
+      "id": "deutschebank-ctna-kyc-qa-senior-analyst-berlin-2026",
+      "title": "Senior Analyst – CT&A KYC Quality Assurance (f/m/x)",
+      "company": "Deutsche Bank",
+      "location": "Berlin, Germany",
+      "url": "https://jobs.y-axis.com/jobs/senior-analyst-ct-a-kyc-quality-assurance-f-m-x-deutsche-bank",
+      "description": "Senior QA role in Deutsche Bank's CT&A KYC Quality Assurance programme, reviewing KYC cases against policy and reporting to the Berlin QA Team Lead. Listing found via aggregator; may be stale.",
+      "tags": [
+        "qa",
+        "senior-specialist",
+        "corporate"
+      ],
+      "fit": 3,
+      "datePosted": "2026-11-06",
+      "verified": false,
+      "coverLetterDraft": "Dear Deutsche Bank Hiring Team,\n\nI'm applying for the Senior Analyst, CT&A KYC Quality Assurance role. As Compliance Operations Manager at Pliant, I lead end-to-end KYC due diligence for corporate clients and work with an internal AI team to automate compliance workflows. My four-eyes review and regulatory escalation experience maps directly to assessing others' KYC files against policy.\n\nEarlier, at J.P. Morgan Chase I conducted due diligence across Corporate, Financial Institution and Publicly Traded Company risk tiers, and at PwC I built AML risk ratings and delivered internal AML/KYC training. I bring 8+ years in KYC/AML, a Master's in Finance and Accounting, and fluent English.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How would you assess a KYC file's quality against policy and rate findings?",
+          "Describe a time you challenged a colleague's or team's KYC decision.",
+          "How do you handle disagreement from a first-line team on a QA finding?",
+          "Which metrics would you use to show KYC quality is improving?",
+          "How do you stay consistent across Corporate, FI and Wealth client types?"
+        ],
+        "toAsk": [
+          "How is the global CT&A QA programme structured and how do Berlin findings feed it?",
+          "What does a typical sample size and review cycle look like?"
+        ]
+      },
+      "placement": "berlin-based"
+    },
+    {
+      "id": "randstad-senior-kyc-analyst-warsaw-2026",
+      "title": "Senior KYC Analyst",
+      "company": "Randstad Polska (banking client)",
+      "location": "Warsaw, Poland (hybrid)",
+      "url": "https://www.jobs.pl/senior-kyc-analyst-oferta-3927612",
+      "description": "B2B contract (6 months) Senior KYC Analyst working across first and second line on KYC transformation; published 2026-07-02 per search snippet, so may be closed.",
+      "tags": [
+        "senior-specialist",
+        "corporate"
+      ],
+      "fit": 2,
+      "datePosted": "2026-11-06",
+      "verified": false,
+      "coverLetterDraft": "Dear Randstad Hiring Team,\n\nI'm applying for the Senior KYC Analyst role. As Compliance Operations Manager at Pliant, I lead end-to-end KYC due diligence for corporate clients and work with an internal AI team to automate compliance workflows. My process-optimisation and automation work fits the KYC transformation scope.\n\nEarlier, at J.P. Morgan Chase I conducted due diligence across Corporate, Financial Institution and Publicly Traded Company risk tiers, and at PwC I built AML risk ratings and delivered internal AML/KYC training. I bring 8+ years in KYC/AML, a Master's in Finance and Accounting, and fluent English.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "Walk through your EDD process for a complex corporate structure.",
+          "How have you contributed to KYC process transformation?",
+          "How do you work across first and second line?",
+          "How do you handle PEP/adverse media escalations?",
+          "What KYC tooling and data have you used?"
+        ],
+        "toAsk": [
+          "Which KYC transformation workstreams are in scope?",
+          "Is there a prospect of extension or conversion from B2B?"
+        ]
+      },
+      "placement": "poland"
+    },
+    {
+      "id": "itds-senior-aml-compliance-specialist-warsaw-2026",
+      "title": "Senior AML Compliance Specialist – Financial Services",
+      "company": "ITDS",
+      "location": "Warsaw, Poland (hybrid)",
+      "url": "https://justjoin.it/offers/itds-senior-aml-compliance-specialist---financial-services-warszawa-other",
+      "description": "Hybrid B2B Senior AML Compliance Specialist role for a financial services client in Warsaw; found via search snippet only (direct load returned 404).",
+      "tags": [
+        "senior-specialist",
+        "corporate"
+      ],
+      "fit": 2,
+      "datePosted": "2026-11-06",
+      "verified": false,
+      "coverLetterDraft": "Dear ITDS Hiring Team,\n\nI'm applying for the Senior AML Compliance Specialist role. As Compliance Operations Manager at Pliant, I lead end-to-end KYC due diligence for corporate clients and work with an internal AI team to automate compliance workflows. My AML risk-rating, sanctions and PEP screening background fits the scope.\n\nEarlier, at J.P. Morgan Chase I conducted due diligence across Corporate, Financial Institution and Publicly Traded Company risk tiers, and at PwC I built AML risk ratings and delivered internal AML/KYC training. I bring 8+ years in KYC/AML, a Master's in Finance and Accounting, and fluent English.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How do you risk-rate a legal entity for AML purposes?",
+          "Describe a complex sanctions or PEP escalation you handled.",
+          "How would you improve an AML review workflow with automation?",
+          "How do you mentor less experienced analysts?"
+        ],
+        "toAsk": [
+          "Who is the end client and what systems does the team use?",
+          "What is the team size and reporting line?"
+        ]
+      },
+      "placement": "poland"
     }
   ]
 }
