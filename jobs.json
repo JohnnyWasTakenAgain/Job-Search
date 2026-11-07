@@ -4337,6 +4337,74 @@
         ]
       },
       "placement": "poland"
+    },
+    {
+      "id": "solarisbank-team-lead-kyb-operations-2026-11",
+      "title": "Team Lead KYB Operations",
+      "company": "Solaris",
+      "location": "Berlin, Germany",
+      "url": "https://job-boards.greenhouse.io/solarisbank/jobs/8874221002",
+      "description": "Lead and coach a team of KYB analysts on quality and EU AML compliance while driving KYB automation and analytics. Requires 7+ years in KYC/AML incl. leadership; German C1 requested; €65-75k.",
+      "fit": 3,
+      "datePosted": "2026-11-07",
+      "verified": true,
+      "placement": "berlin-based",
+      "tags": [
+        "compliance-leadership",
+        "ai-automation",
+        "lead-plus",
+        "startup"
+      ],
+      "coverLetterDraft": "Dear Solaris Hiring Team,\n\nI am applying for the Team Lead KYB Operations role. I have 8+ years in KYC/AML across J.P. Morgan, PwC, Moonfare and now Pliant, where I lead corporate KYC due diligence and help drive AI-based automation of compliance workflows inside an internal AI team.\n\nI know the daily mechanics your role depends on: tiered CDD/EDD on corporate and financial-institution clients, four-eyes review, escalation handling and calibrating analysts' case quality against a pass-rate target. At Moonfare I co-led an ongoing due-diligence review project and shaped automation improvements with cross-functional stakeholders.\n\nI would bring the same approach to Solaris: set clear quality standards, coach analysts through case reviews, and use data and automation to cut manual effort. My German is B1 and progressing to B2, which I would flag openly given the C1 request; my English is fluent and Polish is native.\n\nI would welcome the chance to discuss it.\n\nKind regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How do you maintain quality and hit a pass-rate target while managing a team's throughput?",
+          "Walk us through a complex corporate KYB case with opaque ownership: how do you assess UBOs and escalate?",
+          "Which parts of KYB would you automate first, and how would you validate AI-assisted outputs?",
+          "How do you coach an underperforming analyst?",
+          "Tell us about a time you prepared a team for an audit or supervisory exam.",
+          "How do you work in a German-language environment at your current level?"
+        ],
+        "toAsk": [
+          "What does the KYB automation roadmap look like for the next 12 months?",
+          "How is the team's QA process structured today and who owns calibration?",
+          "What level of German is realistically needed day to day?"
+        ]
+      }
+    },
+    {
+      "id": "payu-gpo-aml-kyc-team-leader-2026-11",
+      "title": "AML/KYC Team Leader",
+      "company": "PayU GPO",
+      "location": "Poznań or Warsaw, Poland (hybrid)",
+      "url": "https://jobs.lever.co/payugpo/64247e38-e3c3-40f2-8891-0b069022f256",
+      "description": "Lead AML/KYC analysts handling merchant verification, ensure policy compliance and drive process automation and simplification projects. Requires 5+ years in finance with AML and 1+ year managing people.",
+      "fit": 2,
+      "datePosted": "2026-11-07",
+      "verified": true,
+      "placement": "poland",
+      "tags": [
+        "compliance-leadership",
+        "ai-automation",
+        "lead-plus",
+        "corporate"
+      ],
+      "coverLetterDraft": "Dear PayU Hiring Team,\n\nI am applying for the AML/KYC Team Leader position. I bring 8+ years in KYC and AML at J.P. Morgan, PwC, Moonfare and Pliant, where I currently manage KYC due diligence for corporate clients and contribute to AI-driven automation of compliance workflows.\n\nYour posting asks for a track record of process automation and reporting. At Pliant and Moonfare I worked with cross-functional teams to automate review steps, and I use advanced Excel and SQL for monitoring quality and throughput. At PwC I delivered internal AML/KYC training, which is directly relevant to the training responsibilities in this role.\n\nI work comfortably across risk tiers, including EDD, PEP and adverse-media escalations, and I am a native Polish and fluent English speaker, so I can support merchant-facing and international teams alike.\n\nI would be glad to discuss how I could help PayU strengthen its verification operations.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How would you structure merchant verification workflows for risk-based review?",
+          "Describe an automation or simplification project you delivered and its measurable result.",
+          "How do you review and calibrate analysts' decisions?",
+          "How would you handle a high-risk escalation that conflicts with a commercial deadline?",
+          "What KPIs would you track for an AML/KYC team?",
+          "How do you train analysts on new AML standards?"
+        ],
+        "toAsk": [
+          "How much of merchant onboarding is automated today?",
+          "How does the team interact with the compliance function on policy changes?",
+          "How is the Poznań/Warsaw split handled for the team?"
+        ]
+      }
     }
   ]
 }
