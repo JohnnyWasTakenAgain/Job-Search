@@ -4339,40 +4339,6 @@
       "placement": "poland"
     },
     {
-      "id": "solarisbank-team-lead-kyb-operations-2026-11",
-      "title": "Team Lead KYB Operations",
-      "company": "Solaris",
-      "location": "Berlin, Germany",
-      "url": "https://job-boards.greenhouse.io/solarisbank/jobs/8874221002",
-      "description": "Lead and coach a team of KYB analysts on quality and EU AML compliance while driving KYB automation and analytics. Requires 7+ years in KYC/AML incl. leadership; German C1 requested; €65-75k.",
-      "fit": 3,
-      "datePosted": "2026-11-07",
-      "verified": true,
-      "placement": "berlin-based",
-      "tags": [
-        "compliance-leadership",
-        "ai-automation",
-        "lead-plus",
-        "startup"
-      ],
-      "coverLetterDraft": "Dear Solaris Hiring Team,\n\nI am applying for the Team Lead KYB Operations role. I have 8+ years in KYC/AML across J.P. Morgan, PwC, Moonfare and now Pliant, where I lead corporate KYC due diligence and help drive AI-based automation of compliance workflows inside an internal AI team.\n\nI know the daily mechanics your role depends on: tiered CDD/EDD on corporate and financial-institution clients, four-eyes review, escalation handling and calibrating analysts' case quality against a pass-rate target. At Moonfare I co-led an ongoing due-diligence review project and shaped automation improvements with cross-functional stakeholders.\n\nI would bring the same approach to Solaris: set clear quality standards, coach analysts through case reviews, and use data and automation to cut manual effort. My German is B1 and progressing to B2, which I would flag openly given the C1 request; my English is fluent and Polish is native.\n\nI would welcome the chance to discuss it.\n\nKind regards,\n[Your Name]",
-      "interviewPrep": {
-        "expected": [
-          "How do you maintain quality and hit a pass-rate target while managing a team's throughput?",
-          "Walk us through a complex corporate KYB case with opaque ownership: how do you assess UBOs and escalate?",
-          "Which parts of KYB would you automate first, and how would you validate AI-assisted outputs?",
-          "How do you coach an underperforming analyst?",
-          "Tell us about a time you prepared a team for an audit or supervisory exam.",
-          "How do you work in a German-language environment at your current level?"
-        ],
-        "toAsk": [
-          "What does the KYB automation roadmap look like for the next 12 months?",
-          "How is the team's QA process structured today and who owns calibration?",
-          "What level of German is realistically needed day to day?"
-        ]
-      }
-    },
-    {
       "id": "payu-gpo-aml-kyc-team-leader-2026-11",
       "title": "AML/KYC Team Leader",
       "company": "PayU GPO",
