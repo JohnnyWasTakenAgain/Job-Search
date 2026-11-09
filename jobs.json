@@ -1843,39 +1843,6 @@
       "placement": "remote-europe"
     },
     {
-      "id": "raisin-senior-manager-afc-advisory-ii-2026",
-      "title": "Senior Manager AFC Advisory (f/m/d)",
-      "company": "Raisin",
-      "location": "Berlin, Frankfurt, Hamburg, or Munich, Germany",
-      "url": "https://job-boards.eu.greenhouse.io/raisin/jobs/4949391101",
-      "description": "Raisin is hiring a second Senior Manager AFC Advisory to drive the strategic development of its AML framework, own risk-analysis methodology and internal control design, and serve as technical point of contact for internal and external AFC audits.",
-      "tags": [
-        "compliance-leadership",
-        "lead-plus",
-        "startup"
-      ],
-      "fit": 2,
-      "datePosted": "2026-09-02",
-      "verified": true,
-      "coverLetterDraft": "Dear Raisin Hiring Team,\n\nI'm writing to apply for the Senior Manager AFC Advisory role. As Compliance Operations Manager at Pliant, I own end-to-end KYC due diligence for corporate clients and drive AI-driven automation of compliance workflows — a strong base for owning AML framework development, risk-analysis methodology, and internal control design at Raisin's scale.\n\nAt Moonfare, I co-led the firm's ongoing due-diligence review project and worked with cross-functional stakeholders on automation improvements; at J.P. Morgan Chase, I conducted due diligence across Corporate, Financial Institution, and Publicly Traded Company risk tiers; and at PwC I built AML risk ratings and delivered internal AML/KYC training. This mix of regulatory depth, control-design experience, and four-eyes review discipline maps directly onto owning AFC projects end-to-end and acting as technical contact for audits.\n\nI hold a Master's in Finance and Accounting, am based in Berlin, and bring fluent English with German at B1 progressing to B2.\n\nBest regards,\n[Your Name]",
-      "interviewPrep": {
-        "expected": [
-          "How would you approach advancing Raisin's AML framework in line with new regulatory and IT requirements?",
-          "Describe your experience developing or refining an AML risk-analysis methodology and customer risk ratings.",
-          "Walk us through how you'd manage AML outsourcing oversight for a third-party provider.",
-          "Tell us about a time you served as technical point of contact during an internal or external audit.",
-          "How do you translate new regulatory requirements into actionable internal standards and training?",
-          "How would you prioritize AFC advisory work across four office locations with a single advisory function?"
-        ],
-        "toAsk": [
-          "How does this requisition differ from the other open Senior Manager AFC Advisory role, and how would the two positions divide the workload?",
-          "What upcoming regulatory changes are driving this AML framework development work right now?",
-          "How is Raisin using automation or technology to support AFC advisory and risk-methodology work today?"
-        ]
-      },
-      "placement": "berlin-based"
-    },
-    {
       "id": "coinbase-internal-audit-manager-luxembourg-2026",
       "title": "Internal Audit Manager (Luxembourg Entity)",
       "company": "Coinbase",
@@ -2847,40 +2814,6 @@
           "What's driving the timing of establishing this branch now, and what stage is it at in the licensing/setup process?",
           "How does this role interface with Revolut's central EU compliance function versus operating independently?",
           "What are the first thematic reviews or remediation priorities identified for this branch?"
-        ]
-      },
-      "placement": "berlin-based"
-    },
-    {
-      "id": "scalablecapital-compliance-manager-digitalization-2026",
-      "title": "Compliance Manager (m/w/d)",
-      "company": "Scalable Capital",
-      "location": "Berlin, Germany (Hybrid)",
-      "url": "https://jobs.smartrecruiters.com/ScalableGmbH/744000140446795-compliance-manager-m-w-d-",
-      "description": "Securities/capital-markets compliance role (MiFID II, WpHG) at a Berlin fintech, explicitly tasked with driving digitalization and automation of internal compliance processes and evaluating AI-supported tools.",
-      "fit": 2,
-      "datePosted": "2026-09-21",
-      "verified": true,
-      "tags": [
-        "compliance-leadership",
-        "ai-automation",
-        "senior-specialist",
-        "corporate"
-      ],
-      "coverLetterDraft": "Dear Hiring Team,\n\nI'm applying for the Compliance Manager role at Scalable Capital. While my background is concentrated in AML/KYC rather than securities compliance, the core of this role — driving digitalization and automation of compliance processes and evaluating AI-supported approaches — is exactly what I do day to day as Compliance Operations Manager at Pliant, where I lead KYC due diligence for corporate clients and drive AI-driven automation of compliance workflows as part of an internal AI team.\n\nI've also built the cross-functional and process-improvement skills this role needs: co-leading a due-diligence review project at Moonfare and shaping automation improvements with stakeholders, and delivering AML/KYC training and building risk ratings at PwC. I have advanced Excel and SQL fundamentals for data-driven process work, and I'm comfortable partnering with internal teams and external auditors to keep controls current as regulations evolve.\n\nBased in Berlin, fluent in English with German at B1/B2, I'd welcome bringing this automation-focused approach to your compliance team.\n\nBest regards,\n[Your Name]",
-      "interviewPrep": {
-        "expected": [
-          "What's your experience with MiFID II or WpHG, even if most of your background is AML/KYC-focused?",
-          "Tell us about a compliance process you digitalized or automated — what was the before/after?",
-          "How would you evaluate whether an AI-supported tool is trustworthy enough to use in a compliance process?",
-          "How do you work with external auditors during a compliance review?",
-          "Describe a time you had to learn a new regulatory domain quickly — how did you approach it?",
-          "How do you prioritize automation projects against day-to-day compliance monitoring work?"
-        ],
-        "toAsk": [
-          "What does “Digitalisierung und Automatisierung” look like in practice today — are there existing AI pilots in the compliance function?",
-          "How does this Compliance Manager role split time between securities/capital-markets compliance and broader financial-crime compliance, if at all?",
-          "What tools or vendors is the team currently evaluating for AI-supported compliance work?"
         ]
       },
       "placement": "berlin-based"
@@ -3960,36 +3893,6 @@
       }
     },
     {
-      "id": "pwc-aml-senior-analyst-german-krakow-2026",
-      "title": "AML Senior Analyst with German | Financial Crime Unit",
-      "company": "PwC",
-      "location": "Kraków, Poland (hybrid)",
-      "url": "https://www.karierawfinansach.pl/oferta-pracy/283271,aml-senior-analyst-with-german-financial-crime-unit-krakow",
-      "description": "Senior analyst role building KYC profiles and AML risk ratings for client projects in Poland and abroad, supporting junior staff. Fluent German required; AI-tool proficiency expected.",
-      "fit": 2,
-      "datePosted": "2026-10-16",
-      "verified": true,
-      "placement": "poland",
-      "tags": [
-        "senior-specialist",
-        "corporate"
-      ],
-      "coverLetterDraft": "Dear PwC Hiring Team,\n\nI'm applying for the AML Senior Analyst role. In my earlier PwC role I built KYC profiles and AML risk ratings for individuals and legal entities, delivered internal AML/KYC training and completed a six-month on-site client assignment. Since then I have gained eight years of experience across J.P. Morgan, Moonfare and Pliant, covering EDD, sanctions, PEP and adverse media screening.\n\nAt Pliant I also work on AI-driven automation of compliance workflows, which fits your expectation of confident use of AI-based tools. I am comfortable working independently on client projects and supporting less experienced colleagues. I would be glad to discuss how my German level fits the role.\n\nBest regards,\n[Your Name]",
-      "interviewPrep": {
-        "expected": [
-          "Walk me through how you build a KYC profile and assign an AML risk rating.",
-          "How do you handle conflicting or incomplete client documentation?",
-          "Which AI tools have you used in KYC work, and what were the limits?",
-          "Describe a case that required escalation.",
-          "How do you balance deadlines with quality on parallel client projects?"
-        ],
-        "toAsk": [
-          "What share of work is on projects abroad versus in Poland?",
-          "How do senior analysts support and develop junior staff?"
-        ]
-      }
-    },
-    {
       "id": "soprasteria-manager-afc-consulting-transformation-2026",
       "title": "Manager Anti-Financial Crime Consulting, Operations & Transformation (m/w/d)",
       "company": "Sopra Steria",
@@ -4180,39 +4083,6 @@
           "How large is the team and what does the reporting line look like?",
           "What is the current backlog and case mix, and what regulatory drivers are behind the hire?",
           "What is the remote/hybrid expectation in practice?"
-        ]
-      }
-    },
-    {
-      "id": "scalable-team-lead-afc-ops-2026-10",
-      "title": "Team Lead Anti-Financial Crime Operations (m/f/x)",
-      "company": "Scalable Capital",
-      "location": "Berlin, Germany",
-      "url": "https://jobs.smartrecruiters.com/ScalableGmbH/744000157428069-team-lead-anti-financial-crime-operations-m-f-x-",
-      "description": "Lead a team of AFC experts, act as escalation point for high-risk alerts, own the QA framework for investigation standards and drive workflow/process automation with Product, Data and Engineering.",
-      "placement": "berlin-based",
-      "tags": [
-        "compliance-leadership",
-        "qa",
-        "ai-automation"
-      ],
-      "fit": 3,
-      "datePosted": "2026-10-23",
-      "verified": true,
-      "coverLetterDraft": "Dear Scalable Capital Hiring Team,\n\nI'm applying for the Team Lead Anti-Financial Crime Operations role. As Compliance Operations Manager at Pliant I run end-to-end KYC due diligence for corporate clients and drive AI-driven automation of compliance workflows within an internal AI team, which maps directly to your focus on optimising tooling and process automation.\n\nAt Moonfare I co-led an ongoing due-diligence review project with cross-functional stakeholders; at J.P. Morgan Chase I worked cases across Corporate, FI and Public Company risk tiers under four-eyes review; at PwC I built AML risk ratings and trained colleagues. That combination of casework depth, quality review and coaching is what I would bring to owning your QA framework and mentoring AFC experts.\n\nI hold a Master's in Finance and Accounting, am based in Berlin, and bring fluent English with German at B1 progressing to B2.\n\nBest regards,\n[Your Name]",
-      "interviewPrep": {
-        "expected": [
-          "How would you structure a QA framework for high-volume AFC investigations while keeping SLAs?",
-          "Describe how you triage and escalate a complex, high-risk alert to the 2nd line.",
-          "Tell us about coaching an underperforming analyst.",
-          "Where have you used automation or AI to improve a compliance process, and what was the measurable result?",
-          "How do you align 1st line, 2nd line, Product and Engineering when priorities conflict?",
-          "Walk us through a typology of money laundering relevant to a retail broker/neobank."
-        ],
-        "toAsk": [
-          "How is the AFC Operations team structured today and how large is the alert backlog?",
-          "Which automation or tooling initiatives (including the new AFC platform) will this role influence?",
-          "How does the QA framework currently feed back into 2nd-line reporting?"
         ]
       }
     },
