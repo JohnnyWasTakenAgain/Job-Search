@@ -4241,6 +4241,200 @@
           "How is the Poznań/Warsaw split handled for the team?"
         ]
       }
+    },
+    {
+      "id": "amlrs-manager-client-delivery-aml-ops-krakow-2026-10",
+      "title": "Manager, Client Delivery (AML Operations)",
+      "company": "AML RightSource",
+      "location": "Kraków, Poland (on-site)",
+      "url": "https://amlrightsource.wd1.myworkdayjobs.com/amlrightsource/job/Krakow-Poland/Manager--Client-Delivery--AML-Operations----Krakow--Poland_R-102882",
+      "description": "Lead a team of 30-35 analysts, quality control specialists and SMEs on AML/KYC client engagements, owning performance, output quality and process improvement. Requires 4-5 years in AML with transaction monitoring and corporate/investment-banking KYC experience plus proven people management.",
+      "fit": 3,
+      "datePosted": "2026-10-09",
+      "verified": true,
+      "placement": "poland",
+      "tags": [
+        "compliance-leadership",
+        "qa",
+        "lead-plus"
+      ],
+      "coverLetterDraft": "Dear AML RightSource Hiring Team,\n\nI am applying for the Manager, Client Delivery (AML Operations) role in Kraków. I have 8+ years in KYC and AML, including corporate, financial-institution and publicly traded client due diligence at J.P. Morgan and KYC profiles and AML risk ratings at PwC, which matches your requirement for corporate and investment-banking KYC experience.\n\nIn my current role as Compliance Operations Manager at Pliant I run end-to-end corporate KYC and drive AI-driven automation of compliance workflows. At Moonfare I co-led an ongoing due-diligence review project, and at PwC I delivered AML/KYC training and spent six months on-site with a client, so I understand both the delivery and the client-relationship side of managed services.\n\nI apply the four-eyes principle as a daily habit and want to use it at scale: setting quality standards, calibrating reviewers, and using data to find where a team loses time. As a native Polish speaker, I would be glad to build this in Kraków.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How would you manage workload and quality across a team of 30-35 analysts and QC specialists?",
+          "Walk us through how you would handle a client escalating about missed SLAs or quality findings.",
+          "What KPIs and quality metrics would you report to clients and senior leadership?",
+          "Describe a corporate KYC case with complex ownership that you escalated, and how you decided.",
+          "Tell us about a time you improved a process's efficiency without lowering quality.",
+          "How do you coach an analyst whose QC error rate stays high?"
+        ],
+        "toAsk": [
+          "How is the QC function structured inside the team, and what error-rate targets do clients set?",
+          "What tooling or automation does AML RightSource use today for case handling and QC sampling?",
+          "Which client engagements would this team support first, and how stable are they?"
+        ]
+      }
+    },
+    {
+      "id": "amlrs-senior-manager-client-delivery-krakow-2026-08",
+      "title": "Senior Manager, Client Delivery",
+      "company": "AML RightSource",
+      "location": "Kraków, Poland (on-site)",
+      "url": "https://amlrightsource.wd1.myworkdayjobs.com/amlrightsource/job/Krakow-Poland/Senior-Manager--Client-Delivery----Cracow--Poland_R-102883",
+      "description": "Supervise Managers and Analysts on financial crime/AML client engagements, set engagement quality standards and QC processes, and own client KPI/KRI reporting and relationships. Senior people-leadership role in AMLRS's Financial Crime Client Delivery group.",
+      "fit": 2,
+      "datePosted": "2026-08-04",
+      "verified": true,
+      "placement": "poland",
+      "tags": [
+        "compliance-leadership",
+        "qa",
+        "lead-plus"
+      ],
+      "coverLetterDraft": "Dear AML RightSource Hiring Team,\n\nI am applying for the Senior Manager, Client Delivery role in Kraków. Your posting centres on running AML engagements to agreed standards, building QC processes and owning client reporting. That is where my 8+ years in KYC/AML at J.P. Morgan, PwC, Moonfare and Pliant are strongest.\n\nAt Pliant I lead end-to-end corporate KYC due diligence and work on the internal AI team automating compliance workflows. At Moonfare I co-led an ongoing due-diligence review project with cross-functional stakeholders. At PwC I built AML risk ratings, delivered internal training and completed a six-month on-site client assignment in the Netherlands, so I know what clients expect from a delivery partner.\n\nI would bring a data-driven approach to KPI/KRI dashboards, using advanced Excel and SQL, and a firm view on where QC sampling should focus. I am a native Polish speaker and would be glad to discuss the role.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How would you design a QC framework for a new AML engagement with strict client standards?",
+          "How do you supervise managers, as opposed to analysts?",
+          "Describe how you would present a negative KPI trend to a client.",
+          "How do you spot and escalate engagement risks early?",
+          "Tell us about a time you had to manage change on a project with shifting scope.",
+          "Which AML/sanctions typologies do you consider highest risk for bank clients right now?"
+        ],
+        "toAsk": [
+          "How many managers and analysts would report into this role, across how many engagements?",
+          "How does AMLRS measure success for a Senior Manager: client retention, quality or growth?",
+          "What role do automation and AI tools play in client delivery today?"
+        ]
+      }
+    },
+    {
+      "id": "amlrs-senior-aml-kyc-analyst-krakow-r103274",
+      "title": "Senior AML/KYC Analyst",
+      "company": "AML RightSource",
+      "location": "Kraków, Poland (on-site)",
+      "url": "https://amlrightsource.wd1.myworkdayjobs.com/amlrightsource/job/Krakow-Poland/Senior-AML-KYC-Analyst---Krakow--Poland_R-103274",
+      "description": "Senior analyst combining KYC/AML file and activity reviews with quality control of Associate Analysts' work, helping the manager supervise the team. Requires 3+ years in AML/financial crime and proven QC/QA experience.",
+      "fit": 2,
+      "datePosted": "2026-10-15",
+      "verified": true,
+      "placement": "poland",
+      "tags": [
+        "qa",
+        "senior-specialist"
+      ],
+      "coverLetterDraft": "Dear AML RightSource Hiring Team,\n\nI am applying for the Senior AML/KYC Analyst role in Kraków. The role combines hands-on KYC/AML reviews with quality control of junior analysts' work, which is the work I want to focus on.\n\nI have 8+ years in KYC and AML. At J.P. Morgan I conducted due diligence across risk tiers for corporate, financial-institution and listed clients. At PwC I built KYC profiles and AML risk ratings and delivered internal training. At Pliant I now run end-to-end corporate KYC and apply the four-eyes principle daily, reviewing cases and escalating where judgement is needed.\n\nI write clear, concise case summaries and am comfortable with EDD, PEP and adverse-media escalations. I also bring an automation mindset from Pliant's internal AI team, which helps when building client-specific tools and training. I am a native Polish speaker based on Polish-market terms.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How do you run a QC review of another analyst's KYC file, and what do you check first?",
+          "Describe a case where you found suspicious activity and how you documented your conclusion.",
+          "How would you give feedback to an associate who repeats the same error?",
+          "What are the key red flags in a corporate client's ownership structure?",
+          "How do you balance production targets against quality?"
+        ],
+        "toAsk": [
+          "What share of the role is QC versus own case production?",
+          "Which client and regulatory regime would I support, for example US BSA or EU AMLD?",
+          "What is the typical path from Senior Analyst to Manager here?"
+        ]
+      }
+    },
+    {
+      "id": "amlrs-director-financial-crime-krakow-2026-10",
+      "title": "Director, Financial Crime",
+      "company": "AML RightSource",
+      "location": "Kraków, Poland (on-site)",
+      "url": "https://amlrightsource.wd1.myworkdayjobs.com/amlrightsource/job/Krakow-Poland/Director--Financial-Crime---Cracow--Poland_R-102749",
+      "description": "Set strategic direction, quality standards and governance across multiple AML/financial crime managed-services engagements, acting as escalation point for Managers and Senior Managers. Crypto experience is an asset; a stretch, Head-level role.",
+      "fit": 1,
+      "datePosted": "2026-10-28",
+      "verified": true,
+      "placement": "poland",
+      "tags": [
+        "compliance-leadership",
+        "lead-plus"
+      ],
+      "coverLetterDraft": "Dear AML RightSource Hiring Team,\n\nI am applying for the Director, Financial Crime role in Kraków. You are looking for someone to set quality standards, govern several AML engagements and develop new methods for clients. My 8+ years in KYC/AML at J.P. Morgan, PwC, Moonfare and Pliant have given me that end-to-end view.\n\nAt Pliant I lead corporate KYC due diligence and drive AI-driven automation of compliance workflows. I see that as the most direct route to new delivery methods that make teams faster without lowering quality. At Moonfare I co-led an ongoing due-diligence review project. At PwC I built AML risk ratings, trained colleagues and worked on-site with a client for six months.\n\nI would bring a strong four-eyes and escalation discipline to engagement oversight, plus data-driven KPI/KRI reporting. I am a native Polish speaker and would welcome a conversation about the role.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How would you govern several AML engagements at once, and what would you review personally?",
+          "Describe a new methodology or tool you introduced and its impact.",
+          "How do you manage a client relationship after a serious quality failure?",
+          "What does good KPI/KRI reporting look like for a financial crime engagement?",
+          "What experience do you have with crypto-asset AML risks?",
+          "How do you develop Managers into Senior Managers?"
+        ],
+        "toAsk": [
+          "What is the current size and mix of the Kraków delivery centre?",
+          "Where do you see automation and AI changing managed-services delivery in the next two years?",
+          "What business-growth targets come with this role?"
+        ]
+      }
+    },
+    {
+      "id": "vwfs-product-owner-aml-warszawa-2026-11",
+      "title": "Product Owner AML",
+      "company": "Volkswagen Financial Services",
+      "location": "Warsaw, Poland (hybrid)",
+      "url": "https://www.karierawfinansach.pl/oferta-pracy/284497,product-owner-aml-warszawa",
+      "description": "Own the AML change backlog for a key regulatory programme at Volkswagen Bank Poland branch, translating regulatory requirements into business and technical solutions and coordinating delivery with analysts, architects and vendors. Requires 4+ years as PO/PM/BA on AML, KYC or compliance projects.",
+      "fit": 2,
+      "datePosted": "2026-11-11",
+      "verified": true,
+      "placement": "poland",
+      "tags": [
+        "ai-automation",
+        "lead-plus",
+        "corporate"
+      ],
+      "coverLetterDraft": "Dear Volkswagen Financial Services Hiring Team,\n\nI am applying for the Product Owner AML role in Warsaw. You need someone who combines AML expertise with delivering business-technology change, and that combination has defined my last several years.\n\nAt Pliant, as Compliance Operations Manager, I run corporate KYC due diligence and work in the internal AI team that designs and rolls out automation of compliance workflows. That means turning requirements into concrete changes and prioritising what to build first. At Moonfare I co-led an ongoing due-diligence review project and shaped automation improvements with cross-functional stakeholders. My background at J.P. Morgan and PwC gives me deep practical AML/KYC knowledge across risk tiers.\n\nI am comfortable translating regulation into acceptance criteria, managing dependencies, and reporting progress clearly. With a mathematics degree and solid Excel/SQL skills, I bring an analytical approach to backlog prioritisation. I am a native Polish speaker and fluent in English.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How would you prioritise an AML change backlog when regulatory deadlines compete?",
+          "Walk us through how you turned a regulatory requirement into business and technical requirements.",
+          "How do you work with vendors and architects when a solution is late or out of scope?",
+          "What AML regulatory changes, such as the EU AML package or AMLA, do you expect to drive the most change?",
+          "Describe an automation project you delivered in compliance and its result.",
+          "How do you manage stakeholders who disagree on scope?"
+        ],
+        "toAsk": [
+          "What regulatory programme is this backlog serving, and what is its timeline?",
+          "Which AML systems and vendors are in place today?",
+          "How does the Polish branch work with Volkswagen Bank's group AML function in Germany?"
+        ]
+      }
+    },
+    {
+      "id": "zen-team-leader-onboarding-due-diligence-poland-2026",
+      "title": "Team Leader - Onboarding & Due Diligence",
+      "company": "ZEN.COM",
+      "location": "Poland (remote)",
+      "url": "https://czyjesteldorado.pl/praca/393556-team-leader-onboarding-due-diligence-poland-remote-zen-com",
+      "description": "Lead the onboarding and due diligence team at a Polish payments fintech, handling complex KYC/KYB customers across jurisdictions. Asks for 4-6 years in AML/KYC/KYB or financial crime and 1-2 years as a team lead or supervisor.",
+      "fit": 2,
+      "datePosted": "2026-11-11",
+      "verified": false,
+      "placement": "poland",
+      "tags": [
+        "compliance-leadership",
+        "lead-plus",
+        "startup"
+      ],
+      "coverLetterDraft": "Dear ZEN.COM Hiring Team,\n\nI am applying for the Team Leader - Onboarding & Due Diligence role. I have 8+ years in KYC, KYB and AML, and today I lead end-to-end due diligence for corporate clients as Compliance Operations Manager at the fintech Pliant.\n\nYour team handles complex customers across jurisdictions. At J.P. Morgan I reviewed corporate, financial-institution and listed clients across risk tiers. At PwC I built KYC profiles and AML risk ratings for individuals and legal entities. At Moonfare I co-led an ongoing due-diligence review project and helped introduce automation improvements.\n\nAt Pliant I also work in the internal AI team automating compliance workflows. I would bring that to ZEN.COM's onboarding funnel, reducing manual touchpoints while keeping four-eyes checks where they matter. I enjoy onboarding and coaching analysts and setting clear quality standards. I am a native Polish speaker and fluent in English.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How would you structure a risk-based onboarding flow for merchants in different jurisdictions?",
+          "What KYB red flags would make you reject or escalate a merchant?",
+          "How do you onboard and train new analysts quickly?",
+          "Describe how you balanced onboarding speed against compliance quality.",
+          "How have you used automation to reduce manual onboarding work?"
+        ],
+        "toAsk": [
+          "What are the current onboarding volumes and SLAs, and where is the backlog?",
+          "How much of the KYB process is automated today, and what is on the roadmap?",
+          "How is the team split between onboarding and ongoing due diligence?"
+        ]
+      }
     }
   ]
 }
