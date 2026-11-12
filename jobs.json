@@ -4435,6 +4435,133 @@
           "How is the team split between onboarding and ongoing due diligence?"
         ]
       }
+    },
+    {
+      "id": "powermedia-client-ekspert-aml-warszawa-2026",
+      "title": "Ekspert / Ekspertka AML (AML Expert)",
+      "company": "Confidential client – Polish data-analytics/AML software firm (via Power Media)",
+      "location": "Warsaw, Poland",
+      "url": "https://rocketjobs.pl/oferta-pracy/power-media-ekspert-ekspertka-aml-warszawa-bankowosc-analiza-ryzyko",
+      "description": "AML subject-matter expert at a Polish analytics company building its own automated AML/CFT software: translate regulatory and process requirements into system functionality, design KYC/CDD/EDD, risk-scoring and transaction-monitoring features, and advise financial-sector clients. Asks for 3-5+ years in AML/CFT.",
+      "fit": 3,
+      "datePosted": "2026-11-11",
+      "verified": true,
+      "placement": "poland",
+      "tags": [
+        "ai-automation",
+        "senior-specialist"
+      ],
+      "coverLetterDraft": "Dear Hiring Team,\n\nI am applying for the AML Expert role. I have 8+ years in KYC, AML and financial operations, and as Compliance Operations Manager at the fintech Pliant I sit on the internal AI team that automates our compliance workflows. Turning AML requirements into working system logic is the part of my job I enjoy most.\n\nI know the processes your product covers from the user side. At J.P. Morgan I ran due diligence across risk tiers for corporate, financial-institution and listed clients. At PwC I built KYC profiles and AML risk ratings for individuals and legal entities and delivered AML/KYC training. At Moonfare I helped shape automation improvements with cross-functional stakeholders.\n\nThat mix suits a role between clients, analysts and developers: I can explain to engineers why an EDD trigger matters, and to a bank's compliance team how a scoring model reaches its result. I am a native Polish speaker, fluent in English, and have a Bachelor's in Mathematics, which helps when discussing risk models and data.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How would you translate the EU AMLR and the Polish AML Act requirements into functional requirements for a customer risk-assessment module?",
+          "Walk us through how you would design transaction-monitoring scenarios for a mid-sized leasing or factoring company.",
+          "How do you explain an AML control to developers who have no compliance background?",
+          "Describe an automation you helped build in a compliance workflow. What did it change and how did you measure it?",
+          "A prospective bank client says its current AML system produces too many false positives. How would you run the discovery conversation?",
+          "Tell us about a time you had to push back on a stakeholder about a regulatory requirement."
+        ],
+        "toAsk": [
+          "Which AML modules are most mature in the product today, and where do clients ask for the most change?",
+          "How is time split between pre-sales, implementation projects and product development?",
+          "How does the company use machine learning or AI in the AML product, and how is model explainability handled for regulated clients?"
+        ]
+      }
+    },
+    {
+      "id": "pekao-kyc-senior-product-owner-onboarding-2026",
+      "title": "Ekspert/Ekspertka KYC - Senior Product Owner - Bankowość dla firm (Onboarding klienta SME/MID/KORPO)",
+      "company": "Bank Pekao S.A.",
+      "location": "Warsaw, Poland (hybrid)",
+      "url": "https://www.karierawfinansach.pl/oferta-pracy/284291,ekspertekspertka-kyc-senior-produkt-owner-bankowosc-dla-firm-onboarding-klienta-smemidkorpo-warszawa",
+      "description": "Senior Product Owner for the KYC sub-process of corporate (SME/mid/large) client onboarding at one of Poland's largest banks: own the backlog and roadmap, turn regulatory and business needs into digital product features, and work with dev/UX/architecture teams. Asks for 3+ years in banking, 5+ years as PO or business analyst, and strong KYC process knowledge.",
+      "fit": 2,
+      "datePosted": "2026-11-12",
+      "verified": true,
+      "placement": "poland",
+      "tags": [
+        "ai-automation",
+        "senior-specialist",
+        "corporate"
+      ],
+      "coverLetterDraft": "Dear Bank Pekao Hiring Team,\n\nI am applying for the KYC Senior Product Owner role in corporate onboarding. I have 8+ years in KYC and AML, and for most of that time I have been the person explaining what a corporate KYC journey needs to the teams who build it.\n\nAs Compliance Operations Manager at Pliant I lead end-to-end due diligence for corporate clients and work in the internal AI team that automates those workflows, defining requirements, testing changes and rolling them out. At Moonfare I helped shape automation improvements with cross-functional stakeholders. At J.P. Morgan I reviewed corporate, financial-institution and listed clients across risk tiers, so I know where onboarding slows down: ownership structures, foreign registers and document chasing.\n\nI have not held the formal Product Owner title, but I have done much of the work: prioritising fixes, writing acceptance criteria and measuring the impact on cycle time and quality. I would bring hands-on KYC depth to your onboarding domain. I am a native Polish speaker and fluent in English.\n\nZ wyrazami szacunku,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How would you prioritise a backlog that mixes regulatory deadlines, client-experience improvements and technical debt?",
+          "Write a user story with acceptance criteria for verifying the UBO of a foreign-registered company.",
+          "Which parts of corporate KYC onboarding are best suited to automation, and which should stay manual?",
+          "What KPIs would you set for the KYC onboarding product?",
+          "Tell us about a time you translated a compliance requirement into a change that a technology team delivered.",
+          "How do you handle disagreement between compliance and sales on onboarding friction?"
+        ],
+        "toAsk": [
+          "Where do corporate clients drop out or wait longest in the current onboarding flow?",
+          "How is the KYC product team split between Pekao's own developers and external vendors?",
+          "What is planned for automated register checks or AI-assisted document review in the next year?"
+        ]
+      }
+    },
+    {
+      "id": "jit-aml-regulatory-project-manager-2026",
+      "title": "AML Regulatory Project Manager",
+      "company": "Jit Team (financial-services client project)",
+      "location": "Warsaw / Gdańsk / Gdynia / Łódź, Poland (hybrid, 3 days in office; B2B contract)",
+      "url": "https://rocketjobs.pl/oferta-pracy/jit-team-aml-regulatory-project-manager-warszawa-pm",
+      "description": "Lead delivery of an EU AMLR transformation programme for a Scandinavian-style financial group: information sharing, Single Customer View, data sourcing, reporting and data-quality uplift across KYC, transaction monitoring, fraud and sanctions. B2B contract at 700-960 PLN/day.",
+      "fit": 2,
+      "datePosted": "2026-11-08",
+      "verified": true,
+      "placement": "poland",
+      "tags": [
+        "ai-automation",
+        "senior-specialist"
+      ],
+      "coverLetterDraft": "Dear Jit Team,\n\nI am applying for the AML Regulatory Project Manager role. I have 8+ years in KYC, AML and financial operations, and the work I do now is close to this programme: changing how compliance data and processes run, not only executing them.\n\nAs Compliance Operations Manager at Pliant I lead corporate KYC and work in the internal AI team automating compliance workflows, which means mapping data, agreeing requirements with engineering and compliance, and rolling changes out. At Moonfare I co-led the firm's ongoing due-diligence review project across teams. At Thomson Reuters I verified and fixed fund-holdings data, so data quality and traceability are familiar ground.\n\nFor AMLR, I would bring an operator's view of KYC, monitoring and sanctions processes, plus experience getting compliance, legal and technology people to agree on what 'done' means. I am a native Polish speaker, fluent in English, and comfortable in an international team.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "Which AMLR requirements do you expect to have the biggest impact on KYC and information-sharing processes?",
+          "How would you run a gap assessment and decide criticality when strategic solutions are not yet available?",
+          "How do you manage data lineage and documentation when onboarding a new data source for compliance reporting?",
+          "Describe a cross-functional initiative you drove. How did you handle conflicting priorities?",
+          "How do you report progress and risk to senior stakeholders on a regulatory programme?"
+        ],
+        "toAsk": [
+          "Which business lines and legal entities are in scope, and what is the AMLR delivery timeline?",
+          "How mature is the current Single Customer View, and who owns the data?",
+          "How long is the contract expected to run, and is there scope to extend into later AMLR phases?"
+        ]
+      }
+    },
+    {
+      "id": "selbyjennings-senior-kyc-officer-berlin-2026",
+      "title": "Senior KYC Officer (m/f/d)",
+      "company": "Confidential client (via Selby Jennings)",
+      "location": "Berlin, Germany (hybrid)",
+      "url": "https://www.selbyjennings.com/en-de/job/senior-kyc-officer-mfd-pr594814_1780414372",
+      "description": "Permanent senior KYC role in Berlin carrying out in-depth due diligence on higher-risk and complex clients, writing case assessments and documenting investigations to regulatory standard. Asks for CDD/financial crime experience, sanctions and typology knowledge, and fluent German and English.",
+      "fit": 2,
+      "datePosted": "2026-11-12",
+      "verified": false,
+      "placement": "berlin-based",
+      "tags": [
+        "senior-specialist"
+      ],
+      "coverLetterDraft": "Dear Hiring Team,\n\nI am applying for the Senior KYC Officer role in Berlin. I have 8+ years in KYC, AML and financial operations, and high-risk, complex due diligence is my core work.\n\nAs Compliance Operations Manager at Pliant I lead end-to-end due diligence for corporate clients, including EDD, PEP and adverse-media screening and escalations. At J.P. Morgan I reviewed corporate, financial-institution and listed clients across multiple risk tiers. At PwC I built KYC profiles and AML risk ratings for individuals and legal entities. At Moonfare I co-led the ongoing due-diligence review project.\n\nI write case assessments for decision-makers who need a clear risk view, and I document findings so they stand up to audit. I also work in Pliant's AI team automating compliance workflows, which helps me spot where review time is being wasted. My German is B1 and progressing to B2, and my English is fluent.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "Walk us through how you investigate a complex ownership structure with entities in several jurisdictions.",
+          "What source-of-wealth evidence would you accept for a high-net-worth client, and when would you escalate?",
+          "Which money-laundering typologies do you see most often in your current client base?",
+          "How do you structure a case assessment for a senior approver?",
+          "Tell us about a case where you recommended exiting a client relationship.",
+          "How do you handle German-language documents and registers in your reviews?"
+        ],
+        "toAsk": [
+          "What type of institution is the client, and what does its high-risk client book look like?",
+          "Who approves your case assessments, and how much decision authority does the role carry?",
+          "Is there scope to contribute to process improvement or automation alongside case work?"
+        ]
+      }
     }
   ]
 }
