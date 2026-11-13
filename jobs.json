@@ -4562,6 +4562,171 @@
           "Is there scope to contribute to process improvement or automation alongside case work?"
         ]
       }
+    },
+    {
+      "id": "solaris-senior-training-quality-associate-kyc-2026",
+      "title": "Senior Training and Quality Associate - KYC",
+      "company": "Solarisbank",
+      "location": "Berlin or Frankfurt, Germany",
+      "url": "https://job-boards.greenhouse.io/solarisbank/jobs/8926302002",
+      "description": "Run quality checks on KYC case work, analyse QA results and drive improvement actions, own new-hire training for KYC analysts, and deputise for the Training & Quality Manager, including reporting QA outcomes to Compliance. Solaris is moving to an AI-native banking platform.",
+      "fit": 3,
+      "datePosted": "2026-11-09",
+      "verified": true,
+      "placement": "berlin-based",
+      "tags": [
+        "qa",
+        "senior-specialist",
+        "startup"
+      ],
+      "coverLetterDraft": "Dear Solaris Hiring Team,\n\nI am applying for the Senior Training and Quality Associate - KYC role. Reviewing and calibrating other people's KYC work, and turning what I find into better training and processes, is the part of compliance I most want to own.\n\nI have 8+ years in KYC, AML and financial operations. As Compliance Operations Manager at Pliant I lead end-to-end corporate KYC and work in the internal AI team automating compliance workflows. At J.P. Morgan I did due diligence across Corporate, Financial Institution and listed-company risk tiers, so I know what a complete, well-evidenced file looks like. At PwC I built KYC profiles and AML risk ratings and delivered internal AML/KYC training. At Moonfare I co-led the ongoing due-diligence review project.\n\nI apply the four-eyes principle as a habit, and I am comfortable reporting QA trends to Compliance and agreeing fixes with operations. Your move to AI-orchestrated processes is a good match for my automation work: QA results are often the best data for deciding what to automate next.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How would you design a QA sampling approach for KYC/KYB files across different risk levels?",
+          "Walk us through how you would turn recurring QA findings into a training module and measure whether it worked.",
+          "What separates a 'minor' from a 'major' KYC QA finding, and how do you keep reviewers calibrated?",
+          "Tell us about a time you gave difficult feedback on a colleague's case work. How did you handle it?",
+          "How would you report QA results to Compliance so they support regulatory and audit needs?",
+          "Where do you see AI or automation helping KYC quality assurance, and where would you keep human review?"
+        ],
+        "toAsk": [
+          "What are the most common QA findings in KYC today, and which processes do they come from?",
+          "How is the T&Q team involved in Solaris's move to AI orchestration, for example in testing automated decisions?",
+          "How many analysts does the team train and review, and how is QA work split between Berlin and Frankfurt?"
+        ]
+      }
+    },
+    {
+      "id": "sparda-berlin-head-of-compliance-mlro-2026",
+      "title": "Head of Compliance (w/m/div) – bis zu 80% remote möglich",
+      "company": "Sparda-Bank Berlin eG",
+      "location": "Berlin, Germany (hybrid, up to 80% remote)",
+      "url": "https://www.stepstone.de/stellenangebote--Head-of-Compliance-w-m-div-bis-zu-80-remote-moeglich-Berlin-Sparda-Bank-Berlin-eG--14668516-inline.html",
+      "description": "Lead the compliance team of a Berlin cooperative bank and act as Money Laundering Reporting Officer (incl. central unit, sanctions and whistleblowing), plus deputy information-security and tax-compliance officer. Asks for leadership experience, BaFin-regulated compliance background and digitalisation skills.",
+      "fit": 2,
+      "datePosted": "2026-11-04",
+      "verified": true,
+      "placement": "berlin-based",
+      "tags": [
+        "compliance-leadership",
+        "lead-plus",
+        "corporate"
+      ],
+      "coverLetterDraft": "Dear Sparda-Bank Berlin Team,\n\nI am applying for the Head of Compliance role. You are asking for compliance depth, people leadership and digitalisation skills together, and that combination describes the work I do now.\n\nI have 8+ years in KYC, AML and financial operations at J.P. Morgan, PwC, Moonfare and Pliant, where I am Compliance Operations Manager. At Pliant I lead end-to-end KYC due diligence and work in the internal AI team automating compliance workflows. That involves deciding where automation is safe and where controls and human judgement must stay. At PwC I built AML risk ratings and delivered AML/KYC training. At Moonfare I co-led the ongoing due-diligence review project across teams.\n\nI understand the MLRO responsibilities that come with this role, including sanctions, suspicious-activity escalation and working with the regulator. I would bring a practical, people-centred leadership style and a clear view of how a cooperative bank can modernise compliance without losing control. My German is B1, progressing to B2, and I am working on it actively.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How would you structure the MLRO function, including deputies and the central unit, in a mid-sized cooperative bank?",
+          "Which GwG and BaFin AuA requirements do you see as the biggest operational risks for a retail bank today?",
+          "How would you use digitalisation or automation in AML and sanctions processes without weakening controls?",
+          "Describe how you have developed team members and kept qualification levels high.",
+          "How do you work with the 2nd and 3rd lines and with the Management Board on compliance risk reporting?",
+          "Our working language is German. How would you manage regulator and board communication?"
+        ],
+        "toAsk": [
+          "How large is the compliance team, and which deputy functions are already in place?",
+          "What are the bank's main compliance and AML priorities for the next 12–18 months, for example findings from the last audit?",
+          "Which digitalisation initiatives are planned for compliance, and what budget and IT support do they have?"
+        ]
+      }
+    },
+    {
+      "id": "solaris-senior-product-owner-bkyc-2026",
+      "title": "Senior Product Owner BKYC",
+      "company": "Solarisbank",
+      "location": "Berlin, Germany",
+      "url": "https://www.stepstone.de/stellenangebote--Senior-Product-Owner-BKYC-Berlin-Solaris-SE--14625472-inline.html",
+      "description": "Lead vision, strategy and delivery for Solaris's business onboarding and periodic-review (Business KYC) platforms, automating manual KYB workflows and preparing for AMLR. Leads the BKYC engineering team's priorities alongside engineering, compliance and commercial teams.",
+      "fit": 2,
+      "datePosted": "2026-10-31",
+      "verified": true,
+      "placement": "berlin-based",
+      "tags": [
+        "ai-automation",
+        "senior-specialist",
+        "startup"
+      ],
+      "coverLetterDraft": "Dear Solaris Hiring Team,\n\nI am applying for the Senior Product Owner BKYC role. You welcome candidates from adjacent domains who can untangle complex business structures and turn them into scalable products, and that is the work I do every day from the operations side.\n\nAs Compliance Operations Manager at Pliant I lead end-to-end KYC due diligence for corporate clients and work in the internal AI team automating compliance workflows. That means defining requirements with engineers, testing changes against real cases, and measuring processing time and quality. At J.P. Morgan I worked on Corporate, Financial Institution and listed-company KYC across risk tiers, including complex ownership chains and cross-border entities. At Moonfare I co-led the ongoing due-diligence review project and shaped automation improvements with cross-functional stakeholders.\n\nI would bring a user's understanding of where onboarding and periodic review lose time, and what compliance needs to be able to defend each automated step. I would like to help Solaris build a BKYC platform that is ready for AMLR and grows with its partners.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How would you prioritise a BKYC roadmap between AMLR compliance, partner onboarding speed and reducing manual work?",
+          "Walk us through how you would model a complex corporate ownership structure for automated UBO identification.",
+          "Which KPIs would you use for business onboarding and periodic review, and how would you instrument them?",
+          "Tell us about a time you translated a compliance requirement into a technical specification. What went wrong or right?",
+          "How do you handle disagreement between compliance (risk) and commercial teams (speed)?",
+          "You come from compliance operations rather than product. How would you get up to speed on agile product ownership?"
+        ],
+        "toAsk": [
+          "Which parts of business onboarding and periodic review are still most manual today?",
+          "How are AMLR requirements being scoped into the BKYC roadmap, and what is the timeline?",
+          "How do the product owner, engineering lead and compliance owners share decisions within the BKYC domain?"
+        ]
+      }
+    },
+    {
+      "id": "shine-senior-pm-compliance-risk-berlin-2026",
+      "title": "Senior Product Manager - Compliance & Risk",
+      "company": "Shine Germany GmbH",
+      "location": "Berlin (Friedrichshain), Germany",
+      "url": "https://www.stepstone.de/stellenangebote--Senior-Product-Manager-Compliance-Risk-10245-Berlin-Friedrichshain-Shine-Germany-GmbH--14629858-inline.html",
+      "description": "Own the AML and fraud product roadmap (risk scoring, transaction monitoring, sanctions/PEP screening, real-time fraud) for neobank Shine across France, Germany, the Netherlands and Denmark, with KPIs such as false-positive rate and the share of alerts closed without manual review. Works with analysts to build back-office tooling.",
+      "fit": 2,
+      "datePosted": "2026-10-31",
+      "verified": true,
+      "placement": "berlin-based",
+      "tags": [
+        "ai-automation",
+        "senior-specialist",
+        "startup"
+      ],
+      "coverLetterDraft": "Dear Shine Team,\n\nI am applying for the Senior Product Manager - Compliance & Risk role. You want someone who sits with the analysts, measures where their time goes and ships tools that remove the slowest steps. I have been that analyst, and now I build those improvements.\n\nI have 8+ years in KYC, AML and financial operations. As Compliance Operations Manager at Pliant I lead corporate KYC and work in the internal AI team automating compliance workflows. In practice that means scoping requirements with engineers, testing rules and automation against real cases, and tracking time-to-decide and quality. At PwC I built AML risk ratings for individuals and legal entities. At J.P. Morgan I worked across multiple KYC risk tiers. At Moonfare I shaped automation improvements with cross-functional stakeholders.\n\nI understand risk scoring, screening and alert handling from the inside, and I know what compliance needs to defend an automated decision. I would like to bring that to your roadmap, especially as the EU AML package raises the bar across your four markets.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How would you reduce the false-positive rate in transaction monitoring without increasing missed risk?",
+          "How would you decide whether to build, buy or change a sanctions/PEP screening solution?",
+          "Walk us through turning a new EU AML package requirement into scoped product work with an owner and a date.",
+          "Tell us about a time you improved an analyst workflow. How did you measure the impact?",
+          "How do you balance customer friction against fraud and AML risk in onboarding and authentication?",
+          "You come from compliance operations. How do you plan to build credibility with engineering on detection logic and data pipelines?"
+        ],
+        "toAsk": [
+          "What share of alerts is closed without manual review today, and what target do you have?",
+          "Which parts of the AML and fraud stack are in-house versus vendor, and are any being replaced?",
+          "How is the compliance and fraud team split across France, Germany, the Netherlands and Denmark, and how do you prioritise between markets?"
+        ]
+      }
+    },
+    {
+      "id": "finom-aml-risk-controls-officer-poland-2026",
+      "title": "AML Risk and Controls Officer (AML Investigator, 2LoD)",
+      "company": "Finom",
+      "location": "Poland (remote/hybrid within the EU; also open in Netherlands and Spain)",
+      "url": "https://jobs.eu.lever.co/pnlfin/a95af628-30c8-4509-b71f-b5ad9a541163",
+      "description": "Second-line AML investigator who finds financial crime that transaction-monitoring controls miss, turns it into detection logic, back-tests rules and validates ML models before release, and maintains Finom's FinCrime Scenarios Library. Needs 2+ years in 2LoD or 3 years in senior transaction monitoring.",
+      "fit": 2,
+      "datePosted": "2026-11-11",
+      "verified": true,
+      "placement": "poland",
+      "tags": [
+        "ai-automation",
+        "senior-specialist",
+        "startup"
+      ],
+      "coverLetterDraft": "Dear Finom Team,\n\nI am applying for the AML Risk and Controls Officer role. You want someone who turns investigative insight into tested detection logic and proves it works in production, and that is the direction I have taken my compliance career.\n\nI have 8+ years in KYC, AML and financial operations. As Compliance Operations Manager at Pliant I lead corporate KYC due diligence and work in the internal AI team automating compliance workflows. That covers defining logic with engineers, testing it on historical cases and monitoring results after release. At PwC I built AML risk ratings for individuals and legal entities. At J.P. Morgan I did due diligence across multiple client risk tiers. Earlier data roles at Thomson Reuters and State Street gave me a habit of reconciling data and chasing down discrepancies.\n\nI would bring risk judgement plus enough data skill (advanced Excel, SQL fundamentals) to back-test rules, measure hit rates and false positives, and challenge model outputs. I am a native Polish speaker and fluent in English.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How would you identify typologies that your current transaction-monitoring rules are missing?",
+          "Walk us through back-testing a new rule: which data, which metrics, and what acceptance criteria?",
+          "How would you validate an internally developed ML model before production, and what would you monitor afterwards?",
+          "How do you decide whether an account should be force-closed, and how would you improve that methodology?",
+          "Tell us about a time your analysis changed a control or process. What was the measurable result?",
+          "How would you estimate a false-negative rate when, by definition, you don't see the missed cases?"
+        ],
+        "toAsk": [
+          "What share of typologies in the FinCrime Scenarios Library is covered by live, tested controls today?",
+          "What tooling and data access does the 2LoD team have for back-testing (SQL, notebooks, a sandbox)?",
+          "How do responsibilities split between this role and the AML Risk Manager in practice?"
+        ]
+      }
     }
   ]
 }
