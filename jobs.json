@@ -4727,6 +4727,168 @@
           "How do responsibilities split between this role and the AML Risk Manager in practice?"
         ]
       }
+    },
+    {
+      "id": "kraken-senior-compliance-associate-automation-systems-2026",
+      "title": "Senior Compliance Associate - Automation & Systems",
+      "company": "Kraken (Payward)",
+      "location": "Remote — UK, Ireland, Cyprus, Portugal (also Brazil, UAE, Canada)",
+      "url": "https://jobs.ashbyhq.com/kraken.com/9da43df9-f1f9-420f-ac96-3b8b70e63b1e",
+      "description": "Senior IC in Kraken's FIU Scale team: owns transaction-monitoring optimisation (rule testing, threshold tuning, new scenarios), drives automation of FIU workflows, and brings LLM/AI tools into alert triage, investigations and SAR filing. Needs 5+ years in AML/FIU. Note: remote eligibility is limited to listed countries; Germany is not one of them.",
+      "fit": 2,
+      "datePosted": "2026-10-28",
+      "verified": true,
+      "placement": "remote-europe",
+      "tags": [
+        "ai-automation",
+        "senior-specialist",
+        "corporate"
+      ],
+      "coverLetterDraft": "Dear Kraken FIU Scale Team,\n\nI am applying for the Senior Compliance Associate – Automation & Systems role. You want someone who makes the FIU scale through better detection and automation rather than headcount. That is the work I do now.\n\nAs Compliance Operations Manager at Pliant I lead corporate KYC due diligence and sit on the internal AI team automating compliance workflows. In practice that means mapping manual steps, defining decision logic with engineers, testing it on historical cases and tracking quality after rollout. Over 8+ years in KYC, AML and financial operations (PwC, J.P. Morgan, Moonfare) I have built AML risk ratings, worked high-risk escalations, and run four-eyes reviews, so I know which alerts deserve analyst time.\n\nAt Kraken I would apply that to alert triage and SAR workflows: measure false-positive drivers, test LLM-assisted summarisation and enrichment against analyst outcomes, and document governance so RCOs and MLROs can sign off with confidence. My data background (advanced Excel, SQL fundamentals, Refinitiv data work) helps with threshold analysis and MI.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "Walk us through how you would tune a transaction-monitoring threshold: which data, which metrics, and how you document the decision for governance.",
+          "Where would you apply an LLM in the FIU workflow first, and how would you test that it doesn't miss true positives?",
+          "Tell us about an automation you shipped in a compliance process. What was the before/after impact?",
+          "How do you design monitoring scenarios that scale to a new product or jurisdiction?",
+          "Describe a time you disagreed with engineering or product on a control. How did you resolve it?",
+          "What blockchain-specific risks would you expect to cover alongside fiat transaction monitoring?"
+        ],
+        "toAsk": [
+          "Which FIU processes are still the most manual today, and where has automation already been tried?",
+          "How are AI-assisted outputs governed — who signs off on model or prompt changes affecting SAR decisions?",
+          "Is EU residency in a non-listed country (e.g. Germany) workable, or is it strictly the listed countries?"
+        ]
+      }
+    },
+    {
+      "id": "sopra-steria-senior-consultant-regulatory-afc-aml-berlin-2026",
+      "title": "Senior Consultant Regulatory Anti-Financial Crime (AML) (m/w/d)",
+      "company": "Sopra Steria",
+      "location": "Berlin (also Frankfurt, Hamburg, Köln, Leipzig, München) — hybrid",
+      "url": "https://www.stepstone.de/stellenangebote--Senior-Consultant-Regulatory-Anti-Financial-Crime-AML-m-w-d-bundesweit-Berlin-Frankfurt-Hamburg-Koeln-Leipzig-Muenchen-Sopra-Steria--13906532-inline.html",
+      "description": "Senior consultant advising banks and financial service providers on AML/CFT and EU AML regulation: framework and control design, gap and risk analyses, audit preparation, with sub-project leadership. Requires several years of consulting/audit experience and German at C1.",
+      "fit": 1,
+      "datePosted": "2026-11-11",
+      "verified": true,
+      "placement": "berlin-based",
+      "tags": [
+        "senior-specialist",
+        "corporate"
+      ],
+      "coverLetterDraft": "Dear Sopra Steria Team,\n\nI am applying for the Senior Consultant Regulatory Anti-Financial Crime role. Your clients need advisers who have run AML controls themselves, not only reviewed them.\n\nI bring 8+ years across KYC, AML and financial operations. At PwC I built KYC profiles and AML risk ratings for individuals and legal entities, delivered internal AML/KYC training, and spent six months on site at a client in the Netherlands. At J.P. Morgan I did due diligence across Corporate, Financial Institution and listed-company risk tiers. Today, as Compliance Operations Manager at Pliant, I lead corporate KYC due diligence and help automate compliance workflows as part of an internal AI team.\n\nThat mix fits your project work: gap analyses against GwG and the incoming EU AML package, control design that operations teams can run, and practical advice on automation in AFC processes. I am fluent in English and native in Polish; my German is B1 and progressing to B2, and I would be open about where I would need English-language support while it improves.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How would you structure a gap analysis of a bank's AML framework against the EU AMLR?",
+          "Describe a KYC or AML control you designed or improved. How did you test its effectiveness?",
+          "What are the most common weaknesses you'd expect in a mid-sized bank's customer risk rating model?",
+          "How do you handle a client who disagrees with a finding you've escalated?",
+          "Tell us about your on-site client assignment at PwC — what did you deliver and what did you learn?",
+          "Your German is B1 — how would you manage German-language client deliverables?"
+        ],
+        "toAsk": [
+          "What share of current AFC engagements involve AMLR readiness versus remediation or audit support?",
+          "How much of the work is with German clients requiring C1 German, and are there English-language engagements?",
+          "Are there AFC projects involving automation or AI in KYC/TM processes I could contribute to?"
+        ]
+      }
+    },
+    {
+      "id": "jit-team-kyc-delivery-lead-warszawa-2026",
+      "title": "KYC Delivery Lead",
+      "company": "Jit Team (Nordic financial group client)",
+      "location": "Warsaw / Gdańsk / Gdynia / Łódź — hybrid (2-3 office days/week), B2B",
+      "url": "https://rocketjobs.pl/oferta-pracy/jit-team-kyc-delivery-lead-warszawa-pm",
+      "description": "Senior delivery lead running the KYC and Transaction Monitoring workstreams for a major Nordic bank's implementation of the new EU AML Regulatory Package — process, system, data and governance changes plus operational readiness of KYC servicing units. 900-1,150 PLN/day B2B.",
+      "fit": 2,
+      "datePosted": "2026-11-12",
+      "verified": true,
+      "placement": "poland",
+      "tags": [
+        "compliance-leadership",
+        "lead-plus",
+        "corporate"
+      ],
+      "coverLetterDraft": "Dear Jit Team,\n\nI am applying for the KYC Delivery Lead role on your Nordic client's EU AML Regulatory Package programme. The role needs someone who understands KYC operations well enough to make regulatory change work in practice, not just on paper.\n\nI have 8+ years in KYC, AML and financial operations. As Compliance Operations Manager at Pliant I lead end-to-end corporate KYC due diligence and drive AI-based automation of compliance workflows, which means redesigning processes and working closely with engineering and operations on rollout. At Moonfare I co-led the firm's ongoing due-diligence review project and shaped automation improvements with cross-functional stakeholders. My J.P. Morgan and PwC roles gave me hands-on experience across risk tiers and AML risk rating.\n\nI would bring an operator's view of AMLR impacts: event-driven reviews, CDD data requirements, and readiness of KYC servicing teams. I am a native Polish speaker, fluent in English, and comfortable in an international, feedback-driven culture.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "Which AMLR changes do you expect to have the biggest operational impact on KYC servicing, and why?",
+          "How would you set up a risk-based, event-driven review framework to replace periodic reviews?",
+          "Describe a cross-functional change you delivered end to end. How did you measure benefits?",
+          "How do you handle dependencies between KYC and transaction-monitoring workstreams?",
+          "Tell us about a time a project slipped. How did you escalate and recover?",
+          "How would you approach KYC for the sole-trader segment differently from corporates?"
+        ],
+        "toAsk": [
+          "What is the current state of the AMLR programme — design, build, or rollout — and what's the target date?",
+          "How is success defined for this workstream beyond regulatory compliance (e.g. cost, review volumes)?",
+          "How large is the workstream team and which roles report into the delivery lead?"
+        ]
+      }
+    },
+    {
+      "id": "alior-bank-ekspert-procesow-kyc-warszawa-2026",
+      "title": "Ekspert ds. Procesów KYC (K/M)",
+      "company": "Alior Bank SA",
+      "location": "Warsaw (Chmielna 69) — hybrid",
+      "url": "https://rocketjobs.pl/oferta-pracy/alior-bank-sa-ekspert-ds-procesow-kyc-k-m--warszawa-bankowosc-analiza-ryzyko-92c1c428",
+      "description": "Senior KYC expert handling high-risk/PEP clients, EDD, beneficial-ownership analysis, and building and optimising the bank's KYC processes and AML/KYC projects, with subject-matter support to the team. Requires 5+ years in KYC and experience in the Polish banking system.",
+      "fit": 2,
+      "datePosted": "2026-11-12",
+      "verified": true,
+      "placement": "poland",
+      "tags": [
+        "senior-specialist",
+        "corporate"
+      ],
+      "coverLetterDraft": "Szanowni Państwo,\n\nAplikuję na stanowisko Eksperta ds. Procesów KYC. Szukacie osoby, która prowadzi złożone analizy EDD i jednocześnie rozwija procesy KYC w banku. Tym właśnie się zajmuję.\n\nMam ponad 8 lat doświadczenia w KYC, AML i operacjach finansowych. Jako Compliance Operations Manager w Pliant prowadzę end-to-end due diligence klientów korporacyjnych i współtworzę automatyzację procesów compliance z wykorzystaniem AI. W J.P. Morgan analizowałem/am klientów z różnych poziomów ryzyka (korporacje, instytucje finansowe, spółki publiczne), a w PwC budowałem/am profile KYC i oceny ryzyka AML oraz prowadziłem/am szkolenia AML/KYC. W Moonfare współprowadziłem/am projekt przeglądu ongoing due diligence.\n\nW Alior Banku mogę wnieść doświadczenie w analizie złożonych struktur własnościowych, PEP i źródła majątku oraz praktykę w usprawnianiu procesów i zapewnianiu jakości dokumentacji. Polski to mój język ojczysty, angielski znam biegle.\n\nZ wyrazami szacunku,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "Jak ustalasz i weryfikujesz źródło majątku klienta PEP?",
+          "Opisz analizę złożonej struktury właścicielskiej — jak dotarłeś/aś do beneficjenta rzeczywistego?",
+          "Które elementy procesu KYC w banku usprawniłbyś/łabyś w pierwszej kolejności i jak zmierzysz efekt?",
+          "Jak przekładasz nowe wytyczne EBA/KNF na procedury operacyjne?",
+          "Jakie masz doświadczenie w polskim systemie bankowym i z wymogami ustawy AML?",
+          "Opowiedz o sytuacji, w której wsparłeś/aś zespół w podniesieniu jakości dokumentacji KYC."
+        ],
+        "toAsk": [
+          "Jakie projekty AML/KYC są planowane na najbliższy rok, np. w związku z AMLR?",
+          "Czy bank wykorzystuje lub planuje narzędzia automatyzacji/AI (np. Copilot) w procesach KYC?",
+          "Jak wygląda podział między analizą klientów wysokiego ryzyka a pracą projektową w tej roli?"
+        ]
+      }
+    },
+    {
+      "id": "kpmg-aml-senior-analyst-regulatory-compliance-warszawa-2026",
+      "title": "AML Analyst / Senior Analyst | Risk & Finance Regulatory Compliance",
+      "company": "KPMG Poland",
+      "location": "Warsaw (also Łódź, Kraków, Gdańsk) — hybrid",
+      "url": "https://rocketjobs.pl/oferta-pracy/kpmg-aml-analyst-senior-analyst-risk-finance-regulatory-compliance-warszawa-finanse-analiza",
+      "description": "Advisory role (hired at Analyst or Senior Analyst level) performing AML/CTF, sanctions and financial crime investigations, CDD/EDD reviews and KYC remediation for external financial-sector clients, presenting findings to client stakeholders. English C1 and German B2 listed.",
+      "fit": 2,
+      "datePosted": "2026-11-12",
+      "verified": true,
+      "placement": "poland",
+      "tags": [
+        "senior-specialist",
+        "corporate"
+      ],
+      "coverLetterDraft": "Dear KPMG Regulatory Compliance Team,\n\nI am applying for the AML Senior Analyst role in Risk & Finance Regulatory Compliance. Your clients need CDD/EDD reviews and remediation done to a standard that holds up with regulators, and that is the work I have done for most of my career.\n\nAt PwC I built KYC profiles and AML risk ratings for individuals and legal entities, delivered internal AML/KYC training, and completed a six-month on-site client assignment in the Netherlands, so I know the advisory delivery model. At J.P. Morgan I conducted due diligence across Corporate, Financial Institution and listed-company risk tiers. Now, as Compliance Operations Manager at Pliant, I lead corporate KYC due diligence and automate compliance workflows with an internal AI team.\n\nI would bring senior-level judgement on complex structures and high-risk clients, clear written findings, and ideas for making remediation projects faster through automation. I am a native Polish speaker, fluent in English, and my German (B1, progressing to B2) is improving steadily.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How would you plan and staff a KYC remediation project for a client with a large backlog?",
+          "Walk us through an EDD review of a high-risk corporate client from start to final recommendation.",
+          "How do you write a finding so that a client's senior management acts on it?",
+          "What red flags would you look for in transaction data during an AML investigation?",
+          "Tell us about your PwC on-site assignment. What did you deliver and how did you manage the client relationship?",
+          "How strong is your German, and how would you work on German-language client files?"
+        ],
+        "toAsk": [
+          "What mix of remediation, investigations and advisory work does the team currently have?",
+          "Would I be hired at Senior Analyst level given 8+ years of experience, and what's the path to Manager?",
+          "Are clients asking for automation or AI-assisted KYC review, and does the team build such solutions?"
+        ]
+      }
     }
   ]
 }
