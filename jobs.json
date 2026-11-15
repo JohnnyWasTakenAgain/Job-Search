@@ -4889,6 +4889,136 @@
           "Are clients asking for automation or AI-assisted KYC review, and does the team build such solutions?"
         ]
       }
+    },
+    {
+      "id": "worldline-risk-control-design-manager-warszawa-2026",
+      "title": "Risk Control Design Manager",
+      "company": "Worldline",
+      "location": "Warsaw, Poland — hybrid",
+      "url": "https://jobs.worldline.com/job/Risk-Control-Design-Manager/305904-en_US/",
+      "description": "Senior control-design role in Risk Technology that translates 2LoD financial crime policy into control frameworks, data models and automation strategy for the whole customer lifecycle (onboarding, ongoing review, CRR/CRA, offboarding). Asks for 6+ years of leadership experience in KYC/AML/financial crime and acting as deputy to the team lead.",
+      "fit": 3,
+      "datePosted": "2026-11-03",
+      "verified": true,
+      "placement": "poland",
+      "tags": [
+        "ai-automation",
+        "lead-plus",
+        "corporate"
+      ],
+      "coverLetterDraft": "Dear Worldline Hiring Team,\n\nI am applying for the Risk Control Design Manager role. You need someone who can turn financial crime policy into controls that are measurable, automatable and still workable for operations. That is the problem I work on every day.\n\nAs Compliance Operations Manager at Pliant, I lead end-to-end corporate KYC due diligence and sit on an internal AI team automating compliance workflows. That means mapping policy requirements to process steps, deciding what can run straight-through, and defining the data a control needs. Before that I worked across risk tiers at J.P. Morgan, built AML risk ratings at PwC, and co-led an ongoing due-diligence review project at Moonfare. I also have a data background from Refinitiv and a mathematics degree, so data models and risk drivers feel natural to me.\n\nI would bring an operator's view of CRR/CRA and periodic review design, plus hands-on experience getting automation adopted by analysts. I am a native Polish speaker, fluent in English, and ready to work from Warsaw.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How would you translate a new 2LoD policy requirement into a control objective, a business requirement and a measurable outcome?",
+          "Walk us through how you would design a customer risk rating model for a merchant-acquiring portfolio. Which risk drivers matter most?",
+          "Give an example of a KYC process you automated. How did you decide what could be straight-through and what needed human review?",
+          "How do you keep traceability between policy intent, control design and control testing results?",
+          "Tell us about a time you had to align Compliance, Operations and Technology on a disputed design decision.",
+          "How would you approach offboarding controls differently from onboarding controls?"
+        ],
+        "toAsk": [
+          "Which customer lifecycle domain is the biggest design gap right now: onboarding, periodic review or CRR?",
+          "How does the Design capability hand over to the Operationalise and Assure teams, and who owns control effectiveness after go-live?",
+          "What tooling does Risk Technology use for automation and decisioning, and how much room is there to introduce AI-assisted review?"
+        ]
+      }
+    },
+    {
+      "id": "worldline-subject-matter-expert-integrity-risk-warszawa-2026",
+      "title": "Subject Matter Expert (Integrity Risk — AML/KYC & Schemes)",
+      "company": "Worldline",
+      "location": "Warsaw, Poland — hybrid",
+      "url": "https://jobs.worldline.com/job/Subject-Matter-Expert/305894-en_US/",
+      "description": "Integrity-risk SME for merchant acquiring: owns AML/KYC/scheme work instructions, handles onboarding and CDD escalations, and leads the quality-control process, feeding findings back into analyst training. Hybrid, permanent.",
+      "fit": 2,
+      "datePosted": "2026-11-10",
+      "verified": true,
+      "placement": "poland",
+      "tags": [
+        "qa",
+        "senior-specialist",
+        "corporate"
+      ],
+      "coverLetterDraft": "Dear Worldline Hiring Team,\n\nI am applying for the Subject Matter Expert role in integrity risk. The role combines three things I have done throughout my career: writing clear procedures, taking difficult escalations, and checking other people's work.\n\nAt Pliant I lead corporate KYC due diligence and handle the complex cases that fall outside the standard onboarding flow. At PwC I built AML risk ratings and delivered internal AML/KYC training. At J.P. Morgan I reviewed clients across Corporate, Financial Institution and listed-company risk tiers under a four-eyes model. I also work on AI-driven automation of compliance workflows, which helps when QC findings show a process issue rather than a people issue.\n\nI would bring structured QC, root-cause thinking on recurring findings, and training that closes knowledge gaps. I have less exposure to card scheme rules than to AML/KYC, and I would get up to speed on them quickly. I am a native Polish speaker, fluent in English, and ready to work from Warsaw.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How would you design a QC sampling approach for merchant onboarding files, and how would you calibrate reviewers?",
+          "A merchant falls outside the standard onboarding flow: high-risk MCC, complex ownership. Walk us through your escalation decision.",
+          "What do you know about card scheme integrity rules (e.g. Visa VIRP, Mastercard BRAM), and how do they interact with AML requirements?",
+          "How do you write a work instruction that analysts actually follow?",
+          "Tell us about a time QC findings led you to change a process rather than retrain people.",
+          "How would you report recurring integrity risks to senior management and Financial Crime Compliance?"
+        ],
+        "toAsk": [
+          "What are the most common QC findings in the merchant portfolio today?",
+          "How large is the analyst team whose work this role reviews and trains?",
+          "Is there appetite to automate parts of the QC or onboarding-escalation process?"
+        ]
+      }
+    },
+    {
+      "id": "worldline-group-financial-crime-intelligence-officer-warszawa-2026",
+      "title": "Group Financial Crime Intelligence Officer",
+      "company": "Worldline",
+      "location": "Warsaw, Poland (on-site; Poland remote also listed)",
+      "url": "https://jobs.worldline.com/job/Group-Financial-Crime-Intelligence-Officer/305949-en_US/",
+      "description": "Group-level role that turns AML, sanctions, fraud, TM and KYC/CDD data into intelligence: thematic analysis, KRIs, executive MI dashboards, emerging-threat assessments and EWRA support across Worldline entities. Prefers FIU, law-enforcement or AML intelligence backgrounds and BI skills (Power BI/Tableau/SQL).",
+      "fit": 2,
+      "datePosted": "2026-11-10",
+      "verified": true,
+      "placement": "poland",
+      "tags": [
+        "senior-specialist",
+        "corporate"
+      ],
+      "coverLetterDraft": "Dear Worldline Hiring Team,\n\nI am applying for the Group Financial Crime Intelligence Officer role. You are looking for someone who can turn financial crime data from many sources into intelligence senior management can act on. My background combines both halves of that.\n\nOn the AML side, I have eight years in KYC, CDD/EDD and AML risk assessment at Pliant, Moonfare, J.P. Morgan and PwC, so I know how TM, screening and KYC data is produced and where it misleads. On the data side, I started as a Data Analyst at Thomson Reuters (Refinitiv), I work in advanced Excel and SQL, and I hold a mathematics degree. At Pliant I am part of an internal AI team automating compliance workflows, which includes defining the metrics we use to judge whether a control works.\n\nI would bring KRIs that link to real control weaknesses, and MI that tells a story instead of only listing volumes. I am a native Polish speaker, fluent in English, and ready to work from Warsaw.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "Which KRIs would you build first to spot deteriorating KYC/CDD quality across entities?",
+          "How would you combine TM alert, SAR and sanctions data to identify a linked or systemic risk?",
+          "Walk us through a dashboard or MI pack you built. Who used it and what decision did it change?",
+          "How do you handle poor data quality or inconsistent definitions between local entities?",
+          "What emerging financial crime typologies in payments and merchant acquiring concern you most right now?",
+          "How would your analysis feed into the enterprise-wide risk assessment (EWRA)?"
+        ],
+        "toAsk": [
+          "Which data sources does the intelligence function already have access to, and which are still siloed?",
+          "Who are the main consumers of the intelligence output: Group FCC leadership, local MLROs, the board?",
+          "Is the role expected to use AI/analytics tooling, and is there a data team to partner with?"
+        ]
+      }
+    },
+    {
+      "id": "michael-page-senior-aml-specialist-berlin-payments-2026",
+      "title": "Senior AML Specialist (m/w/d)",
+      "company": "Confidential global payments & money-transfer firm (via Michael Page)",
+      "location": "Berlin — hybrid",
+      "url": "https://www.michaelpage.de/job-detail/senior-aml-specialist-mwd/ref/jn-082026-7088700",
+      "description": "Senior AML compliance role in the Berlin unit of a global payments and money-transfer provider: complex KYC/CDD/EDD reviews, suspicious-activity assessments, improving monitoring and screening processes, and supporting less experienced colleagues. Very good German and English required.",
+      "fit": 2,
+      "datePosted": "2026-08-24",
+      "verified": true,
+      "placement": "berlin-based",
+      "tags": [
+        "senior-specialist",
+        "corporate"
+      ],
+      "coverLetterDraft": "Dear Hiring Team,\n\nI am applying for the Senior AML Specialist role in Berlin. The role covers complex KYC/EDD cases, suspicious-activity assessments, improving monitoring and screening, and mentoring junior colleagues. That is a close match to my last eight years.\n\nAs Compliance Operations Manager at Pliant, a Berlin card and payments company, I lead corporate KYC due diligence and help automate compliance workflows as part of an internal AI team. At J.P. Morgan I reviewed clients across Corporate, Financial Institution and listed-company risk tiers. At PwC I built AML risk ratings for individuals and legal entities and trained colleagues on AML/KYC. At Moonfare I co-led an ongoing due-diligence review project.\n\nI would bring sound judgement on high-risk files, practical ideas for making screening and monitoring more efficient, and patience in coaching analysts. My English is fluent and my German is B1, progressing to B2. I am glad to discuss how that fits the team's day-to-day language needs.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "Walk us through how you assess whether activity on a money-transfer customer should become an internal suspicious-activity report.",
+          "Which red flags are specific to payments and remittance businesses compared with traditional banking?",
+          "How would you reduce false positives in sanctions or PEP screening without increasing risk?",
+          "Describe an EDD case where you recommended exiting the relationship. How did you justify it?",
+          "How do you support and review the work of less experienced analysts?",
+          "Can you work on German-language documents and with BaFin-facing stakeholders in German?"
+        ],
+        "toAsk": [
+          "How is the Berlin unit positioned within the group's global compliance structure, and who does this role report to?",
+          "Which monitoring or screening improvements are currently planned, and how much ownership would this role have?",
+          "Is there a path from this role to a team lead or quality-assurance position?"
+        ]
+      }
     }
   ]
 }
