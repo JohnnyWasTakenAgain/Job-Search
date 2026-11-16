@@ -5019,6 +5019,72 @@
           "Is there a path from this role to a team lead or quality-assurance position?"
         ]
       }
+    },
+    {
+      "id": "citi-sanctions-payments-manager-warszawa-2026",
+      "title": "Sanctions Payments Manager",
+      "company": "Citi (Citi Solutions Center Poland)",
+      "location": "Warsaw, Poland — hybrid (up to 2 days/week from home)",
+      "url": "https://citi.wd5.myworkdayjobs.com/2/job/Warsaw--Poland/Sanctions-Payments-Manager_261005567-1",
+      "description": "Leads a Cash and Trade Operations team that runs sanctions controls on payments. The role owns quality, productivity and regulatory compliance, handles complex sanctions escalations, and drives process improvement and automation, including AI-enabled tools. Asks for 5-8 years in sanctions, payments or operations management with team leadership.",
+      "fit": 2,
+      "datePosted": "2026-11-06",
+      "verified": true,
+      "placement": "poland",
+      "tags": [
+        "compliance-leadership",
+        "lead-plus",
+        "corporate"
+      ],
+      "coverLetterDraft": "Dear Citi Hiring Team,\n\nI am applying for the Sanctions Payments Manager role in Warsaw. You want a leader who keeps sanctions controls on payments accurate under time pressure and makes the process faster through automation. That describes my current work.\n\nAs Compliance Operations Manager at Pliant, I lead end-to-end KYC due diligence for corporate clients. I am also part of the internal AI team that automates our compliance workflows: I define the requirements, test the changes and roll them out to the team. Across eight years in banking and fintech, including sanctions, PEP and adverse-media screening at J.P. Morgan and PwC, I have worked under the four-eyes principle and handled regulatory escalations. At State Street I reconciled investment activity and resolved breaks with brokers, so I know how payment operations look from the inside.\n\nMy direct payments-sanctions experience is narrower than my KYC background. What I bring is strong control discipline, quality review of others' work, and a record of measurable automation. I am a native Polish speaker and fluent in English.\n\nKind regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "Walk us through how you would handle a payment sanctions hit with a partial name match on a high-value, time-critical transfer.",
+          "How would you measure and improve quality and productivity in a sanctions payments team without increasing risk?",
+          "Your background is mostly KYC/CDD. How does that transfer to real-time payment sanctions screening, and how would you close the gap?",
+          "Describe an automation or AI-enabled improvement you delivered in a compliance workflow. How did you measure its impact?",
+          "Tell us about a time you had to escalate a control weakness against business pressure.",
+          "How would you develop and retain analysts on a team that must cover public holidays and tight cut-offs?"
+        ],
+        "toAsk": [
+          "What share of alerts are currently false positives, and are there plans to use AI or tuning to reduce them?",
+          "How is the team split between Warsaw and other Citi hubs, and which sanctions programs and currencies does it cover?",
+          "What would a successful first six months look like in KPIs such as SLA, error rate and escalation quality?"
+        ]
+      }
+    },
+    {
+      "id": "revolut-fincrime-team-lead-escalations-krakow-2026",
+      "title": "FinCrime Team Lead (Escalations)",
+      "company": "Revolut",
+      "location": "Kraków, Poland — office or remote within Poland",
+      "url": "https://www.revolut.com/careers/position/30c9f47c-19e1-44cf-993c-4d0d8981b6ad/",
+      "description": "Leads a financial crime escalations team in Kraków that handles complex AML/fraud escalations and reviews analysts' decisions. The posted pay is PLN 11,100-16,100 gross per month. This was confirmed only through search results: the Revolut page blocks automated loading.",
+      "fit": 2,
+      "datePosted": "2026-11-16",
+      "verified": false,
+      "placement": "poland",
+      "tags": [
+        "compliance-leadership",
+        "qa",
+        "lead-plus"
+      ],
+      "coverLetterDraft": "Dear Revolut Hiring Team,\n\nI am applying for the FinCrime Team Lead (Escalations) role in Kraków. An escalations team needs someone who can make sound decisions on the hardest cases and raise the quality of everyone else's. That has been the core of my work for eight years.\n\nAt Pliant I lead end-to-end KYC due diligence for corporate clients and set the standards for how complex and high-risk cases are escalated. I also work in the internal AI team that automates our compliance workflows. At Moonfare I co-led the ongoing due-diligence review project. At J.P. Morgan I handled due diligence across Corporate, Financial Institution and listed-company risk tiers. At PwC I built AML risk ratings and trained colleagues on AML/KYC.\n\nI work by the four-eyes principle: clear decision rationale, consistent escalation criteria, and feedback that helps analysts improve. I would bring that, along with a habit of automating repetitive steps, to your escalations team. I am a native Polish speaker and fluent in English.\n\nKind regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "Walk us through how you would decide whether an escalated case warrants a SAR, account restriction or offboarding.",
+          "How would you calibrate decision quality across analysts with different levels of experience?",
+          "How do you balance SLA pressure and backlog against decision quality in an escalations queue?",
+          "Give an example of a process you automated or simplified in a compliance team, and the result.",
+          "Tell us about a time you disagreed with a reviewer's or analyst's decision. How did you resolve it?",
+          "What red flags do you look for in fintech retail and business accounts that differ from traditional banking?"
+        ],
+        "toAsk": [
+          "Which escalation types does the team handle (fraud, AML, sanctions, or law-enforcement requests), and what volume comes in per analyst?",
+          "How are QA results and decision accuracy measured for the team, and how do they feed into the lead's goals?",
+          "Is there room for the team lead to drive tooling or automation changes in the escalation workflow?"
+        ]
+      }
     }
   ]
 }
