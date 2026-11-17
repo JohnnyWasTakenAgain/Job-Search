@@ -5085,6 +5085,38 @@
           "Is there room for the team lead to drive tooling or automation changes in the escalation workflow?"
         ]
       }
+    },
+    {
+      "id": "millennium-ekspert-monitorowania-raportowania-aml-warszawa-2026-11",
+      "title": "Ekspert / Ekspertka ds. Monitorowania i Raportowania",
+      "company": "Bank Millennium S.A.",
+      "location": "Warszawa (on-site; remote recruitment process)",
+      "url": "https://www.karierawfinansach.pl/oferta-pracy/284377,ekspert-ekspertka-ds-monitorowania-i-raportowania-warszawa",
+      "description": "Expert-level AML transaction-monitoring role in Bank Millennium's compliance function: analysing transactions and clients for ML/TF, preparing GIIF suspicious-activity notifications, PEP/sanctions checks, and answering GIIF/KNF and inter-bank requests. Requires 3+ years of AML transaction-monitoring experience; SQL, Power BI and ACAMS are pluses.",
+      "placement": "poland",
+      "tags": [
+        "senior-specialist",
+        "corporate"
+      ],
+      "fit": 2,
+      "datePosted": "2026-11-17",
+      "verified": true,
+      "coverLetterDraft": "Dear Hiring Team,\n\nI am applying for the Expert, Monitoring and Reporting role at Bank Millennium. The role covers transaction monitoring, GIIF notifications, PEP and sanctions checks, and close work with the KYC team. That matches the core of my eight years in AML and KYC.\n\nAt PwC I built KYC profiles and AML risk ratings for individuals and legal entities and trained colleagues on AML/KYC. At J.P. Morgan I ran due diligence across Corporate, Financial Institution and listed-company risk tiers. As Compliance Operations Manager at Pliant, a Berlin payments company, I lead corporate KYC due diligence, handle escalations under the four-eyes principle, and help automate compliance workflows as part of an internal AI team.\n\nI also bring the data skills you list as a plus: advanced Excel, SQL fundamentals, and a background in mathematics and data analysis from Refinitiv. I would use them to find patterns in alerts and to raise detection rates, not only to clear queues. Polish is my native language, so I can work directly with Polish AML law and GIIF/KNF correspondence.\n\nBest regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "Walk us through how you decide whether a transaction-monitoring alert should become a notification to GIIF. What makes the rationale defensible?",
+          "Which typologies would you expect to see most often in a Polish retail and SME bank, and how would you spot them in the data?",
+          "How do the obligations under the Polish AML/CFT Act (ustawa o przeciwdziałaniu praniu pieniędzy) differ from the German or EU-level rules you have worked under?",
+          "How would you use SQL or Power BI to improve detection or cut false positives in monitoring scenarios?",
+          "Describe a case where you disagreed with the first line or a colleague on a suspicious-activity decision. How did you resolve it?",
+          "How do you handle a tight GIIF or KNF deadline while keeping documentation quality high?"
+        ],
+        "toAsk": [
+          "How are monitoring scenarios tuned today, and would this role help with threshold calibration or new rules beyond case work?",
+          "What share of alerts become GIIF notifications, and how does the team measure the quality of its decisions?",
+          "Are there plans to use automation or AI in transaction monitoring or GIIF reporting, and could this role contribute to them?"
+        ]
+      }
     }
   ]
 }
