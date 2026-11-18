@@ -5117,6 +5117,133 @@
           "Are there plans to use automation or AI in transaction monitoring or GIIF reporting, and could this role contribute to them?"
         ]
       }
+    },
+    {
+      "id": "ey-gds-financial-crime-senior-risk-associate-wroclaw-katowice-2026-11",
+      "title": "Financial Crime Senior Risk Associate",
+      "company": "EY GDS Poland",
+      "location": "Wrocław / Katowice, Poland (hybrid, 2 days office / 3 remote)",
+      "url": "https://rocketjobs.pl/oferta-pracy/ey-gds-poland-financial-crime-senior-risk-associate-katowice-finanse-analiza",
+      "placement": "poland",
+      "tags": [
+        "senior-specialist",
+        "corporate"
+      ],
+      "description": "Senior IC in EY's GDS Central Financial Crime Team: client due diligence, KYC risk assessments and sanctions/PEP/adverse-media screening for EY's global 1LoD compliance, plus guiding junior team members, leading project work and testing/validating new technology.",
+      "fit": 2,
+      "datePosted": "2026-11-16",
+      "verified": true,
+      "coverLetterDraft": "Dear Hiring Team,\n\nThe Financial Crime Senior Risk Associate role combines the work I know best, complex client due diligence and risk assessment, with two things I want more of: guiding less experienced colleagues and helping test new technology.\n\nI bring 8+ years in KYC/AML across PwC, J.P. Morgan, Moonfare and now Pliant. At PwC I built KYC profiles and AML risk ratings for individuals and legal entities and delivered internal AML/KYC training. At J.P. Morgan I ran due diligence across multiple risk tiers for corporate, FI and listed-company clients. At Pliant I lead end-to-end corporate KYC and work in the internal AI team automating compliance workflows, which is directly relevant to validating new screening and due-diligence tools.\n\nI am comfortable clearing sanctions, PEP and adverse-media hits, escalating the real ones and explaining risk decisions to client-serving teams in plain language. I am a native Polish speaker with fluent English, and I would welcome the chance to support EY's central financial crime programme from Wrocław or Katowice.\n\nKind regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "Walk us through how you would risk-assess a new corporate client with a layered ownership structure and an offshore UBO.",
+          "How do you decide whether an adverse-media or PEP hit is a true match, and what do you document when you discount it?",
+          "How does acceptance due diligence for a professional-services firm differ from customer onboarding at a bank or fintech?",
+          "Tell us about a time you coached a less experienced analyst whose case quality was slipping. What did you change?",
+          "You have been asked to help test a new screening tool. How would you design the test cases and judge whether it is fit for production?",
+          "How do you handle a client-serving partner who pushes back on an information request they think is excessive?"
+        ],
+        "toAsk": [
+          "Which parts of the acceptance and continuance process does the Central Financial Crime Team plan to automate next, and how are senior associates involved in testing it?",
+          "How is quality reviewed in the team, and is there a path from senior associate into QC or team-lead responsibilities?",
+          "What volume and mix of cases (jurisdictions, risk tiers) does a senior associate typically handle each week?"
+        ]
+      }
+    },
+    {
+      "id": "revolut-head-of-financial-crime-fraud-risk-bank-uab-remote-2026-11",
+      "title": "Head of Financial Crime & Fraud Risk",
+      "company": "Revolut (Revolut Bank UAB)",
+      "location": "Remote: Lithuania, Poland, Portugal, Romania, Spain, UK",
+      "url": "https://www.revolut.com/careers/position/34647acd-dc06-4897-a30a-f1cca93abc87/",
+      "placement": "remote-europe",
+      "tags": [
+        "compliance-leadership",
+        "lead-plus"
+      ],
+      "description": "Leads the 1LoD FinCrime and Fraud teams for Revolut Bank UAB and its EU branches, covering CDD/KYC, customer screening, transaction monitoring, sanctions, fraud and regulatory reporting, plus intelligence-led investigations. Senior leadership role (9+ years in major financial institutions).",
+      "fit": 2,
+      "datePosted": "2026-11-18",
+      "verified": true,
+      "coverLetterDraft": "Dear Hiring Team,\n\nRevolut Bank UAB needs a 1LoD financial crime function that scales across many EU branches without losing control quality. My career has followed that same line, from hands-on due diligence to running compliance operations and automating them.\n\nI have 8+ years in KYC, AML and financial operations at PwC, J.P. Morgan, Moonfare and Pliant. As Compliance Operations Manager at Pliant I own end-to-end KYC due diligence for corporate clients and sit in the internal AI team, rebuilding compliance workflows so analysts spend their time on judgement, not data gathering. At Moonfare I co-led the ongoing due-diligence review project and worked with product and engineering on automation. At J.P. Morgan and PwC I handled multi-tier due diligence, AML risk ratings and four-eyes reviews, and delivered AML/KYC training.\n\nWhat I would bring is an operator's view of CDD, screening and escalations combined with a habit of measuring and automating them. I am a native Polish speaker with fluent English and B1 German, and I would be glad to discuss how I could support the 1LoD build-out across the bank's branches.\n\nKind regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How would you structure 1LoD FinCrime and fraud teams across Revolut Bank UAB's branches, and what would you centralise versus keep local?",
+          "Which KPIs and KRIs would you report to the bank's management to show that CDD, screening and monitoring controls are effective?",
+          "Describe a process you automated in compliance operations. How did you prove it did not weaken controls?",
+          "How would you prepare the 1LoD for a Bank of Lithuania inspection, or for remediation findings from one?",
+          "Tell us about a time you had to scale a team quickly while keeping case quality stable.",
+          "How do you balance customer friction against fraud and AML risk in a high-volume digital bank?"
+        ],
+        "toAsk": [
+          "What is the biggest gap between the current 1LoD set-up and where the bank needs to be in 12 months: people, tooling or regulatory findings?",
+          "How much autonomy does this role have over tooling and automation decisions, compared with central Revolut FinCrime product teams?",
+          "How are the fraud and AML 1LoD teams split today, and do you expect this leader to merge or rebuild them?"
+        ]
+      }
+    },
+    {
+      "id": "revolut-fcc-manager-wealth-trading-remote-2026-11",
+      "title": "Financial Crime Compliance Manager (Wealth & Trading)",
+      "company": "Revolut",
+      "location": "Remote: Poland, Portugal, Spain",
+      "url": "https://www.revolut.com/careers/position/7986c470-1d70-4de9-9542-17f05fec2a61/",
+      "placement": "remote-europe",
+      "tags": [
+        "lead-plus"
+      ],
+      "description": "Second-line FinCrime compliance manager for Revolut's wealth and trading products: maintains FinCrime policies and standards, oversees and challenges the management and remediation of financial-crime risks, issues and control gaps, and supports AML control effectiveness.",
+      "fit": 2,
+      "datePosted": "2026-11-18",
+      "verified": true,
+      "coverLetterDraft": "Dear Hiring Team,\n\nThe Wealth & Trading FinCrime role suits my background. I have worked on financial crime controls in investment and asset-management settings as well as fintech, and I want to apply that experience in an oversight role.\n\nAt Moonfare, a private-markets investment platform, I guided institutional clients through KYC/AML documentation and co-led the ongoing due-diligence review project. At J.P. Morgan I ran due diligence on corporate, FI and publicly traded clients, and earlier at State Street I reconciled investment activity with brokers and investment managers. That gives me a working knowledge of how trading and custody flows create money-laundering risk. I now lead corporate KYC at Pliant and help automate compliance workflows in the internal AI team, so I know what effective controls look like from the operations side.\n\nI would bring structured challenge on risks, incidents and control gaps, practical policy writing, and a data-driven approach to testing whether controls work. I am a native Polish speaker with fluent English, and I would welcome a conversation.\n\nKind regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "What are the main money-laundering typologies in retail brokerage and wealth products, and which controls address them?",
+          "How would you challenge a 1LoD team that wants to close a control-gap issue you believe is not fully remediated?",
+          "Walk us through how you would update a FinCrime standard after a regulatory change. Who do you involve, and how do you check it has been embedded?",
+          "Give an example of using data to show a control was not working as designed.",
+          "How would you oversee a business line moving quickly on new trading features while keeping financial-crime risk within appetite?"
+        ],
+        "toAsk": [
+          "Which wealth and trading products or markets are launching next, and where does 2LoD FinCrime currently feel least comfortable?",
+          "How does this role work with the FinCrime Quality Control and Assurance teams? Is testing done here or handed off?",
+          "What does success look like for this role at 6 and 12 months?"
+        ]
+      }
+    },
+    {
+      "id": "bnp-paribas-aml-kyi-team-leader-warszawa-2026-11",
+      "title": "AML/KYI Team Leader",
+      "company": "BNP Paribas (Corporate & Institutional Banking)",
+      "location": "Warsaw, Poland",
+      "url": "https://group.bnpparibas/en/careers/job-offer/aml-kyi-team-leader-3",
+      "placement": "poland",
+      "tags": [
+        "compliance-leadership",
+        "lead-plus",
+        "corporate"
+      ],
+      "description": "Team leader driving the quality and integrity of client onboarding and ongoing/periodic due-diligence (KYI) processes in BNP Paribas CIB's Warsaw hub. Listing last updated 4 Nov 2026 according to search results; it starts as a fixed-term contract that becomes permanent. Could not open the page directly (access denied).",
+      "fit": 3,
+      "datePosted": "2026-11-04",
+      "verified": false,
+      "coverLetterDraft": "Dear Hiring Team,\n\nI am applying for the AML/KYI Team Leader role because it combines what I do now, owning onboarding and ongoing due diligence for corporate clients, with leading and calibrating a team's work.\n\nI have 8+ years in KYC/AML. As Compliance Operations Manager at Pliant I lead end-to-end KYC due diligence for corporate clients and help automate compliance workflows in the internal AI team. At Moonfare I co-led the firm's ongoing due-diligence review project. At J.P. Morgan I performed due diligence across risk tiers for corporate, financial-institution and listed clients, which is the CIB client mix your team handles. At PwC I built AML risk ratings and trained colleagues on AML/KYC.\n\nAs a team leader I would focus on clear quality standards, four-eyes reviews that actually teach, and removing manual steps that slow periodic reviews and threaten SLAs. I am a native Polish speaker with fluent English and B1 German, and I am ready to work from Warsaw.\n\nKind regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How would you organise a team to clear a backlog of periodic reviews without letting onboarding SLAs slip?",
+          "What do you look for when quality-checking a corporate or FI KYC file, and how do you give feedback on a weak one?",
+          "Walk us through EDD for a high-risk correspondent or institutional client.",
+          "Tell us about a time you improved or automated a KYC process. What was the measurable result?",
+          "How do you handle a front-office relationship manager pushing to onboard a client before the KYC file is complete?",
+          "How would you motivate and develop analysts in a high-volume, repetitive operations environment?"
+        ],
+        "toAsk": [
+          "How big is the team, what is its experience mix, and what are the main KPIs the team leader is measured on?",
+          "What tooling does the team use for onboarding and periodic reviews, and are there automation initiatives the team leader would help shape?",
+          "What are the criteria for moving from the fixed-term contract to a permanent one?"
+        ]
+      }
     }
   ]
 }
