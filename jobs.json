@@ -5244,6 +5244,104 @@
           "What are the criteria for moving from the fixed-term contract to a permanent one?"
         ]
       }
+    },
+    {
+      "id": "torrero-head-of-kyc-remote-2026-11",
+      "title": "Head of KYC (CDD/EDD)",
+      "company": "Torrero",
+      "location": "Remote (work from anywhere; contract registered in Estonia)",
+      "placement": "remote-europe",
+      "tags": [
+        "compliance-leadership",
+        "qa",
+        "lead-plus"
+      ],
+      "url": "https://torrero.bamboohr.com/careers/426",
+      "description": "Lead and develop the KYC team at a B2B iGaming platform provider: own CDD/EDD operations, build quality-assurance procedures, root-cause recurring errors, and review complex PEP/adverse-media/source-of-funds cases. Full-time contractor role; fluent Russian and English required.",
+      "fit": 1,
+      "datePosted": "2026-11-19",
+      "verified": true,
+      "coverLetterDraft": "Dear Hiring Team,\n\nYour Head of KYC role asks for a hands-on leader who can combine CDD/EDD depth with quality control and team development, which is the core of my last eight years.\n\nAs Compliance Operations Manager at Pliant, I lead end-to-end due diligence for corporate clients and drive AI-driven automation of compliance workflows. At Moonfare I co-led an ongoing due-diligence review project, and at J.P. Morgan and PwC I handled EDD across multiple risk tiers, built AML risk ratings and delivered internal KYC training. I apply the four-eyes principle as a working habit: reviewing others' cases, calibrating decisions, and turning recurring errors into clearer checklists and guidance.\n\nI would bring the same approach to Torrero: measurable QA, root-cause fixes rather than re-work, and automation where volume justifies it, while keeping SLA adherence visible. I should flag upfront that my languages are English, Polish and German (B1) rather than Russian; if that requirement has any flexibility, I would welcome a conversation.\n\nKind regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How would you design a KYC QA framework from scratch for a high-volume iGaming verification team — sampling, error taxonomy, feedback loops?",
+          "Walk us through a complex EDD case (PEP or unclear source of wealth) and how you reached and documented the decision.",
+          "How do MGA/UKGC player-verification expectations differ from banking KYC, and how would you adapt?",
+          "Tell us about a time a team member repeatedly made the same error. How did you address it?",
+          "Which KYC steps would you automate first, and how would you control the risk of automation errors?",
+          "How do you balance SLA pressure against decision quality in peak periods?"
+        ],
+        "toAsk": [
+          "What are the current error rates and SLA gaps that prompted creating this role?",
+          "How is the KYC team split between in-house specialists and outsourced vendors, and who owns tooling decisions?",
+          "How flexible is the Russian-language requirement — is it for player communication or internal documentation?"
+        ]
+      }
+    },
+    {
+      "id": "scalable-anti-financial-crime-expert-berlin-2026-10",
+      "title": "Anti-Financial Crime Expert (m/f/x)",
+      "company": "Scalable Capital",
+      "location": "Berlin, Germany (hybrid; Munich also possible)",
+      "placement": "berlin-based",
+      "tags": [
+        "senior-specialist",
+        "startup"
+      ],
+      "url": "https://jobs.smartrecruiters.com/ScalableGmbH/744000153122939",
+      "description": "Transaction-monitoring specialist at the fully licensed neobroker/bank: review alerts, run in-depth AML/TF investigations and prepare suspicious-activity reporting with thorough case documentation. Two-year fixed-term role; fluent German and English required.",
+      "fit": 1,
+      "datePosted": "2026-10-02",
+      "verified": true,
+      "coverLetterDraft": "Dear Scalable Capital Team,\n\nYour Anti-Financial Crime Expert role centres on alert review, in-depth investigation and precise case documentation — work I have done across banking and fintech for over eight years.\n\nAt PwC I built AML risk ratings and investigated individuals and legal entities; at J.P. Morgan I conducted due diligence across corporate, financial-institution and listed-company clients; and as Compliance Operations Manager at Pliant I lead end-to-end KYC for corporate clients while automating compliance workflows with our internal AI team. Clear, defensible documentation and risk-based escalation decisions are central to all of it.\n\nBeyond case work, I could help Scalable reduce alert-handling time by identifying recurring false-positive patterns and feeding them back into scenario tuning and workflow automation. I am based in Berlin, work fluently in English, and my German is at B1 and progressing to B2 — I would be glad to discuss how that fits the team's day-to-day needs.\n\nKind regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "Walk us through how you investigate a transaction-monitoring alert on a brokerage account, from triage to SAR decision.",
+          "Which red flags are specific to securities and crypto trading versus classic payments?",
+          "Describe a case where you decided not to file — how did you document the rationale?",
+          "How do you stay consistent and fast when alert volumes spike?",
+          "What is your understanding of the German Verdachtsmeldung process via goAML and the FIU?",
+          "Tell us about a process improvement you introduced that reduced manual work."
+        ],
+        "toAsk": [
+          "What does the alert-to-SAR ratio look like today, and how often are scenarios tuned?",
+          "How much of the daily work happens in German versus English?",
+          "Is there a path to a permanent or more senior role after the two-year fixed term?"
+        ]
+      }
+    },
+    {
+      "id": "amlrs-senior-financial-crime-investigator-krakow-r103096",
+      "title": "Senior Financial Crime Investigator",
+      "company": "AML RightSource",
+      "location": "Kraków, Poland (remote options depending on project)",
+      "placement": "poland",
+      "tags": [
+        "qa",
+        "senior-specialist",
+        "corporate"
+      ],
+      "url": "https://amlrightsource.wd1.myworkdayjobs.com/amlrightsource/job/Krakow-Poland/Senior-Financial-Crime-Investigator---Krakow--Poland_R-103096",
+      "description": "Senior analyst at the AML managed-services firm combining hands-on investigation of unusual activity and KYC file review with quality-control reviews of associate analysts' work and support for the manager in supervising the team. Salary 6,500–14,500 PLN gross/month.",
+      "fit": 2,
+      "datePosted": "2026-10-15",
+      "verified": true,
+      "coverLetterDraft": "Dear AML RightSource Team,\n\nThe Senior Financial Crime Investigator role pairs investigation with quality-control review of analysts' work and team supervision support — the combination I most want to deepen.\n\nOver eight years I have worked across the KYC/AML chain: AML risk ratings and internal training at PwC, multi-tier due diligence for corporate and FI clients at J.P. Morgan, a co-led periodic-review project at Moonfare, and, currently, end-to-end corporate KYC as Compliance Operations Manager at Pliant. Reviewing others' cases under the four-eyes principle and turning findings into clear feedback has been part of each role.\n\nI would bring a structured QC approach — consistent error categories, calibrated sampling and targeted coaching — plus experience automating repetitive compliance steps with AI tools, which suits a managed-services model where quality and throughput both matter to clients. I am a native Polish speaker, fluent in English, with German at B1.\n\nKind regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "Walk us through how you would investigate an alert and write the summary with your recommendation.",
+          "How do you run a quality-control review of a junior analyst's case, and how do you deliver the feedback?",
+          "What US BSA/AML concepts are most relevant when working for US bank clients from Kraków?",
+          "Describe a time you found a significant error in someone else's work under deadline pressure.",
+          "How would you help a team hit both quality and production targets?",
+          "What client-specific tools or training have you developed before?"
+        ],
+        "toAsk": [
+          "Which client projects is this role aligned to, and how are QC sample sizes and error thresholds set?",
+          "What does the progression path from Senior Analyst to Team Lead or QC Manager typically look like?",
+          "How is AI or automation being used in investigations across client projects today?"
+        ]
+      }
     }
   ]
 }
