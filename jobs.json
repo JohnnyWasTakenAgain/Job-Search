@@ -5342,6 +5342,138 @@
           "How is AI or automation being used in investigations across client projects today?"
         ]
       }
+    },
+    {
+      "id": "jpmc-fraud-ops-team-lead-sar-filing-berlin-210773255",
+      "title": "Fraud Operations Team Lead - SAR Filing (all genders)",
+      "company": "J.P. Morgan Chase (Chase Germany)",
+      "location": "Berlin, Germany",
+      "placement": "berlin-based",
+      "tags": [
+        "qa",
+        "lead-plus",
+        "corporate"
+      ],
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773255",
+      "description": "People-lead role in Chase Germany's Financial Crime Operations & Investigations (FCOI) team, managing a team of specialists who file suspicious activity reports (SARs). You would track productivity and quality metrics, guide the team on complex escalations, run root-cause and error analysis, and lead process improvements and regulatory changes.",
+      "fit": 2,
+      "datePosted": "2026-11-19",
+      "verified": true,
+      "coverLetterDraft": "Dear Chase Germany Hiring Team,\n\nThe Fraud Operations Team Lead role, which combines people leadership, quality metrics and process improvement on SAR filing, matches the direction I want to take.\n\nI know JPMorganChase from the inside: as a KYC Analyst there I carried out due diligence across several risk tiers for Corporate, Financial Institution and Publicly Traded clients under the firm's control standards. Since then, at PwC, Moonfare and now Pliant as Compliance Operations Manager, I have built AML risk ratings, co-led an ongoing due-diligence review project and run end-to-end corporate KYC. In each role I reviewed others' work under the four-eyes principle and turned error patterns into clearer procedures.\n\nAt Pliant I also drive AI-driven automation of compliance workflows. I would bring that experience to your process-improvement goals: cutting manual SAR preparation steps, setting consistent quality checks and building feedback loops that improve investigation outcomes. I would also coach specialists so the team meets both productivity and control standards.\n\nI am based in Berlin, fluent in English, with German at B1 and improving.\n\nKind regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "What makes a SAR high quality, and how would you check that across a team of specialists?",
+          "How would you balance productivity targets with quality and control standards when volumes spike?",
+          "Tell us about a time you found a recurring error in others' work. How did you fix the root cause?",
+          "How would you put a new regulatory requirement into the team's SAR-filing procedures?",
+          "Describe how you coach a specialist whose quality scores keep slipping.",
+          "Where do you see room for automation or AI in fraud and SAR operations without weakening controls?"
+        ],
+        "toAsk": [
+          "How are SAR quality and productivity measured today, and which metric matters most to leadership?",
+          "How does the FCOI team work with AML/Compliance and the Chase UK teams on typologies and feedback?",
+          "Which process or technology initiatives are planned for SAR filing in the next year?"
+        ]
+      }
+    },
+    {
+      "id": "western-union-senior-manager-aml-compliance-berlin-2026-11",
+      "title": "Senior Manager, AML Compliance - Berlin",
+      "company": "Western Union",
+      "location": "Berlin, Germany (Design Offices Am Zoo; hybrid)",
+      "placement": "berlin-based",
+      "tags": [
+        "compliance-leadership",
+        "lead-plus",
+        "corporate"
+      ],
+      "url": "https://www.remotely.de/job/i60-wupsil-office-france-senior-manager-aml-compliance-berlin",
+      "description": "Senior AML leadership role over Western Union's AML/CTF/sanctions framework in Germany: risk assessments, investigations, SAR oversight, CDD/EDD/KYC standards, MLRO duties for FX and Money Transfer, and contact with BaFin and the Bundesbank. Asks for 7-9 years in AML and fluent German; the listing's estimated end date is 30 Nov 2026.",
+      "fit": 1,
+      "datePosted": "2026-11-20",
+      "verified": true,
+      "coverLetterDraft": "Dear Western Union Hiring Team,\n\nThe Senior Manager, AML Compliance role in Berlin, with its oversight of the AML/CTF and sanctions framework and its leadership of CDD/EDD standards, builds directly on the work I have done for eight years.\n\nI have covered most of the financial-crime chain: AML risk ratings and internal AML/KYC training at PwC, multi-tier due diligence for corporate and FI clients at J.P. Morgan, a co-led ongoing due-diligence review at Moonfare, and, currently, end-to-end corporate KYC as Compliance Operations Manager at Pliant. That includes escalation management, PEP and adverse-media screening, and four-eyes review of others' cases.\n\nAt Pliant I am also part of an internal AI team automating compliance workflows. I would bring that to a payments business where volumes are high and consistent controls matter.\n\nMy German is at B1 and progressing to B2, so I would be glad to discuss how the role's German-language duties could be supported while I complete that step.\n\nKind regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "Walk us through how you would structure an AML/CTF business-wide risk assessment for a money-transfer and FX business in Germany.",
+          "How would you oversee an outsourced SAR-filing process and keep quality and timeliness under control?",
+          "What do BaFin and the Bundesbank expect most from a payments institution's AML function today?",
+          "Describe a time you challenged the business on a high-risk customer or corridor decision.",
+          "How would you set and monitor CDD/EDD standards across teams of different maturity?",
+          "How would you use automation or AI to make transaction monitoring and screening more effective?"
+        ],
+        "toAsk": [
+          "How is the German AML function split between local teams and global or outsourced centres?",
+          "What were the main findings of recent audits or regulatory reviews, and where is remediation still open?",
+          "How much German-language regulatory interaction is expected in the first six months?"
+        ]
+      }
+    },
+    {
+      "id": "revolut-fcc-manager-correspondent-banking-krakow-2026",
+      "title": "Financial Crime Compliance Manager (Correspondent Banking)",
+      "company": "Revolut",
+      "location": "Kraków, Poland (office) or remote within Poland",
+      "placement": "poland",
+      "tags": [
+        "compliance-leadership",
+        "lead-plus",
+        "startup"
+      ],
+      "url": "https://www.revolut.com/careers/position/9634c7a5-d98c-4d12-95bc-12be4da88d25/",
+      "description": "Second-line financial crime compliance manager covering Revolut's correspondent banking relationships: due diligence on respondent banks, risk assessments and oversight of FCC controls. Listed for Kraków or remote in Poland at PLN 17,000-23,600 gross/month (per search snippets).",
+      "fit": 2,
+      "datePosted": "2026-11-20",
+      "verified": false,
+      "coverLetterDraft": "Dear Revolut Hiring Team,\n\nThe Financial Crime Compliance Manager (Correspondent Banking) role fits my background in institutional due diligence and financial crime risk.\n\nAt J.P. Morgan I carried out KYC across several risk tiers for a global portfolio that included Financial Institution clients, where ownership, regulatory status and nested-activity risk had to be properly understood. At PwC I built AML risk ratings for legal entities and delivered AML/KYC training. I now lead end-to-end corporate KYC as Compliance Operations Manager at Pliant, after co-leading an ongoing due-diligence review project at Moonfare.\n\nI would bring a structured, evidence-based approach to respondent-bank risk assessment and control oversight. I would also bring hands-on experience automating compliance workflows with AI, which helps with periodic reviews, screening and evidence gathering at Revolut's scale.\n\nI am a native Polish speaker, fluent in English, and comfortable working from Kraków or remotely in Poland.\n\nKind regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "What are the key financial crime risks in correspondent banking, including nested relationships and payable-through accounts?",
+          "How would you assess a respondent bank in a higher-risk jurisdiction, and what would make you recommend exiting?",
+          "What does the Wolfsberg CBDDQ give you, and where are its limits?",
+          "Tell us about a time you disagreed with a first-line decision on a high-risk client. How did you resolve it?",
+          "How would you design second-line oversight testing for correspondent banking controls?",
+          "Where could automation or AI improve periodic reviews of financial institution clients?"
+        ],
+        "toAsk": [
+          "How large is Revolut's correspondent banking portfolio, and is it growing on the respondent or correspondent side?",
+          "How does this role split between advisory, oversight testing and approving individual relationships?",
+          "Which tools or data sources does the team use for FI due diligence today?"
+        ]
+      }
+    },
+    {
+      "id": "revolut-fincrime-risk-manager-regulatory-product-krakow-2026",
+      "title": "FinCrime Risk Manager (Regulatory Product)",
+      "company": "Revolut",
+      "location": "Kraków, Poland",
+      "placement": "poland",
+      "tags": [
+        "compliance-leadership",
+        "senior-specialist",
+        "startup"
+      ],
+      "url": "https://www.revolut.com/careers/position/3c80a3e2-2a6a-4aac-bd90-29731f1aa088/",
+      "description": "Senior financial crime risk role making sure Revolut's regulated products meet AML/CTF requirements: product risk assessments, control design and regulatory alignment. Asks for 7+ years of financial crime experience; Kraków pay is PLN 23,200-25,800 gross/month (per search snippets).",
+      "fit": 2,
+      "datePosted": "2026-11-20",
+      "verified": false,
+      "coverLetterDraft": "Dear Revolut Hiring Team,\n\nThe FinCrime Risk Manager (Regulatory Product) role asks for someone with financial crime experience across several institutions who can turn AML/CTF requirements into workable product controls. That describes my last eight years.\n\nI have worked in KYC, AML and financial operations at PwC, J.P. Morgan, Moonfare and now Pliant, where I am Compliance Operations Manager leading end-to-end corporate KYC. At PwC I built AML risk ratings and delivered internal training. At Moonfare I co-led an ongoing due-diligence review and helped shape automation improvements with product and engineering stakeholders. At Pliant I am part of an internal AI team automating compliance workflows.\n\nThat mix of advisory, operations and automation should help me assess new products' financial crime risks, design controls that scale, and work credibly with product teams. I am a native Polish speaker, fluent in English, and ready to work from Kraków.\n\nKind regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How would you run a financial crime risk assessment for a new product before launch?",
+          "Give an example of a control you designed or improved. How did you measure whether it worked?",
+          "How do the EU AMLR and AMLA change product-level AML expectations for a firm like Revolut?",
+          "Tell us about a time you had to push back on a product launch timeline because of compliance risk.",
+          "How do you keep product controls proportionate so customer experience doesn't suffer needlessly?",
+          "Where can automation or AI make product-level financial crime controls more effective?"
+        ],
+        "toAsk": [
+          "Which regulated products or entities will this role cover first?",
+          "How are product teams expected to engage FinCrime Risk: embedded partnership or formal sign-off gates?",
+          "How is the impact of FinCrime Risk Managers measured in this team?"
+        ]
+      }
     }
-  ]
+]
 }
