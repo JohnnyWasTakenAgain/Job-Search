@@ -5474,6 +5474,39 @@
           "How is the impact of FinCrime Risk Managers measured in this team?"
         ]
       }
+    },
+    {
+      "id": "pekao-ekspert-raportowanie-regulacyjne-aml-warszawa-285095",
+      "title": "Ekspert / Ekspertka ds. Raportowania Regulacyjnego AML",
+      "company": "Bank Pekao S.A.",
+      "location": "Warsaw, Poland",
+      "placement": "poland",
+      "tags": [
+        "ai-automation",
+        "senior-specialist",
+        "corporate"
+      ],
+      "url": "https://www.karierawfinansach.pl/oferta-pracy/285095,ekspert-ekspertka-ds-raportowania-regulacyjnego-aml-warszawa",
+      "description": "Expert-level role owning and developing Pekao's AML regulatory reporting (GIIF, KNF, STIR, CESOP): data-quality checks on large datasets, AML management information, and reporting-automation projects with IT and data-warehouse owners. Asks for SQL, GCP (BigQuery) and Power BI skills, an engineering-type degree (maths/IT/physics preferred) and English B1/B2.",
+      "fit": 2,
+      "datePosted": "2026-11-21",
+      "verified": true,
+      "coverLetterDraft": "Dear Bank Pekao Hiring Team,\n\nYour Ekspert ds. Raportowania Regulacyjnego AML role sits where I have spent my career: AML knowledge on one side, data and process automation on the other.\n\nI have 8+ years in KYC, AML and financial operations. At PwC I built AML risk ratings for individuals and legal entities; at J.P. Morgan I ran due diligence across multiple risk tiers; at Pliant, where I am Compliance Operations Manager, I work in an internal AI team automating compliance workflows. Before compliance I was a data analyst at Thomson Reuters (Refinitiv), maintaining and optimising data files and resolving discrepancies — the same data-quality discipline accurate GIIF and KNF reporting depends on.\n\nI hold a Bachelor's in Mathematics and a Master's in Finance and Accounting, work with SQL and advanced Excel, and am used to writing requirements that IT teams can build from. I would welcome the chance to help make Pekao's AML reporting more automated and reliable. I am a native Polish speaker and fluent in English.\n\nKind regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "Which AML regulatory reports does a Polish bank submit to GIIF and KNF, and what usually goes wrong with their data quality?",
+          "Walk us through how you would investigate a reconciliation break between a source system and an AML report.",
+          "Write or describe a SQL query that identifies transactions missing from a regulatory extract.",
+          "Tell us about a process you automated. How did you gather requirements and measure the result?",
+          "How would you write a requirements specification for IT for a new reporting obligation such as CESOP?",
+          "Describe a time you had to push back on a deadline because the data was not yet reliable."
+        ],
+        "toAsk": [
+          "Which reports are currently the most manual, and where does the team want automation to start?",
+          "How far along is the move of AML reporting data to Google Cloud / BigQuery?",
+          "Who is the external client of the Bank this role supports, and what does that cooperation look like?"
+        ]
+      }
     }
-]
+  ]
 }
