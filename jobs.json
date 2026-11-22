@@ -5507,6 +5507,39 @@
           "Who is the external client of the Bank this role supports, and what does that cooperation look like?"
         ]
       }
+    },
+    {
+      "id": "worldline-kyc-tm-transformation-manager-warszawa-305974",
+      "title": "KYC & Transaction Monitoring Transformation Manager",
+      "company": "Worldline",
+      "location": "Warsaw, Poland (hybrid)",
+      "placement": "poland",
+      "tags": [
+        "ai-automation",
+        "lead-plus",
+        "corporate"
+      ],
+      "url": "https://jobs.worldline.com/job/KYC-Transaction-Monitoring-Transformation-Manager/305974-en_US",
+      "description": "Leads transformation programmes across KYC, CDD, ongoing due diligence and transaction monitoring for Worldline's payments business: turning regulatory and business priorities into roadmaps, running multiple workstreams with Operations, Compliance, Product, Technology and external consultancies, and driving adoption of new target operating models. Wants someone who has already led complex AML/KYC change in a regulated environment, so this should not be their first transformation role.",
+      "fit": 3,
+      "datePosted": "2026-11-17",
+      "verified": true,
+      "coverLetterDraft": "Dear Worldline Hiring Team,\n\nYour KYC & Transaction Monitoring Transformation Manager role is the kind of work I have moved towards over the last few years: redesigning how KYC and AML operations run, not only running them.\n\nI have 8+ years in KYC, AML and financial operations. As Compliance Operations Manager at Pliant I lead end-to-end corporate KYC due diligence and, as part of an internal AI team, drive automation of our compliance workflows, from mapping the current process to rollout. At Moonfare I co-led the ongoing due-diligence review project and worked with cross-functional stakeholders on automation improvements. Earlier, at J.P. Morgan and PwC, I ran CDD/EDD across risk tiers and built AML risk ratings, so I know the operational detail a new target operating model has to handle.\n\nI am used to translating regulatory requirements into processes that product and engineering teams can build, and to reporting progress to senior stakeholders. I am a native Polish speaker, fluent in English, and would welcome the chance to help shape Worldline's KYC and monitoring change programme in Warsaw.\n\nKind regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "Walk us through a KYC or AML transformation you led: the starting point, the roadmap, and how you measured success.",
+          "How would you prioritise a backlog that includes CDD remediation, ODD periodic-review redesign and a transaction-monitoring tuning programme?",
+          "Where do you see realistic gains from AI or automation in KYC/CDD and transaction monitoring, and where would you keep human review?",
+          "How do you manage dependencies and conflicting priorities between Operations, Compliance and Technology?",
+          "Describe working with an external consultancy. How did you keep ownership and avoid dependency on them?",
+          "Tell us about a time a change programme met resistance from the operations team. What did you do?"
+        ],
+        "toAsk": [
+          "Which part of the KYC/CDD/ODD/TM chain is the first priority, and what triggered the programme: regulatory findings, scale or cost?",
+          "Is this role mainly programme management, or will it also own the target operating model design and its tooling decisions?",
+          "How large is the operations team affected, and which entities and regulators across the Worldline group are in scope?"
+        ]
+      }
     }
   ]
 }
