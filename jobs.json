@@ -5540,6 +5540,697 @@
           "How large is the operations team affected, and which entities and regulators across the Worldline group are in scope?"
         ]
       }
+    },
+    {
+      "id": "n26-manager-beschwerdeaudits-8364763",
+      "title": "Manager für Beschwerdeaudits",
+      "company": "N26",
+      "location": "Berlin, Germany",
+      "placement": "berlin-based",
+      "tags": [
+        "qa",
+        "lead-plus",
+        "startup"
+      ],
+      "url": "https://n26.com/en-eu/careers/positions/8364763?gh_jid=8364763",
+      "description": "Owns the control framework for complaints compliance across 24 markets: designing, documenting and testing controls (design and effectiveness) for internal audit, external auditors and BaFin, and running remediation of audit findings. Leads one associate and cross-functional workstreams; requires German C1+ and 5+ years in audit, controls or compliance.",
+      "fit": 2,
+      "datePosted": "2026-11-09",
+      "verified": true,
+      "coverLetterDraft": "Dear N26 Hiring Team,\n\nThe Manager für Beschwerdeaudits role centres on what I have done throughout my compliance career: turning regulatory requirements into controls that hold up when someone reviews them.\n\nI have 8+ years in KYC, AML and financial operations. As Compliance Operations Manager at Pliant I run end-to-end corporate KYC due diligence under the four-eyes principle and help automate our compliance workflows as part of an internal AI team. At Moonfare I co-led the ongoing due-diligence review project, and at PwC I built AML risk ratings and delivered internal training, which taught me to document work so that auditors can follow it.\n\nI would bring a reviewer's mindset to complaints controls: clear test steps, evidence that stands on its own, and root-cause analysis that feeds back into process fixes, using data rather than anecdote. I also lead by reviewing and calibrating others' work, which fits the associate on your team.\n\nTo be transparent: my German is currently B1 and progressing to B2, with English fluent and Polish native. I would welcome a conversation about whether that fits the role's language needs.\n\nKind regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How would you test the design and operating effectiveness of a complaints-handling control, step by step?",
+          "Walk us through remediating an audit finding: from root cause to evidence of closure.",
+          "How would you use complaints data to identify systemic issues across 24 markets?",
+          "What do MaBeschwer and PSD2 complaint deadlines require, and how would you monitor compliance with them?",
+          "Tell us about a time you had to defend your control documentation or case work to an auditor or regulator.",
+          "How do you coach a junior colleague whose work does not yet meet quality standards?"
+        ],
+        "toAsk": [
+          "Which open audit or BaFin findings will this role own first, and what is the deadline pressure?",
+          "How much of control testing is manual today, and is there appetite to automate evidence collection?",
+          "How strict is the German C1 requirement for day-to-day work versus documentation and regulator contact?"
+        ]
+      }
+    },
+    {
+      "id": "holvi-group-mlro-8650163",
+      "title": "Group MLRO (m/f/d)",
+      "company": "Holvi",
+      "location": "Berlin, Germany (hybrid, 2 office days/week)",
+      "placement": "berlin-based",
+      "tags": [
+        "compliance-leadership",
+        "lead-plus",
+        "startup"
+      ],
+      "url": "https://holvi.teamtailor.com/jobs/8650163-group-mlro-m-f-d",
+      "description": "Appointed MLRO for Germany and functional lead for AML/CTF and sanctions across Holvi's group, steering the Austrian and Finnish MLROs, owning AMLR readiness, customer risk methodology and the business-wide risk assessment. Requires MLRO or deputy-MLRO experience, CAMS/ICA and fluent German; stated application deadline (20.11.2026) has passed but the page is still live.",
+      "fit": 2,
+      "datePosted": "2026-11-23",
+      "verified": true,
+      "coverLetterDraft": "Dear Holvi Hiring Team,\n\nI am applying for the Group MLRO role. Holvi's focus on SMEs and freelancers matches the corporate client base I have worked with for most of my career.\n\nI have 8+ years in KYC, AML and financial operations. At Pliant I lead end-to-end KYC due diligence for corporate clients, own regulatory escalations, and drive AI-driven automation of compliance workflows. At J.P. Morgan I performed CDD and EDD across risk tiers for corporate and financial-institution clients, and at PwC I built AML risk ratings for individuals and legal entities, which is the foundation of a customer risk methodology.\n\nWhat I would bring to the group role is an operator's view of how first-line processes actually run: where screening and monitoring generate noise, where CDD breaks down, and how automation can raise quality rather than just speed. I am comfortable testing processes and presenting findings to senior management.\n\nI should be clear that I have not yet held a formal MLRO appointment, and my German is B1, moving to B2. If Holvi is open to a strong operational AML leader stepping into the role, I would welcome a conversation.\n\nKind regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How would you prepare Holvi for the EU AMLR and the new AMLA supervisory regime?",
+          "How would you design or recalibrate a customer risk scoring model for SME clients?",
+          "Walk us through how you would test first-line TM, screening and CDD processes as second line.",
+          "How would you steer MLROs in Austria and Finland without line authority?",
+          "Describe a difficult SAR or offboarding decision and how you reached it.",
+          "How would you report AML risk to the Board in a way that drives decisions?"
+        ],
+        "toAsk": [
+          "Is the 20 November deadline firm, or is the search still open?",
+          "What were the main themes of the last BaFin or audit review, and which remain open?",
+          "How much budget and autonomy does the MLRO have for tooling and automation in TM and screening?"
+        ]
+      }
+    },
+    {
+      "id": "capitalcom-compliance-aml-officer-germany",
+      "title": "Compliance & AML Officer (German Branch)",
+      "company": "Capital.com",
+      "location": "Berlin or Frankfurt, Germany (hybrid)",
+      "placement": "berlin-based",
+      "tags": [
+        "compliance-leadership",
+        "senior-specialist",
+        "corporate"
+      ],
+      "url": "https://jobs.lever.co/capital/8c5eb7ee-d27b-4862-8c27-d8d1f2417e65",
+      "description": "Designated Compliance Officer (MiFID II/WpHG) and appointed AML officer for Capital.com's German branch, overseeing CDD, EDD, transaction monitoring and SAR filing and acting as main contact for BaFin and FIU Germany. Requires 5+ years in a German regulated firm and fluent German and English.",
+      "fit": 1,
+      "datePosted": "2026-04-15",
+      "verified": true,
+      "coverLetterDraft": "Dear Capital.com Hiring Team,\n\nI am interested in the Compliance & AML Officer role for your German branch, particularly its ownership of CDD, EDD, transaction monitoring and SAR decisions.\n\nI have 8+ years in KYC, AML and financial operations. At Pliant, a BaFin-supervised fintech, I lead end-to-end KYC due diligence and regulatory escalations, and I drive AI-driven automation of our compliance workflows. At J.P. Morgan I handled due diligence across multiple risk tiers, and at PwC I built AML risk ratings and delivered internal AML/KYC training. Earlier work at State Street on derivatives reconciliations gave me a practical understanding of trading operations, which is useful context for a brokerage.\n\nI would bring structured, well-documented AML decisions, practical experience with screening and EDD, and a focus on making processes efficient through automation.\n\nTo be transparent, my German is B1 and progressing to B2, and my experience is stronger on the AML side than on MiFID II/WpHG compliance monitoring. If those gaps are workable, I would value a conversation.\n\nKind regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "What are a German branch's GwG obligations, and how do they interact with the head office's AML programme?",
+          "How would you build a compliance monitoring plan for a CFD broker under WpHG and MiFID II?",
+          "Walk us through an EDD case on a high-risk retail trader and your decision.",
+          "How would you handle a request or inspection from BaFin or FIU Germany?",
+          "What transaction-monitoring typologies are most relevant for an online brokerage?",
+          "Tell us about a time you pushed back on the business on a compliance matter."
+        ],
+        "toAsk": [
+          "How is responsibility split between the German branch and group compliance in Cyprus/UK?",
+          "What is the current state of the branch's AML tooling, and what would you change first?",
+          "Is this role reporting directly to BaFin as a key-function holder, and what support does the branch have?"
+        ]
+      }
+    },
+    {
+      "id": "deloitte-senior-manager-financial-crime-fsi-50455",
+      "title": "(Senior) Manager Financial Crime FSI (m/w/d)",
+      "company": "Deloitte",
+      "location": "Berlin, Germany (also Düsseldorf, Frankfurt, Hamburg, Munich)",
+      "placement": "berlin-based",
+      "tags": [
+        "compliance-leadership",
+        "ai-automation",
+        "corporate"
+      ],
+      "url": "https://job.deloitte.com/job-senior-manager-financial-crime-fsi-mwd-_50455",
+      "description": "Advises financial-services clients on AML, sanctions and KYC, redesigning processes, data and controls (KYC, screening, TM, case management) with AI governance, while leading national and international project teams and developing staff. Requires several years in consulting, audit or finance with project leadership and very good German and English.",
+      "fit": 2,
+      "datePosted": "2026-11-23",
+      "verified": true,
+      "coverLetterDraft": "Dear Deloitte Hiring Team,\n\nThe (Senior) Manager Financial Crime FSI role combines two things I work on daily: KYC/AML operations and redesigning them with automation and AI.\n\nI have 8+ years in KYC, AML and financial operations. At Pliant I lead end-to-end corporate KYC due diligence and, within an internal AI team, drive automation of compliance workflows, from process mapping to rollout. At PwC I built KYC profiles and AML risk ratings, delivered internal AML/KYC training, and completed a six-month on-site client assignment in the Netherlands, so I know the consulting side as well as the in-house side. At J.P. Morgan I ran due diligence across risk tiers for a global client portfolio.\n\nFor Deloitte's clients I would bring credibility with operations teams, a realistic view of where AI helps in KYC, screening and case management, and the governance questions that come with it. I also lead by reviewing and calibrating others' work.\n\nMy English is fluent, Polish native, and German B1 progressing to B2, which may suit international engagements. I would welcome a conversation.\n\nKind regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How would you scope a KYC remediation or target-operating-model project for a mid-sized German bank?",
+          "Where can AI realistically improve screening and transaction monitoring, and what governance does it need?",
+          "Describe a time you managed a team or workstream with a tight client deadline.",
+          "How would you explain a TM model tuning approach to a client's MLRO and to BaFin?",
+          "What business-development contribution could you make in your first year?",
+          "Tell us about a disagreement with a client and how you resolved it."
+        ],
+        "toAsk": [
+          "What share of current FinCrime engagements involve AI or automation versus classic remediation?",
+          "How are international engagements staffed, and would English-language projects be a realistic focus at first?",
+          "What does progression from Manager to Senior Manager look like in this team?"
+        ]
+      }
+    },
+    {
+      "id": "ey-senior-manager-forensic-integrity-fs-1191711201",
+      "title": "(Senior) Manager Forensic & Integrity Services (Financial Services) (w/m/d)",
+      "company": "EY",
+      "location": "Berlin, Germany (nationwide team; primary listing Eschborn/Frankfurt)",
+      "placement": "berlin-based",
+      "tags": [
+        "compliance-leadership",
+        "lead-plus",
+        "corporate"
+      ],
+      "url": "https://careers.ey.com/ey/job/Eschborn-Frankfurt-%28Main%29-%28Senior%29-Manager-Forensic-&-Integrity-Services-%28Financial-Services%29-%28wmd%29-HE-65760/1191711201/",
+      "description": "Advises banks, insurers and asset managers on financial-crime and AML prevention, including gap analyses against EU AML rules and audits of compliance management systems, while leading multidisciplinary teams and developing staff. Requires 7+ years in consulting or FS compliance/AFC, interest in AI solutions and German/English at C1+.",
+      "fit": 2,
+      "datePosted": "2026-11-10",
+      "verified": true,
+      "coverLetterDraft": "Dear EY Hiring Team,\n\nI am applying for the (Senior) Manager Forensic & Integrity Services role in Financial Services, based in Berlin.\n\nI have 8+ years in KYC, AML and financial operations across banks, fintechs and asset managers. At Pliant I lead end-to-end KYC due diligence for corporate clients and drive AI-driven automation of compliance workflows. At J.P. Morgan I conducted due diligence across risk tiers for corporate, financial-institution and listed clients. At PwC I built AML risk ratings, delivered internal AML/KYC training and spent six months on-site with a client in the Netherlands.\n\nThat mix fits your clients' needs as the EU AML package lands: I know how the requirements look on paper and how they play out in operations, which is where gap analyses either produce workable fixes or shelfware. I would also bring hands-on experience applying AI to compliance processes.\n\nMy English is fluent and Polish native; my German is B1, progressing to B2, so I would be strongest on international and English-language engagements initially. I would welcome a conversation.\n\nKind regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How would you structure an AMLR gap analysis for an asset manager?",
+          "What do you look for when auditing a compliance management system in a supervisory context?",
+          "Tell us about a time you led a team through a demanding engagement or project.",
+          "Which AI or analytics tools have you used in AML or fraud work, and with what results?",
+          "How would you build relationships to win new financial-services clients?",
+          "Describe a finding you delivered that the client did not want to hear."
+        ],
+        "toAsk": [
+          "How much of the practice's work is AML advisory versus investigations and monitorships?",
+          "Is Berlin a full base for the team, or would most work be run from Frankfurt?",
+          "How does the team use AI internally for reviews and investigations?"
+        ]
+      }
+    },
+    {
+      "id": "aws-fraud-investigations-site-leader-berlin-10515906",
+      "title": "AWS Fraud Investigations – Site Leader",
+      "company": "Amazon Web Services",
+      "location": "Berlin, Germany",
+      "placement": "berlin-based",
+      "tags": [
+        "compliance-leadership",
+        "ai-automation",
+        "corporate"
+      ],
+      "url": "https://www.amazon.jobs/en/jobs/10515906/aws-fraud-investigations-site-leader-aws-fraud-investigations-team",
+      "description": "Leads the Berlin site of the AWS fraud investigations team: hiring, coaching and training investigators and analysts, owning metrics for customer experience, fraud cost and SLAs, and driving process improvement and automation with engineering and science teams. Fraud-focused rather than AML; may involve shift and weekend coverage.",
+      "fit": 2,
+      "datePosted": "2026-08-26",
+      "verified": true,
+      "coverLetterDraft": "Dear AWS Hiring Team,\n\nThe Fraud Investigations Site Leader role in Berlin matches the direction I am taking: leading investigation teams while using technology to change how the work gets done.\n\nI have 8+ years in KYC, AML and financial operations. As Compliance Operations Manager at Pliant I run end-to-end due diligence for corporate clients, own escalations, and drive AI-driven automation of our compliance workflows as part of an internal AI team. At J.P. Morgan and PwC I investigated clients across risk tiers, including adverse media, PEP and sanctions exposure, and I delivered internal training to analysts.\n\nWhat I would bring is a metrics-driven approach to an investigations operation: clear quality standards, calibration of reviewers' decisions, and steady removal of manual steps by working with engineers on tooling and rules. My background is financial crime more than cloud-account fraud, but the investigative discipline and the trade-off between customer experience and loss are the same.\n\nI work fluently in English, natively in Polish, and at B1 in German. I would welcome the chance to discuss the role.\n\nKind regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "Tell me about a time you raised the bar on investigation quality in a team. (Leadership Principle: Insist on the Highest Standards)",
+          "How would you balance fraud cost, false positives and customer experience in your site's metrics?",
+          "Describe a process you automated or simplified, and how you measured the impact.",
+          "How do you hire and develop investigators, and how do you handle underperformance?",
+          "Tell me about a decision you made with incomplete data. (Bias for Action)",
+          "How would you work with science teams to improve fraud-detection models?"
+        ],
+        "toAsk": [
+          "What are the main fraud patterns the Berlin team investigates today, and how mature is the automation?",
+          "How large is the Berlin site, and how is it expected to grow over the next year?",
+          "How does the site leader share ownership of metrics with the global fraud-prevention organisation?"
+        ]
+      }
+    },
+    {
+      "id": "fieldfisher-senior-client-onboarding-officer-2715011",
+      "title": "Senior Client Onboarding Officer (m/f/d)",
+      "company": "Fieldfisher Germany",
+      "location": "Berlin or Hamburg, Germany (hybrid)",
+      "placement": "berlin-based",
+      "tags": [
+        "qa",
+        "senior-specialist",
+        "corporate"
+      ],
+      "url": "https://fieldfisher.jobs.personio.de/job/2715011",
+      "description": "Senior individual contributor in Fieldfisher's Risk & Compliance onboarding team, carrying out AML and sanctions screening, client risk assessments and conflicts checks. Provides quality control, supervision and feedback to junior staff, delivers internal training and handles partner and SLA escalations.",
+      "fit": 2,
+      "datePosted": "2026-11-22",
+      "verified": true,
+      "coverLetterDraft": "Dear Fieldfisher Hiring Team,\n\nI am applying for the Senior Client Onboarding Officer role in Berlin. Its combination of complex AML onboarding and quality control over junior colleagues' work is where I add most value.\n\nI have 8+ years in KYC and AML. At Pliant I lead end-to-end due diligence for corporate clients, applying the four-eyes principle and handling regulatory escalations. At J.P. Morgan I worked through corporate, financial-institution and listed-company onboarding across risk tiers, including complex ownership structures, PEP and sanctions screening, and adverse media. At PwC, a professional-services firm, I built KYC profiles and AML risk ratings and delivered internal AML/KYC training.\n\nI would bring consistent, well-documented risk assessments, clear feedback for junior staff, and calm handling of partners who need clients onboarded quickly. I have also been automating compliance workflows at Pliant, which could help reduce manual steps in your screening process.\n\nMy English is fluent, Polish native and German B1, progressing to B2. I would welcome a conversation.\n\nKind regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How do you assess AML risk for a new law-firm client with a complex, multi-jurisdiction ownership structure?",
+          "How would you handle a partner pressing to start work before onboarding is complete?",
+          "How do you run quality control on junior colleagues' files, and how do you give feedback?",
+          "What are a German law firm's obligations under the GwG compared with a bank's?",
+          "Have you done conflicts checks before? How would you approach learning them?",
+          "Tell us about a time you found a significant error in someone else's work."
+        ],
+        "toAsk": [
+          "Is the role permanent or fixed-term? The posting mentions both.",
+          "What does the onboarding tooling look like, and is there scope to automate parts of screening?",
+          "How many junior team members would I review, and how is quality measured today?"
+        ]
+      }
+    },
+    {
+      "id": "sumup-senior-risk-fraud-prevention-analyst-8907454002",
+      "title": "Senior Risk & Fraud Prevention Analyst",
+      "company": "SumUp",
+      "location": "Berlin, Germany (office-first)",
+      "placement": "berlin-based",
+      "tags": [
+        "ai-automation",
+        "senior-specialist",
+        "startup"
+      ],
+      "url": "https://sumup.com/careers/positions/8907454002?gh_jid=8907454002",
+      "description": "Configures and tunes rule-based fraud decision engines, investigates fraud anomalies and turns PSD2/PSD3 and card-scheme requirements into controls, working with data science and engineering on risk logic and automation. Fraud-focused rather than AML; requires advanced SQL and applied statistics.",
+      "fit": 1,
+      "datePosted": "2026-11-04",
+      "verified": true,
+      "coverLetterDraft": "Dear SumUp Hiring Team,\n\nI am interested in the Senior Risk & Fraud Prevention Analyst role because it is about building and tuning the controls themselves, not only working the cases they produce.\n\nI have 8+ years in KYC, AML and financial operations. At Pliant, a card-issuing fintech, I lead end-to-end due diligence for corporate clients and drive AI-driven automation of our compliance workflows as part of an internal AI team. My background is quantitative: a Bachelor's in Mathematics and a Master's in Finance and Accounting. Earlier roles at Thomson Reuters and State Street involved large-scale data verification and reconciliation.\n\nI would bring a compliance professional's understanding of regulatory requirements and card-scheme rules, combined with an analytical approach to measuring whether a rule actually works. I should be honest that my SQL is at a fundamentals level today, and my experience is stronger in AML than in fraud decision engines. Those are areas I am actively building.\n\nI would welcome the chance to discuss how my background could fit the team.\n\nKind regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How would you decide whether a new fraud rule is worth deploying? What metrics and test design would you use?",
+          "Write or describe a SQL query to find merchants with an unusual spike in refunds.",
+          "What do PSD2 SCA and fraud-reporting requirements mean for a payments company's controls?",
+          "Walk us through investigating a sudden fraud anomaly.",
+          "How do you work with data scientists when a rule and a model disagree?",
+          "Tell us about a process you automated and its measurable impact."
+        ],
+        "toAsk": [
+          "Which decision engine do you use, and how much of the rule set is owned by this team?",
+          "How are fraud and AML monitoring coordinated at SumUp?",
+          "What would success look like in the first six months?"
+        ]
+      }
+    },
+    {
+      "id": "goldmansachs-svp-client-onboarding-configuration-warsaw",
+      "title": "Senior Vice President – Client Onboarding & Configuration (GBM Public)",
+      "company": "Goldman Sachs",
+      "location": "Warsaw, Poland",
+      "placement": "poland",
+      "tags": [
+        "compliance-leadership",
+        "ai-automation",
+        "lead-plus"
+      ],
+      "url": "https://www.efinancialcareers.com/jobs-Poland-Warsaw-GBM_-_Public_Dept-Warsaw-Senior_Vice_President-Client_Onboarding__Configuration.id24948614",
+      "description": "Runs client onboarding and refresh under AML/KYC and MiFID II rules while redesigning EMEA onboarding with AI tools, automated workflows and predictive analytics, and builds and mentors a team of transformation programme managers and business analysts. Requires 12+ years in a regulated environment with AML/KYC operations central; French or German preferred.",
+      "fit": 3,
+      "datePosted": "2026-10-29",
+      "verified": true,
+      "coverLetterDraft": "Dear Goldman Sachs Hiring Team,\n\nThe SVP Client Onboarding & Configuration role in Warsaw combines KYC operations with AI-led redesign of the onboarding process, which is exactly the work I have focused on.\n\nI have 8+ years in KYC, AML and financial operations across global banks, fintechs and asset managers. At J.P. Morgan I conducted due diligence across risk tiers for corporate, financial-institution and publicly traded clients, so I know investment-bank onboarding from the inside. As Compliance Operations Manager at Pliant I lead end-to-end corporate KYC and, within an internal AI team, drive automation of compliance workflows from process mapping to rollout. At Moonfare I co-led the ongoing due-diligence review project with cross-functional stakeholders.\n\nI would bring credibility with KYC analysts, a practical sense of where AI and workflow automation remove effort without weakening controls, and experience reviewing and calibrating others' work.\n\nYour posting asks for 12+ years, more than I have, but I believe the depth of my hands-on transformation work closes much of that gap. I am a native Polish speaker, fluent in English, with German at B1 and progressing.\n\nKind regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "Describe an onboarding or KYC process you redesigned: baseline, changes, measured results.",
+          "Where would you apply AI and predictive analytics in client onboarding and refresh, and where would you keep human judgement?",
+          "How do you balance client experience and front-office pressure against KYC and MiFID II requirements?",
+          "How would you build and lead a team of programme managers and business analysts?",
+          "How do you get global stakeholders across locations to adopt a new process?",
+          "Tell us about a time a transformation initiative failed or stalled. What did you learn?"
+        ],
+        "toAsk": [
+          "What does the EMEA onboarding transformation roadmap look like, and which AI tools are already in place?",
+          "How large is the team, and across which locations?",
+          "Is the 12-year requirement firm, or is depth of transformation experience weighed alongside it?"
+        ]
+      }
+    },
+    {
+      "id": "visa-financial-crime-manager-currencycloud-warsaw",
+      "title": "Financial Crime Manager (Currencycloud)",
+      "company": "Visa",
+      "location": "Warsaw, Poland",
+      "placement": "poland",
+      "tags": [
+        "compliance-leadership",
+        "qa",
+        "corporate"
+      ],
+      "url": "https://www.efinancialcareers.com/jobs-Poland-Warsaw-Financial_Crime_Manager_Currencycloud.id24952615",
+      "description": "Manages day-to-day financial crime workstreams at Currencycloud (Visa): investigations, escalations, advisory reviews and remediation covering clients, transactions, sanctions, fraud, PEP and adverse media. Oversees quality control, MI, SLAs and KPIs, writes procedures and playbooks, and coaches colleagues; requires 5+ years in financial crime, ideally payments or fintech.",
+      "fit": 3,
+      "datePosted": "2026-10-30",
+      "verified": true,
+      "coverLetterDraft": "Dear Visa Hiring Team,\n\nI am applying for the Financial Crime Manager role at Currencycloud in Warsaw. Its mix of risk-based decisions, quality control and coaching matches how I work.\n\nI have 8+ years in KYC, AML and financial operations. As Compliance Operations Manager at Pliant, a payments fintech, I lead end-to-end due diligence for corporate clients, apply the four-eyes principle to case work, and manage regulatory escalations. I also drive AI-driven automation of our compliance workflows as part of an internal AI team. At J.P. Morgan and PwC I handled CDD, EDD, PEP, sanctions and adverse-media reviews across risk tiers, and delivered internal AML/KYC training.\n\nFor Currencycloud I would bring consistent, well-documented decisions on difficult cases, quality-control frameworks that measure what matters, and practical playbooks analysts actually use. I would also look for places where automation can reduce SLA pressure without lowering standards.\n\nI am a native Polish speaker, fluent in English, and familiar with both UK and EU AML expectations. I would welcome a conversation.\n\nKind regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "Walk us through a complex cross-border payments investigation and how you reached a decision.",
+          "How would you design a quality-control programme for financial crime reviews, including sampling and feedback?",
+          "What MI and KPIs would you report to senior management for a FinCrime operations function?",
+          "How do UK and EU sanctions and AML requirements differ for a business like Currencycloud?",
+          "How do you coach an analyst who is consistently under-escalating risk?",
+          "Tell us about a procedure or playbook you wrote and how you got the team to adopt it."
+        ],
+        "toAsk": [
+          "Which workstreams carry the highest volume or risk today: onboarding, transaction monitoring or sanctions?",
+          "How does Currencycloud's financial crime function work with Visa's wider compliance organisation?",
+          "How is quality currently measured, and are there known gaps you want this role to close?"
+        ]
+      }
+    },
+    {
+      "id": "spoton-compliance-systems-data-analyst-krakow",
+      "title": "Compliance Systems & Data Analyst",
+      "company": "SpotOn",
+      "location": "Kraków, Poland (hybrid, 3 days office)",
+      "placement": "poland",
+      "tags": [
+        "ai-automation",
+        "senior-specialist",
+        "startup"
+      ],
+      "url": "https://rocketjobs.pl/oferta-pracy/spoton-compliance-systems-data-analyst-krakow-inne",
+      "description": "Analyses and automates manual KYC/AML and underwriting workflows, building AI, ML and RPA tools (OCR extraction, biometric checks, rule-based monitoring), tracking KPIs/KRIs and testing AI decision models for EU AI Act compliance. Requires 5+ years in fraud/compliance, 3+ years with AI/ML models, SQL or Metabase and English C1; PLN 15,200-19,900 gross/month.",
+      "fit": 3,
+      "datePosted": "2026-11-23",
+      "verified": true,
+      "coverLetterDraft": "Dear SpotOn Hiring Team,\n\nThe Compliance Systems & Data Analyst role is close to the work I have been doing for the past few years: taking manual KYC and AML workflows apart and rebuilding them with automation and AI.\n\nI have 8+ years in KYC, AML and financial operations. At Pliant I lead end-to-end KYC due diligence for corporate clients and, as part of an internal AI team, drive AI-driven automation of compliance workflows, from identifying where effort goes to rolling out new tools. At Moonfare I helped shape automation improvements with cross-functional stakeholders. My academic background is a Bachelor's in Mathematics and a Master's in Finance, and earlier data roles at Thomson Reuters and State Street built strong data-quality habits.\n\nI would bring a compliance practitioner's view of what an automated KYC or screening decision must evidence, combined with the analytical rigour to validate models and track KPIs and KRIs honestly. I am interested in the EU AI Act testing aspect, where compliance expertise is often missing.\n\nI am a native Polish speaker with fluent English, and I would welcome a conversation.\n\nKind regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "Describe a KYC or AML workflow you automated: tools used, how you validated it, and the results.",
+          "How would you test an AI decision model for EU AI Act compliance, including bias and explainability?",
+          "Which KPIs and KRIs would you track for automated merchant onboarding?",
+          "How would you use OCR and biometric checks in onboarding while handling their failure modes?",
+          "Write or describe a SQL query to identify merchants whose transaction pattern changed sharply after onboarding.",
+          "Tell us about a time an automation produced wrong outcomes. How did you detect and fix it?"
+        ],
+        "toAsk": [
+          "Which manual workflows are first in line for automation, and what tooling stack are you using?",
+          "How does the Kraków team work with US compliance and underwriting?",
+          "How is model validation governed today, and who signs off on automated decisions?"
+        ]
+      }
+    },
+    {
+      "id": "payu-merchant-monitoring-manager-e386b44e",
+      "title": "Merchant Monitoring Manager",
+      "company": "PayU GPO",
+      "location": "Poznań or Warsaw, Poland (hybrid, 2 office days)",
+      "placement": "poland",
+      "tags": [
+        "compliance-leadership",
+        "ai-automation",
+        "lead-plus"
+      ],
+      "url": "https://jobs.lever.co/payugpo/e386b44e-8b6c-485d-8b2c-e40239d75f2e",
+      "description": "Leads PayU's merchant monitoring team (recruiting, performance reviews, workload allocation) assessing merchants for scams, money laundering, concealed businesses and fraudulent websites, while improving transaction-monitoring rules and driving AI and automation projects with Compliance, Risk and Technology. Requires 4+ years in merchant risk/fraud/monitoring and 2+ years of people management.",
+      "fit": 3,
+      "datePosted": "2026-10-28",
+      "verified": true,
+      "coverLetterDraft": "Dear PayU Hiring Team,\n\nI am applying for the Merchant Monitoring Manager role. The combination of leading a monitoring team and driving AI and automation projects is the role I am aiming for.\n\nI have 8+ years in KYC, AML and financial operations. As Compliance Operations Manager at Pliant, a payments fintech, I lead end-to-end due diligence for corporate clients, review others' cases under the four-eyes principle, and drive AI-driven automation of our compliance workflows as part of an internal AI team. At J.P. Morgan and PwC I assessed corporate clients across risk tiers, including PEP, sanctions and adverse-media screening, and delivered AML/KYC training.\n\nFor PayU I would bring clear quality standards for merchant reviews, a data-driven approach to tuning monitoring rules, and hands-on experience taking automation from idea to production with Technology. My experience is stronger in corporate KYC than in card-scheme monitoring programmes, which I would get up to speed on quickly.\n\nI am a native Polish speaker, fluent in English, and would welcome a conversation.\n\nKind regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How would you detect a merchant operating a concealed or prohibited business behind a legitimate website?",
+          "How do you allocate workload and measure quality in a monitoring team?",
+          "Describe a transaction-monitoring rule you improved and how you measured the improvement.",
+          "What do the Visa and Mastercard merchant monitoring programmes require from an acquirer?",
+          "Tell us about an AI or automation project you drove and how you worked with technology teams.",
+          "How do you handle a team member whose output is high but quality is inconsistent?"
+        ],
+        "toAsk": [
+          "How large is the team and how is it split between Poznań and Warsaw?",
+          "Which AI or automation initiatives are already planned for merchant monitoring?",
+          "What are the biggest merchant-risk issues PayU is seeing right now?"
+        ]
+      }
+    },
+    {
+      "id": "visa-aml-officer-warsaw-24937310",
+      "title": "AML Officer",
+      "company": "Visa",
+      "location": "Warsaw, Poland (3+ days/week in office)",
+      "placement": "poland",
+      "tags": [
+        "qa",
+        "senior-specialist",
+        "corporate"
+      ],
+      "url": "https://www.efinancialcareers.com/jobs-Poland-Warsaw-AML_Officer.id24937310",
+      "description": "Investigates financial crime alerts and high-risk customer activity (ML/TF, sanctions, fraud), runs PEP, sanctions and adverse-media checks, and writes investigation narratives and SAR escalations. Coaches junior associates, takes part in QA and audits and helps tune monitoring rules; requires 5+ years of hands-on AML/CTF.",
+      "fit": 2,
+      "datePosted": "2026-10-26",
+      "verified": true,
+      "coverLetterDraft": "Dear Visa Hiring Team,\n\nI am applying for the AML Officer role in Warsaw. Its mix of complex investigations, QA and coaching junior colleagues fits my experience well.\n\nI have 8+ years in KYC, AML and financial operations. At Pliant, a payments fintech, I lead end-to-end due diligence for corporate clients and manage regulatory escalations, applying the four-eyes principle to case decisions. At J.P. Morgan I worked across multiple risk tiers for a global portfolio, and at PwC I built AML risk ratings, delivered internal AML/KYC training and spent six months on-site with a client in the Netherlands.\n\nI would bring clear, defensible investigation narratives, sound judgement on when to escalate, and a structured approach to reviewing others' work. I have also been automating compliance workflows at Pliant as part of an internal AI team, which is relevant to tuning monitoring rules and reducing false positives.\n\nI am a native Polish speaker, fluent in English, and would welcome a conversation.\n\nKind regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "Walk us through an investigation that led to a SAR: the red flags, analysis and narrative.",
+          "How do you write a SAR narrative that is useful to an FIU?",
+          "What typologies are most relevant in e-money and payments?",
+          "How do you approach QA of a junior analyst's alert dispositions?",
+          "Describe how you would identify and propose a tuning change for a noisy monitoring rule.",
+          "Tell us about a time you disagreed with a colleague's risk assessment."
+        ],
+        "toAsk": [
+          "The posting mentions a US law degree and bar membership. Is that a firm requirement or a template carry-over?",
+          "Which Visa entity and product line does this team cover?",
+          "How are QA results used: individual coaching, rule tuning or both?"
+        ]
+      }
+    },
+    {
+      "id": "commerzbank-business-expert-fraud-ai-lodz",
+      "title": "Business Expert - Fraud AI (m/f/d)",
+      "company": "Commerzbank",
+      "location": "Łódź, Poland (remote or hybrid)",
+      "placement": "poland",
+      "tags": [
+        "ai-automation",
+        "senior-specialist",
+        "corporate"
+      ],
+      "url": "https://www.efinancialcareers.com/jobs-Poland-%C5%81%C3%B3d%C5%BA-Business_Expert_-_Fraud_AI_mfd.id25023033",
+      "description": "Links business users with developers, data scientists and vendors on AI-driven fraud detection at Commerzbank, turning requirements into functional designs and configurations and streamlining compliance workflows. Requires fraud expertise, KYC/AML/sanctions process knowledge and English B2+; GenAI basics a plus.",
+      "fit": 2,
+      "datePosted": "2026-11-22",
+      "verified": true,
+      "coverLetterDraft": "Dear Commerzbank Hiring Team,\n\nThe Business Expert - Fraud AI role sits where I have been working recently: between compliance operations and the people building AI tools for them.\n\nI have 8+ years in KYC, AML and financial operations. At Pliant I lead end-to-end due diligence for corporate clients and, as part of an internal AI team, translate compliance requirements into automated workflows and work with engineers on rollout. At Moonfare I helped shape automation improvements with cross-functional stakeholders. My KYC, AML and sanctions background comes from J.P. Morgan and PwC, where I worked across risk tiers for global client portfolios.\n\nI would bring the ability to write requirements that data scientists and developers can build from, and a user's perspective on whether an AI-driven detection actually helps investigators. My direct fraud experience is narrower than my AML experience, but the analytical and process skills carry over, and I am keen to deepen it.\n\nI am a native Polish speaker, fluent in English, with German at B1 and progressing, useful for working with colleagues in Germany.\n\nKind regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How would you turn a fraud investigator's pain point into a functional requirement for an AI model?",
+          "Describe a project where you worked with developers or data scientists. How did you handle misunderstandings?",
+          "What are the main risks of using AI in fraud detection, and how would you manage them?",
+          "How do fraud, AML and sanctions processes overlap in a bank, and where should they stay separate?",
+          "Tell us about a workflow you streamlined and the results.",
+          "How would you approach learning GCP and data analysis tools quickly?"
+        ],
+        "toAsk": [
+          "Which fraud use cases are currently in scope for AI, and which vendor or in-house tools are used?",
+          "How does the Łódź team work with business owners in Germany?",
+          "How is success measured for this role: model performance, adoption or workflow efficiency?"
+        ]
+      }
+    },
+    {
+      "id": "worldline-senior-merchant-monitoring-analyst-305695",
+      "title": "Senior Merchant Monitoring Analyst",
+      "company": "Worldline",
+      "location": "Warsaw, Poland (hybrid)",
+      "placement": "poland",
+      "tags": [
+        "senior-specialist",
+        "corporate"
+      ],
+      "url": "https://jobs.worldline.com/job/Senior-Merchant-Monitoring-Analyst/305695-en_US/",
+      "description": "Reviews new and existing merchant profiles (CDD) against regulatory, internal and card-scheme requirements, assesses merchant risk and runs sanctions and scheme database checks. Identifies process gaps, recommends improvements and coaches less experienced analysts; requires 4+ years in a similar role.",
+      "fit": 2,
+      "datePosted": "2026-10-19",
+      "verified": true,
+      "coverLetterDraft": "Dear Worldline Hiring Team,\n\nI am applying for the Senior Merchant Monitoring Analyst role in Warsaw. It combines detailed CDD work with process improvement and coaching, which is where I am strongest.\n\nI have 8+ years in KYC, AML and financial operations. At Pliant, a payments fintech, I lead end-to-end due diligence for corporate clients, including ownership structures, sanctions and adverse-media screening, and review others' cases under the four-eyes principle. At J.P. Morgan I worked across multiple risk tiers for corporate and financial-institution clients, and at PwC I built AML risk ratings and trained colleagues on AML/KYC.\n\nFor Worldline I would bring consistent, well-documented merchant risk assessments and an eye for process gaps. At Pliant I am part of an internal AI team automating compliance workflows, so I would look for practical ways to remove manual steps in merchant reviews.\n\nI am a native Polish speaker, fluent in English, and would welcome a conversation.\n\nKind regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "Walk us through a CDD review of a high-risk merchant: what you check and what would make you decline.",
+          "What card-scheme requirements and databases are relevant when onboarding merchants?",
+          "How do you spot a merchant whose actual business differs from its declared one?",
+          "Describe a process gap you identified and how you got it fixed.",
+          "How do you coach a less experienced analyst?",
+          "How do you prioritise a growing review backlog without lowering quality?"
+        ],
+        "toAsk": [
+          "Which merchant segments and markets does the Warsaw team cover?",
+          "How much of the review process is automated today?",
+          "Is there a path from this role into team lead or QA positions?"
+        ]
+      }
+    },
+    {
+      "id": "alten-senior-kyc-specialist-krakow",
+      "title": "KYC Specialist (Senior)",
+      "company": "ALTEN Polska",
+      "location": "Kraków, Poland (hybrid)",
+      "placement": "poland",
+      "tags": [
+        "senior-specialist",
+        "corporate"
+      ],
+      "url": "https://rocketjobs.pl/oferta-pracy/alten-polska-kyc-specialist-krakow-bankowosc-analiza-ryzyko",
+      "description": "Senior KYC role placed at a bank client, handling corporate onboarding end to end: CDD, FATCA/CRS, UBO identification in multi-layer structures and clearing PEP, sanctions and negative-news alerts, while coaching less experienced colleagues. Requires strong complex corporate KYC experience and English C1; listing expires 2026-12-01.",
+      "fit": 2,
+      "datePosted": "2026-11-23",
+      "verified": true,
+      "coverLetterDraft": "Dear ALTEN Polska Hiring Team,\n\nI am applying for the Senior KYC Specialist role in Kraków. Complex corporate onboarding with multi-layer ownership structures is the core of my experience.\n\nI have 8+ years in KYC, AML and financial operations. At J.P. Morgan I conducted due diligence across multiple risk tiers for corporate, financial-institution and publicly traded clients. At PwC I built KYC profiles and AML risk ratings for individuals and legal entities. As Compliance Operations Manager at Pliant I now lead end-to-end KYC for corporate clients, review colleagues' cases under the four-eyes principle, and drive automation of compliance workflows.\n\nI would bring fast, accurate UBO analysis, sound judgement on PEP, sanctions and adverse-media hits, and experience coaching less experienced analysts. I am also comfortable working closely with Compliance and relationship managers when a case needs escalation or the client needs guidance on documentation.\n\nI am a native Polish speaker, fluent in English, and would welcome a conversation.\n\nKind regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "Walk us through identifying UBOs in a structure with trusts and several holding layers.",
+          "How do FATCA and CRS classification work for an entity client?",
+          "How do you decide whether an adverse-media hit is material?",
+          "Describe a case you escalated to Compliance and the outcome.",
+          "How do you coach a junior colleague on complex KYC files?",
+          "How do you handle a relationship manager pushing for faster onboarding?"
+        ],
+        "toAsk": [
+          "Which bank is the client, and which business line would I support?",
+          "Is the contract employment or B2B, and how long is the engagement expected to last?",
+          "What are the quality and productivity expectations per analyst?"
+        ]
+      }
+    },
+    {
+      "id": "nexi-head-customer-due-diligence-poland",
+      "title": "Head of Customer Due Diligence",
+      "company": "Nexi (Polish entity)",
+      "location": "Rzeszów, Poznań or Warsaw, Poland",
+      "placement": "poland",
+      "tags": [
+        "compliance-leadership",
+        "lead-plus",
+        "corporate"
+      ],
+      "url": "https://hirenata.com/jobs/1702381",
+      "description": "Director-level head of Nexi's Customer Compliance department in Poland, leading expert and managerial teams overseeing KYC/AML processes, tracking AML, sanctions and due-diligence regulation, and working with regulators and auditors. Found only on an aggregator that failed to load; not confirmed on Nexi's own careers site.",
+      "fit": 3,
+      "datePosted": "2026-11-23",
+      "verified": false,
+      "coverLetterDraft": "Dear Nexi Hiring Team,\n\nI am applying for the Head of Customer Due Diligence role in Poland. Leading KYC/AML teams while improving how due diligence is done is the next step I am looking for.\n\nI have 8+ years in KYC, AML and financial operations across global banks, fintechs and asset managers. As Compliance Operations Manager at Pliant, a payments fintech, I lead end-to-end KYC due diligence for corporate clients, own regulatory escalations, and drive AI-driven automation of compliance workflows as part of an internal AI team. At Moonfare I co-led the ongoing due-diligence review project, and at J.P. Morgan and PwC I worked across risk tiers for global client portfolios and delivered AML/KYC training.\n\nFor Nexi I would bring clear quality standards, a practical approach to automating CDD without weakening controls, and experience explaining decisions to auditors and senior stakeholders. Leading managers rather than analysts directly would be a step up, and one I am ready for.\n\nI am a native Polish speaker and fluent in English. I would welcome a conversation.\n\nKind regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How would you structure a customer due diligence department serving a high-volume payments business?",
+          "How do you lead through managers rather than directly?",
+          "Describe how you prepared for a regulator or audit review and handled its findings.",
+          "How would you use automation or AI to scale CDD while keeping quality?",
+          "Tell us about an incident where you ran a root-cause analysis and changed a process.",
+          "How will the EU AMLR change CDD requirements for payment institutions?"
+        ],
+        "toAsk": [
+          "How large is the department and how is it spread across Rzeszów, Poznań and Warsaw?",
+          "What were the main findings of recent KNF or internal audit reviews?",
+          "Which parts of CDD are automated today, and what is the investment appetite?"
+        ]
+      }
+    },
+    {
+      "id": "top-head-compliance-operations-139092921",
+      "title": "Head of Compliance Operations",
+      "company": "The Open Platform (TOP, Wallet in Telegram)",
+      "location": "Remote (no country restriction stated; listing tagged Cyprus)",
+      "placement": "remote-europe",
+      "tags": [
+        "compliance-leadership",
+        "ai-automation",
+        "lead-plus"
+      ],
+      "url": "https://hh.ru/vacancy/139092921",
+      "description": "Runs AML monitoring, KYC, fraud prevention and P2P compliance operations for a high-volume retail crypto wallet: queues, capacity planning, KPIs and team leads, working with Compliance QA and automation teams on decision rules. Leads the shift to AI and automation, including review of automated decisions and workforce replanning; requires 6+ years and English C1, Russian a strong plus. Verified on a job-board copy; the original apply page returned 403.",
+      "fit": 3,
+      "datePosted": "2026-11-03",
+      "verified": true,
+      "coverLetterDraft": "Dear TOP Hiring Team,\n\nI am applying for the Head of Compliance Operations role. Running KYC and AML operations at scale while moving them to AI and automation is the work I want to lead.\n\nI have 8+ years in KYC, AML and financial operations. As Compliance Operations Manager at Pliant I lead end-to-end KYC due diligence and, as part of an internal AI team, drive AI-driven automation of compliance workflows, from mapping where analyst time goes to rolling out tools and reviewing their outputs. At Moonfare I co-led the ongoing due-diligence review project, and at J.P. Morgan and PwC I worked across risk tiers and trained analysts.\n\nFor TOP I would bring disciplined queue and quality management, clear decision rules that automation can execute, and controls for reviewing automated decisions and exceptions, so efficiency gains do not become blind spots. Most of my experience is with corporate clients rather than high-volume retail crypto, a gap I would close quickly by working closely with your team leads.\n\nI work fluently in English and natively in Polish; I do not speak Russian. I would welcome a conversation.\n\nKind regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How would you plan capacity and staffing for KYC and AML queues with highly variable crypto volumes?",
+          "Which KPIs would you use to balance speed, quality and cost, and how would you stop one from distorting the others?",
+          "How would you design review of automated decisions and exceptions as AI takes over more cases?",
+          "How do you turn compliance policy into decision rules that both analysts and automation can apply?",
+          "How do you manage and develop team leads?",
+          "Tell us about a time you reduced manual volume significantly. How did you replan the team?"
+        ],
+        "toAsk": [
+          "Which regulators and licences shape TOP's compliance programme, and which country would employ me?",
+          "How far along is automation today: what share of KYC and AML decisions are already automated?",
+          "How critical is Russian for the role in practice?"
+        ]
+      }
+    },
+    {
+      "id": "codex-deputy-head-compliance-d866a01c",
+      "title": "Deputy Head of Compliance",
+      "company": "Codex",
+      "location": "Remote (flexible, no country restriction)",
+      "placement": "remote-europe",
+      "tags": [
+        "compliance-leadership",
+        "lead-plus",
+        "startup"
+      ],
+      "url": "https://jobs.ashbyhq.com/codex/d866a01c-1e86-4ae9-875d-5bf31a36f7b7",
+      "description": "Deputy to the Head of Global Compliance at a stablecoin cross-border payments startup, owning the AML/CFT, sanctions, KYB and TM framework, corridor risk assessments, Travel Rule and VASP due diligence, signing off high-risk onboardings and building a Compliance Operations team. Requires 8+ years in financial crime compliance including 5+ in B2B cross-border payments.",
+      "fit": 2,
+      "datePosted": "2026-11-13",
+      "verified": true,
+      "coverLetterDraft": "Dear Codex Hiring Team,\n\nI am applying for the Deputy Head of Compliance role, particularly its focus on building the Compliance Operations team and owning high-risk onboarding decisions.\n\nI have 8+ years in KYC, AML and financial operations. As Compliance Operations Manager at Pliant, a B2B payments fintech, I lead end-to-end KYB due diligence for corporate clients, sign off escalations, and drive AI-driven automation of our compliance workflows as part of an internal AI team. At J.P. Morgan I conducted due diligence across risk tiers, including financial-institution clients, which is directly relevant to bank-partner and VASP due diligence. At PwC I built AML risk ratings and trained analysts.\n\nFor Codex I would bring a scalable operating model: clear standards and SLAs for investigations, consistent high-risk sign-offs, and automation built in from the start rather than added later. My direct stablecoin and on-chain experience is limited, and I would invest early in Travel Rule and blockchain-analytics tooling.\n\nI work fluently in English and natively in Polish, and I would welcome a conversation.\n\nKind regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How would you assess the risk of a new payments corridor?",
+          "What due diligence would you run on a VASP or bank partner, and what would disqualify them?",
+          "How would you design transaction monitoring that covers both fiat and on-chain flows?",
+          "How would you build a Compliance Operations team from scratch in a fast-growing startup?",
+          "How do you meet the Travel Rule across jurisdictions with different implementations?",
+          "Tell us about a high-risk onboarding you declined despite commercial pressure."
+        ],
+        "toAsk": [
+          "Which licences does Codex hold or plan to apply for in the next 12 months?",
+          "How is ownership split between you and the Head of Global Compliance?",
+          "What blockchain-analytics and TM tools are in place, and what budget exists to build the ops team?"
+        ]
+      }
+    },
+    {
+      "id": "eneba-head-risk-fraud-42af22c4",
+      "title": "Head of Risk & Fraud",
+      "company": "Eneba",
+      "location": "Remote (Europe; postal country Lithuania)",
+      "placement": "remote-europe",
+      "tags": [
+        "compliance-leadership",
+        "lead-plus",
+        "startup"
+      ],
+      "url": "https://jobs.ashbyhq.com/eneba/42af22c4-c713-43fd-baee-c3483579b91b",
+      "description": "Owns fraud outcomes (chargeback, approval and false-positive rates), the fraud-reduction roadmap and build-vs-buy decisions at a gaming marketplace, leads and grows the Risk & Fraud team, and owns risk-side regulatory obligations including KYC, PSP requirements and law-enforcement requests. Requires 4+ years in fraud/risk/financial crime plus team leadership.",
+      "fit": 2,
+      "datePosted": "2026-08-12",
+      "verified": true,
+      "coverLetterDraft": "Dear Eneba Hiring Team,\n\nI am applying for the Head of Risk & Fraud role. It combines team leadership, ownership of measurable outcomes, and decisions on tooling and automation.\n\nI have 8+ years in KYC, AML and financial operations. As Compliance Operations Manager at Pliant I lead end-to-end due diligence for corporate clients, own escalations, and drive AI-driven automation of our compliance workflows as part of an internal AI team. At J.P. Morgan and PwC I worked across risk tiers on PEP, sanctions and adverse-media screening and delivered AML/KYC training. My data background spans a Bachelor's in Mathematics and analyst roles at Thomson Reuters and State Street.\n\nFor Eneba I would bring a structured approach to the trade-off between approval rates and losses, rigorous vendor evaluation, and a team culture built on clear quality standards. My experience is stronger in KYC and AML than in marketplace payment fraud, so I would lean on your existing analysts early while bringing the regulatory side (KYC, PSP obligations, law-enforcement requests) under control quickly.\n\nI work fluently in English and natively in Polish. I would welcome a conversation.\n\nKind regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How would you set targets that balance chargeback rate, approval rate and false positives?",
+          "Walk us through how you would run a build-vs-buy decision for a fraud tool.",
+          "What fraud patterns are typical for a digital-goods marketplace, and how would you detect them?",
+          "How would you structure the Risk & Fraud team as volume grows?",
+          "How do you handle law-enforcement requests and PSP compliance requirements?",
+          "Tell us about a time you had to make a high-stakes risk call quickly."
+        ],
+        "toAsk": [
+          "What are the current chargeback and approval rates, and what does good look like for you?",
+          "How does this role relate to the Financial Crime Manager position you are also hiring for?",
+          "Which fraud tools and vendors are in place today?"
+        ]
+      }
+    },
+    {
+      "id": "kraken-pm-ii-financial-crime-operations-2de58995",
+      "title": "Product Manager II – Financial Crime Operations",
+      "company": "Kraken (Payward)",
+      "location": "Remote (Poland, Spain, Portugal, Ireland, Lithuania, Czech Republic and other EU countries; not Germany)",
+      "placement": "remote-europe",
+      "tags": [
+        "ai-automation",
+        "senior-specialist",
+        "corporate"
+      ],
+      "url": "https://jobs.ashbyhq.com/kraken.com/2de58995-21d7-4281-820d-90e75388baf4",
+      "description": "Owns the roadmap for the investigation platform used by Kraken's FIU, investigations and EDD teams (alert creation, enrichment and suppression, case management, audit evidencing) and ships automation and AI into regulated workflows with human-in-the-loop controls. Requires 4+ years in product management including 2+ on fincrime systems.",
+      "fit": 2,
+      "datePosted": "2026-09-30",
+      "verified": true,
+      "coverLetterDraft": "Dear Kraken Hiring Team,\n\nI am applying for the Product Manager II – Financial Crime Operations role. I have spent the last few years on the user side of exactly this kind of platform, and increasingly on building automation for it.\n\nI have 8+ years in KYC, AML and financial operations. As Compliance Operations Manager at Pliant I lead end-to-end due diligence and, as part of an internal AI team, drive AI-driven automation of compliance workflows: defining requirements, working with engineers, and checking that automated outputs hold up to review. At Moonfare I helped shape automation improvements with cross-functional stakeholders. At J.P. Morgan and PwC I worked EDD and AML cases where case-management tooling made a real difference to quality and audit trails.\n\nI would bring a deep understanding of how investigators work, what examiners expect from audit evidence, and where human judgement must stay in the loop. I do not have a formal product-management title, so I would make up for that with domain depth and hands-on delivery experience.\n\nI work fluently in English and natively in Polish, and would welcome a conversation.\n\nKind regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How would you prioritise a roadmap between alert suppression, enrichment and case-management improvements?",
+          "How do you design human-in-the-loop controls for AI in an investigation workflow?",
+          "What do examiners look for in audit evidencing for AML investigations?",
+          "Describe an automation you shipped: problem, requirements, rollout and impact.",
+          "How do you measure whether a fincrime platform change actually improved outcomes?",
+          "How would you handle conflicting requests from FIU, EDD and investigations teams?"
+        ],
+        "toAsk": [
+          "Is the platform built in-house, vendor-based or both?",
+          "Which AI capabilities are already live, and how are they governed?",
+          "Would the team consider a candidate with deep fincrime operations and automation experience but no formal PM title?"
+        ]
+      }
     }
   ]
 }
