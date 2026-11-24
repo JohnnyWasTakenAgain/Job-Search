@@ -6231,6 +6231,203 @@
           "Would the team consider a candidate with deep fincrime operations and automation experience but no formal PM title?"
         ]
       }
+    },
+    {
+      "id": "raisin-afc-advisory-manager-4949391101",
+      "title": "AFC Advisory Manager (f/m/d)",
+      "company": "Raisin",
+      "location": "Berlin, Germany (also Frankfurt, Hamburg, Munich) – hybrid",
+      "placement": "berlin-based",
+      "tags": [
+        "senior-specialist",
+        "startup"
+      ],
+      "url": "https://job-boards.eu.greenhouse.io/raisin/jobs/4949391101",
+      "description": "Sits in Raisin's AFC Advisory team (framework governance and regulatory development): plans and runs AFC projects for the bank and its clients, executes and monitors AFC controls, and oversees outsourcing governance, policies and AFC training.",
+      "fit": 2,
+      "datePosted": "2026-11-06",
+      "verified": true,
+      "coverLetterDraft": "Dear Raisin Hiring Team,\n\nI am applying for the AFC Advisory Manager role. I have spent 8+ years in KYC, AML and financial operations. My recent work has moved from running cases to designing the framework around them, which is the focus of this team.\n\nAs Compliance Operations Manager at Pliant I lead end-to-end KYC due diligence for corporate clients, and as part of an internal AI team I drive automation of compliance workflows. In practice that means turning policy into controls that can be executed, evidenced and tested. At Moonfare I co-led the ongoing due-diligence review project with cross-functional stakeholders. At PwC I built AML risk ratings and delivered internal AML/KYC training. At J.P. Morgan I worked due diligence across Corporate, Financial Institution and listed-company risk tiers.\n\nThat mix of project delivery, control design and training fits the project, control-execution and awareness parts of this role. My Polish is native, my English fluent and my German B1 and improving.\n\nI would welcome a conversation.\n\nKind regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How would you plan and document an AFC project, such as a new product launch, from the AFC side?",
+          "How do you design an AFC control so that it can be executed, evidenced and tested?",
+          "What should outsourcing governance look like when KYC or transaction-monitoring tasks are outsourced under German rules (GwG/BaFin)?",
+          "How would you build an AFC training programme that actually changes behaviour?",
+          "Tell us about a time you had to push back on a business stakeholder over a financial-crime risk.",
+          "Which upcoming EU AML package (AMLR/AMLA) changes will matter most for a deposit platform like Raisin?"
+        ],
+        "toAsk": [
+          "How is work split between AFC Advisory and AFC Operations, and where do the handoffs happen?",
+          "Which client-facing AFC projects (with partner banks) is the team running over the next year?",
+          "How far along is Raisin in automating control testing and monitoring of outsourced AFC services?"
+        ]
+      }
+    },
+    {
+      "id": "soprasteria-manager-afc-models-analytics-transformation-744000162099412",
+      "title": "Manager Anti-Financial Crime - Models, Analytics & Transformation (m/w/d)",
+      "company": "Sopra Steria",
+      "location": "Germany-wide (Berlin office listed) – hybrid",
+      "placement": "berlin-based",
+      "tags": [
+        "ai-automation",
+        "lead-plus",
+        "corporate"
+      ],
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000162099412",
+      "description": "Consulting manager role advising financial institutions on their AFC functions. Leads transformation, optimisation and remediation projects with interdisciplinary teams, and designs and tunes AFC models (scenarios, rules, indicator models, risk scoring), with a focus on data and AI.",
+      "fit": 2,
+      "datePosted": "2026-11-17",
+      "verified": true,
+      "coverLetterDraft": "Dear Sopra Steria Team,\n\nI am applying for the Manager Anti-Financial Crime – Models, Analytics & Transformation role. I bring 8+ years of hands-on KYC/AML work at banks, fintechs and a Big Four firm, plus recent experience automating compliance workflows with AI.\n\nAs Compliance Operations Manager at Pliant I lead corporate KYC due diligence and, inside an internal AI team, design and roll out AI-driven automation of compliance processes. At PwC I built AML risk ratings for individuals and legal entities and spent six months on-site with a client in the Netherlands, which is close to the consulting delivery model here. At J.P. Morgan I worked due diligence across several risk tiers, and earlier at Refinitiv and State Street I worked with data quality and reconciliations.\n\nMy degree in Mathematics and Master's in Finance give me a solid base for working on scenarios, rules and risk-scoring models with data teams. I am fluent in English, native in Polish and at B1 (progressing) in German.\n\nI would be glad to discuss how I could support your AFC transformation clients.\n\nKind regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How would you approach tuning a bank's transaction-monitoring scenarios to cut false positives without losing coverage?",
+          "How would you build and validate a customer risk-scoring model, and how would you explain it to a regulator?",
+          "Where can AI realistically add value in AFC operations today, and what governance would it need?",
+          "Walk us through a remediation project you contributed to: scope, team, challenges and outcome.",
+          "How do you manage a client stakeholder who resists findings that their AFC framework is weak?",
+          "How would you contribute to business development for AFC services?"
+        ],
+        "toAsk": [
+          "Which client segments (banks, payment institutions, crypto) make up most of the AFC Models & Analytics work right now?",
+          "How does the team work with Sopra Steria's AFC managed-services hub and with technology partners on AI tooling?",
+          "What does career progression from Manager to Senior Manager look like, especially the expected share of sales work?"
+        ]
+      }
+    },
+    {
+      "id": "helaba-audit-manager-aml-compliance-2026-115",
+      "title": "Audit Manager AML & Compliance (w/m/d) - (2026/115)",
+      "company": "Landesbank Hessen-Thüringen (Helaba)",
+      "location": "Berlin, Germany (per eFinancialCareers listing)",
+      "placement": "berlin-based",
+      "tags": [
+        "qa",
+        "senior-specialist",
+        "corporate"
+      ],
+      "url": "https://www.efinancialcareers.com/jobs-Germany-Mitte-Audit_Manager_AML__Compliance_wmd_-_2026115.id25020300",
+      "description": "Internal-audit lead for large, complex audits of AML, terrorist financing, fraud, capital-markets and MaRisk compliance, in Germany and at foreign branches including New York. Also helps develop the audit function through data analytics, digitalisation and AI, and acts as a multiplier for less experienced colleagues.",
+      "fit": 2,
+      "datePosted": "2026-11-21",
+      "verified": false,
+      "coverLetterDraft": "Dear Helaba Internal Audit Team,\n\nI am applying for the Audit Manager AML & Compliance role (2026/115). I have reviewed AML and KYC work from the inside for 8+ years. Assessing whether controls actually work, and evidencing that, is what I enjoy most.\n\nAt Pliant I lead end-to-end KYC due diligence for corporate clients under the four-eyes principle, and I drive AI-driven automation of compliance workflows. That is directly relevant to your aim of building data analytics, digitalisation and AI into audit. At Moonfare I co-led the ongoing due-diligence review project. At J.P. Morgan I covered Corporate and Financial Institution clients across risk tiers, and at PwC I built AML risk ratings and trained colleagues.\n\nI understand where CDD, transaction monitoring and escalation processes tend to break down, and how to test them. I am fluent in English, native in Polish, and my German is B1, progressing to B2.\n\nI would welcome a conversation.\n\nKind regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How would you scope a risk-based audit of a bank's CDD and transaction-monitoring framework?",
+          "Which data analytics would you use to test KYC file quality or alert handling across a full population?",
+          "How would you audit the AML controls of a foreign branch such as New York against both local and German requirements?",
+          "How do you write findings that are accepted by the business and drive real remediation?",
+          "Tell us about a time you found a significant control weakness. How did you evidence and escalate it?",
+          "How could AI support continuous risk assessment in internal audit, and what are its limits?"
+        ],
+        "toAsk": [
+          "How is the audit plan responding to BaFin's recent findings on Helaba's AML framework?",
+          "Which data-analytics and AI tools does Internal Audit already use, and where should this role push further?",
+          "How much travel to the foreign branches does the role involve, and how fluent does my German need to be on day one?"
+        ]
+      }
+    },
+    {
+      "id": "helaba-director-compliance-kyc-international-markets-24991851",
+      "title": "Director Compliance & KYC International Markets (m/w/d)",
+      "company": "Landesbank Hessen-Thüringen (Helaba)",
+      "location": "Berlin, Germany (per eFinancialCareers listing; posting also refers to the Frankfurt team)",
+      "placement": "berlin-based",
+      "tags": [
+        "compliance-leadership",
+        "lead-plus",
+        "corporate"
+      ],
+      "url": "https://www.efinancialcareers.com/jobs-Germany-Mitte-Director_Compliance__KYC_International_Markets_mwd.id24991851",
+      "description": "New first-line role as the central contact for KYC, compliance and regulatory questions with international correspondent banks: handles KYC requests, leads respondent calls, advises relationship managers, and drives standardisation and digitalisation of KYC processes.",
+      "fit": 2,
+      "datePosted": "2026-11-12",
+      "verified": false,
+      "coverLetterDraft": "Dear Helaba Hiring Team,\n\nI am applying for the Director Compliance & KYC International Markets role. Correspondent-banking KYC, along with making KYC processes more standardised and digital, is where my experience is strongest.\n\nAt J.P. Morgan I conducted due diligence on Financial Institution, Corporate and listed-company clients across risk tiers for a global portfolio. At PwC I built KYC profiles and AML risk ratings for legal entities and delivered AML/KYC training. At Moonfare I guided institutional clients through KYC/AML documentation. Today, as Compliance Operations Manager at Pliant, I lead end-to-end KYC due diligence and drive AI-driven automation of compliance workflows. That fits your goal of developing and digitalising the KYC process in the first line.\n\nI am comfortable handling respondent conversations, advising relationship managers and turning new regulatory requirements into practical process changes. I am fluent in English, native in Polish, and at B1 (progressing to B2) in German.\n\nI would welcome the chance to discuss the role.\n\nKind regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How do you run a respondent due-diligence call with a correspondent bank in a higher-risk jurisdiction?",
+          "What are the key elements of a correspondent-banking KYC file under the GwG and Wolfsberg standards?",
+          "How would you standardise and digitalise KYC request handling across international representative offices?",
+          "How do you advise a relationship manager who wants to onboard a respondent quickly despite open KYC issues?",
+          "Describe a time you implemented a new regulatory requirement in a first-line process.",
+          "How do you divide responsibilities between the first line and the Compliance function in practice?"
+        ],
+        "toAsk": [
+          "Is the role based in Berlin, Frankfurt or both, and how much travel to the representative offices is expected?",
+          "Which KYC tools or platforms are in place for correspondent banks, and what digitalisation is planned?",
+          "How does this new role fit with the ongoing restructuring of Helaba's Compliance division?"
+        ]
+      }
+    },
+    {
+      "id": "genoverband-teamlead-compliance-gwg-25023131",
+      "title": "Teamlead Compliance (m/w/d) mit Fokus GwG",
+      "company": "Genossenschaftsverband – Verband der Regionen e.V.",
+      "location": "Berlin, Germany (per eFinancialCareers listing; posting says Germany-wide)",
+      "placement": "berlin-based",
+      "tags": [
+        "compliance-leadership",
+        "lead-plus",
+        "corporate"
+      ],
+      "url": "https://www.efinancialcareers.com/jobs-Germany-Mitte-Teamlead_Compliance_mwd_mit_Fokus_GwG.id25023131",
+      "description": "Team lead in the compliance department of the cooperative-banking association, with full professional and disciplinary leadership of specialists. Develops AML/GwG advisory and audit services for member banks, conducts its own money-laundering audits, and runs training.",
+      "fit": 2,
+      "datePosted": "2026-11-22",
+      "verified": false,
+      "coverLetterDraft": "Dear Genoverband Team,\n\nI am applying for the Teamlead Compliance role with a GwG focus. The role combines hands-on AML reviews with leading and developing specialists, which matches where I want to take my career.\n\nI have 8+ years in KYC, AML and financial operations. At PwC I built AML risk ratings for individuals and legal entities, delivered internal AML/KYC training and worked six months on-site at a client, so I know advisory delivery from the inside. At J.P. Morgan I conducted due diligence across multiple risk tiers. At Moonfare I co-led the ongoing due-diligence review project. As Compliance Operations Manager at Pliant I now lead end-to-end KYC due diligence and drive AI-driven automation of compliance workflows.\n\nI would bring that mix to your member banks: practical GwG reviews, a review mindset built on the four-eyes principle, and ideas for more efficient, partly automated audit approaches. My German is B1 and progressing to B2, alongside fluent English and native Polish.\n\nI would welcome a conversation.\n\nKind regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How would you structure a GwG audit at a cooperative bank, and which areas would you test first?",
+          "How would you lead and develop a team of compliance specialists with different seniority levels?",
+          "What new advisory products could the association offer member banks ahead of the EU AMLR applying in 2027?",
+          "How do you keep audit quality consistent across a team? How do you calibrate findings?",
+          "Tell us about a time you turned a new regulatory requirement into a practical solution for a client.",
+          "How comfortable are you running audits and client meetings in German?"
+        ],
+        "toAsk": [
+          "How large is the team, and how is time split between leadership, audits and business development?",
+          "Which locations do team members work from, and how often would Berlin-based work involve travel to member banks?",
+          "How far along is the department in using data analytics or automation in its GwG audits?"
+        ]
+      }
+    },
+    {
+      "id": "linklaters-team-leader-regulatory-compliance-warsaw-24838506",
+      "title": "Team Leader, Regulatory Compliance",
+      "company": "Linklaters LLP",
+      "location": "Warsaw, Poland – hybrid (2–3 office days/week)",
+      "placement": "poland",
+      "tags": [
+        "compliance-leadership",
+        "lead-plus",
+        "corporate"
+      ],
+      "url": "https://www.efinancialcareers.com/jobs-Poland-Warsaw-Team_Leader_Regulatory_Compliance.id24838506",
+      "description": "People, process and workload manager for the Warsaw Regulatory Compliance and Contentious Risk teams in Linklaters' global Legal & Risk function. Leads and coaches the team, allocates work and oversees quality, and gradually takes on operational regulatory-compliance advisory work.",
+      "fit": 1,
+      "datePosted": "2026-10-28",
+      "verified": false,
+      "coverLetterDraft": "Dear Linklaters Legal & Risk Team,\n\nI am applying for the Team Leader, Regulatory Compliance role in Warsaw. The role centres on running a team well: allocating and prioritising work, keeping quality high and developing people. That is the direction I want to take my compliance career.\n\nI have 8+ years in KYC, AML and financial operations. As Compliance Operations Manager at Pliant I run end-to-end due diligence, manage escalations and drive AI-driven automation of compliance workflows. At Moonfare I co-led an ongoing due-diligence review project across stakeholders. At PwC I delivered internal AML/KYC training. At J.P. Morgan I worked to strict quality standards across a global client portfolio.\n\nI am used to four-eyes review, clear escalation paths and turning regulatory obligations into workable processes. All of that carries over to a professional-services risk team, even though my background is financial services rather than a law firm. I am native in Polish and fluent in English.\n\nI would welcome a conversation.\n\nKind regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How would you allocate and prioritise work across two operational teams with different risk profiles?",
+          "How do you keep output quality high and consistent within a team? Do you use quality checks or calibration?",
+          "Describe a time you coached a struggling team member to improve.",
+          "Which regulatory obligations do you see as most relevant to a global law firm's risk function?",
+          "How would you build relationships with the global Regulatory Compliance and Contentious Risk teams from Warsaw?",
+          "Tell us about a process improvement you introduced and how you measured its impact."
+        ],
+        "toAsk": [
+          "How big is the Warsaw team today, and how is it expected to grow?",
+          "Which operational regulatory-compliance matters would move to this role first, and over what timeframe?",
+          "How closely does this team work with the Warsaw KYC/AML business-acceptance team?"
+        ]
+      }
     }
   ]
 }
