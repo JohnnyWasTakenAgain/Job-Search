@@ -6428,6 +6428,104 @@
           "How closely does this team work with the Warsaw KYC/AML business-acceptance team?"
         ]
       }
+    },
+    {
+      "id": "finom-cdd-risk-controls-officer-poland-5035890101",
+      "title": "CDD Risk and Controls Officer (CDD Subject Matter Expert, 2LoD)",
+      "company": "Finom",
+      "location": "Poland – hybrid/remote within Europe",
+      "placement": "poland",
+      "tags": [
+        "ai-automation",
+        "senior-specialist",
+        "startup"
+      ],
+      "url": "https://job-boards.eu.greenhouse.io/finom/jobs/5035890101",
+      "description": "Second-line CDD subject-matter expert for Finom Payments' SME onboarding: finds where CDD controls are bypassed, turns anomalies into FinCrime scenarios and detection logic, and tests and measures new onboarding controls against decline, fraud and early-closure rates. Requires 3+ years in 2LoD with a CDD focus; SQL, Power BI/Metabase and practical AI use are pluses.",
+      "fit": 3,
+      "datePosted": "2026-11-24",
+      "verified": true,
+      "coverLetterDraft": "Dear Finom Hiring Team,\n\nI am applying for the CDD Risk and Controls Officer role. You want someone who finds where onboarding controls leak, turns that into detection logic, and proves the fix works. That is the work I want to do.\n\nI have 8+ years in KYC, AML and financial operations. As Compliance Operations Manager at Pliant I run end-to-end due diligence for corporate clients, including SMEs, and work in our internal AI team automating compliance workflows. At Moonfare I co-led an ongoing due-diligence review and shaped automation changes with product and engineering. At J.P. Morgan and PwC I assessed ownership structures and AML risk across corporate and financial-institution clients.\n\nI work from data: Excel, SQL fundamentals and AI tools for pattern-finding and case research. I am comfortable explaining findings to Product and Engineering in plain language. I share your view that compliance should weigh risk against customer impact rather than default to no.\n\nI would welcome the chance to discuss how I could strengthen your CDD Risk Engine.\n\nKind regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "Walk us through how you would detect that a CDD control at onboarding is being systematically bypassed.",
+          "Which SME money-laundering and fraud typologies (mule accounts, shell companies, UBO obfuscation) worry you most for a neobank, and how would you detect each?",
+          "How would you measure whether a new onboarding control improved the decline rate without adding too much customer friction?",
+          "Describe a time you turned a case finding into a rule, threshold or process change. What was the result?",
+          "How have you used AI tools in investigation or analysis, and how do you keep human judgement in the loop?",
+          "Tell us about a time you pushed back on a 'compliance says no' outcome and proposed an alternative."
+        ],
+        "toAsk": [
+          "What does the FinCrime Scenarios Library look like today, and how many scenarios are actually wired into the CDD Risk Engine?",
+          "How are ownership and decisions split between this role and the CDD Risk Manager when a control change hurts conversion?",
+          "What data and tooling (Databricks, Metabase) will I be able to query myself from day one?"
+        ]
+      }
+    },
+    {
+      "id": "zalando-senior-kyc-analyst-partner-platform-2723592",
+      "title": "Senior KYC Analyst - Partner Platform (all genders)",
+      "company": "Zalando",
+      "location": "Berlin, Germany",
+      "placement": "berlin-based",
+      "tags": [
+        "senior-specialist",
+        "corporate"
+      ],
+      "url": "https://jobs.zalando.com/en/jobs/2723592",
+      "description": "Senior KYC role in Zalando's Legal, Compliance & Governance function covering Partner Platform merchants: partner data collection and communication, review of submitted information, negative-list screening, approvals and AML-policy risk escalation, with a reported quality-control focus.",
+      "fit": 2,
+      "datePosted": "2026-11-25",
+      "verified": false,
+      "coverLetterDraft": "Dear Zalando Compliance Team,\n\nI am applying for the Senior KYC Analyst - Partner Platform role in Berlin. Onboarding and reviewing business partners against an AML policy is the core of my experience.\n\nI have 8+ years in KYC, AML and financial operations. As Compliance Operations Manager at Pliant I lead end-to-end due diligence for corporate clients and help automate compliance workflows as part of an internal AI team. At J.P. Morgan I ran due diligence across risk tiers for corporate, financial-institution and listed clients. At PwC I built KYC profiles and AML risk ratings for legal entities and delivered internal training.\n\nI know screening, PEP and adverse-media checks, EDD and clear escalation well, and I apply the four-eyes principle to my own work and others'. I also look for ways to make partner reviews faster and more consistent. That matters on a platform onboarding many merchants.\n\nI am fluent in English and my German is at B1 and improving. I would welcome a conversation.\n\nKind regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How would you assess a new Partner Platform merchant with a complex cross-border ownership structure?",
+          "What red flags in partner documentation would make you escalate rather than approve?",
+          "How do you handle a partner who is slow or unwilling to provide KYC documents while the business wants to go live?",
+          "How do you approach quality control of other analysts' KYC files?",
+          "Describe a process improvement or automation you introduced in a KYC workflow.",
+          "How does merchant/partner KYC on a marketplace differ from bank customer KYC?"
+        ],
+        "toAsk": [
+          "How many partners does the team review each month, and how much of the review is automated today?",
+          "How does the Partner Platform KYC team work with Zalando Payments' second line?",
+          "What does 'senior' mean in this team: quality review, training, process ownership?"
+        ]
+      }
+    },
+    {
+      "id": "zalando-senior-deputy-mlro-2718185",
+      "title": "Senior Deputy Money Laundering Officer (stellvertretende(r) Geldwäschebeauftragte(r))",
+      "company": "Zalando (Zalando Payments GmbH)",
+      "location": "Berlin, Germany",
+      "placement": "berlin-based",
+      "tags": [
+        "compliance-leadership",
+        "lead-plus",
+        "corporate"
+      ],
+      "url": "https://jobs.zalando.com/en/jobs/2718185",
+      "description": "Deputy MLRO for Zalando Payments GmbH, a BaFin-regulated payment entity, in the Legal, Compliance & Governance function in Berlin. Supports and deputises for the Money Laundering Reporting Officer across the AML/CTF framework.",
+      "fit": 1,
+      "datePosted": "2026-11-25",
+      "verified": false,
+      "coverLetterDraft": "Dear Zalando Payments Compliance Team,\n\nI am applying for the Senior Deputy Money Laundering Officer role at Zalando Payments GmbH. I want to move from running AML operations into owning part of the AML framework of a regulated payments entity.\n\nI have 8+ years in KYC, AML and financial operations. As Compliance Operations Manager at Pliant, a regulated B2B payments company, I lead end-to-end corporate due diligence, handle regulatory escalations and drive AI-driven automation of compliance workflows. Earlier roles at Moonfare, J.P. Morgan and PwC gave me hands-on EDD, AML risk-rating and training experience across banks and fintechs.\n\nI know the operational side of an AML programme well: risk assessment, screening, four-eyes review and escalation. I also know how to make controls efficient through automation without weakening them. I would bring that to supporting the MLRO day to day.\n\nI am fluent in English and my German is at B1, progressing to B2. I would welcome a conversation.\n\nKind regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "What are a Deputy MLRO's main obligations under the German GwG, and how do they differ from the MLRO's?",
+          "What AML/CTF risks are specific to a payment institution embedded in an e-commerce platform?",
+          "How would you approach an SAR decision when the business disagrees with escalation?",
+          "How would you assess whether the business-wide AML risk analysis (Risikoanalyse) is up to date?",
+          "How have you used automation or AI to improve AML control efficiency, and how did you validate it?",
+          "How comfortable are you dealing with BaFin and the FIU in German?"
+        ],
+        "toAsk": [
+          "How are responsibilities split between the MLRO and the Deputy day to day?",
+          "What are the main open regulatory or audit findings the AML function is working on?",
+          "Is there a team reporting into this role, and how is AML operations organised (in-house vs outsourced)?"
+        ]
+      }
     }
   ]
 }
