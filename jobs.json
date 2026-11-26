@@ -6312,7 +6312,7 @@
       "description": "Internal-audit lead for large, complex audits of AML, terrorist financing, fraud, capital-markets and MaRisk compliance, in Germany and at foreign branches including New York. Also helps develop the audit function through data analytics, digitalisation and AI, and acts as a multiplier for less experienced colleagues.",
       "fit": 2,
       "datePosted": "2026-11-21",
-      "verified": false,
+      "verified": true,
       "coverLetterDraft": "Dear Helaba Internal Audit Team,\n\nI am applying for the Audit Manager AML & Compliance role (2026/115). I have reviewed AML and KYC work from the inside for 8+ years. Assessing whether controls actually work, and evidencing that, is what I enjoy most.\n\nAt Pliant I lead end-to-end KYC due diligence for corporate clients under the four-eyes principle, and I drive AI-driven automation of compliance workflows. That is directly relevant to your aim of building data analytics, digitalisation and AI into audit. At Moonfare I co-led the ongoing due-diligence review project. At J.P. Morgan I covered Corporate and Financial Institution clients across risk tiers, and at PwC I built AML risk ratings and trained colleagues.\n\nI understand where CDD, transaction monitoring and escalation processes tend to break down, and how to test them. I am fluent in English, native in Polish, and my German is B1, progressing to B2.\n\nI would welcome a conversation.\n\nKind regards,\n[Your Name]",
       "interviewPrep": {
         "expected": [
@@ -6378,7 +6378,7 @@
       "description": "Team lead in the compliance department of the cooperative-banking association, with full professional and disciplinary leadership of specialists. Develops AML/GwG advisory and audit services for member banks, conducts its own money-laundering audits, and runs training.",
       "fit": 2,
       "datePosted": "2026-11-22",
-      "verified": false,
+      "verified": true,
       "coverLetterDraft": "Dear Genoverband Team,\n\nI am applying for the Teamlead Compliance role with a GwG focus. The role combines hands-on AML reviews with leading and developing specialists, which matches where I want to take my career.\n\nI have 8+ years in KYC, AML and financial operations. At PwC I built AML risk ratings for individuals and legal entities, delivered internal AML/KYC training and worked six months on-site at a client, so I know advisory delivery from the inside. At J.P. Morgan I conducted due diligence across multiple risk tiers. At Moonfare I co-led the ongoing due-diligence review project. As Compliance Operations Manager at Pliant I now lead end-to-end KYC due diligence and drive AI-driven automation of compliance workflows.\n\nI would bring that mix to your member banks: practical GwG reviews, a review mindset built on the four-eyes principle, and ideas for more efficient, partly automated audit approaches. My German is B1 and progressing to B2, alongside fluent English and native Polish.\n\nI would welcome a conversation.\n\nKind regards,\n[Your Name]",
       "interviewPrep": {
         "expected": [
@@ -6411,7 +6411,7 @@
       "description": "People, process and workload manager for the Warsaw Regulatory Compliance and Contentious Risk teams in Linklaters' global Legal & Risk function. Leads and coaches the team, allocates work and oversees quality, and gradually takes on operational regulatory-compliance advisory work.",
       "fit": 1,
       "datePosted": "2026-10-28",
-      "verified": false,
+      "verified": true,
       "coverLetterDraft": "Dear Linklaters Legal & Risk Team,\n\nI am applying for the Team Leader, Regulatory Compliance role in Warsaw. The role centres on running a team well: allocating and prioritising work, keeping quality high and developing people. That is the direction I want to take my compliance career.\n\nI have 8+ years in KYC, AML and financial operations. As Compliance Operations Manager at Pliant I run end-to-end due diligence, manage escalations and drive AI-driven automation of compliance workflows. At Moonfare I co-led an ongoing due-diligence review project across stakeholders. At PwC I delivered internal AML/KYC training. At J.P. Morgan I worked to strict quality standards across a global client portfolio.\n\nI am used to four-eyes review, clear escalation paths and turning regulatory obligations into workable processes. All of that carries over to a professional-services risk team, even though my background is financial services rather than a law firm. I am native in Polish and fluent in English.\n\nI would welcome a conversation.\n\nKind regards,\n[Your Name]",
       "interviewPrep": {
         "expected": [
@@ -6524,6 +6524,39 @@
           "How are responsibilities split between the MLRO and the Deputy day to day?",
           "What are the main open regulatory or audit findings the AML function is working on?",
           "Is there a team reporting into this role, and how is AML operations organised (in-house vs outsourced)?"
+        ]
+      }
+    },
+    {
+      "id": "payu-fincrime-monitoring-manager-2d25e36e",
+      "title": "FinCrime Monitoring Manager",
+      "company": "PayU GPO",
+      "location": "Warsaw or Poznań, Poland (hybrid, 2 office days/week)",
+      "url": "https://jobs.lever.co/payugpo/2d25e36e-c698-48a4-a6cb-dd04549de4b8",
+      "description": "People-manager role leading PayU's merchant financial-crime monitoring team (scams, ML, concealed activity), calibrating monitoring rules and explicitly driving AI/automation to cut manual work. Requires 4+ yrs FinCrime/merchant risk and 2+ yrs people management. Note: content closely resembles PayU's earlier 'Merchant Monitoring Manager' listing; this appears to be a re-titled repost.",
+      "tags": [
+        "compliance-leadership",
+        "ai-automation",
+        "lead-plus"
+      ],
+      "placement": "poland",
+      "fit": 3,
+      "datePosted": "2026-11-25",
+      "verified": true,
+      "coverLetterDraft": "Dear PayU Hiring Team,\n\nYour FinCrime Monitoring Manager posting asks for two things I do together every day: leading financial-crime operations and putting AI and automation into them.\n\nAs Compliance Operations Manager at Pliant, I lead end-to-end KYC due diligence for corporate clients and, as part of the internal AI team, automate compliance workflows to remove manual review steps. Before that, I co-led Moonfare's ongoing due-diligence review project and helped shape automation improvements with cross-functional stakeholders. At J.P. Morgan and PwC, I handled multi-tier due diligence and AML risk ratings and delivered internal AML/KYC training.\n\nMy mathematics and data-analysis background (Advanced Excel, SQL, plus data work at Refinitiv and State Street) suits the rule-calibration side of this role: measuring alert effectiveness, finding control gaps and building feedback loops. I'm a native Polish speaker, fluent in English, and comfortable working across EMEA teams.\n\nI'd welcome the chance to discuss how I could strengthen PayU's merchant monitoring.\n\nKind regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How would you detect and tier merchant-level typologies such as non-delivery scams, transaction laundering or fraudulent websites in an acquiring/PSP portfolio?",
+          "Walk us through how you would calibrate and validate a monitoring rule. Which metrics tell you it is working?",
+          "Give a concrete example of a process you automated or improved with AI. What was the measurable benefit?",
+          "How do you balance team workload and SLAs against quality when alert volumes spike?",
+          "Tell us about a difficult performance conversation you had with a team member and how it ended.",
+          "How would you map the current merchant-monitoring workflow in your first 90 days and choose the first automation targets?"
+        ],
+        "toAsk": [
+          "What share of merchant alerts is reviewed manually today, and which AI or automation tools are already approved for the team?",
+          "How is the team split between Warsaw and Poznań, and how big is it now compared with the planned size?",
+          "How does merchant monitoring hand off to onboarding/KYB and the 2nd line when a rule needs re-calibrating?"
         ]
       }
     }
