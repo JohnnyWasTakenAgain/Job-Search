@@ -6559,6 +6559,39 @@
           "How does merchant monitoring hand off to onboarding/KYB and the 2nd line when a rule needs re-calibrating?"
         ]
       }
+    },
+    {
+      "id": "statestreet-fcc-officer-mt-qa-R-801574",
+      "title": "Financial Crimes Compliance, Officer (FCC Monitoring & Testing / Quality Assurance)",
+      "company": "State Street",
+      "location": "Gdańsk or Kraków, Poland (hybrid, min. 3 office days/week)",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Gdansk-Poland/Financial-Crimes-Compliance--Officer_R-801574",
+      "description": "Second-line FCC Monitoring & Testing and Quality Assurance role for State Street Bank International (SSBI): QA reviews of KYC files, periodic reviews, EDD, sanctions dispositions and TM investigations, plus end-to-end control testing, findings and remediation validation supporting the German MLRO. Minimum salary PLN 132k/yr; German is an advantage.",
+      "tags": [
+        "qa",
+        "senior-specialist",
+        "corporate"
+      ],
+      "placement": "poland",
+      "fit": 3,
+      "datePosted": "2026-11-26",
+      "verified": true,
+      "coverLetterDraft": "Dear State Street Hiring Team,\n\nYour FCC Monitoring & Testing and QA role centres on judging the quality of KYC, EDD and sanctions work. That is the work I have done for eight years, first producing these files and then reviewing others'.\n\nAs Compliance Operations Manager at Pliant, I lead end-to-end corporate KYC due diligence under the four-eyes principle and escalate regulatory issues. At Moonfare, I co-led the ongoing due-diligence review project, which meant assessing file quality across a portfolio and fixing systemic gaps rather than one-off errors. At J.P. Morgan, I performed due diligence across Corporate, FI and listed-company risk tiers. At PwC, I built AML risk ratings and trained colleagues on AML/KYC standards.\n\nMy mathematics and data-analysis background (Advanced Excel, SQL) supports the parts of testing you describe: validating populations, risk-based sampling and evidence-based conclusions. I am also building AI-driven automation of compliance workflows, which could make QA sampling and tracking more efficient. I am a native Polish speaker, fluent in English, and my German (B1, moving to B2) helps with SSBI's German regulatory context.\n\nI would welcome a conversation.\n\nKind regards,\n[Your Name]",
+      "interviewPrep": {
+        "expected": [
+          "How would you design a risk-based sample for a QA review of periodic KYC reviews, and how would you document population completeness and sample rationale?",
+          "Walk us through how you distinguish an isolated case error from a systemic control weakness, and how that changes the rating of a finding.",
+          "What evidence would you need before recommending closure of a remediation action, beyond an updated procedure?",
+          "Which German or EU AML requirements (GwG, AMLD, AMLA) would you translate into testing criteria for CDD and transaction monitoring controls?",
+          "Tell us about a time you challenged a control owner or senior stakeholder on a finding they disagreed with. How did you handle it?",
+          "How have you used data analysis or automation to make review or testing work more efficient?"
+        ],
+        "toAsk": [
+          "How is the annual risk-based Testing & QA Plan split between thematic control testing and case-level QA, and which areas are currently highest priority for SSBI?",
+          "How does the Gdańsk/Kraków team work with the German MLRO and local MLROs in Luxembourg and other entities day to day?",
+          "Is there appetite to use analytics or AI tooling for sampling, workpaper preparation or findings tracking, and who owns that?"
+        ]
+      }
     }
   ]
 }
